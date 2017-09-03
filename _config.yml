@@ -58,11 +58,11 @@ safe: false
 lsi: false
 username: alvarmaciel
 repo: acercadelaeducacion.github.com
-branch: source
+branch: master
 relative_source: ../
-destination: ../acercadelaeducacion/
-production_url:  https://acercadelaeducacion.github.io/
-source_url:      https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
+destination: ../acercadelaeducacion-pages/
+production_url: https://acercadelaeducacion.github.io/
+source_url: https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
 
 exclude:
   - README.md

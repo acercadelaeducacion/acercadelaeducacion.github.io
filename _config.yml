@@ -57,7 +57,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: alvarmaciel
-repo: acercadelaeducacion.github.com
+repo: alvarmaciel.github.com
 branch: master
 relative_source: ../
 destination: ../jasper-pages/

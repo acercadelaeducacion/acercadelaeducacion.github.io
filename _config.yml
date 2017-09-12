@@ -60,7 +60,7 @@ username: acercadelaeducacion
 repo: acercadelaeducacion.github.io
 branch: source
 relative_source: ../
-destination: ../jasper-pages/
+destination: ../adle/
 production_url: https://acercadelaeducacion.github.io/
 source_url: https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
 

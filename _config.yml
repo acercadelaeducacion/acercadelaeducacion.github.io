@@ -59,9 +59,9 @@ lsi: false
 username: acercadelaeducacion
 repo: acercadelaeducacion.github.io
 branch: source
-target_branch: master
+#target_branch: master
 relative_source: ../
-destination: ../jasper-pages/
+destination: ../
 production_url: https://acercadelaeducacion.github.io/
 source_url: https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
 

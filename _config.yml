@@ -58,7 +58,7 @@ safe: false
 lsi: false
 username: acercadelaeducacion
 repo: acercadelaeducacion
-branch: source
+branch: master
 #target_branch: master
 relative_source: ../
 destination: ../

@@ -5,7 +5,7 @@ rvm:
 - 2.1.1
 install:
 - bundle install
-script: bundle exec rake site:deploy --quiet
+script: bundle exec rake site:build --quiet
 env:
   global:
     secure: nO4ocOiDudxvkeQ/7H7kiJBBw6ef1XoGGh+j17K3B3aQS5Pe6KKZ9BiJf3ez60ktAIh1kbnD0f50XXru2s6JcL1bzMSLx7k+50aVYEqhxdyag/CTc0WFgtu0woIuHWYWl96UhRnreDHc7IE+H+1rPbZgMs3AYR3FzYZyiNi4/PnH7AhU8pvJ7GBiu8fbcKdB0MyNEXlge9SziEJ1Qm0Dl182eI/sFrYXt4H5YKNJrLq+rO3jPp7vzRtu6pvGZzcG6vg4xvbXNJme2VeONJqge3EgfjeLLprUCkgdEA2HncKKXLurB0qL/GNmKVFo/NdYowFHZLno1IbsMsNKVJewuSUdbd6d2MZMf9pUY4K4UJ9ffMhcF8HCJKT4QaNwQe2pkkBiFUKLWJzj+jCQc+BHf72tG0LiTLewuRD6rYqX0v3fzo52ZFiTfQtmBRh0poxerJk0WWOGj+zC377L2QZuBcsxIzvKtmAdQOkXDKPaTldV08LOA/ifW7EQuHumpFlC7YIFQ8QFW2HguZeNnt1HjMdMSHSQkgHWuDEzzL8yyROTt6HeKCZN5uisEafjf4Tc9CKBNfgRGuRagaLsndC+fTXbeW8LcqzzCPaJhPUuWbruHAPjIagoqx9IwcIB9R5d5L+M/v9+vzxBJ4WOS60wbON1IdNhTXEEgP/lw3/hEEA=

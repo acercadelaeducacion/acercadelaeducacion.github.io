@@ -58,7 +58,7 @@ safe: false
 lsi: false
 username: acercadelaeducacion
 repo: acercadelaeducacion.github.io
-branch: master
+branch: source
 relative_source: ../
 destination: ../jasper-pages/
 production_url: https://acercadelaeducacion.github.io/

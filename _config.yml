@@ -57,7 +57,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: acercadelaeducacion
-repo: acercadelaeducacion.github.io
+repo: acercadelaeducacion
 branch: source
 #target_branch: master
 relative_source: ../

@@ -3,7 +3,7 @@
 #highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 4
+paginate: 5
 language: 'es-es'
 
 # Website info
@@ -14,7 +14,7 @@ description: "Escribir no tiene nada que ver con significar, sino con deslindar,
 author: 'Alvar Maciel'
 # edit 'categories' in the front matter of every post to match this username
 nickname: alvarmaciel
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+bio: 'Un paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Buenos Aires, Argentina'
 url: 'http://acercadelaeducacion.github.io/'
 image: 'assets/images/casper.png'
@@ -60,7 +60,7 @@ username: acercadelaeducacion
 repo: acercadelaeducacion.github.io
 branch: source
 relative_source: ../
-destination: ../adle/
+destination: ../
 production_url: https://acercadelaeducacion.github.io/
 source_url: https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
 

@@ -1,11 +1,9 @@
 ---
 id: 2707
 title: 'Apuntes #TBBTS | El chantaje de nuestra epoca | @mckenziewark '
-date: 2016-12-10T11:01:49+00:00
+date: 2016-12-10
 author: Alvar
 layout: post
-guid: http://www.acercadelaeducacion.com.ar/?p=2707
-permalink: /2016/12/apuntes-tbbts-el-chantaje-de-nuestra-epoca-mckenziewark/
 dsq_thread_id:
   - "5369977700"
 image: /wp-content/uploads/2016/12/blackmail.jpg

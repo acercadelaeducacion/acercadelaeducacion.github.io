@@ -5,7 +5,7 @@ date: 2017-03-20
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2716
-permalink: /2017/03/sobre-la-docencia-los-pensadores-y-los-panelistas/
+
 dsq_thread_id:
   - "5648667917"
 ftf_open_type:

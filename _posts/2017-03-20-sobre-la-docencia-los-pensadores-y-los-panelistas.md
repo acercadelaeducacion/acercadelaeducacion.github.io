@@ -4,6 +4,7 @@ date: 2017-03-20
 author: Alvar
 layout: post
 cover: 'assets/images/cover3.jpg'
+navigation: True
 categories:
   - Educación
 tags:

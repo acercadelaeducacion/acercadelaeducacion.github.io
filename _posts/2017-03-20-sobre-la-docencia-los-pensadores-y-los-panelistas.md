@@ -5,7 +5,7 @@ date: 2017-03-20
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2716
-
+cover: 'assets/images/cover3.jpg'
 dsq_thread_id:
   - "5648667917"
 ftf_open_type:

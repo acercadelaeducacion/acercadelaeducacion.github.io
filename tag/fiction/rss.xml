@@ -12,39 +12,6 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Prueba</title>
-	  <link>//prueba</link>
-	  <author>Alvar Maciel</author>
-	  <pubDate>2017-09-12T10:18:00+00:00</pubDate>
-	  <guid>//prueba</guid>
-	  <description><![CDATA[
-	     <p>una prueba</p>
-
-<h2 id="tabla">Tabla</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>row</td>
-      <td>row</td>
-    </tr>
-    <tr>
-      <td>:-.</td>
-      <td>:-:</td>
-    </tr>
-    <tr>
-      <td>column</td>
-      <td>column</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 id="otro-ttulo">otro título</h3>
-
-	  ]]></description>
-	</item>
-
-	<item>
 	  <title>The Businessman & the fisherman</title>
 	  <link>//the-businessman-and-fisherman</link>
 	  <author>Alvar Maciel</author>

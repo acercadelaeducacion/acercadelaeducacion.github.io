@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
+	  <link>//2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
+	  <guid>//2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <description><![CDATA[
+	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
+
+<p>Pero cabe aclarar antes que además de pensarlo como un entorno de construcción y aprendizaje para niños. Sugar es una activa comunidad de desarrolladores y docentes que trabaja para aportar desde el <a href="http://es.wikipedia.org/wiki/Software_libre"><strong>Software Libre</strong></a> recursos para ser utilizados en función de la creación y la colaboración.</p>
+
+<p>Sin Más: <strong><a title="Documento sobre sugar" href="https://docs.google.com/document/pub?id=1zdLKAf_dQji2tUYzaD6T1HEz1y0VIYMRG7dboXHMFXw">breve documento sobre sugar</a></strong></p>
+
+<p>y</p>
+
+<p><strong><a title="Página de SugarLabs Argentina" href="http://ar.sugarlabs.org">El capítulo local de sugarlabs</a></strong>. con más información</p>
+
+<p>Ahora bien, los usuarios de <strong><a title="Página de Debian" href="http://debian.org">Debian</a></strong>, <a title="Página de Tuquito" href="http://tuquito.org.ar"><strong>Tuquito</strong></a> o <strong><a title="Página de Ubuntu" href="http://ubuntu.com" target="_blank">Ubuntu</a></strong>. nos encontramos con el problema de que sugar está desarrollado para <a title="Página de Fedora" href="http://fedoraproject.org/es/" target="_blank">Fedora</a>. No obstante hay iniciativas que derivaron en el empaquetamiento de Sugar, pueden hacer:</p>
+<pre class="brush:shell">sudo aptitude search sugar</pre>
+<p>y ver los paquetes para instalarlo en nuestros sistemas. <a title="Como instalar sweets (sugar by Trisquel)" href="http://ar.sugarlabs.org/go/Tuquito%2BSugar">También existe un repositorio para Trisquel que funciona muy bien</a>.</p>
+
+<p>El problema de ambos procedimientos es que o bien la actividad Browse (navegador) no funciona, o bien tenemos que conformarnos con una versión antigua del sugar. Para evitar esto, la solución es compilar el sugar en nuestras adoradas máquinas. No es un trabajo simple, para eso. Les dejo dos scripts para compilar sugar en Debian o instalar Sugar en Ubuntu/Tuquito.</p>
+
+<p>Estos script resuelven las dependencias, y además descargan de mi sitio los archivos necesarios para que quede bonito en nuestro gnome y tengamos la opción de iniciar una sesión con sugar en full screen</p>
+<h3>Script para compilar Sugar en Tuquito/Ubuntu</h3>
+<pre class="brush:shell">#!/bin/bash
+#GLOBAL VARS
+SUGAR_DIR=/usr/share/tuquito
+
+#Script de instalación de Sugar en Tuquito 4.1
+
+if [ -d $SUGAR_DIR ]; then
+	cd $SUGAR_DIR
+else
+	sudo mkdir $SUGAR_DIR; cd $SUGAR_DIR
+fi
+##Actualizando##
+sudo aptitude update
+sudo aptitude -y upgrade
+sudo aptitude install -y git jhbuild
+cd $SUGAR_DIR
+sudo git clone git://git.sugarlabs.org/sugar-jhbuild/mainline.git sugar-jhbuild
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+###Aplicar Parche####
+echo "Aplicando parche..."
+cd $SUGAR_DIR/sugar-jhbuild
+wget http://acercadelaeducacion.com.ar/scripts/0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+sudo chmod 0644 0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+git apply 0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+rm 0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+###Instalar las dependencias para compilar###
+echo "Instalando Dependencias para compilar"
+sudo aptitude install -y libgtk2.0-dev libdbus-glib-1-dev libxml2-dev libpopt-dev python-dev libtool intltool python-gconf python-gnome2-dev python2.7-dev python-gtk2-dev python-gnome2-dev libgnome-desktop-dev libgnomecups1.0-dev libwnck-dev librsvg2-dev gtk-doc-tools libtelepathy-glib-dev libasound2-dev icon-slicer  xulrunner-dev libcroco3-dev libtelepathy-glib-dev icon-naming-utils shtool libgconf2-dev abiword espeak espeak-data libabiword-2.8-dev libtelepathy-glib0 libdbus-glib-1-dev metacity pep8 pylint python-abiword python-evince python-rsvg python-telepathy python-wnck python-xklavier telepathy-gabble telepathy-salut xulrunner-1.9.2 python-lxml python-beautifulsoup
+###Instalar dependencias sugar
+echo "Instalando dependencias de sugar"
+cd $SUGAR_DIR/sugar-jhbuild
+./sugar-jhbuild depscheck -s | sudo xargs aptitude -y install
+###Instalar python_xpcom.deb###
+echo "Instalando python_xpcom.deb"
+wget http://acercadelaeducacion.com.ar/scripts/python_xpcom.deb
+sudo dpkg -i python_xpcom.deb
+rm -rf python_xpcom.deb
+###Actualizando y compilando sugar###
+echo "Actualizando y compilando sugar"
+./sugar-jhbuild update
+./sugar-jhbuild build
+./sugar-jhbuild buildone squeak
+./sugar-jhbuild buildone etoys
+###Instalando en entorno###
+echo "Instalando en el entorno"
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator" | sudo tee /usr/bin/sugar-desktop
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator --fullscreen"|sudo tee /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-desktop
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+cd $SUGAR_DIR/sugar-jhbuild/
+wget http://acercadelaeducacion.com.ar/scripts/sugar.png
+sudo mv sugar.png /usr/share/icons/sugar.png
+wget http://acercadelaeducacion.com.ar/scripts/SUGAR.desktop
+cp -f $SUGAR_DIR/sugar-jhbuild/SUGAR.desktop ~/Escritorio/
+ln -s $SUGAR_DIR/sugar-jhbuild/ ~/sugar-jhbuild
+sudo ln -s $SUGAR_DIR/sugar-jhbuild/ /etc/skel/sugar-jhbuild
+wget http://acercadelaeducacion.com.ar/scripts/sugar.desktop
+sudo mv sugar.desktop /usr/share/xsessions/
+wget http://acercadelaeducacion.com.ar/scripts/sugar-menu.desktop
+sudo mv sugar-menu.desktop /usr/share/applications/
+sudo chmod 777 /usr/share/tuquito/sugar-jhbuild -R
+clear
+echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
+<h3>Script para compilar Sugar en Debian</h3>
+<pre class="brush:shell">#!/bin/bash
+#GLOBAL VARS
+SUGAR_DIR=/opt
+
+#Script de instalación de Sugar en Debian
+
+if [ -d $SUGAR_DIR ]; then
+	cd $SUGAR_DIR
+else
+	sudo mkdir $SUGAR_DIR; cd $SUGAR_DIR
+fi
+##Actualizando##
+sudo aptitude update
+sudo aptitude -y upgrade
+sudo aptitude install -y git jhbuild
+###Instalar las dependencias para compilar###
+echo "Instalando Dependencias para compilar"
+sudo aptitude install -y libgtk2.0-dev libdbus-glib-1-dev libxml2-dev libpopt-dev python-dev libtool intltool python-gconf python-gnome2-dev  python-gtk2-dev python-gnome2-dev libgnome-desktop-dev libgnomecups1.0-dev libwnck-dev librsvg2-dev gtk-doc-tools libtelepathy-glib-dev libasound2-dev icon-slicer  xulrunner-dev libcroco3-dev libtelepathy-glib-dev icon-naming-utils shtool libgconf2-dev abiword espeak espeak-data libabiword-2.8-dev libtelepathy-glib0 libdbus-glib-1-dev metacity pep8 pylint python-abiword python-evince python-rsvg python-telepathy python-wnck python-xklavier telepathy-gabble telepathy-salut xulrunner-1.9.2 sqlite3 libsqlite3-dev libsoup2.4-dev libnice-dev libavahi-gobject-dev libavahi-client-dev python-decorator python-hippocanvas python-simplejson python-lxml python-beautifulsoup
+###Clonando sugar###
+cd $SUGAR_DIR
+sudo git clone git://git.sugarlabs.org/sugar-jhbuild/mainline.git sugar-jhbuild
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+echo "Instalando dependencias de sugar"
+cd $SUGAR_DIR/sugar-jhbuild
+###Actualizando y compilando sugar###
+echo "Actualizando y compilando sugar"
+./sugar-jhbuild update
+./sugar-jhbuild depscheck -s | sudo xargs aptitude -y install
+./sugar-jhbuild build
+./sugar-jhbuild buildone squeak
+./sugar-jhbuild buildone etoys
+###Instalando en entorno###
+echo "Instalando en el entorno"
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator" | sudo tee /usr/bin/sugar-desktop
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator --fullscreen"|sudo tee /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-desktop
+sudo chmod 777 /$SUGAR_DIR/sugar-jhbuild -R
+cd $SUGAR_DIR/sugar-jhbuild/
+wget http://acercadelaeducacion.com.ar/scripts/sugar.png
+sudo mv sugar.png /usr/share/icons/sugar.png
+wget http://acercadelaeducacion.com.ar/scripts/SUGAR.desktop
+cp -f SUGAR.desktop ~/Escritorio
+sudo ln -s $SUGAR_DIR/sugar-jhbuild/ /etc/skel/sugar-jhbuild
+ln -s $SUGAR_DIR/sugar-jhbuild/ ~/sugar-jhbuild
+wget http://acercadelaeducacion.com.ar/scripts/sugar.desktop
+sudo mv sugar.desktop /usr/share/xsessions/
+wget http://acercadelaeducacion.com.ar/scripts/sugar-menu.desktop
+sudo mv sugar-menu.desktop /usr/share/applications/
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+clear
+echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Ardesia y Zotero: Anotaciones y grabaciones en pantalla | Recolección y administración de fuentes</title>
+	  <link>//2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2010-12-10T18:17:49+00:00</pubDate>
+	  <guid>//2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba.png"><img class="size-medium wp-image-830 alignleft" style="border: 2px solid black; margin: 3px;" title="ardesia_prueba" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba-300x168.png" alt="" width="300" height="168" /></a></p>
+
+<p>Dicen que todos los días se aprende algo nuevo… no es mi caso. Pero hoy a través de un tweet de @evitalinuxera me enteré de esto: <a title="Pagina de uberstudent" href="http://www.uberstudent.org/">Uberstudent</a> que no lo investigué mucho pero saqué algunos datos partir de su slideshow y ahora cuento en mi navegador con <strong>Zotero</strong>:</p>
+<div class="zotero-notes">
+<div class="zotero-note">
+<blockquote cite="http://es.wikipedia.org/wiki/Zotero">
+<p style="margin-left: 30px;">“Zotero es una extensión libre para el navegador Firefox, que permite a los usuarios recolectar, administrar y citar investigaciones de todo tipo de orígenes del navegador. Es parcialmente una aplicación de administración de referencias, usada para administrar bibliografías y referencias al escribir ensayos y artículos. Su nombre proviene de la palabra albanesa zotëroj que significa &amp;quot;poseer/dominar&amp;quot;. Su objetivo es reemplazar aplicaciones más tradicionales de administración de referencias, originalmente diseñadas para ajustarse a las demandas de la investigación offline.”</p>
+
+<div style="line-height: 1.1em; margin-left: 0.5in; text-indent: -0.5in;">
+<p style="margin: 0pt; text-align: right;">“Zotero - Wikipedia, la enciclopedia libre.” <a href="http://es.wikipedia.org/wiki/Zotero">http://es.wikipedia.org/wiki/Zotero</a>.</p>
+
+</div></blockquote>
+</div>
+</div>
+<p>Este agregado me parece que resuelve muchos de mis problemas a la hora de organizar mis sitiografías y bibliografías creo que junto con <a title="Sitio Mendeley" href="http://www.mendeley.com/">Mendeley</a> y un poco de organización podré mejorar mis escritos.</p>
+
+<p>Por otro lado está <a href="http://code.google.com/p/ardesia/"><strong>Ardesia</strong></a>: Este es un programa para hacer anotaciones y capturas en vivo de las pantallas. Con él se puede estar dando una clase con el cañón parar, hacer anotaciones y guardar una imagen o video de lo que se está haciendo en pantalla.</p>
+
+<p>Les dejo una captura hechacon <a href="http://code.google.com/p/ardesia/">Ardesia</a> y dos videos uno con <a title="Página de recordMyDesktop" href="http://recordmydesktop.sourceforge.net/about.php">RecordMyDesktop</a> y otro con <a href="http://code.google.com/p/ardesia/">Ardesia</a> mismo</p>
+<p style="text-align: center;"></p>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/lH426rYMeGc?hl=es&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/lH426rYMeGc?hl=es&amp;fs=1" allowscriptaccess="always" allowfullscreen="true" /></object>
+
+<p>Otro videito, este hecho con RecorMyDesktop</p>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/IMgWcnp2j5s?hl=es&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/IMgWcnp2j5s?hl=es&amp;fs=1" allowscriptaccess="always" allowfullscreen="true" /></object>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Get Ubuntu II</title>
+	  <link>//2007/05/get-ubuntu-ii/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-31T18:37:00+00:00</pubDate>
+	  <guid>//2007/05/get-ubuntu-ii/</guid>
+	  <description><![CDATA[
+	     <p>Festejando La Semana Ubuntu, seguimos con la serie ilustrativa, que provee la <a href="http://www.hachemuda.com/">HacheMuda</a>, sobre las ventajas de <a href="http://www.ubuntu.com/">Ubuntu</a></p>
+
+<p><a href="http://www.ubuntu.com/"></a></p>
+<blockquote><a href="http://www.ubuntu.com/">Ubuntu</a>, libre como el viento, gratuito y con CD oficial directamente en el buzón de tu casa, viene de serie con un montón de aplicaciones para realizar todo tipo de tareas y cualquier trabajo de oficina con una gran suite de ofimática. De serie, <a href="http://www.ubuntu.com/">Ubuntu</a> es el sistema más completo del mercado.</blockquote>
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/WmU99b6JcQo&amp;rel=1&amp;border=0" /><param name="wmode" value="transparent" />&lt;embed src="http://www.youtube.com/v/WmU99b6JcQo&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent"width="425" height="355"&gt;</object>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Get Ubuntu</title>
+	  <link>//2007/05/get-ubuntu/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-30T13:56:00+00:00</pubDate>
+	  <guid>//2007/05/get-ubuntu/</guid>
+	  <description><![CDATA[
+	     <p>vía <a href="http://ubuntulife.wordpress.com/2007/05/29/primer-video-de-la-serie-get-ubuntu/trackback/">Ubuntu Life</a> me enteré de lo siguiente y lo quería compartir acá:</p>
+<blockquote>Una fantastica idea de <a href="http://www.hachemuda.com/2007/05/28/primer-video-de-la-serie-get-ubuntu-examen/" target="_blank">Hache Muda</a>
+
+Durante los proximos dias va a colgar una serie de videos propios denominados <em><a href="http://www.hachemuda.com/get-ubuntu/" target="_blank">Get Ubuntu</a></em>. Que vienen a resultar una parodia de la serie de anuncios <a href="http://www.apple.com/es/getamac/" target="_blank">Get a Mac</a> de Apple. Lo que pretende mostrar en los videos son las virtudes de Ubuntu.
+Seran publicados uno cada dia a las 19:00 horas (<em>hora española</em>) hasta el proximo viernes 1 de junio. Te recomiendo que visites su sitio web para no perdertelos.
+
+Aqui os dejo el primero de sus videos. No tiene desperdicio. Por completo sigue la filosofia Linux.</blockquote>
+<object height="355" width="425">
+<param name="movie" value="http://www.youtube.com/v/4V2oF_BNO5U&amp;rel=1&amp;border=0" />
+<param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/4V2oF_BNO5U&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425" /></object>
+<p>&lt;/p&gt;</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Get Ubuntu II</title>
+	  <link>//2007/05/get-ubuntu-ii/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-31T18:37:00+00:00</pubDate>
+	  <guid>//2007/05/get-ubuntu-ii/</guid>
+	  <description><![CDATA[
+	     <p>Festejando La Semana Ubuntu, seguimos con la serie ilustrativa, que provee la <a href="http://www.hachemuda.com/">HacheMuda</a>, sobre las ventajas de <a href="http://www.ubuntu.com/">Ubuntu</a></p>
+
+<p><a href="http://www.ubuntu.com/"></a></p>
+<blockquote><a href="http://www.ubuntu.com/">Ubuntu</a>, libre como el viento, gratuito y con CD oficial directamente en el buzón de tu casa, viene de serie con un montón de aplicaciones para realizar todo tipo de tareas y cualquier trabajo de oficina con una gran suite de ofimática. De serie, <a href="http://www.ubuntu.com/">Ubuntu</a> es el sistema más completo del mercado.</blockquote>
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/WmU99b6JcQo&amp;rel=1&amp;border=0" /><param name="wmode" value="transparent" />&lt;embed src="http://www.youtube.com/v/WmU99b6JcQo&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent"width="425" height="355"&gt;</object>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

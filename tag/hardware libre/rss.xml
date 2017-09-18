@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Día de las máquinas libres y cumpleaños de la bicicueva</title>
+	  <link>//2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-03-13T10:34:32+00:00</pubDate>
+	  <guid>//2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
+	  <description><![CDATA[
+	     <p><a title="Página Biblio Barracas" href="http://www.bibliobarracas.com.ar" target="_blank">La Biblio Barracas</a> está de fiesta</p>
+
+<p> </p>
+<p style="text-align: center;"><a href="http://www.bibliobarracas.com.ar/noticias-2014/la-biblio-barracas-esta-de-fiesta/"><img class="size-full wp-image-2318 aligncenter" style="border: 3px solid black; margin: 3px;" alt="cumple_maquinas_libres" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/03/cumple_maquinas_libres.png" width="589" height="203" /></a></p>
+
+<ul>
+	<li>Traé tus libros para <a href="http://aap.hackcoop.com.ar/" target="_blank">escanear</a>,</li>
+	<li>Vení a bailar con musica y hardware libre,</li>
+	<li>tus objetos raros para <a href="http://aap.hackcoop.com.ar/" target="_blank">escanear</a>,</li>
+	<li>Feria Libre todo el día</li>
+	<li>tu juguete roto, interesante o maquina vieja para reutilizar,</li>
+	<li>tu router para liberar</li>
+	<li>tu proyecto de hardware libre.</li>
+	<li>Bombas de Semilla</li>
+	<li>Intercambio de plantines</li>
+</ul>
+<p><strong>¡Sorteamos una bici!</strong></p>
+
+<p>Y al caer la noche.. Birra y Pizza a precios irrisorios.</p>
+
+<p>¡Quedate al FOGÓN y a comer la Torta de Cumpleaños! Y a bailar afro-beat con la Orquesta Caralha para cerrar la noche.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Día del Hardware Libre | Hardware Fredom Day</title>
+	  <link>//2014/03/dia-del-hardware-libre-hardware-fredom-day/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-03-10T19:31:20+00:00</pubDate>
+	  <guid>//2014/03/dia-del-hardware-libre-hardware-fredom-day/</guid>
+	  <description><![CDATA[
+	     <p>Sábado 15 de Marzo</p>
+
+<p>Roque Saénz Peña 352, Bernal, Quilmes Pabellón Aulas Sur, Planta Baja, Aula 60 Universidad Nacional de Quilmes</p>
+
+<p>Los invitamos a participar del Día de la Libertad del Hardware Edición 2014.</p>
+
+<p>El evento se realizará en simultáneo en más de 20 países de todo el mundo.</p>
+
+<!--more-->
+
+<table>
+  <tbody>
+    <tr>
+      <td>[caption id=”attachment_2305” align=”alignleft” width=”744”]<a href="http://wiki.hfday.org/2014/Argentina/Quilmes/HFDQuilmes"><img class="size-full wp-image-2305" alt="Posteer del evento" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/03/2014_poster.png" width="744" height="1052" /></a> Día del Hardware Libre</td>
+      <td>Quilmes[/caption]</td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

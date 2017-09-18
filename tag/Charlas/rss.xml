@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Charla | Herramintas Distribuidas para planificar</title>
+	  <link>//2014/11/charla-herramintas-distriibuidas-para-planificar/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-11-03T10:45:16+00:00</pubDate>
+	  <guid>//2014/11/charla-herramintas-distriibuidas-para-planificar/</guid>
+	  <description><![CDATA[
+	     <p><a href="https://rawgit.com/acercadelaeducacion/charlas-talleres/master/HerramientasDistribuidas/Presentacion/index.html">Acá están las diapositivas de la Charla dada en el <strong>SqueakFest 2014</strong></a></p>
+
+<!--more-->
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Blogs y/o wikis</title>
+	  <link>//2008/04/blogs-yo-wikis/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2008-04-14T19:15:16+00:00</pubDate>
+	  <guid>//2008/04/blogs-yo-wikis/</guid>
+	  <description><![CDATA[
+	     <p>Sigueindo con la la línea ilustrativa, paso a distribuir un material que publicó <strong><a href="http://www.tiscar.com/2008/04/06/blogs-y-wikis-diferencias-significativas/trackback/">Tiscar</a></strong>, y que considero absolutamente acertado y en tiempo (ya que estamos por armar una wiki y un blog en uno de las escurlas donde trabajo)</p>
+<blockquote>Hay actividades, proyectos y contenidos que tienen más sentido en un wiki que en un blog. Y viceversa. Cuándo utilizar un blog y cuándo un wiki dentro de un proceso de enseñanza-aprendizaje tiene que ver con los objetivos de la práctica educativa que se programe y con cómo ésta se adapte a la naturaleza propia de cada medio. Para ello es importante conocer sus similitudes, pero sobre todo, sus diferencias, de modo que se aprovechen en toda su potencialidad. Comparto aquí unos breves apuntes que he utilizado en mis clases para ayudar a comprender esas fronteras.</blockquote>
+<div id="__ss_322866" style="width:425px;text-align:left"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogs-y-wikis-1206560811671168-4" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://static.slideshare.net/swf/ssplayer2.swf?doc=blogs-y-wikis-1206560811671168-4" allowscriptaccess="always" allowfullscreen="true" /></object>
+<div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"><img style="border:0px none;margin-bottom:-5px" src="http://static.slideshare.net/swf/logo_embd.png" alt="SlideShare" /></a> | <a title="View this slideshow on SlideShare" href="http://www.slideshare.net/tiscar/blogs-y-wikis-322866">View</a> | <a href="http://www.slideshare.net/upload">Upload your own</a></div>
+</div>
+<p><img style="visibility:hidden;width:0px;height:0px;" src="http://counters.gigya.com/wildfire/CIMP/Jmx*PTEyMDgyMDc1NDE1OTMmcHQ9MTIwODIwNzU*MzMxMiZwPTEwMTkxJmQ9Jm49.jpg" border="0" alt="" width="0" height="0" /></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

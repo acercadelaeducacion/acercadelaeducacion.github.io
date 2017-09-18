@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Bicicletero de Pallets de madera #bikehacks</title>
+	  <link>//2012/03/bicicletero-de-pallets-de-madera-bikehacks/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-03-29T08:00:01+00:00</pubDate>
+	  <guid>//2012/03/bicicletero-de-pallets-de-madera-bikehacks/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.bikehacks.com/bikehacks/2012/03/wood-pallet-bike-rack.html" target="_blank"><img class="alignleft size-medium wp-image-1534" style="margin: 3px; border: 3px solid black;" title="6a0120a7ed5f9d970b0167644bf582970b-800wi" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/6a0120a7ed5f9d970b0167644bf582970b-800wi-300x224.jpg" alt="" width="300" height="224" /></a>Buenisimo bicicletero hecho de pallets de madera</p>
+<p>BikeHacks</p>
+<p>vía <a href="http://feedproxy.google.com/~r/BikeHacks/~3/Y2PAzmQEx9I/wood-pallet-bike-rack.html">Wood Pallet Bike Rack</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Guardabarros caseros con botellas Version 2 #bikehack</title>
+	  <link>//2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-03-25T22:39:46+00:00</pubDate>
+	  <guid>//2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</guid>
+	  <description><![CDATA[
+	     <p>Después de la versión 1 de los<a title="Primera versión" href="http://www.acercadelaeducacion.com.ar/2012/03/23/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/"> guardabarros caseros</a>, acá tengo la versión 2. Una modificación de estilo para la bici.</p>
+
+<p>Acá pueden ver la evolución de los guardabarros</p>
+
+<p>[gallery type=’picasa’ user_id=’111769376606120018736’ album=’bikehacks’  thumbsize=’75’]</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Get Ubuntu</title>
+	  <link>//2007/05/get-ubuntu/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-30T13:56:00+00:00</pubDate>
+	  <guid>//2007/05/get-ubuntu/</guid>
+	  <description><![CDATA[
+	     <p>vía <a href="http://ubuntulife.wordpress.com/2007/05/29/primer-video-de-la-serie-get-ubuntu/trackback/">Ubuntu Life</a> me enteré de lo siguiente y lo quería compartir acá:</p>
+<blockquote>Una fantastica idea de <a href="http://www.hachemuda.com/2007/05/28/primer-video-de-la-serie-get-ubuntu-examen/" target="_blank">Hache Muda</a>
+
+Durante los proximos dias va a colgar una serie de videos propios denominados <em><a href="http://www.hachemuda.com/get-ubuntu/" target="_blank">Get Ubuntu</a></em>. Que vienen a resultar una parodia de la serie de anuncios <a href="http://www.apple.com/es/getamac/" target="_blank">Get a Mac</a> de Apple. Lo que pretende mostrar en los videos son las virtudes de Ubuntu.
+Seran publicados uno cada dia a las 19:00 horas (<em>hora española</em>) hasta el proximo viernes 1 de junio. Te recomiendo que visites su sitio web para no perdertelos.
+
+Aqui os dejo el primero de sus videos. No tiene desperdicio. Por completo sigue la filosofia Linux.</blockquote>
+<object height="355" width="425">
+<param name="movie" value="http://www.youtube.com/v/4V2oF_BNO5U&amp;rel=1&amp;border=0" />
+<param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/4V2oF_BNO5U&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425" /></object>
+<p>&lt;/p&gt;</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

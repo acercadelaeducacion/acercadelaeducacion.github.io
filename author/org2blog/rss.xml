@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Notas a la inciativa Webmaker Clubs de Mozilla 1. #TeachTheWeb #Webmaker</title>
+	  <link>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-12-23T08:07:00+00:00</pubDate>
+	  <guid>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft wp-image-2531" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/12/pensando.gif" alt="pensando" width="370" height="207" />A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
+<ul class="org-ul">
+	<li>Mejorar la calidad de la enseñanza y el aprendizaje.</li>
+	<li>Fortalecer Redes comunitarias locales.</li>
+	<li>Conservar colaboradores.</li>
+</ul>
+<p>Con la idea de construir de forma <b>abierta</b> con usuarios y colaboradores líderes basándose en sus necesidades e intereses, comienza a delinearse el documento base sobre <b><a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a></b>.</p>
+
+<!--more-->
+<h2 id="seccion1">¿Qué son los clubs?</h2>
+<p>Por ahora es un término “comodín”. Al ser una idea en desarrollo, puede o no estar asociado a lo que comúnmente llamamos “clubs”. El término está para ayudarnos a mantener nuestras ideas en torno a un sustantivo. Puede mantenerse o cambiar, ya se verá en la marcha.</p>
+
+<p>Podemos anticipar que los clubs cuentan aproximadamente con los siguientes elementos:</p>
+<h3 id="seccion1.1">Una serie de actividades.</h3>
+<p>Una colección de actividades para aprender sobre la web.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Estás incluyen instrucciones para los mentores sobre como facilitar las actividades y materiales para los aprendientes. Puede haber formas de reconocer los aprendizajes y la participación en estas actividades.
+<strong>Hipótesis:</strong> Creemos que estás actividades deben ser <b>modulares y remixzables</b>, de manera que los mentores puedan modificarlas <b>fácilmente</b> a sus necesidades. Pero deben ser <b>simples de usar</b> para que los mentores se sientan confiados en su uso. También creemos que a los aprendientes les va mejor <b>hacen cosas juntos</b> y <b>agencian sus propios aprendizajes</b>.</p>
+<h4 id="notas">Notas:</h4>
+<p><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup></p>
+<p class="footpara">Pensaría también en términos de secuencia de actividades, además de colección a menos que esta incluya a las primeras. Sobre esto: <a title="Enlace a la discusión" href="http://discourse.webmaker.org/t/about-a-series-of-activities-collections-and-or-sequences/1098" target="_blank">abrí un tema en la plataforma de discusión de Webmaker</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Localization Models | Workflow with Github and Transifex | #WebLitStd</title>
+	  <link>//2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2013-03-23T17:31:00+00:00</pubDate>
+	  <guid>//2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
+	  <description><![CDATA[
+	     <div class="outline-2" id="outline-container-1">
+<h2>Introducción</h2>
+<div class="outline-text-2" id="text-1">
+
+La iniciativa de Mozilla para que todos y todas tengamos acceso a la posibilidad de participar activamente en la construcción de la Web se compone de un ecosistema con múltiples objetos que interactúan en diversos niveles. Esta complejidad inherente a la magnitud del proyecto hace que la aproximación al mismo sea también compleja, complejidad que se agudiza dado que toda la documentación, herramientas y recursos están en inglés. Para que la iniciativa tome un verdadero marco global es necesario traducir estos objetos en función de que los esfuerzos orientados a la creación de Nuevos Estándares en Alfabetización Web sean realmente Abiertos. Si sólo participan de estos esfuerzos angloparlantes o académicos bilingües se deja de lado a la población que en efecto lleva a cabo esta tarea: los educadores.
+
+&nbsp;
+
+<!--more-->
+
+&nbsp;
+
+Dentro del ecosistema Webmakers existen tres clases de objetos constitutivos con respectivos elementos que las caracterizan. Estos objetos interactúan entre sí dando a lugar a una inmensa base de conocimiento.
+<ul>
+	<li>Herramientas:
+<ul>
+	<li>Thimble</li>
+	<li>Popcorn</li>
+	<li>X-Ray</li>
+</ul>
+</li>
+	<li>Documentación
+<ul>
+	<li>Wiki</li>
+	<li>Etherpad</li>
+	<li>Community Calls</li>
+	<li>Hacktivity Kits</li>
+</ul>
+</li>
+	<li>Proyectos
+<ul>
+	<li>Thimble</li>
+	<li>Popcorn</li>
+	<li>X-Ray</li>
+</ul>
+</li>
+</ul>
+<img alt="MozillaLearningResources.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-MozillaLearningResources.png" />
+
+Estas tres clases de objetos tienen características propias que hacen difícil homologar un mismo proceso de traducción. En los siguientes gráficos se muestran dos modalidades de traducción, una usando github + po4a y la otra usando transifex. Los objetos más importantes a la hora de convocar a los educadores son la documentación y los proyectos. Este es un intento de mostrar de forma gráfica los procesos involucrados en la localización, están armados en forma de diagrama de actividades para que se visualicen los pasos involucrados. Creo que es momento de buscar la forma más económica para que a las traducciones se sume la mayor cantidad de gente.
+
+</div>
+<div class="outline-3" id="outline-container-1-1">
+<h3 id="sec-1-1">Caso 1: Wiki</h3>
+<div class="outline-text-3" id="text-1-1">
+
+Las páginas de la wiki son convertidas a MarkDown para que po4a las pueda convertir a archivos .pot
+
+</div>
+<div class="outline-4" id="outline-container-1-1-1">
+<h4 id="sec-1-1-1">Modelo Github</h4>
+<div class="outline-text-4" id="text-1-1-1">
+
+<img alt="Wiki2GithubActDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-Wiki2GithubActDiagram.png" />
+
+</div>
+</div>
+<div class="outline-4" id="outline-container-1-1-2">
+<h4 id="sec-1-1-2">Modelo Transifex</h4>
+<div class="outline-text-4" id="text-1-1-2">
+
+<img alt="Wiki2transifexDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-Wiki2transifexDiagram.png" />
+
+</div>
+</div>
+</div>
+<div class="outline-3" id="outline-container-1-2">
+<h3 id="sec-1-2">Caso 2: Proyectos</h3>
+<div class="outline-text-3" id="text-1-2">
+
+Los proyectos están en formato HTML y convergen en él información del proyecto en si mismo (comentarios) y propiedades que son ejecutadas desde Thimble (ayudas). En este caso me centraré en el html del proyecto ya que las ayudas están siendo traducidas en transifex. Las páginas html de los proyectos en thimble tienen valor por sus comentarios. Sin embargo,  tanto transifex como po4a no extraen las cadenas de comentarios para la traducción. La opción menos prolija pero más viable, es convertir los archivos html a txt y traducir toda la cadena obviando las etiquetas y los caracteres de inicio de comentarios.
+
+</div>
+<div class="outline-4" id="outline-container-1-2-1">
+<h4 id="sec-1-2-1">Modelo Github</h4>
+<div class="outline-text-4" id="text-1-2-1">
+
+<img alt="project2GithubActDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-project2GithubActDiagram.png" />
+
+</div>
+</div>
+<div class="outline-4" id="outline-container-1-2-2">
+<h4 id="sec-1-2-2">Modelo Transifex</h4>
+<div class="outline-text-4" id="text-1-2-2">
+
+<img alt="Proyectos2transifexDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-Proyectos2transifexDiagram.png" />
+
+</div>
+</div>
+</div>
+</div>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

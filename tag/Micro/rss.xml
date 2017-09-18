@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Ampliando nuestra Red de aprendizaje: Redes sociales, Twitter, Dropbox y Google docs</title>
+	  <link>//2012/09/ampliando-nuestra-red-de-aprendizaje-redes-sociales-twitter-dropbox-y-google-docs/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-09-12T12:54:53+00:00</pubDate>
+	  <guid>//2012/09/ampliando-nuestra-red-de-aprendizaje-redes-sociales-twitter-dropbox-y-google-docs/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://blog.educastur.es/luciaag/2012/09/09/ampliando-nuestra-red-de-aprendizaje-redes-sociales-dropbox-y-google-docs/">http://blog.educastur.es/luciaag/2012/09/09/ampliando-nuestra-red-de-aprendizaje-redes-sociales-dropbox-y-google-docs/</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

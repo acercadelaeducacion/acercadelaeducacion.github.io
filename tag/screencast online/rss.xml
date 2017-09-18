@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Captura de pantalla on-line</title>
+	  <link>//2007/07/captura-de-pantalla-on-line/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-07-04T14:10:00+00:00</pubDate>
+	  <guid>//2007/07/captura-de-pantalla-on-line/</guid>
+	  <description><![CDATA[
+	     <p>Chateando con <a href="http://www.karpicius.com.ar/">Karpicius</a> y buscando algún capturador de pantalla (<a href="http://www.karpicius.com.ar/?p=10">no había leido este post que lo describe mejor</a>) llegue a <a href="http://www.screencast-o-matic.com/">screencast-o-matic</a>.
+me parece excelente esta aplicación on-line en especial para hacer pequeñas demostraciones de uso de programas.
+Acá dejo una prueba del mismo y vendrán más.</p>
+<iframe src="http://www.screencast-o-matic.com/embed?sc=ciif1B0j&amp;w=500&amp;np=0" frameborder="0" height="420" scrolling="no" width="500"></iframe>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

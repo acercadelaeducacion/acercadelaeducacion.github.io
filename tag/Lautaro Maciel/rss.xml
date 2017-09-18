@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Hermano poeta</title>
+	  <link>//2007/05/hermano-poeta/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-28T15:23:00+00:00</pubDate>
+	  <guid>//2007/05/hermano-poeta/</guid>
+	  <description><![CDATA[
+	     <blockquote>Esta es la vera de sílice
+por donde un torrente transita
+no es otra cosa que la noción
+de lo que es cierto - Según el agrado -
+con sus bordes que contienen lo real
+acaso es la veta, el canal
+o el torrente que lo ensancha
+Esta es la veta y siento...</blockquote>
+<p>Es de mi hermano, y la palabra suena en mis venas y hace eco en mi pasado, expresa más que una filiación, o un vínculo formal… amor.
+Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de mis hermanos.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

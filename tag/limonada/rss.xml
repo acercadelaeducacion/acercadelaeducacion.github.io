@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Limonada</title>
+	  <link>//2009/03/limonada/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2009-03-22T00:42:52+00:00</pubDate>
+	  <guid>//2009/03/limonada/</guid>
+	  <description><![CDATA[
+	     <p>Hace mucho que no recibía un premio, ni respondía un meme. Y éste me gustó.<a href="http://irisfernandez.com.ar/betaweblog/"> Iris Fernadez</a> me nominó para el premio Limonada y lo voy a seguir.</p>
+
+<p>Esta limonada sale ácida, como mi humor estos días. Los siguientes nominados se caracterizan por el grado de acidez hacia mis pensamientos</p>
+
+<p><img class="alignleft" style="border: 2px solid black; margin: 2px 4px;" title="Limón" src="http://irisfernandez.com.ar/betaweblog/wp-content/uploads/2009/03/premios_limonada.jpg" alt="" width="195" height="200" /></p>
+
+<p><a href="http://mundo-perverso.blogspot.com">Mundo Perverso</a></p>
+
+<p><a href="http://italparkhotel.blogspot.com">ItalParkHotel</a></p>
+
+<p><a href="http://lavidaesotracosa.blogspot.com">Muñon - La vida es otra cosa -</a></p>
+
+<p><a href="http://karpicius.com">Karpicius</a></p>
+
+<p><a href="http://chamamesoldiers.wordpress.com/">Chamamé</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

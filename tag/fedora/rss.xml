@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Mapas mentales con Dokeos|Sobre spins con Fedora</title>
+	  <link>//2011/03/mapas-spins/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-03-14T21:47:19+00:00</pubDate>
+	  <guid>//2011/03/mapas-spins/</guid>
+	  <description><![CDATA[
+	     <ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://www.dokeos.com/en/mind">Dokeos MIND | Dokeos</a></p>
+
+<ul class="diigo-annotations">
+	<li> <a title="Dokeos MIND" href="http://www.diigo.com/item/image/yyvw/x3g0"> <img src="http://www.diigo.com/item/p/bpceroazpoocdbaszcreqcoe/a8b89c1c6a90b241d9ef30b0a73dbe2e?image_size=160" alt="" /> </a></li>
+</ul>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://www.cfievalladolid2.net/tecno/linux/redhat/personalizacion/ch-redhat-config-kickstart.html">Configurador de Kickstart</a></p>
+<p class="diigo-tags">tags:                      <a href="http://www.diigo.com/user/amaciel/fedora">fedora</a> <a href="http://www.diigo.com/user/amaciel/spin">spin</a> <a href="http://www.diigo.com/user/amaciel/linux">linux</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://fedoreando.wordpress.com/2009/04/13/revisor-construye-tu-propio-spin-de-fedora">Revisor, construye tu propio spin de Fedora. « Fedoreando</a></p>
+<p class="diigo-tags">tags:                      <a href="http://www.diigo.com/user/amaciel/fedora">fedora</a> <a href="http://www.diigo.com/user/amaciel/spin">spin</a> <a href="http://www.diigo.com/user/amaciel/linux">linux</a></p>
+</li>
+</ul>
+<p class="diigo-ps">Posteado desde  <a href="http://www.diigo.com">Diigo</a>. El resto de mis links favoritos están <a href="http://www.diigo.com/user/amaciel">acá</a>.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

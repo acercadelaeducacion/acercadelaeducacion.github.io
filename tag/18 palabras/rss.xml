@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Mi vida en 18 palabras</title>
+	  <link>//2008/04/mi-vida-en-18-palabras/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2008-04-01T18:06:17+00:00</pubDate>
+	  <guid>//2008/04/mi-vida-en-18-palabras/</guid>
+	  <description><![CDATA[
+	     <p><a title="Karpicius" href="http://www.karpicius.com.ar/?p=164" target="_blank">Karpicius</a> me pasa este meme… y lo sigo y distribuyo</p>
+<blockquote>Consiste en responder tres preguntas con seis palabras para cada un de ellas.
+Interesante ejercicio para recordarnos que ser sintético es todo un desafío.
+También rescatar, que la <strong>microescritura </strong>nos está modificando desde hace unos meses, ahora, incluídos los memes.</blockquote>
+<p>Ahí vamos y sigo con el diseño propuesto por <a href="http://www.karpicius.com.ar">Karpi</a></p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/04/dscn2178.jpg"><img class="alignleft alignnone size-thumbnail wp-image-200" style="float: left; border: 1px solid black; margin-left: 3px; margin-right: 3px; margin-top: 1px; margin-bottom: 1px;" title="Alvar y Dani" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/04/dscn2178.jpg" alt="En la Isla en año nuevo con Dani" width="258" height="193" /></a><strong>1. ¿Quién sos?</strong>
+Alvar, crecí en<a title="imágenes en flickr de la Isla" href="http://flickr.com/search/?w=all&amp;q=isla+martin+garcia&amp;m=tags"> Martín Garcia</a>, porteño</p>
+
+<p><strong>2. ¿Qué haces?</strong>
+Bailo tango, enseño, sueño, escribo, comparto</p>
+
+<p><strong>3. ¿Qué es de tu vida?</strong>
+voy a ser papá, ¿Como será….?</p>
+
+<p>Para seguir le paso el meme unos cuantos amigos <a title="ramo" href="http://ramiropol.com.ar">Ramo,</a> <a href="http://quimequipan.blogspot.com/">Maxi,</a> <a title="Nora Aznar" href="http://escuelaytic.blogspot.com/">Nora,</a> ¿se prenderá <a href="http://www.deugarte.com/">David</a> en esto?</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>LaTex | Capítulo 1</title>
+	  <link>//2015/09/latex-capitulo-1/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-09-19T13:33:00+00:00</pubDate>
+	  <guid>//2015/09/latex-capitulo-1/</guid>
+	  <description><![CDATA[
+	     <div id="outline-container-orgheadline1" class="outline-2">
+<h2><img class="alignnone" src="http://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="tipeando" width="495" height="296" /></h2>
+<h2 id="orgheadline1"><a id="o2b:ae379726-b412-4bbc-959b-642201af5d19"></a>Qué es LaTeX</h2>
+<div id="text-orgheadline1" class="outline-text-2">
+
+<a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.
+
+</div>
+</div>
+<div id="outline-container-orgheadline2" class="outline-2">
+<h2 id="orgheadline2">Cómo nos podemos beneficiar de él</h2>
+<div id="text-orgheadline2" class="outline-text-2">
+
+LaTeX esta especialmente indicado para documentaciones técnicas o científicas. Es legendaria su superior composición tipográfica (typesetting) de formulas matemáticas. Si sos estudiante o científico, entonces LaTeX es tu mejor opción para la preparación y escritura de documentación. Aunque esto va también para todo aquel que hace de la escritura y la publicación de textos parte de su profesión. Produce documentos de muy alta calidad, es extremadamente estable y maneja documentos complejos de forma sencilla, sin importar cuan grandes sean.
+
+&nbsp;
+
+</div>
+</div>
+<!--more-->
+<div id="outline-container-orgheadline3" class="outline-2">
+<h2 id="orgheadline3">Separación de forma y contenido</h2>
+<div id="text-orgheadline3" class="outline-text-2">
+
+Un principio básico de LaTeX es que el autor no debe distraerse demasiado por temas de formato. Usualmente el autor se centra en el contenido. Generalmente con LaTeX nos centraremos en el contenido y en el formato pero de forma lógica. Por ejemplo en lugar de escribir un título de capítulo en letras grandes y en negrita, escribiremos el algo y luego le diremos a LaTeX que es el título de un capítulo.
+
+</div>
+</div>
+<div id="outline-container-orgheadline4" class="outline-2">
+<h2 id="orgheadline4">Portabilidad</h2>
+<div id="text-orgheadline4" class="outline-text-2">
+
+LaTeX está disponible para casi todos los sistemas operativos. El formato de sus archivos es de <a href="https://es.wikipedia.org/wiki/Archivo_de_texto">texto simple o plano</a>, leíble y editable en todos los sistemas operativos. LaTeX producirá el mismo resultado en cualquiera de los sistemas. LaTeX no tiene en si mismo ninguna interfaz gráfica, por esta razón se puede usar en cualquier sistema operativo. LaTeX genera archivos PDF, imprimibles y leibles,en casi todas las computadoras y esos archivos se verán de la misma forma en cualquier sistema. Además soporta DVI, PostScript, y HTML, dejando archivos listos para trabajarlos y hacer pubs y otros tipos de formatos. En suma, LaTeX es portable en 3 sentidos: código, su implementación y su salida.
+
+</div>
+</div>
+<div id="outline-container-orgheadline5" class="outline-2">
+<h2 id="orgheadline5">Protección del trabajo</h2>
+<div id="text-orgheadline5" class="outline-text-2">
+
+Los documentos en LaTeX se guardan en un formato de texto leible por los seres humanos, no en el formato oscuro y complejo de los procesadores de texto. Formatos que pueden cambiar entre diferentes versiones del mismo software. Intenten abrir un documento de hace 20 años escrito en algún procesador de texto comercial. LaTeX promete que el documento va a estar siempre leible y con el mismo resultado en su proceso de salida. Los procesadores de texto pueden ser infectados con virus y destruir sus datos. LaTeX no tiene amenazas de virus
+
+</div>
+</div>
+<div id="outline-container-orgheadline6" class="outline-2">
+<h2 id="orgheadline6">¿Desafíos?</h2>
+<div id="text-orgheadline6" class="outline-text-2">
+
+La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un montón de info online. Esta serie de artículos son resúmenes y notas del libro <a href="http://shop.oreilly.com/product/9781847199867.do">LaTeX Beginner's Guide</a>
+
+</div>
+</div>
+<p> </p>
+
+<p>Imagen: <a href="http://debdeb-debdeb.tumblr.com/post/121745844096/working-on-my-book-tomorrow-found-out-ill-only">debdeb-debdeb.tumblr.com</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>HuayraLinux más que un Sistema Operativo Libre, la concreción de muchos sueños compartidos</title>
+	  <link>//2013/09/huayralinux-mas-que-un-sistema-operativo-libre-la-concrecion-de-muchos-suenos-compartidos/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2013-09-13T20:40:17+00:00</pubDate>
+	  <guid>//2013/09/huayralinux-mas-que-un-sistema-operativo-libre-la-concrecion-de-muchos-suenos-compartidos/</guid>
+	  <description><![CDATA[
+	     <p>[youtube http://www.youtube.com/watch?v=92Hu2EpdhkE&amp;feature=youtu.be]</p>
+
+<p>Hoy es un día feliz. Hoy después de mucho soñar, tuve el honor de asistir a la presentación de <strong><a title="Página de Huayra" href="http://huayra.conectarigualdad.gob.ar">Huayra Linux</a></strong>, un proyecto que nace y se desarrolla a fuerza de militancia y decisiones políticas.</p>
+
+<p>Dejo a los gurues de la información ese lugar del que no se sale, lugar destinado a obstaculizar.</p>
+
+<p>Me quedo con el camino, las discusiones y el trabajo de este grupo de amigos que hacen realidad el sueño de muchos.</p>
+
+<p>Ahora queda por delante acompañarlos, trabajar con ellos para que sigamos creciendo.</p>
+
+<p>… Y por si todavía no saben de que hablo…</p>
+
+<p>[youtube http://youtu.be/v3o6tbf8s88]</p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Agregar #Systemd a #Arch linux</title>
+	  <link>//2012/10/agregar-systemd-a-arch-linux/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-10-31T21:15:52+00:00</pubDate>
+	  <guid>//2012/10/agregar-systemd-a-arch-linux/</guid>
+	  <description><![CDATA[
+	     <p>Hoy fue un día privilegiadamente técnico de ahí que haya aprendido cosas que a la mayoría de los mortales… pues bien poco les importa. Pero para a quienes si nos gustan los desafíos técnicos, bueno, no hay mejor problema que aquel que te deja tu máquina con un prompt preguntándote el login y a vos preguntándote donde diablos está tu gestor de ventanas.</p>
+<h2>Agregar #Systemd a #Arch linux</h2>
+<p>En pocas palabras esto es lo que hice (en orden inverso)</p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/2012/10/31/agregar-systemd-a-arch-linux/systemdtuit/" rel="attachment wp-att-1779"><img class="aligncenter size-full wp-image-1779" title="systemdTuit" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/systemdTuit.png" alt="" width="341" height="416" /></a></p>
+
+<p>En muchas palabras: primero tuve que entender que era lo que pasaba. Recurrí como siempre a la pagina de #Arch</p>
+
+<p><img class="alignnone" title="Novedades de Arch" src="http://s3.amazonaws.com/diigo/1624850_141747969_8438486?AWSAccessKeyId=0R7FMW7AXRVCYMAPTPR2&amp;Expires=1351727588&amp;Signature=fcfXT%2F03sEBGAw9%2B9HyyjWNw3VI%3D" alt="" width="714" height="270" /></p>
+
+<p>Obviamente fuí a la <a title="Págin de la wiki sobre systemd" href="https://wiki.archlinux.org/index.php/Systemd">wiki</a> y luego de mucha lectura hice <a title="Configuración nativa de Systemd" href="https://wiki.archlinux.org/index.php/Systemd#Native_configuration" target="_blank">esto</a> y comenté en el /etcrc.conf las configurciones nuevas. Después <a title="Instalación de systemd" href="https://wiki.archlinux.org/index.php/Systemd#Native_configuration" target="_blank">esto agregando unaruta al menu.lst de /boot/grub</a> (init=/usr/lib/systemd/systemd)</p>
+
+<p> </p>
+<pre class="brush:shell"># (0) Arch Linux
+title  Arch Linux
+root   (hd0,1)
+kernel /boot/vmlinuz-linux root=/dev/sda2 init=/usr/lib/systemd/systemd ro
+initrd /boot/initramfs-linux.img</pre>
+<p><a title="Instalación de systemd" href="https://wiki.archlinux.org/index.php/Systemd#Native_configuration" target="_blank">
+</a></p>
+
+<p>y luego comenté la linea en /etc/inittab que arrancaba el GDM</p>
+<pre class="brush:shell">#x:5:respawn:/usr/sbin/gdm -nodaemon</pre>
+<p>luego agregue el inicio de GDM via systemctl</p>
+<pre class="brush:shell">systemctl enable gdm</pre>
+<p>Eso es todo amigos y amigas</p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Charla en el FLISOL 2012| Lugar: San Fernando</title>
+	  <link>//2012/04/charla-en-el-flisol-2012-lugar-san-fernando/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-04-17T18:44:35+00:00</pubDate>
+	  <guid>//2012/04/charla-en-el-flisol-2012-lugar-san-fernando/</guid>
+	  <description><![CDATA[
+	     <p> </p>
+
+<p>El sábado 28 doy una charla de educación y software libre en el FLiSoL 2012.</p>
+
+<p>Charlaremos sobre cómo y qué hacer con las máquinas en la escuela, usando Software Libre en <a title="Programa del flisol en San Fernando" href="http://www.flisol.info/FLISOL2012/Argentina/San_Fernando?highlight=%28\bCategoryCity\b%29" target="_blank"><strong>San Fernando</strong></a></p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/logoflison20121.gif"><img class="aligncenter size-full wp-image-1592" title="logoflison2012" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/logoflison20121.gif" alt="" width="728" height="90" /></a></p>
+
+<p>El próximo 28 de Abril grupos de usuarios y organizaciones sociales vinculadas al Software Libre trabajaran de manera articulada para realizar el <a href="http://www.flisol.info/" target="_blank">FLISOL</a>, Festival Latinoamericano de Instalación de Software Libre, que se realizará en más de 200 ciudades de todo el continente. En Argentina, el festival se realizará en forma paralela en más de 30 ciudades distribuidas por todo el país.</p>
+
+<p>El software libre se refiere a la libertad de los usuarios para ejecutar, copiar, distribuir, estudiar, modificar el software y distribuirlo modificado. Existen numerosos programas libres para realizar tareas cotidianas vinculadas al uso de computadoras, desde sistemas operativos como las diferentes variantes de GNU/Linux hasta aplicaciones de oficina como LibreOffice, navegadores web como Firefox.</p>
+
+<p>Muchas veces se confunde Software Libre con Software Gratuito, pero la gratuidad no es una condición inherente a la libertad del programa sino que muchas veces se llega a ella por la libertad para copiarlo sin limitaciones y en forma legal.</p>
+
+<p>El festival ofrece instalaciones y charlas que permiten acercar personas no técnicas y principiantes que deseen conocer más sobre la filosofía y los conceptos esenciales del Software Libre. Tanto las <strong>instalaciones</strong> como la participación en las <strong>charlas son libres y gratuitas</strong>.</p>
+
+<p>El primer paso para participar es ubicar el evento más cercano a nuestro domicilio en el sitio del <a href="http://www.flisol.info/FLISOL2012/Argentina" target="_blank">festival en nuestro país</a>. Para los que deseen participar de las <strong>instalaciones </strong>, sólo hace falta <strong>traer la CPU o la computadora portátil</strong> según el caso. Una <strong>recomendación importante</strong> es siempre realizar una <strong>copia de respaldo completa</strong> de toda la información que contenga el disco rígido de la computadora que vayamos a instalar.</p>
+
+<p>Festival Latinoamericano de Software Libre</p>
+
+<p>/FLISOL - 28 de Abril/</p>
+
+<p>Abierta la Inscripción.</p>
+
+<p><strong>Lugar en Sn Fernando</strong></p>
+
+<p>Centro Universitario Municipal, Avenida Avellaneda 2270, San Fernando
+desde las 9:30 am hasta las 18:00 pm</p>
+
+<p><strong>El evento es libre y gratuito</strong></p>
+
+<p>En la Capital Federal la inscripción es obligatoria y debe completar <a href="http://flisolcaba.usla.org.ar/registracion" target="_blank">este formulario</a></p>
+
+<p>Si desea conocer los distintos lugares en donde se desarrollará el FLISOL en la Argentina se debe ir al <a href="http://www.flisol.info/FLISOL2012/Argentina" target="_blank">sitio del FLISOL</a> y buscar su ciudad.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Introducción a la programación con Software Libre | gcoop &#8211; Cooperativa de Software Libre</title>
+	  <link>//2012/04/introduccion-a-la-programacion-con-software-libre-gcoop-cooperativa-de-software-libre/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-04-12T13:24:08+00:00</pubDate>
+	  <guid>//2012/04/introduccion-a-la-programacion-con-software-libre-gcoop-cooperativa-de-software-libre/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"><a href="http://www.gcoop.coop/formacion-profesional-software-libre"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/banner-curso_700_0.png" alt="" /></a></p>
+<p>Curso Introducción a la programación con Software Libre/Curso de formación profesional del 21 de mayo al 28 de julio/Abierta la Inscripción. Vacantes LimitadasHorarios disponibles de CursadaLunes y Jueves de 9 a 11 hs / Lunes y Jueves de 14 a 16 hs / Lunes y Miércoles de 17 a 19 hsLugarCentro Político y Cultural Nuevo Encuentro Comuna 14Gurruchaga 2122El curso es gratuitoPodés consultar los contenidos del curso acáPodés inscribirte a través de este formularioPodés hacernos consultas en info@gcoop.coop</p>
+
+<p>vía <a href="http://www.gcoop.coop/formacion-profesional-software-libre">Introducción a la programación con Software Libre | gcoop - Cooperativa de Software Libre</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Recursos y Favorítos para la gestión de un servidor</title>
+	  <link>//2011/10/recursos-y-favoritos-para-la-gestion-de-un-servidor/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-10-29T21:44:14+00:00</pubDate>
+	  <guid>//2011/10/recursos-y-favoritos-para-la-gestion-de-un-servidor/</guid>
+	  <description><![CDATA[
+	     <ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://www.pello.info/filez/IPTABLES_en_21_segundos.html">IPTables en 21 Segundos :: manual de iptables netfilter</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/iptables">iptables</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://www.pello.info/filez/firewall/iptables.html">IPTABLES manual practico, tutorial de iptables con ejemplos</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/iptables">iptables</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://doc.zentyal.org/en/abstractions.html">High-level Zentyal abstractions — Zentyal 2.2 documentation</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/zentyal">zentyal</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://www.taringa.net/posts/linux/8450763/Manual-completo-Instalacion-de-Zentyal-Firewall-de-Linux.html">Manual completo Instalacion de Zentyal Firewall de Linux - Taringa!</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/zentyal">zentyal</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://trac.zentyal.org/wiki/Documentation/Community/HowTo/GatewaySetup">Documentation/Community/HowTo/GatewaySetup – Zentyal</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/zentyal">zentyal</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://www.rgrjr.com/emacs/emacs_cheat.html">emacs cheat sheet</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/emacs">emacs</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://forum.proxmox.com/threads/2547-second-eth-interfaces-for-VM">second eth interfaces for VM</a></p>
+<p class="diigo-description">"second eth interfaces for VM"</p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/proxmox">proxmox</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://guias.ovh.es/ManualUtilizacionProxmox">OVH : ManualUtilizacionProxmox</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/proxmox">proxmox</a></p>
+</li>
+</ul>
+<p class="diigo-ps">Posted from <a href="http://www.diigo.com">Diigo</a>. The rest of my favorite links are <a href="http://www.diigo.com/user/amaciel">here</a>.</p>
+<p class="diigo-ps">imagen |  '<a href="http://www.flickr.com/photos/35034348187@N01/98857402">linux</a>'</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Libertexto + Dropbox = Libertexto anywere</title>
+	  <link>//2011/09/libertexto-dropbox-libertexto-anywere/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-09-14T16:44:17+00:00</pubDate>
+	  <guid>//2011/09/libertexto-dropbox-libertexto-anywere/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"><img class="size-full wp-image-1187 aligncenter" style="margin-top: 3px; margin-bottom: 3px; border-width: 3px; border-color: black; border-style: solid;" title="Selección_010" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/09/Selección_010.png" alt="" width="189" height="173" /></p>
+<p style="text-align: left;">Paso a describir como hacer de <a href="http://libertexto.org">Libertexto</a>, una herramienta más completa. La idea es usar <a href="http://dropbox.com">Dropbox</a> como directorio permanente de la base de datos que contiene toda la información de libertexto.</p>
+<p>Pasos:</p>
+<ol>
+	<li>Instalar Libertexto en la primer máquina.</li>
+	<li>linkear el directorio de la extensión (en general está en ~/.mozilla/firefox/(codigo_raro)/extensions) libertexto_firefox_es-ES@libertexto.org a tu dropbox.</li>
+	<li>linkear el directorio con la base de datos (en general está en ~/.mozilla/firefox/(codigo_raro)/) libertexto_1.0 a tu dropbox.</li>
+	<li>En la segunda máquina, remplazar los directorios libertexto_firefox_es-ES@libertexto.org y libertexto_1.0 por los enlaces contenidos en dropbox</li>
+</ol>
+<p>A mi me funcionó de maravillas :D y pienso que se puede hacer con cualquier sistema en la nube, incluso con <a title="Git en Wikipedia" href="http://es.wikipedia.org/wiki/Git">GIT</a> :P</p>
+<iframe src="http://player.vimeo.com/video/20511842?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="300"></iframe>
+
+<p><a href="http://vimeo.com/20511842">Libertexto_tutorial</a> from <a href="http://vimeo.com/user6174000">Libertexto</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Charla en la II Conferencia Internacional de Software Libre #CISL2011</title>
+	  <link>//2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-09-08T08:10:51+00:00</pubDate>
+	  <guid>//2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</guid>
+	  <description><![CDATA[
+	     <p>Hoy a las 15:00 Hs estaré dando una charla sobre Sugar y su comunidad en la<a href="http://cisl.org.ar"> II Conferencia Internacional de Software Libre</a></p>
+
+<p>Mas datos vía <a title="Notra Solar" href="http://solar.org.ar/spip.php?article876">Solar</a>:</p>
+<div>
+
+El jueves 8 y viernes 9 de setiembre, en la Biblioteca Nacional, tendrá lugar la segunda <a href="http://www.cisl.org.ar/" rel="external">Conferencia Internacional de Software Libre CISL2011</a> Argentina, que contará con la presencia especial de varios disertantes destacados como: Chris Hoffmann - Director de Ingeniería y Proyectos Especiales de Mozilla, Richard Stallman - Presidente de la Free Software Foundation, Marcelo Branco - Asociación Softwarelivre.org (Brasil), y Sergio Amadeu - Universidad Federal del ABC (Brasil); entre otros.
+
+En este evento también estarán presentes responsables de gobierno involucrados en decisiones y políticas públicas relacionadas con la temática de la conferencia (Plan Conectar Igualdad, Software Público, Televisión Digital Terrestre, entre otros) por lo que esperamos también sea un espacio de diálogo sobre estas cuestiones.
+
+En ese marco <a href="http://www.solar.org.ar/" rel="external">Solar – Software Libre Argentina</a> participará por segundo año consecutivo en diferentes charlas tanto como organización, como también a través de sus socios que trabajan además en otras organizaciones y grupos que componen el movimiento que apoya el Software Libre en Argentina. En este sentido, festejamos la posibilidad de encuentro que brinda esta Conferencia Internacional, y que cuenta además con invitados de Paraguay, Brasil, Ecuador, Venezuela, Chile, Uruguay y España, permitiendo un espacio de construcción más allá de nuestro país.
+
+Además de la participación de socios de Solar en el comité organizador (J. Cabezas, E. Lacovsky y M. Olivera) y en el comité seleccionador de ponencias; indicamos aquí <strong>algunas de las charlas en las que participan otros compañeros: </strong>
+<table>
+<thead>
+<tr>
+<th scope="col">Charla</th>
+<th scope="col">Participante</th>
+<th scope="col">Espacio</th>
+<th scope="col">Día y Horario</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Guitarra vas a llorar: Arte y Tecnología”</td>
+<td>José Luis di Biase – Solar, Oveja Electrónica</td>
+<td>Auditorio Juan. L. Ortiz PISO 3</td>
+<td>Jueves 10hs</td>
+</tr>
+<tr>
+<td>“Creando Comunidades de Software Libre”</td>
+<td>Ricardo Fritsch – Softwarelivre.org y Horacio Arroyo - Solar</td>
+<td>RAuditorio Juan. L. Ortiz PISO 3</td>
+<td>Jueves 12hs</td>
+</tr>
+<tr>
+<td>“Libros Libres”</td>
+<td>Ana Marotias, Laura Marotias y Natalia Giovagnetti - Flacso</td>
+<td>Aula 2</td>
+<td>Jueves 12hs</td>
+</tr>
+<tr>
+<td>“Video Libre: la producción Audiovisual desde la Cultura Libre”</td>
+<td>Matías Barrientos – Misol</td>
+<td>Auditorio Juan. L. Ortiz PISO 3</td>
+<td>Jueves 13hs</td>
+</tr>
+<tr>
+<td>“SugarCRM en el mundo real. Experiencia de una implementación exitosa”</td>
+<td>José Massón - Gcoop</td>
+<td>Aula 1</td>
+<td>Jueves 13hs</td>
+</tr>
+<tr>
+<td>“Creando música para la liberación”</td>
+<td>Matías Lennie – Red Panal</td>
+<td>Aula 1</td>
+<td>Jueves 14hs</td>
+</tr>
+<tr>
+<td>“La plataforma de aprendizaje Sugar: sumando esfuerzos con la comunidad”</td>
+<td>Pablo Flores  y Alvar Maciel (Uruguay)</td>
+<td>Aula 1</td>
+<td>Jueves 15hs</td>
+</tr>
+<tr>
+<td>“Inclusión digital con software libre: el caso de los indígenas Mokana, Colombia”</td>
+<td>Lina Montoya - Solar y Verónica Xhardez - Solar</td>
+<td>Aula 2</td>
+<td>Viernes 10 hs</td>
+</tr>
+<tr>
+<td>“10 Años de Experiencias 101 Casos de Software Libre”</td>
+<td>Bernardo González - CADESOL</td>
+<td>Aula 2</td>
+<td>Viernes 12 hs</td>
+</tr>
+<tr>
+<td>“La migración a software libre: la parte no comercial”</td>
+<td>Marco Antonio de Hoyos - Ubuntu ar</td>
+<td>Aula 3</td>
+<td>Viernes 11 hs</td>
+</tr>
+<tr>
+<td>“Entorno educativo libre Sugar”</td>
+<td>Héctor Sánchez - SugarLabs Argentina</td>
+<td>Aula 3</td>
+<td>Viernes 12 hs</td>
+</tr>
+<tr>
+<td>“Tacuapi: una red social desde Misiones”</td>
+<td>Josi Guaimas – Misol</td>
+<td>Aula 1</td>
+<td>Viernes 13 hs</td>
+</tr>
+<tr>
+<td>“Licenciamiento de Software”</td>
+<td>Laura Marotias – Solar, Flacso Arg., FFyL y Ariel Vercelli</td>
+<td>Aula 4</td>
+<td>Viernes 14 hs</td>
+</tr>
+</tbody>
+</table>
+El programa completo y más información sobre el evento puede verse en <a href="http://www.cisl.org.ar/" rel="external">www.cisl.org.ar</a> y recordamos el Festival de Instalación que estará a cargo de <a href="http://ubuntu-ar.org/" rel="external">Ubuntu.ar.</a>
+
+</div>
+<p>Imagen | <a title="eDucative Innovéision" href="http://arrukero.com/potachov/blog/?p=312">Profesor Potachov de Moldavia</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Recopilaciones | Servidores y Servicios | Proxmox y Zentyal</title>
+	  <link>//2011/07/recopilaciones-servidores-y-servicios-proxmox-y-zentyal/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-07-14T21:41:43+00:00</pubDate>
+	  <guid>//2011/07/recopilaciones-servidores-y-servicios-proxmox-y-zentyal/</guid>
+	  <description><![CDATA[
+	     <ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://pve.proxmox.com/wiki/Debian_Appliance_Builder">Debian Appliance Builder - Proxmox VE</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/proxmox">proxmox</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://trac.zentyal.org/wiki/Documentation/Community/Installation/InstallationGuide?redirectedfrom=Document%2FDocumentation%2FInstallationGuide">Documentation/Community/Installation/InstallationGuide – Zentyal</a></p>
+<p class="diigo-tags">tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/zentyal">zentyal</a></p>
+</li>
+</ul>
+<ul>
+	<li><a href="http://sliceoflinux.com/2010/09/30/instalar-zentyal-en-ubuntu-server-paso-a-paso">Instalar Zentyal en Ubuntu 10.04 Server paso a paso « Slice of Linux</a>Zentyal (antes conocido como eBox Platform) es una plataforma de red unificada formada por una serie de módulos que permiten administrar la infraestructura de red, actuar como puerta de enlace a Internet (gateway), gestionar las amenazas de seguridad (UTM), compartir archivos e impresoras, unificar las comunicaciones o una combinación de estas.tags: <a href="http://www.diigo.com/user/amaciel/server">server</a> <a href="http://www.diigo.com/user/amaciel/zentyal">zentyal</a></li>
+</ul>
+<p> </p>
+
+<p>Posteado desde <a href="http://www.diigo.com">Diigo</a>. El resto de mis links favoritos está  <a href="http://www.diigo.com/user/amaciel">acá</a>.</p>
+
+<p>Image: ‘<a href="http://www.flickr.com/photos/67637588@N00/1043510993">In My Backpack</a>’</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Creador de historietas | Fotonovelas con Sugar</title>
+	  <link>//2011/05/creador-de-historietas-fotonovelas-con-sugar/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-05-01T08:19:07+00:00</pubDate>
+	  <guid>//2011/05/creador-de-historietas-fotonovelas-con-sugar/</guid>
+	  <description><![CDATA[
+	     <p>A modo de ejemplo, y dado que será una semana a pleno <a title="Sugar | ¿Qué es? | ¿Cómo Instalarlo?" href="http://www.acercadelaeducacion.com.ar/2011/04/30/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/" target="_blank">sugar</a> acá en el <a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/" target="_blank">ceibaljam</a>. Subo una idea, un germen de actividad para las aulas. El contenido puede ser de cualquier área ya que la potencia de esta actividad es su capacidad comunicadora, sociales, lengua, naturales o matemáticas pueden hacer uso del recurso historieta para comunicar resultados o procesos.</p>
+
+<p>Para realizar este video se usaron dos actividades del sugar: <a title="Actividad para sacar fotos, videos o grabar audio" href="http://activities.sugarlabs.org/es-ES/sugar/addon/4081" target="_blank">Record</a>, para sacar la foto y <a title="Actividad FotoToon" href="http://activities.sugarlabs.org/es-ES/sugar/addon/4253" target="_blank">Fototoon</a> para armar la historieta.</p>
+
+<p> </p>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/VZ9zo7wgTlQ?hl=es&amp;fs=1" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/VZ9zo7wgTlQ?hl=es&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344" /></object>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

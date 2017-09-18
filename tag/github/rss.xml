@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Github para docentes | ideas para arrancar #squeakfest2016</title>
+	  <link>//github-para-docentes-ideas-para-arrancar-squeakfest2016</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2016-11-04T10:07:46+00:00</pubDate>
+	  <guid>//github-para-docentes-ideas-para-arrancar-squeakfest2016</guid>
+	  <description><![CDATA[
+	     <p>El <a href="http://fast.org.ar">SqueakFest</a> se acerca y vamos a contar, mostrar como usar <a href="https://github.com">Github</a> para la <a href="http://github.com/alvarmaciel/planificacionesMmasM">planificación y seguimiento de clases</a>. </p>
+
+<p>Borrador en marcha.</p>
+
+<p><img src="wp-content/uploads/2016/11/wp-image-922672199jpg.jpg" alt="" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Flujo de trabajo para escribir textos con otrxs en GitHub</title>
+	  <link>//2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-12-22T12:47:33+00:00</pubDate>
+	  <guid>//2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/</guid>
+	  <description><![CDATA[
+	     <p><img class="size-full wp-image-2509 aligncenter" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/08/boss.gif" alt="boss" width="500" height="276" /></p>
+
+<p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
+
+<h2 id="el-procedimiento-simplificado-sera">El procedimiento simplificado sería:</h2>
+
+<ol>
+  <li>Abrir un repositorio nuevo con un archivo README.md en él estarían las instrucciones y el índice</li>
+  <li>Cada colaborador tendría que: sacarse una cuenta e informar para sumarlo al equipo</li>
+  <li>La primer tarea consistiría en hacer un aporte al README.md</li>
+</ol>
+
+<h2 id="algunas-aclaraciones">Algunas aclaraciones:</h2>
+
+<ol>
+  <li>Un branch, una rama (Github usa como metáfora la estructura de los arboles) sería el tronco principal, (voy a usar el nombre en inglés  BRANCH)  llamado master esta rama es considerada <em>estable</em></li>
+  <li>Las actualizaciones o modificaciones se hacen en ramas separadas de la rama  master</li>
+  <li>cuando una actualización está lista para ser mergeada (esto quiere decir mezclada con la rama estable master) se crea un “pull request” (pedido de subida a rama master)</li>
+  <li>El pull request es revisado por un miembro del grupo, marcando y trabajando en él los cambio que se tienen que hacer (rol de editor)</li>
+  <li>Cuando el pull request es aprobado, la rama que contiene los cambios es mezclada en la rama estable master.</li>
+</ol>
+
+<h2 id="esto-en-la-prctica-sera-as">Esto en la práctica sería  así:</h2>
+
+<ol>
+  <li>Alvar  escribe el README.md implementando la estructura básica y algunas cuestiones iniciales</li>
+  <li>Daniel  cliquea en un botón y crea una rama nueva con su propia versión del documento. No tiene que bajarse ningún archivo, ni crear copias ni renombrar nada. Github se hace cargo de esto. Daniel puede hacer todo los cambios que quiera sin preocuparse de estar modificando nada del documento principal. Daniel agrega nuevas secciones al índice, crea archivos nuevos para las nuevas partes del índice e incluso corrige algunos errores  que Alvar pasó por alto en el archivo README.md</li>
+  <li>Daniel considera que sus cambios están listos para ser mezclados (mergeados) en el documento principal, así que crea un pull request (haciendo un solo click)</li>
+  <li>GitHub notifica automáticamente al equipo que Daniel abrió un pull request</li>
+  <li>Cualquiera del equipo puede, rápidamente, ver exactamente que se ha cambiado. Línea a línea, palabra a palabra.</li>
+  <li>Alejandra ve el trabajo de Daniel y se da nota algunas cuestiones gramaticales, entonces se las anota en los comentarios del pull request de Daniel.</li>
+  <li>Daniel corige esos errores, Alejandra aprueba el pull request (de nuevo, con un solo click) y los cambios se mezclan en el documento principal.</li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Aula Taller | último eslabón del anillo de recursos para el aula</title>
+	  <link>//2014/08/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-08-22T10:36:51+00:00</pubDate>
+	  <guid>//2014/08/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignright wp-image-2509 size-full" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/08/boss.gif" alt="boss" width="500" height="276" />Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
+
+<p>En el sitio <a href="http://acercadelaeducacion.github.io/">acerca de la educación [versión github]</a> mantengo un blog que funciona como diario de aula y repositorio de ideas. Y para los chicos y chicas tengo el blog <a href="http://acercadelaeducacion.github.io/aulataller">Aula Taller</a> donde cargo las actividades que hacemos en clase.</p>
+
+<p>Asi las cosas:</p>
+
+<ul>
+  <li>
+    <p><strong><a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a></strong>: Para planificar</p>
+  </li>
+  <li>
+    <p><strong><a href="http://acercadelaeducacion.github.io/">1 blog</a></strong>: Para pensar y registrar</p>
+  </li>
+  <li>
+    <p><strong><a href="http://acercadelaeducacion.github.io/aulataller">1 blog</a></strong>: Para los estudiantes</p>
+  </li>
+  <li>
+    <p>Para fin de año… un librito con <strong><a href="https://www.gitbook.io/@alvarmaciel">Gitbook</a></strong></p>
+  </li>
+</ul>
+
+<p> </p>
+
+<p>Imagen: <a href="http://gph.is/1a7HFcq">Soul Eater</a></p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Por qué usar github para bloguear | Primer post usando #octopress</title>
+	  <link>//2014/05/por-que-usar-github-para-bloguear-primer-post-usando-octopress/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-05-07T20:05:13+00:00</pubDate>
+	  <guid>//2014/05/por-que-usar-github-para-bloguear-primer-post-usando-octopress/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://acercadelaeducacion.github.io/"><img class="alignleft wp-image-2445 size-thumbnail" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/05/happy-150x150.gif" alt="" width="150" height="150" /></a><a title="Post on github" href="http://acercadelaeducacion.github.io/" target="_blank">Por qué usar github para bloguear | Primer post usando #octopress</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

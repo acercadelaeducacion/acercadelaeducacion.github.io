@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Para adictos a las redes sociales | Infografía de Canaima. Revolución de las TI Libres</title>
+	  <link>//2011/04/rapportive-canaim/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-04-30T09:34:06+00:00</pubDate>
+	  <guid>//2011/04/rapportive-canaim/</guid>
+	  <description><![CDATA[
+	     <ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://rapportive.com">Rapportive</a></p>
+<p class="diigo-description">Vía @martinoliveraPara enfermitos de las #RedesSociales  q usamos gmail muy recomendable http://rapportive.com cc @CommManagers</p>
+<p class="diigo-tags">tags:                      <a href="http://www.diigo.com/user/amaciel/RedesSociales">RedesSociales</a></p>
+</li>
+	<li>
+<p class="diigo-link"><a href="http://www.cnti.gob.ve/index.php?option=com_content&amp;view=article&amp;id=1235&amp;catid=43&amp;Itemid=71">Canaima revoluciona las TI Libres</a></p>
+<p class="diigo-description">Vía @martinolivera #Canaima revoluciona las #TILibres #Infografía http://bit.ly/mswRlb @CanaimaGNULinux @diariociudadccs</p>
+<p class="diigo-tags">tags:                      <a href="http://www.diigo.com/user/amaciel/Canaima">Canaima</a> <a href="http://www.diigo.com/user/amaciel/TILibres">TILibres</a> <a href="http://www.diigo.com/user/amaciel/Infografía">Infografía</a></p>
+</li>
+</ul>
+<p class="diigo-ps">Posted from <a href="http://www.diigo.com">Diigo</a>. The rest of my favorite links are <a href="http://www.diigo.com/user/amaciel">here</a>.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

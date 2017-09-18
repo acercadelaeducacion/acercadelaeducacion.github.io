@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Taggylicio.us</title>
+	  <link>//2008/04/taggylicious/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2008-04-14T19:30:50+00:00</pubDate>
+	  <guid>//2008/04/taggylicious/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" style="float: left; border: 2px solid black; margin: 2px;" src="http://farm3.static.flickr.com/2183/2400651877_21f91ca1db.jpg?v=0" alt="" width="282" height="214" />Bueno, hoy me dediqué a leer los feeds que se me habían acumulado las semanas pasadas y entre toda esa desbordante información, esto es lo mejor que apareció.</p>
+
+<p>Taggylicio.us es un busca contenido que esten bajo determindas etiquetas</p>
+<blockquote>escribimos la etiqueta a buscar y <strong>empezará a mostrar los contenidos públicos que ha encontrado con la etiqueta introducida en Flickr, Photobucket, YouTube, Dailymotion, Digg, Reddit y Del.icio.us</strong>
+<p style="text-align: right;">Vía <a title="post de tagglylicio.us" href="http://www.genbeta.com/2008/04/13-taggylicious-busca-contenidos-que-esten-bajo-determinadas-etiquetas">Genbeta</a></p>
+</blockquote>
+<blockquote>Pese a que dista mucho de un buscador convencional, es una interesante manera de encontrar material sobre alguna temática que nos interesa, como por ejemplo un grupo de música, un juego o algún gadget en particular.
+<p style="text-align: right;">Vía <a title="enlace tagglycio.us" href="http://www.dotpod.com.ar/2008/04/10/taggylicious-un-buscador-basado-en-tags/trackback/">Dotpod</a></p>
+</blockquote>
+<p>Imagen| <a title="fuente de la imagen flickr" href="http://www.flickr.com/photos/24084570@N06/2400651877/">Flickr</a>|<a title="fuente de la imagen flickr" href="http://www.flickr.com/photos/24084570@N06/2400651877/"><a href="http://www.flickr.com/photos/24084570@N06/">Usuario</a>
+</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Al fin: Un Arduino en mis manos</title>
+	  <link>//2009/06/al-fin-un-arduino-en-mis-manos/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2009-06-15T18:35:17+00:00</pubDate>
+	  <guid>//2009/06/al-fin-un-arduino-en-mis-manos/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px; width: 291px; height: 219px;" title="Seeduino" src="http://lh4.ggpht.com/_DUhEVaQ8MyY/SjaqtJVFmFI/AAAAAAAAAfs/3aeYiZxUwa0/s512/b85ff18b2c890590820449451372a587.JPG" alt="" width="512" height="384" /></p>
+
+<p>Cumplí 30 años y mis compañeros de <a href="http://dosisdeinnovacion.com.ar">dosis de innovación</a> creen que es mejor mantenerme ocupado antes que la crisis me aborde :D me regalaron una placa <a href="http://arduino.cc/">Arduino</a>. En realidad es una <a href="http://www.seeedstudio.com/blog/?page_id=110">Seeduino</a>:</p>
+<blockquote>Seeeduino es una placa compatible Arduino. Su diseño se basa en Diecimila sistema, 100% compatible con su actual programa, shields y IDEs. En la parte de hardware, cambios notables son adoptadas para mejorar la flexibilidad y la experiencia del usuario.</blockquote>
+<p>Entonces… comienza mi ansiada experiencia Arduino, seguiré posteando por acá los avances. por ahora les dejo la foto de la placa y el vieo que representa mis 30</p>
+
+<object width="445" height="364" data="http://www.youtube-nocookie.com/v/y9LlnLTH87U&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00&amp;border=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube-nocookie.com/v/y9LlnLTH87U&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x234900&amp;color2=0x4e9e00&amp;border=1" /><param name="allowfullscreen" value="true" /></object>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

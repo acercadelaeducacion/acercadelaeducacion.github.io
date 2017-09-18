@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>CaFeConf 2007</title>
+	  <link>//2007/10/cafeconf-2007/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-10-03T12:05:26+00:00</pubDate>
+	  <guid>//2007/10/cafeconf-2007/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.cafeconf.org"><img src="http://www.cafeconf.org/2007/grafica/cafeconf07_468x60.png" style="width: 468px; height: 60px" alt="CafeConf - 6tas Conferencias Abiertas de Software Libre y GNU/Linux" title="¡6tas Conferencias de Software Libre y GNU/Linux, Capital Federal, Argentina!" /></a>
+Este viernes y sábado se va a realizar como todos los años el <a href="http://www.cafeconf.org"><strong>CAFECONF </strong> </a>en la <a href="http://www.uade.edu.ar/">UADE</a>, la inscripción es gratuita y la mayoría de las charlas (tal cual pasó el año pasado) tienen que ver con la EDUCACION.</p>
+
+<p>Espero verlos allí.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

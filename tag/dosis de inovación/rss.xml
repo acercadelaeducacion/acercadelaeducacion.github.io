@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Manifiesto Hacker</title>
+	  <link>//2011/03/manifiesto-hacker/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-03-09T20:56:00+00:00</pubDate>
+	  <guid>//2011/03/manifiesto-hacker/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" title="Hack in not a crime" src="http://gadgetophilia.com/wp-content/uploads/2009/06/hack.gif" alt="" width="269" height="320" />Hace rato que quería subir este libro, sin más me puse a escanearlo y cuando me siento a escribir este post, me encuentro <a href="http://humanismoyconectividad.wordpress.com/2008/07/10/manifiesto-hacker/" target="_blank">esto</a>. No sólo ya lo escanearon, sino que además está mucho mejor que mi trabajo. Aunque por lo que veo es una versión resumida.</p>
+<p>Les replico algunas partes y  dejo el enlace para que lo lean, bajen, reproduzcan.</p>
+<p><a href="http://www.laneros.com/attachment.php?attachmentid=19524&amp;d=1120588768" target="_blank">Manifiesto Hacker</a> (Versión Resumida) - <a href="http://en.wikipedia.org/wiki/McKenzie_Wark" target="_blank">McKenzie Wark</a></p>
+<blockquote><p>02. Cualquiera que sea el código que hackeamos 3 , sea éste un lenguaje de programación,<br />un lenguaje poético, matemática o música, curvas o colores, creamos la posibilidad de<br />que nuevas cosas ingresen al mundo. No siempre son grandes cosas, ni siquiera cosas<br />buenas, pero son cosas nuevas. En arte, en ciencia, en filosofía y cultura, en cualquier<br />producción de conocimiento donde puedan recopilarse datos, donde pueda extraerse<br />información y donde en dicha información se produzcan nuevas posibilidades para el<br />mundo, hay hackers extrayendo lo nuevo de lo viejo. Mientras los hackers creamos estos<br />nuevos mundos, no los poseemos. Aquello que creamos está hipotecado a otros y a los<br />intereses de otros, a estados y corporaciones que controlan los medios de crear los<br />mundos que descubrimos solos. No poseemos lo que producimos – nos posee.</p> <p>&nbsp;</p></blockquote>
+<p>&nbsp;</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Nuevas publicaciones, nuevas ocupaciones</title>
+	  <link>//2008/12/nuevas-publicaciones-nuevas-ocupaciones/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2008-12-14T12:33:54+00:00</pubDate>
+	  <guid>//2008/12/nuevas-publicaciones-nuevas-ocupaciones/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft size-full wp-image-256" style="border: 2px solid black; margin: 2px;" title="pantallazo de http://www.dosisdeinnovacion.com.ar" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/12/pantallazo-dosis-de-innovacion-espacio-de-creacion-mozilla-firefox.png" alt="pantallazo de http://www.dosisdeinnovacion.com.ar" width="347" height="206" />De un tiempo a esta parte anduve escribiendo en algunos otros blogs. Esto se debió a que junto con algunos amigos, armamos un sito de escritura compartida.
+Un espacio sobre temas de educación e innovación centrada en las TIC llamado Dosis de Innovación.</p>
+
+<p><a title="sitio de Dosis" href="http://www.dosisdeinnovacion.com.ar" target="_blank"> http://www.dosisdeinnovacion.com.ar/</a></p>
+
+<p>Estamos aún en las instancias iniciales de su construcción por lo que todo comentario, aporte, reflexión, etc. contribuye a seguir pensando.
+En él tengo el grato placer de escribir en tres secciones<strong>
+RDI:</strong> siglas de Redistribución de la Información, de mis feeds al blog, reflexión mediante
+<strong>Recetas…:</strong> Tutoriales, paso a paso, sugerencias de uso de TIC en ámbitos pedagógicos
+<strong>Chino básico:</strong> Intento de traducción de terminología Tech al lenguaje del resto de los mortales.</p>
+
+<p>Los artículos que escriba allí, probablemente los republique aquí y viceversa</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

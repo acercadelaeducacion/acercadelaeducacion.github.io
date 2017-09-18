@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Plantilla para chequear fuentes web | proyecto Código Kraken</title>
+	  <link>//2015/11/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-11-10T10:44:32+00:00</pubDate>
+	  <guid>//2015/11/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken/</guid>
+	  <description><![CDATA[
+	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
+
+<p><a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/">https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

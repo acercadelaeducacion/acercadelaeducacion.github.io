@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Lanzamiento BETA del Estándar de Alfabetización Web #WebLitStd</title>
+	  <link>//2013/07/lanzamiento-beta-del-estandar-de-alfabetizacion-web-weblitstd/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2013-07-27T17:53:20+00:00</pubDate>
+	  <guid>//2013/07/lanzamiento-beta-del-estandar-de-alfabetizacion-web-weblitstd/</guid>
+	  <description><![CDATA[
+	     <h2>¿Por qué un estándar y por qué este estándar?</h2>
+<h3>porque es necesario organizarnos</h3>
+<p>Un documento común al cual recurrir para pensar como encadenar los conocimientos necesarios para devenir en un usuario crítico, responsable y creativo de las tecnologías se impone como necesidad en la organización de la enseñanza. Con el devenir de los años, un gran número de docentes, entre los cuales me incluyo, hemos desarrollado nuestro trabajo en una relación directa con el desarrollo y masificación de la Web. Dicho desarrollo se dio en muchos (si no en todos) los casos de forma casi espontanea con los desarrollos tecnológicos que se disponibilizaron en la última década.</p>
+
+<!--more-->
+
+<p>La relación de la tecnología con las escuelas ya dejó de ser un vínculo estable para convertirse en una vínculo tan dinámico como la industria misma, de hecho, esa misma industria tecnológica, apura a las escuela a tomar sus dispositivos como innovaciones aún antes de que los docentes interpreten la forma y el impacto de las mismas en el aula. Esta velocidad y bombardeo de soluciones y dispositivos va de la mano con la velocidad de la masificación de Internet como infraestructura y de la Web como espacio de intercambios simbólicos entre los sujetos. La Web en si misma se asemeja a una suerte de ser vivo en crecimiento y evolución, mezclando dichos procesos con actores fijos y ambulantes que van configurando el espacio virtual sobre el cual se sustenta gran parte de las interacciones humanas de esta época.</p>
+
+<p>La docencia como actividad y el docente como sujeto en el proceso educativo está siendo tensionado para operar un cambio. Crisis educativa, cambio de paradigma y otras frases se dirimen como telón de fondo para pugnar modificaciones en la tarea docente. Y en el medio, docentes frente al aula y a la demanda, se enredan en las imprecisiones mismas de una realidad demasiado rápida para ser reflexionada.</p>
+
+<p>La Web es un territorio a desnaturalizar, a descubrir, en el sentido de retirar el velo para observarla detrás de sus primeras capas de significación. Así como enseñamos y aprendemos a leer e interpretar los textos, en esa misma acción alfabetizadora estamos enseñando a interpretar el mundo simbólico de los humanos. Y la Web no puede estar exenta de esos procesos de descubrimiento, reflexión y creación. Incluso cuando suponga que nosotros los docentes tengamos que aprender algunas cosas que siempre fueron ajenas a nuestro campo de acción. Porque detrás de cada actividad educadora subyace la intención de enseñar a leer el mundo y nuestro mundo, hoy, no está desvinculado de la Web.</p>
+<h3>Porque es abierto y su génesis colaboratíva</h3>
+<p>Un documento común y en el cual podemos intervenir, modificar y remezclar. La iniciativa parte de <strong><a title="Página de Mozilla" href="http://www.mozilla.org" target="_blank">Mozilla</a></strong> y la rama <strong><a title="página de Webmaker" href="https://webmaker.org" target="_blank">Webmaker</a></strong> . Está es la fundación que esta detrás del desarrollo de uno de los pocos navegadores sostenidos por organizaciones sin fines de lucro.</p>
+
+<p>Que un estándar sea abierto quiere decir que podemos no sólo apropiarnos de su contenido, sino también crear a partir de este documento en función de las necesidades de cada institución, jurisdicción o docente. De hecho su apertura implica también que como individuos u organizaciones podemos participar de su creación y mantenimiento. Cabe de ejemplo mi caso, que al enterarme de la iniciativa empecé a participar de las llamadas semanales, aportando y discutiendo las competencias y habilidades para definir el estándar. Sin mediar más que la disposición a trabajar junto a otros.</p>
+<h2>De que se trata esto</h2>
+<p>De la definición de hilos ce trabajo  que conduzcan a una experiencia completa en la vinculación de los sujetos con la Web, dichos hilos de trabajo están compuestos de competencias a alcanzar. Estas competencias incluyen una serie de habilidades específicas, relacionadas a cada hilo de trabajo. El estándar como tal es este entramado de hilos, competencias y habilidades que nos permite pensar en un curriculum espiralado que conecte a los estudiantes con el aprendizaje y la creación.</p>
+
+<p>A continuación transcribo la versión BETA del Estándar, tal cual está en la <strong><a title="Wiki de Mozilla, sección en Español" href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Strands_Es" target="_blank">wiki de Mozilla.</a></strong></p>
+
+<p><img class="alignleft size-full wp-image-2100" alt="WebLitStd-RFC_Es" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/07/WebLitStd-RFC_Es1.png" width="726" height="656" /></p>
+<h3>Introducción</h3>
+<p>El Estándar de Alfabetización Web se compone de tres hilos: Exploración, Construcción y Conexión. A su vez, cada hilo se compone de varias competencias. Cada competencia se compone de una serie de habilidades.</p>
+<h3><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/" rel="nofollow">Exploración</a></h3>
+<p><em>Navegando por la web</em></p>
+
+<p>El hilo Explorar está compuesto de las siguientes competencias:</p>
+<ul>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/Navigation_Es" rel="nofollow">Navegación</a></strong> - usar herramientas de software para navegar la web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/WebMechanics_Es" rel="nofollow">Mecánica de la Web </a></strong> - Comprendiendo el ecosistema Web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/Search_Es" rel="nofollow">Búsqueda</a></strong> - Localizar información, gente y recursos a travéz de la web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/Credibility_Es" rel="nofollow">Credibilidad</a></strong> - Evaluación crítica de la información encontrada en la web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Exploring_Es/Security_Es" rel="nofollow">Seguridad</a></strong> - mantenimiento de sistemas, identidades, y seguridad de contenidos</li>
+</ul>
+<p> </p>
+<h3><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/" rel="nofollow">Construcción</a></h3>
+<p><em>Creando para la Web</em></p>
+
+<p>El hilo Construcción está compuesto de las siguientes competencias:</p>
+<ul>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/ComposingForTheWeb_Es" rel="nofollow">Componer para la Web</a></strong> - crear contenido y hacer uso de tecnologías para la Web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/Remixing_Es" rel="nofollow">Remixing</a></strong> - modificación de los servicios Web existentes para crear algo nuevo</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/HTML_Es" rel="nofollow">HTML</a></strong> - lectura y escritura de los bloques de construcción de la Web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/CSS_Es" rel="nofollow">CSS</a></strong> - lectura, escritura, testeo y aplicación de hojas de estilo para alterar la apariencia visual de los HTML</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/DesignAccessibility_Es" rel="nofollow">Diseño y accesibilidad</a></strong> - creación comunicación universalmente efectiva a travéz de recursos Web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/CodingScripting_Es" rel="nofollow">Coding/scripting</a></strong> - creación experiencias interactivas en la Web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Building_Es/Infrastructure_Es" rel="nofollow">Infrastructura</a></strong> - comprensión de la infraestructura de Internet</li>
+</ul>
+<p> </p>
+<h3><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting_Es/" rel="nofollow">Conexión</a></h3>
+<p><em>Participando de la Web</em></p>
+
+<p>El hilo Conectando está compuesto de las siguientes competencias:</p>
+<ul>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting_Es/SharingCollaborating_Es" rel="nofollow">Compartiendo y Colaborando</a></strong> - Creación y prestación conjunta de acceso a los recursos de la Web</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting_Es/CommunityParticipation_Es" rel="nofollow">Particicpación comunitaria</a></strong> - involucrarse en comunidades Web y comprender sus prácticas</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting_Es/Privacy_Es" rel="nofollow">Privacidad</a></strong> - examinar las consecuencias de compartir datos en línea</li>
+	<li><strong><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard/Connecting_Es/OpenPractices_Es" rel="nofollow">Prácticas abiertas</a></strong> - ayudando a mantener la Web deocrática y universalmente abierta</li>
+</ul>
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Reflexión al vuelo sobre los nerds, los cancheros y el hacktivismo</title>
+	  <link>//2013/06/reflexion-al-vuelo-sobre-los-nerds-los-cancheros-y-el-hacktivismo/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2013-06-22T20:12:27+00:00</pubDate>
+	  <guid>//2013/06/reflexion-al-vuelo-sobre-los-nerds-los-cancheros-y-el-hacktivismo/</guid>
+	  <description><![CDATA[
+	     <p>Creo que el nerdismo, hacktivismo, la cultura hacker con sus excentricidades es una de las vías hacia la liberación.</p>
+
+<p>Existen dos formas de fustigar este camino/movimiento, una es criminizandolo (Julian Assange está aún refugiado en la embajada de ecuador) la otra es ridiculizandolo. La segunda, se sustenta en el el lugar común de los exitosos de esta sociedad, es decir ser cool y no medio nerd es el valor a sostener para ser parte funcional de la estructura social. Aún cuando la estética nerd esté de moda.</p>
+
+<p>El cancherismo trae en su génesis el  mantenimiento del status quo, la virtud de no salir de los lugares comunes, cristalizando así la misoginia, el machismo y el culto por la antítesis mente-cuerpo.</p>
+
+<p>En fin, la conciencia de clase hoy es mucho más que saberse proletario. Es también tomar conciencia de que la lucha se abre en múltiples frentes, todos los días. Es sentirse parte de un colectivo que piensa “y se es rarito”.</p>
+
+<p>Es importante poder articular acciones frente a discursos sociales que, del “no pensar”, hacen un culto.</p>
+
+<p>Salutes</p>
+
+<p>Me voy a la plaza</p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Generación DIYera (7 de Abril) Muestra abierta de instrumentos electrónicos caseros #hack</title>
+	  <link>//2012/04/generacion-diyera-7-de-abril-muestra-abierta-de-instrumentos-electronicos-caseros-hack/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-04-04T07:33:18+00:00</pubDate>
+	  <guid>//2012/04/generacion-diyera-7-de-abril-muestra-abierta-de-instrumentos-electronicos-caseros-hack/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"><a href="http://toylab.wordpress.com/2012/03/30/generacion-diyera-7-de-abril/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/diyera.jpg" alt="" /></a></p>
+<p>Laboratorio de Juguete</p>
+
+<p>vía <a href="http://toylab.wordpress.com/2012/03/30/generacion-diyera-7-de-abril/">Generación DIYera (7 de Abril)</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Centro Cultural General San Martín &#8211; CURSOS Y TALLERES EN EL CCGSM</title>
+	  <link>//2012/04/centro-cultural-general-san-martin-cursos-y-talleres-en-el-ccgsm/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-04-04T07:29:48+00:00</pubDate>
+	  <guid>//2012/04/centro-cultural-general-san-martin-cursos-y-talleres-en-el-ccgsm/</guid>
+	  <description><![CDATA[
+	     <p> </p>
+
+<p><a href="http://www.centroculturalsanmartin.com/novedades/26_cursos-y-talleres-en-el-ccgsm"><img class="alignleft" style="border: 3px solid black; margin: 3px;" src="http://www.centroculturalsanmartin.com/archivos/4f73862628c88.gif" alt="" width="480" height="270" /></a>Desde el Martes 3 de Abril - De Lunes a Viernes de 11 a 20 hs.- Sábados de 11 a 17 hs.Inicio de clases:Miércoles 2 de Mayo E<strong>l Centro Cultural General San Martín</strong> ofrece a la comunidad los siguientes cursos, talleres y seminarios. Este año inauguramos la cursada en el nuevo edificio del bajo-plaza, con nuevos cursos que se complementan con la oferta tradicional.Consultas e informes:cursos_ccgsm@buenosaires.gob.aro por teléfono:43741251 al 59, int. 2281/85/86/88</p>
+
+<p>Cursos&gt;Artes electrónicas y multimediales</p>
+
+<p>Electrónica musical Do It Yourself Cordinación: <strong>Jorge Crowe</strong> Lunes 15 a 18 hs. 16 clases.Valor: 230 pesos.</p>
+
+<p>PureData – La semilla, el árbol y el bosque.Coordinación: <strong>Hernán Kerlleñevich</strong> Lunes 18 a 21 hs. 24 clases. Valor: 230 pesos.</p>
+
+<p>Programación en Processing - Para aplicaciones interactivas y audiovisuales.Coordinación: <strong>Guido Corallo</strong> Miércoles 18 a 21 hs. 24 clases. Valor: 230 pesos.</p>
+
+<p>Curso de Max/MSP/JitterCoordinación: Nahuel Sauza Viernes de 18 a 21 hs. 24 clases. Valor: 230 pesos.</p>
+
+<p>OpenFrameworks - Desarrollo profesional y creativo de aplicaciones interactivas.Coordinación: <strong>Patricio González</strong> Vivo Sábado de 16 a 19 hs. 8 clases. Valor: 230 pesos.</p>
+
+<p>Interfaces electrónicas con Arduino Coordinación: <strong>Diego Diez</strong> Jueves de 18 a 20 hs. 12 clases. Valor: 230 pesos.</p>
+
+<p>Lo virtual y lo material Herramientas para el diseño de arte tecnológico e interactivo.Coordinación:<strong></strong></p>
+
+<p>Miércoles de 10 a 13 hs. 24 clases. Valor: 230 pesos.</p>
+
+<p>vía <a href="http://www.centroculturalsanmartin.com/novedades/26_cursos-y-talleres-en-el-ccgsm">Centro Cultural General San Martín - CURSOS Y TALLERES EN EL CCGSM</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Bicicletero de Pallets de madera #bikehacks</title>
+	  <link>//2012/03/bicicletero-de-pallets-de-madera-bikehacks/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-03-29T08:00:01+00:00</pubDate>
+	  <guid>//2012/03/bicicletero-de-pallets-de-madera-bikehacks/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.bikehacks.com/bikehacks/2012/03/wood-pallet-bike-rack.html" target="_blank"><img class="alignleft size-medium wp-image-1534" style="margin: 3px; border: 3px solid black;" title="6a0120a7ed5f9d970b0167644bf582970b-800wi" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/6a0120a7ed5f9d970b0167644bf582970b-800wi-300x224.jpg" alt="" width="300" height="224" /></a>Buenisimo bicicletero hecho de pallets de madera</p>
+<p>BikeHacks</p>
+<p>vía <a href="http://feedproxy.google.com/~r/BikeHacks/~3/Y2PAzmQEx9I/wood-pallet-bike-rack.html">Wood Pallet Bike Rack</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Guardabarros caseros con botellas Version 2 #bikehack</title>
+	  <link>//2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-03-25T22:39:46+00:00</pubDate>
+	  <guid>//2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</guid>
+	  <description><![CDATA[
+	     <p>Después de la versión 1 de los<a title="Primera versión" href="http://www.acercadelaeducacion.com.ar/2012/03/23/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/"> guardabarros caseros</a>, acá tengo la versión 2. Una modificación de estilo para la bici.</p>
+
+<p>Acá pueden ver la evolución de los guardabarros</p>
+
+<p>[gallery type=’picasa’ user_id=’111769376606120018736’ album=’bikehacks’  thumbsize=’75’]</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Colaborá! Quedan pocos días… « Laboratorio de Juguete</title>
+	  <link>//2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-03-25T19:47:05+00:00</pubDate>
+	  <guid>//2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</guid>
+	  <description><![CDATA[
+	     <p>Necesitamos más de estos eventos en Argentina. vía <a href="http://toylab.wordpress.com/2012/03/25/colabora-quedan-pocos-dias/">Colaborá! Quedan pocos días… « Laboratorio de Juguete</a>.</p>
+
+<p> </p>
+<blockquote>&nbsp;
+
+Las hermanas de CHIMBALAB organizan el 2° ENCUENTRO DE CIRCUITOS ELECTRÓNICOS OPEN HARDWARE Y HAZLO TU MISMO en Santiago de Chile. Si bien es el segundo proyecto más apoyado de idea.me en la actualidad, necesita más apoyo para concretarse. De no llegar a la suma estipulada, el dinero recaudado será devuelto a los donantes. Faltan apenas 9 días y el 50%! Si querés y podés colaborar (empezando desde los 3U$S) podés hacerlo en el siguiente link. Gracias por apoyar la difusión del hardware libre!
+
+Recordá también que si tenés algun circuito diseñado que quieras compartir, podés participar de la convocatoria. Podés descargar aquí las BASES y la FICHA de inscripción. El Laboratorio de Juguete tiene el honor de ser parte del jurado de selección.</blockquote>
+<p style="text-align: center;"><a href="http://toylab.wordpress.com/2012/03/25/colabora-quedan-pocos-dias/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/grafica_encuentro_web1.jpg" alt="" /></a></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<iframe src="http://player.vimeo.com/video/36805885?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="225"></iframe>
+
+<p><a href="http://vimeo.com/36805885">2º Encuentro de Circuitos Open Hardware y DIY</a> from <a href="http://vimeo.com/user10442873">Chimbalab</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>¡Mi primer Hack a la Bici! guardabarros caseros con botellas #bikehack</title>
+	  <link>//2012/03/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-03-23T21:08:38+00:00</pubDate>
+	  <guid>//2012/03/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/</guid>
+	  <description><![CDATA[
+	     <p>A partir de ver esto por la web <a href="http://www.bikehacks.com/bikehacks/2011/03/another-bottle-bike-fender.html">Another Bottle Bike Fender - BikeHacks</a>, me largué a hacer mis primeros hacks a la bci, ahora no me voy a embarrar más :D</p>
+<p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/19032012034.jpg"><img class="aligncenter size-medium wp-image-1395" style="border: 2px solid black; margin-top: 2px; margin-bottom: 2px;" title="19032012034" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/19032012034-300x225.jpg" alt="" width="300" height="225" /></a></p>
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Cosas que quiero hacer | Science Class Hydroponics: STEM Garden</title>
+	  <link>//2011/10/cosas-que-quiero-hacer-science-class-hydroponics-stem-garden/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-10-20T09:33:01+00:00</pubDate>
+	  <guid>//2011/10/cosas-que-quiero-hacer-science-class-hydroponics-stem-garden/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft size-medium wp-image-1211" style="border-width: 3px; border-color: black; border-style: solid; margin: 3px;" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/10/hydroponics-300x150.jpg" alt="" width="300" height="150" />Vía <a title="Página de la revista" href="http://makezine.com">MAKE Magazine</a>, leo y sueño con proyectos a los que no puedo dedicar (por ahora) el escaso tiempo que tengo, pero creo que tal vez alguno de ustedes si pueden aprovechar estas maravillas de la originalidad, en este caso es un jardín hidropónico vertical, para pequeños departamentos.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>link</td>
+      <td> <a href="http://feedproxy.google.com/~r/makezineonline/~3/n1kf4Hiyn6E/science-class-hydroponics-stem-garden.html">Science Class Hydroponics: STEM Garden</a>.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<iframe src="http://www.youtube.com/embed/pJ9qe01RN60" frameborder="0" width="560" height="315"></iframe>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Libertexto + Dropbox = Libertexto anywere</title>
+	  <link>//2011/09/libertexto-dropbox-libertexto-anywere/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2011-09-14T16:44:17+00:00</pubDate>
+	  <guid>//2011/09/libertexto-dropbox-libertexto-anywere/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"><img class="size-full wp-image-1187 aligncenter" style="margin-top: 3px; margin-bottom: 3px; border-width: 3px; border-color: black; border-style: solid;" title="Selección_010" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/09/Selección_010.png" alt="" width="189" height="173" /></p>
+<p style="text-align: left;">Paso a describir como hacer de <a href="http://libertexto.org">Libertexto</a>, una herramienta más completa. La idea es usar <a href="http://dropbox.com">Dropbox</a> como directorio permanente de la base de datos que contiene toda la información de libertexto.</p>
+<p>Pasos:</p>
+<ol>
+	<li>Instalar Libertexto en la primer máquina.</li>
+	<li>linkear el directorio de la extensión (en general está en ~/.mozilla/firefox/(codigo_raro)/extensions) libertexto_firefox_es-ES@libertexto.org a tu dropbox.</li>
+	<li>linkear el directorio con la base de datos (en general está en ~/.mozilla/firefox/(codigo_raro)/) libertexto_1.0 a tu dropbox.</li>
+	<li>En la segunda máquina, remplazar los directorios libertexto_firefox_es-ES@libertexto.org y libertexto_1.0 por los enlaces contenidos en dropbox</li>
+</ol>
+<p>A mi me funcionó de maravillas :D y pienso que se puede hacer con cualquier sistema en la nube, incluso con <a title="Git en Wikipedia" href="http://es.wikipedia.org/wiki/Git">GIT</a> :P</p>
+<iframe src="http://player.vimeo.com/video/20511842?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="300"></iframe>
+
+<p><a href="http://vimeo.com/20511842">Libertexto_tutorial</a> from <a href="http://vimeo.com/user6174000">Libertexto</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

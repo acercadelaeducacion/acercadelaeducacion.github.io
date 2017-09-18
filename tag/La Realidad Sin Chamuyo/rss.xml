@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>La realidad sin chamuyo | Edición #10</title>
+	  <link>//2014/06/la-realidad-sin-chamuyo-edicion-10/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2014-06-26T19:09:31+00:00</pubDate>
+	  <guid>//2014/06/la-realidad-sin-chamuyo-edicion-10/</guid>
+	  <description><![CDATA[
+	     <p>Hace unas semanas empecé a trabajar, en el marco de los <strong><a title="CAI" href="http://portal.educacion.gov.ar/primaria/general/centros-de-actividades-infantiles/" target="_blank">Centros de Actividades Infantiles [C. A. I.]</a></strong>, en el <strong><a title="Página del Isauro" href="http://www.centroeducativoisauroarancibia.org" target="_blank">Centro Educativo Isauro Arancibia</a></strong>. Una escuela pública que trabaja con niños, niñas, jóvenes y adultos en situación de calle.</p>
+
+<p>La escuela tiene una revista y el nro 10 ya está en las redes.</p>
+
+<p> </p>
+
+<p> </p>
+
+<iframe src="//e.issuu.com/embed.html#12496559/8411133" width="525" height="742" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

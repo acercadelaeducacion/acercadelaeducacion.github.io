@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Volví, a las fuentes, volví</title>
+	  <link>//2008/07/volvi-a-las-fuentes-volvi/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2008-07-03T18:18:43+00:00</pubDate>
+	  <guid>//2008/07/volvi-a-las-fuentes-volvi/</guid>
+	  <description><![CDATA[
+	     <p>Hace bastante que no escribía, una suerte de bloqueo, de enojo y absoluta falta de tiempo me mantuvo alejado del blog. Cada día pensaba en lo que quería escribir, en lo que quería postear, pero me detinía ciertas ideas que de a poco espero poder expresar.</p>
+<ol>
+	<li>En principio, quiero armar el diseño de este espacio desde cero, por lo cuál deje la plantilla clásica de wordpress y de apoco la voy a ir modificando, así, aprendo más sobre estos temas.</li>
+	<li>Existe una suerte de jerarquización en la web, una suerte de competencia de ideas, reflejo de lo analógico en lo virtual. Existe una suerte de expectación positiva sobre las posibilidades que abre la tantas veces nombrada web 2.0. Pero en la cruda realidad, la web es para unos pocos que nos regodeamos con los beneficios de las tecnologías. Una vez aceptado esto, creo que hora de postear con más sentido crítico.</li>
+	<li>Vuelvo al ruedo a días de que nazca mi hija, y si este espacio me refleja, pues será para construir, construir ideas, comunidad y práctica.</li>
+</ol>
+<p>saludos amigos</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

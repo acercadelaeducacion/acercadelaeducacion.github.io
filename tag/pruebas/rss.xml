@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Probando probando</title>
+	  <link>//2012/09/probando-probando/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2012-09-12T12:45:43+00:00</pubDate>
+	  <guid>//2012/09/probando-probando/</guid>
+	  <description><![CDATA[
+	     <p>Post de prueba desde el androide</p>
+
+<p><img title="20120711_172736.jpg" class="alignnone" alt="image" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/09/wpid-20120711_172736.jpg" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>podcast y esnips</title>
+	  <link>//2007/10/podcast-y-esnips/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-10-25T16:38:08+00:00</pubDate>
+	  <guid>//2007/10/podcast-y-esnips/</guid>
+	  <description><![CDATA[
+	     <p>Estoy testeando el <a href="http://www.esnips.com">esnips </a>como repositorio de audio para podcast</p>
+<h3> [display_podcast]</h3>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

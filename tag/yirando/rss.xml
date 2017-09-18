@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Jipis!</title>
+	  <link>//2008/07/jipis/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2008-07-25T23:06:07+00:00</pubDate>
+	  <guid>//2008/07/jipis/</guid>
+	  <description><![CDATA[
+	     <div class="mceTemp"></div>
+<div class="mceTemp"></div>
+
+<p>[caption id=”” align=”aligncenter” width=”375” caption=”Mensaje en una pared "Solo el amor salvará al mundo" Jipis!”]<img title="Jipis!" src="http://farm4.static.flickr.com/3258/2702871186_a082ab9ccc.jpg" alt="Mensaje en una pared Solo el amor salvará al mundo Jipis!" width="375" height="500" />[/caption]</p>
+
+<p>Caminando por la ciudad me encontré con estos mensajes….</p>
+
+<p>Una secuencia de sensaciones me invaden, primero…. esperanza, luego decepción, despues, la certeza de coincidir con los jipis.</p>
+
+<p>Solo el amor salvará al mundo…</p>
+
+<p>¿Será que es una frase muy compleja, dada la cantidad de formas de amar que desarrollamos?</p>
+
+<p>¿O será que el calificativo, pegado a la frase, tiene la fuerza de una sentencia arrolladora, la del tiempo y sus resultados ?</p>
+
+<p>¿Cómo ha de ser ese amor que salvará al mundo?</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

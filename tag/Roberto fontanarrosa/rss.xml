@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.github.io/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Murió Roberto Fontanrrosa. Lo escuche por la radi&#8230;</title>
+	  <link>//2007/07/murio-roberto-fontanrrosa-lo-escuche-por-la-radi/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-07-19T20:49:00+00:00</pubDate>
+	  <guid>//2007/07/murio-roberto-fontanrrosa-lo-escuche-por-la-radi/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.cardoncosasnuestras.com.ar/objetos/revistalarge/rg2-creador-paisano-0.jpg"><img src="http://www.cardoncosasnuestras.com.ar/objetos/revistalarge/rg2-creador-paisano-0.jpg" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 320px" border="0" /></a>
+<a href="http://www.clarin.com/diario/2007/07/19/um/m-01460691.htm">Murió</a> Roberto Fontanrrosa.
+Lo escuche por la radio , lo confirmé en el diario y ….
+pocas palabras para la tristeza que me embarga.
+Es de esas personas que estos pagos van a extrañar</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,12 +1,23 @@
 ---
+id: 2716
 title: Sobre la docencia. Los pensadores y los panelistas.
-date: 2017-03-20
+date: 2017-03-20T08:56:53+00:00
 author: Alvar
 layout: post
-cover: 'assets/images/cover3.jpg'
+disqus: true
+subclass: 'post'
+cover: false
 navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
+guid: http://www.acercadelaeducacion.com.ar/?p=2716
+dsq_thread_id:
+  - "5648667917"
+ftf_open_type:
+  - ""
 categories:
   - Educación
+  - Alvar
 tags:
   - Educación
   - pensamientos

@@ -5,7 +5,13 @@ date: 2016-12-05T11:37:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2699
-permalink: /2016/12/the-beach-beneath-the-street-apuntes-toda-cultura-es-derivada/
+layout: post
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/tbbts.jpg'
 bitly_url:
   - http://bit.ly/2g0i5iv
 bitly_hash:
@@ -14,10 +20,9 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2016/12/the-beach-beneath-the-street-apuntes-toda-cultura-es-derivada/
 dsq_thread_id:
   - "5360291862"
-categories:
+tags:
   - Cultura Libre
   - Educación
-tags:
   - apuntes
   - Mckenzie Wark
   - The Beach Beneath the Street

@@ -1,17 +1,24 @@
 ---
 id: 2707
 title: 'Apuntes #TBBTS | El chantaje de nuestra epoca | @mckenziewark '
-date: 2016-12-10
+date: 2016-12-10T11:01:49+00:00
 author: Alvar
 layout: post
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+guid: http://www.acercadelaeducacion.com.ar/?p=2707
 dsq_thread_id:
   - "5369977700"
-image: /wp-content/uploads/2016/12/blackmail.jpg
+cover: 'wp-content/uploads/2016/12/blackmail.jpg'
 categories:
   - Cultura Libre
-  - Para Eva
+  - Alvar
 tags:
   - apuntes
+  - Para Eva y Sol
   - Mckenzie Wark
   - The Beach Beneath the Street
 ---

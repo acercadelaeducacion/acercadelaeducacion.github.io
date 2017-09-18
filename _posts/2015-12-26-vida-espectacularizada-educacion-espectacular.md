@@ -5,7 +5,12 @@ date: 2015-12-26T13:16:38+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2642
-permalink: /2015/12/vida-espectacularizada-educacion-espectacular/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 dsq_thread_id:
   - "4435720323"
 bitly_url:
@@ -21,9 +26,11 @@ tags:
   - Educación
   - Guy Debord
   - pensamientos
-  - Sociedad del espectaculo
+  - Sociedad del espectáculo
 ---
-<blockquote>1 Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.
+<blockquote>
+
+1 Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.
 
 2 Las imágenes que se han desprendido de cada aspecto de la vida se fusionan en un curso común, donde la unidad de esta vida ya no puede ser reestablecida. La realidad considerada <em>parcialmente</em> se despliega en su propia unidad general en tanto que pseudo-mundo <em>aparte</em>, objeto de mera contemplación.
 

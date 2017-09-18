@@ -5,7 +5,13 @@ date: 2015-01-26T16:13:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2544
-permalink: /2015/01/notas-a-webmaker-club-2/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2015/01/arranque.gif'
+
 dsq_thread_id:
   - "3457671032"
 bitly_url:
@@ -14,13 +20,12 @@ bitly_hash:
   - 1Zugs9x
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2015/01/notas-a-webmaker-club-2/
-image: /wp-content/uploads/2015/01/arranque.gif
 categories:
-  - Cultura Libre
   - Educación
-  - Mozilla
-  - Webmaker
 tags:
+  - Cultura Libre
+  - Webmaker
+  - Mozilla
   - Clubs
   - Educación
 ---

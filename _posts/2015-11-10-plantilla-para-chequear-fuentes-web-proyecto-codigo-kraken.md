@@ -5,7 +5,12 @@ date: 2015-11-10T10:44:32+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2596
-permalink: /2015/11/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 dsq_thread_id:
   - "4306276049"
 bitly_url:
@@ -17,10 +22,10 @@ bitly_long_url:
 image: /wp-content/uploads/2015/11/wpid-krakencode.png
 categories:
   - Cultura Libre
-  - Educación
   - Mozilla
   - Webmaker
 tags:
+  - Educación
   - Mozilla
   - Thimble
   - Webmaker

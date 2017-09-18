@@ -5,7 +5,12 @@ date: 2015-12-22T12:47:33+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2629
-permalink: /2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/08/boss.gif'
 dsq_thread_id:
   - "4425541884"
 bitly_url:
@@ -24,7 +29,6 @@ tags:
   - textos
   - workflow
 ---
-<img class="size-full wp-image-2509 aligncenter" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/08/boss.gif" alt="boss" width="500" height="276" />
 
 Pensando en cómo escribir con otros en [GitHub](https://github.com), buscando y buscando encontré esta [fuente de inspiración](http://www.madebyloren.com/github-for-writers)
 

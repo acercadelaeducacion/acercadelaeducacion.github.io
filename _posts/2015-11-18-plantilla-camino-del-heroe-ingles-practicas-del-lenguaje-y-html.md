@@ -5,7 +5,12 @@ date: 2015-11-18T15:26:41+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2609
-permalink: /2015/11/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png'
 dsq_thread_id:
   - "4330625957"
 bitly_url:
@@ -24,7 +29,7 @@ tags:
   - Thimble
   - Webmaker
 ---
-<img class="wp-image-2610 alignleft" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" />
+<img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" />
 
 Plantilla del proyecto Camino del Héroe.
 

@@ -5,7 +5,12 @@ date: 2015-08-09T10:27:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2585
-permalink: /2015/08/planificaciones/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/mmm.gif'
 dsq_thread_id:
   - "4111307917"
 bitly_url:
@@ -18,6 +23,6 @@ categories:
   - Educación
 format: quote
 ---
-<img class="alignnone" src="https://media.giphy.com/media/kPzdxWoBFrivu/giphy.gif" alt="" width="500" height="290" />
+
 <blockquote>Ninguna planificación sobrevive al primer contacto con los estudiantes.
 ...Parafraseando a Helmuth von Moltke</blockquote>

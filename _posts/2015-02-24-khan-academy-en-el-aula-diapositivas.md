@@ -5,7 +5,12 @@ date: 2015-02-24T11:57:38+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2551
-permalink: /2015/02/khan-academy-en-el-aula-diapositivas/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 dsq_thread_id:
   - "3544250549"
 bitly_url:
@@ -17,11 +22,11 @@ bitly_long_url:
 image: /wp-content/uploads/2014/04/kakashi.gif
 categories:
   - Cultura Libre
-  - Educación
 tags:
+  - Educación
   - diapositivas
   - Khan Academy
   - Presentacion
 format: aside
 ---
-<a href="http://acercadelaeducacion.com.ar/presentaciones/charlaKhanAcademy/charlaKhanAcademy.html">Diapositivas para la charla sobre el uso de Khan Academy en el aula</a>
+<a href="assets/presentaciones/charlaKhanAcademy/charlaKhanAcademy.html">Diapositivas para la charla sobre el uso de Khan Academy en el aula</a>

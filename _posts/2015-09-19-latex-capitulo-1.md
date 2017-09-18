@@ -5,7 +5,12 @@ date: 2015-09-19T13:33:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2589
-permalink: /2015/09/latex-capitulo-1/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/tipeando.gif'
 dsq_thread_id:
   - "4145111043"
 bitly_url:
@@ -26,10 +31,8 @@ tags:
   - Recursos
   - Software Libre
 ---
-<div id="outline-container-orgheadline1" class="outline-2">
-<h2><img class="alignnone" src="http://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="tipeando" width="495" height="296" /></h2>
-<h2 id="orgheadline1"><a id="o2b:ae379726-b412-4bbc-959b-642201af5d19"></a>Qué es LaTeX</h2>
-<div id="text-orgheadline1" class="outline-text-2">
+
+
 
 <a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.
 

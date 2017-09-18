@@ -5,7 +5,12 @@ date: 2015-11-19T06:58:16+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2612
-permalink: /2015/11/escenas-del-mapaton-mapeo-colectivo-area-reconquista/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/mapaton.jpg'
 dsq_thread_id:
   - "4332394849"
 bitly_url:

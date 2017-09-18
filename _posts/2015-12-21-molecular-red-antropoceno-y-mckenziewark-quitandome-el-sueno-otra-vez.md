@@ -5,7 +5,12 @@ date: 2015-12-21T19:49:01+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2623
-permalink: /2015/12/molecular-red-antropoceno-y-mckenziewark-quitandome-el-sueno-otra-vez/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2015/12/quiensoy.gif'
 dsq_thread_id:
   - "4423617458"
 bitly_url:
@@ -16,20 +21,18 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2015/12/molecular-red-antropoceno-y-mckenziewark-quitandome-el-sueno-otra-vez/
 categories:
   - Destacados
-  - Educación
 tags:
   - antropoceno
   - falla metabólica
   - mckenziewark
   - Política
+  - Para Eva y Sol
 ---
-> Working of the world unitie! You hve a win to world
+> Working of the world unitie! You have a win to world
 > - The Cyborg International
-<img class="alignleft size-full wp-image-2625" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2015/12/quiensoy.gif" alt="quiensoy" width="500" height="281" />
 
-&nbsp;
 
-&nbsp;
+
 
 Algunos pasajes del prefacios de <a href="http://www.versobooks.com/books/1886-molecular-red" target="_blank">Molecular Red</a>, nuevo libro de <a href="https://twitter.com/mckenziewark/" target="_blank">Mckenzie Wark</a>. Autor de entre otras cosas: <a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674015432" target="_blank">un manifiesto Hacker</a> y <a href="http://www.futureofthebook.org/gamertheory2.0/" target="_blank">Gamer Theory</a>.
 

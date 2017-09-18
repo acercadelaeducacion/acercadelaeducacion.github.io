@@ -5,7 +5,12 @@ date: 2015-11-11T16:01:58+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2599
-permalink: /2015/11/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2015/11/mapaton.jpg'
 dsq_thread_id:
   - "4310173692"
 bitly_url:
@@ -16,18 +21,20 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2015/11/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista/
 categories:
   - Cultura Libre
-  - Educación
 tags:
+  - Educación
   - Hacks
   - mapaton
 ---
-<img class="alignleft size-full wp-image-2601" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2015/11/mapaton.jpg" alt="mapaton" width="1743" height="1975" />
+
 <h2>¿Qué es un MAPATON?</h2>
 El mapatón tiene como fin desarrollar una herramienta de mapeo digital para el área reconquista de José León Suárez que pueda articular, visibilizar y potenciar las existentes, generar instancias de articulación de organizaciones que favorezcan el trabajo conjunto en función del territorio y sus habitantes, e implementar una agenda que permita la elaboración de estrategias y acciones a mediano y largo plazo.
 
 El encuentro nos convoca a una jornada de trabajo colectivo integrado por diseñadores y desarrolladores web, programadores, referentes territoriales, organizaciones sociales, científicos sociales, educadores populares, habitantes y conocedores del área, trabajadores y toda persona interesada en este desarrollo.
 
 <!--more-->
+
+<img class="alignleft size-full wp-image-2601" src="wp-content/uploads/2015/11/mapaton.jpg" alt="mapaton" width="1743" height="1975" />
 
 ## Agenda de actividades para el Mapatón:
 <ul>

@@ -5,7 +5,12 @@ date: 2016-10-28T13:05:38+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2662
-permalink: /2016/10/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/roog.jpg'
 bitly_url:
   - http://bit.ly/2ej3Bp1
 bitly_hash:
@@ -16,10 +21,10 @@ dsq_thread_id:
   - "5385177809"
 categories:
   - Cultura Libre
-  - Para Eva
 tags:
+  - Para Eva y Sol
   - Ciencia Ficción
-  - literatura
+  - Literatura
   - Phillip K. Dick
 ---
 <img class="aligncenter" src="http://4.bp.blogspot.com/-ORRdVZW8MBI/Tx23pIvY_rI/AAAAAAAABZg/qHp8zlu23QU/s1600/illustrations-philip-k-dick-roog.jpg" alt="ilustración de Roog" width="342" height="260" />Quedo acelerado después de intercambiar charlas sobre literatura, o más bien sobre como esta impacta en mi psique permitiendo ver detalles en los paisajes cotidanos.

@@ -5,7 +5,12 @@ date: 2015-11-16T12:35:21+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2604
-permalink: /2015/11/proyecto-camino-del-heroe-plantilla-para-editar-un-comic-on-line-en-html/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 dsq_thread_id:
   - "4324179979"
 bitly_url:

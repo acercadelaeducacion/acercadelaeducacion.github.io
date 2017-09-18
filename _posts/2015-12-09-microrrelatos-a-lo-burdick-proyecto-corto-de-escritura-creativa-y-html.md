@@ -5,7 +5,12 @@ date: 2015-12-09T10:55:23+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2617
-permalink: /2015/12/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/pinky.gif'
 dsq_thread_id:
   - "4389129997"
 bitly_url:
@@ -24,7 +29,6 @@ tags:
   - Thimble
   - Webmaker
 ---
-<img class="aligncenter" src="https://media.giphy.com/media/GAeKPO8201Vmg/giphy.gif" alt="" width="499" height="368" />
 
 Dentro del marco de las actividades para recuperar Prácticas del Lenguaje e inglés. Creamos este proyecto corto para escribir y leer en la web.
 

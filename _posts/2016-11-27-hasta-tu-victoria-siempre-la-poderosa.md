@@ -8,6 +8,7 @@ layout: post
 disqus: true
 subclass: 'post'
 cover: false
+cover: 'assets/images/cover7.jpg'
 navigation: True
 bitly_url:
   - http://bit.ly/2fomITa

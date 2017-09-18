@@ -3,7 +3,7 @@
 #highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 4
+paginate: 8
 language: 'es-es'
 
 # Website info
@@ -13,15 +13,15 @@ description: "Escribir no tiene nada que ver con significar, sino con deslindar,
 # Author's info
 author: 'Alvar Maciel'
 # edit 'categories' in the front matter of every post to match this username
-nickname: alvarmaciel
+nickname: Alvar
 bio: 'Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.'
 location: 'Buenos Aires, Argentina'
 url: 'http://acercadelaeducacion.github.io/'
-image: 'assets/images/casper.png'
+image: 'assets/images/lain.gif'
 
 short_url: 'acercadelaeducacion.io/'
-google_analytics: UA-69281367-1
-disqus: username
+google_analytics: UA-6677717-1
+disqus: alvar
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/'
 

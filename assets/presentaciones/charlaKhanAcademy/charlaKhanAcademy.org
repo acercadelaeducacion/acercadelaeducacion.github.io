@@ -1,0 +1,69 @@
+#+TITLE: Khan Academy en el aula
+#+AUTHOR: Alvar Maciel
+#+EMAIL: alvarmaciel@gmail.com
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: page
+#+REVEAL_THEME: solarized
+#+REVEAL_HLEVEL: 2
+#+REVEAL_POSTAMBLE: <p> Creado por Alvar. </p>
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="ntroducción a Khan Academy en el aula.">
+
+* Sobre Khan Academy
+** ¿Qué es esto?
+
+#+ATTR_REVEAL: :frag roll-in
+- Un sitio con *videos explicativos*, principalmente de Ciencias y Matemáticas.
+- Un sitio con *ejercicios* vinculados a esas explicaciones.
+- Una plataforma de *enseñanza y aprendizaje*.
+- Sitio: [[http://es.khanacademy.org]]
+
+#+ATTR_REVEAL: :frag roll-in
+#+REVEAL_HTML: <a href="http://es.khanacademy.org"><img alt="Página de inicio" src="pagInicio2.png"></img></a>
+** Videos Explicativos
+#+REVEAL_HTML: <iframe width="560" height="315" src="https://www.youtube.com/embed/fTIP-SIOCBA" frameborder="0" allowfullscreen></iframe>
+Introducción al área y unidades cuadradas
+** Ejercitaciones
+#+REVEAL_HTML: <img src="entendiendoArea.png"></img>
+** Plataforma de enseñanza y aprendizaje
+Visión General de los contenidos
+#+REVEAL_HTML: <a href="seguimiento0.png" target="_blank"><img src="seguimiento0.png"></img></a>
+#+REVEAL: split
+Visión detallada de un contenido
+#+REVEAL_HTML: <a href="seguimiento1.png" target="_blank"><img src="seguimiento1.png"></img></a>
+* ¿Cómo lo uso en el aula?
+#+ATTR_REVEAL: :frag (roll-in roll-in roll-in roll-in)
+- Como soporte audiovisual de algunos contenidos.
+- Como recurso de estudio para repasar algunos conceptos.
+- Como espacio de tareas.
+- Como recurso para las adaptaciones curriculares.
+** ¿Qué hay que saber?
+#+ATTR_REVEAL: :frag roll-in
+- Cómo crear las cuentas de los alumnos.
+- Cómo revisar las actividades y asignarselas a los estudiantes.
+- Nada más.
+** Problemas
+#+ATTR_REVEAL: :frag (roll-in roll-in)
+- Algunos ejercicios están en inglés
+  - Los estudiantes y maestros pueden reportar este problema
+- Videos en español neutro
+  - Es necesario intervenir para aclarar algunos términos
+** ¿Preguntas?
+** Gracias
+
+{Alvar}
+
+{Khan Academy en el aula}
+
+{[[http://twitter.com/amaciel][@amaciel]]}
+
+Diapos: {http://acercadelaeducacion.com.ar}
+   
+  

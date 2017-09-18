@@ -87,12 +87,14 @@
 
 	<item>
 	  <title>Vida espectacularizada. Educación espectácular</title>
-	  <link>//2015/12/vida-espectacularizada-educacion-espectacular/</link>
+	  <link>//vida-espectacularizada-educacion-espectacular</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-12-26T13:16:38+00:00</pubDate>
-	  <guid>//2015/12/vida-espectacularizada-educacion-espectacular/</guid>
+	  <guid>//vida-espectacularizada-educacion-espectacular</guid>
 	  <description><![CDATA[
-	     <blockquote>1 Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.
+	     <blockquote>
+
+1 Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.
 
 2 Las imágenes que se han desprendido de cada aspecto de la vida se fusionan en un curso común, donde la unidad de esta vida ya no puede ser reestablecida. La realidad considerada <em>parcialmente</em> se despliega en su propia unidad general en tanto que pseudo-mundo <em>aparte</em>, objeto de mera contemplación.
 
@@ -114,14 +116,12 @@ Guy Debord - Sociedad del espectáculo</blockquote>
 
 	<item>
 	  <title>Flujo de trabajo para escribir textos con otrxs en GitHub</title>
-	  <link>//2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/</link>
+	  <link>//flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-12-22T12:47:33+00:00</pubDate>
-	  <guid>//2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/</guid>
+	  <guid>//flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
 	  <description><![CDATA[
-	     <p><img class="size-full wp-image-2509 aligncenter" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/08/boss.gif" alt="boss" width="500" height="276" /></p>
-
-<p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
+	     <p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
 
 <h2 id="el-procedimiento-simplificado-sera">El procedimiento simplificado sería:</h2>
 
@@ -158,14 +158,12 @@ Guy Debord - Sociedad del espectáculo</blockquote>
 
 	<item>
 	  <title>Microrrelatos a lo Burdick | Proyecto corto de escritura creativa y HTML</title>
-	  <link>//2015/12/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html/</link>
+	  <link>//microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-12-09T10:55:23+00:00</pubDate>
-	  <guid>//2015/12/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html/</guid>
+	  <guid>//microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</guid>
 	  <description><![CDATA[
-	     <p><img class="aligncenter" src="https://media.giphy.com/media/GAeKPO8201Vmg/giphy.gif" alt="" width="499" height="368" /></p>
-
-<p>Dentro del marco de las actividades para recuperar Prácticas del Lenguaje e inglés. Creamos este proyecto corto para escribir y leer en la web.</p>
+	     <p>Dentro del marco de las actividades para recuperar Prácticas del Lenguaje e inglés. Creamos este proyecto corto para escribir y leer en la web.</p>
 
 <p>Los estudiantes tendrá que escribir, reescribir, buscar o generar imáenes y luego remixar postales generadas en <a href="http://thimble.mozilla.org/" target="_blank">Thimble</a> incluyendo relatos breves.</p>
 <ul>
@@ -183,12 +181,12 @@ Guy Debord - Sociedad del espectáculo</blockquote>
 
 	<item>
 	  <title>Plantilla Camino del Héroe | Inglés, Prácticas del Lenguaje y HTML</title>
-	  <link>//2015/11/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html/</link>
+	  <link>//plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-11-18T15:26:41+00:00</pubDate>
-	  <guid>//2015/11/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html/</guid>
+	  <guid>//plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
 	  <description><![CDATA[
-	     <p><img class="wp-image-2610 alignleft" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
+	     <p><img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
 
 <p>Plantilla del proyecto Camino del Héroe.</p>
 
@@ -207,21 +205,66 @@ Guy Debord - Sociedad del espectáculo</blockquote>
 	</item>
 
 	<item>
+	  <title>Mapatón: Mapeo digital, social y colectivo del Area Reconquista</title>
+	  <link>//mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-11-11T16:01:58+00:00</pubDate>
+	  <guid>//mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</guid>
+	  <description><![CDATA[
+	     <h2>¿Qué es un MAPATON?</h2>
+<p>El mapatón tiene como fin desarrollar una herramienta de mapeo digital para el área reconquista de José León Suárez que pueda articular, visibilizar y potenciar las existentes, generar instancias de articulación de organizaciones que favorezcan el trabajo conjunto en función del territorio y sus habitantes, e implementar una agenda que permita la elaboración de estrategias y acciones a mediano y largo plazo.</p>
+
+<p>El encuentro nos convoca a una jornada de trabajo colectivo integrado por diseñadores y desarrolladores web, programadores, referentes territoriales, organizaciones sociales, científicos sociales, educadores populares, habitantes y conocedores del área, trabajadores y toda persona interesada en este desarrollo.</p>
+
+<!--more-->
+
+<p><img class="alignleft size-full wp-image-2601" src="wp-content/uploads/2015/11/mapaton.jpg" alt="mapaton" width="1743" height="1975" /></p>
+
+<h2 id="agenda-de-actividades-para-el-mapatn">Agenda de actividades para el Mapatón:</h2>
+<ul>
+	<li>12:00hs. Acreditación y comisiones temáticas.</li>
+	<li>12:30 hs. Apertura. Palabras de bienvenida y del objetivo del Mapatón. Presentación de actividades. Presentación de participantes y de la aplicación para celulares para alerta de inundaciones realizada por alumnas de la <a href="http://unsam.edu.ar/escuela_secundaria/" target="_blank">Escuela Secundaria Técnica Unsam</a> en el <a href="https://twitter.com/search?q=%23HackGIT2015" target="_blank">#HackGIT2015</a> organizado por <a href="https://twitter.com/girlsintecharg" target="_blank">Girls In Tech</a> .</li>
+	<li>13:00hs. Trabajo de mapeo en comisiones temáticas:
+<ul>
+	<li>Aula 1: Mapeo educativo y social con eje en la escuela secundaria: Educación, Salud, Deporte/cultura, Recursos</li>
+	<li>Aula 2: Mapeo de Situación socio-ambiental: Soluciones y Recursos. Infraestructura</li>
+	<li>Aula 3: Mapeo de las problemáticas actuales: recuperación de mapeos preexistentes.</li>
+	<li>Todas las comisiones trabajarán sobre: Salud, Educación, Cultura/Deporte, Infraestructura/servicios. Preparación de presentaciones finales de cada comisión.</li>
+</ul>
+</li>
+	<li>14:30hs. Café</li>
+	<li>15:00hs. Presentación del trabajo de cada comisión.</li>
+	<li>16:00 hs. Cierre general del Mapatón. Propuestas de continuidad para llegar a la app o herramienta que la gente del barrio pueda usar. Posible fecha para su realización.</li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Plantilla para chequear fuentes web | proyecto Código Kraken</title>
+	  <link>//plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2015-11-10T10:44:32+00:00</pubDate>
+	  <guid>//plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</guid>
+	  <description><![CDATA[
+	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
+
+<p><a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/">https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>LaTex | Capítulo 1</title>
-	  <link>//2015/09/latex-capitulo-1/</link>
+	  <link>//latex-capitulo-1</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-09-19T13:33:00+00:00</pubDate>
-	  <guid>//2015/09/latex-capitulo-1/</guid>
+	  <guid>//latex-capitulo-1</guid>
 	  <description><![CDATA[
-	     <div id="outline-container-orgheadline1" class="outline-2">
-<h2><img class="alignnone" src="http://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="tipeando" width="495" height="296" /></h2>
-<h2 id="orgheadline1"><a id="o2b:ae379726-b412-4bbc-959b-642201af5d19"></a>Qué es LaTeX</h2>
-<div id="text-orgheadline1" class="outline-text-2">
+	     <p><a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.</p>
 
-<a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.
-
-</div>
-</div>
+<p>&lt;/div&gt;
+&lt;/div&gt;</p>
 <div id="outline-container-orgheadline2" class="outline-2">
 <h2 id="orgheadline2">Cómo nos podemos beneficiar de él</h2>
 <div id="text-orgheadline2" class="outline-text-2">
@@ -268,102 +311,6 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 <p> </p>
 
 <p>Imagen: <a href="http://debdeb-debdeb.tumblr.com/post/121745844096/working-on-my-book-tomorrow-found-out-ill-only">debdeb-debdeb.tumblr.com</a></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Notas a Webmaker Club 2</title>
-	  <link>//2015/01/notas-a-webmaker-club-2/</link>
-	  <author>Alvar Maciel</author>
-	  <pubDate>2015-01-26T16:13:00+00:00</pubDate>
-	  <guid>//2015/01/notas-a-webmaker-club-2/</guid>
-	  <description><![CDATA[
-	     <p>Siguiendo con lo que <a href="http://www.acercadelaeducacion.com.ar/2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/">empecé acá</a>, continuo hoy con la traducción del documento  borrador base del los <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a>.</p>
-
-<p>Podemos anticipar que los clubs cuentan aproximadamente con los siguientes elementos:</p>
-<ul class="org-ul">
-	<li><a href="http://www.acercadelaeducacion.com.ar/2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/#seccion1.1">Una series de actividades</a>.</li>
-	<li>Participación comunitaria liviana</li>
-	<li>Grupos locales conectados globalmente</li>
-	<li>Desarrollo de liderazgo</li>
-	<li>Integración con otras redes de mentores de Mozilla</li>
-</ul>
-<!--more-->
-<div id="outline-container-unnumbered-1" class="outline-2">
-<h3></h3>
-<h3 id="unnumbered-1">Participación comunitaria liviana</h3>
-<div id="text-unnumbered-1" class="outline-text-2">
-
-Implica habilitar procesos simples para conectarse con otros clubs y mentores. El objetivo es comunicar qué es lo que esta sucediendo y ayudar a la gente a aprender entre sí. Pueden ser cosas como hashtag compartidos o foros de discusiones.
-
-<strong>Hipótesis</strong>: Para tener éxito con esta iniciativa, necesitamos que la gente comparta qué están haciendo en sus clubs y que esto se refleje de forma sencilla. Esto nos ayudará a responder a metores reales y a que los mentores se ayuden entre sí. Buenas interacciones sociales fomentan que la gente se mantenga participando por más tiempo.
-
-</div>
-</div>
-<p> </p>
-<div id="outline-container-unnumbered-2" class="outline-2">
-<h3 id="unnumbered-2">Grupos locales conectados globalmente</h3>
-<div id="text-unnumbered-2" class="outline-text-2">
-
-Establecer una forma en que los clubs expresen sus características locales, para que sean relevantes localmente y para que innoven en función de las necesidades locales. Sea como sea que se vea la instancia local, tiene que ser algo que lo una a nivel mundial con otros clubs. Cosas como elementos de diseño, páginas o cosas físicas podrían sen formas de mostrar las conexiones locales y globales
-
-<strong>Hipótesis</strong>: Hay formas de ser local, más allá de lo "geográfico". Los Clubs podrían adaptarse a las audiencias y los espacios (ej. adultos en librerías públicas y jóvenes en programas extracurriculares), a los lenguajes (ej. Guaraní, Quechua, Aymará, Catalán o Inglés ), a redes asociadas (ej. <a href="http://www.thinkbig.eu" target="_blank">ThinkBig</a> o <a href="http://www.codedojo.com/" target="_blank">CoderDojo</a>). Creemos que los clubs serán más exitosos cuando mentores y aprendientes hagan su propio club. Sin embargo, habrá algún ADN común que conecte a todos los clubs.
-
-</div>
-</div>
-<div id="outline-container-unnumbered-3" class="outline-2">
-<h3 id="unnumbered-3">Desarrollo de liderazgo</h3>
-<div id="text-unnumbered-3" class="outline-text-2">
-
-Los clubs deben reconocer y cultivar a los lideres locales. Los Clubs pueden ser donde los lideres locales prueben e innoven, de la misma manera, que creen espacios donde ellos tengan independencia y que permitan dinamizar a una comunidad más grande. Es posible que haya recursos y personal que de apoyo a los lideres para que sean más efectivos y distribuidos, incluyendo el desarrollo profesional.
-
-<strong>Hipótesis</strong>: Tenemos una posición sobre el liderazgo: Funciona en lo abierto, y se trata de tener su propio agenciamiento como líder y crear espacios para que otros desarrollo su propio agenciamiento también. Creemos que los mismos métodos que funcionan para enseñar alfabetización web serán efectivos para enseñar liderazgo comunitario. Se trata de aprender con otros, basado en intereses comunes y mezclado con lo online y offline.
-<h3>Integrado con otras redes de mentores de Mozilla</h3>
-Estos grupos locales se entretejen con otras redes de mentores, especialmente con <strong><a title="Página de Hive" href="http://hivelearningnetworks.org/" target="_blank">Hive</a></strong>, siendo esta una gran comunidad de práctica que aborda la difusión de alfabetización digital y la alfabetización web. Hive puede empezar clubs, o los clubs pueden convertirse en miembros de Hive. Vemos estas situaciones profundamente interrelacionadas. También hay muchas oportunidades para continuar expandiendo todo este trabajo con las redes de Mozilla como Reps y MDN.
-
-<strong>Hipótesis</strong>: Las redes Hive han tenido un gran éxito al tener raíces locales con comunidades globales. Ellas son laboratorios y aulas para la alfabetización web. Webmakers Clubs puede encontrar un buen lugar en este ecosistema que trae algo nuevo (como una particular posición en alfabetización web y liderazgo comunitario) mientras integra y aprovecha lo que ya existe.
-
-&nbsp;
-
-Hasta acá la traducción del documento base, voy a continuar escribiendo sobre esta iniciativa en sucesivos artículos.
-
-&nbsp;
-
-imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/gravity-falls-dipper-pines-JsnbYw3mMgObe" target="_blank">Dipper Pines</a>
-
-</div>
-</div>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Notas a la inciativa Webmaker Clubs de Mozilla 1. #TeachTheWeb #Webmaker</title>
-	  <link>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</link>
-	  <author>Alvar Maciel</author>
-	  <pubDate>2014-12-23T08:07:00+00:00</pubDate>
-	  <guid>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</guid>
-	  <description><![CDATA[
-	     <p><img class="alignleft wp-image-2531" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/12/pensando.gif" alt="pensando" width="370" height="207" />A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
-<ul class="org-ul">
-	<li>Mejorar la calidad de la enseñanza y el aprendizaje.</li>
-	<li>Fortalecer Redes comunitarias locales.</li>
-	<li>Conservar colaboradores.</li>
-</ul>
-<p>Con la idea de construir de forma <b>abierta</b> con usuarios y colaboradores líderes basándose en sus necesidades e intereses, comienza a delinearse el documento base sobre <b><a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a></b>.</p>
-
-<!--more-->
-<h2 id="seccion1">¿Qué son los clubs?</h2>
-<p>Por ahora es un término “comodín”. Al ser una idea en desarrollo, puede o no estar asociado a lo que comúnmente llamamos “clubs”. El término está para ayudarnos a mantener nuestras ideas en torno a un sustantivo. Puede mantenerse o cambiar, ya se verá en la marcha.</p>
-
-<p>Podemos anticipar que los clubs cuentan aproximadamente con los siguientes elementos:</p>
-<h3 id="seccion1.1">Una serie de actividades.</h3>
-<p>Una colección de actividades para aprender sobre la web.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Estás incluyen instrucciones para los mentores sobre como facilitar las actividades y materiales para los aprendientes. Puede haber formas de reconocer los aprendizajes y la participación en estas actividades.
-<strong>Hipótesis:</strong> Creemos que estás actividades deben ser <b>modulares y remixzables</b>, de manera que los mentores puedan modificarlas <b>fácilmente</b> a sus necesidades. Pero deben ser <b>simples de usar</b> para que los mentores se sientan confiados en su uso. También creemos que a los aprendientes les va mejor <b>hacen cosas juntos</b> y <b>agencian sus propios aprendizajes</b>.</p>
-<h4 id="notas">Notas:</h4>
-<p><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup></p>
-<p class="footpara">Pensaría también en términos de secuencia de actividades, además de colección a menos que esta incluya a las primeras. Sobre esto: <a title="Enlace a la discusión" href="http://discourse.webmaker.org/t/about-a-series-of-activities-collections-and-or-sequences/1098" target="_blank">abrí un tema en la plataforma de discusión de Webmaker</a></p>
 
 	  ]]></description>
 	</item>

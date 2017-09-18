@@ -1,0 +1,72 @@
+#+TITLE: Identidades, redes y ventanas
+#+AUTHOR:  @amaciel | alvarmaciel@gmail.com
+#+EMAIL: alvarmaciel@gmail.com
+ 
+#+REVEAL_ROOT: http://cdn.jsdelivr.net/reveal.js/3.0.0/
+#+OPTIONS: toc:1
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+* Identidad
+** Exhibiendo lo intimo  
+#+begin_quote
+"Básicamente lo que yo veo es un desplazamiento del eje en torno del cual nos constituimos como sujetos. Ese eje que estaba dentro de uno mismo se desplaza más hacia lo visible, no solamente hacia el aspecto corporal, hacia lo que se ve..., sino también lo podríamos llamar la performance, lo que se ve de lo que somos, todo lo que se ve pasa a definir lo que uno es."
+
+-- Paula Sibilia
+#+end_quote
+
+#+BEGIN_NOTES
+La diferencia fundamental entre la privacidad y la intimidad, los problemas del olvido, el derecho al fracaso.
+#+END_NOTES
+** La tiranía de la intimidad
+#+begin_quote
+"Nadie obliga a los chicos a que se muestren en...[Complete con su red favorita], o a que pongan una webcam en su cama o en su baño, o a que vean o estén en los reality shows. La tiranía de la intimidad actual promueve cultivar la intimidad, pero en tanto sea visible, porque si no es visible tal vez no exista."
+
+-- Paula Sibilia
+#+end_quote
+** ¿Entonces?
+#+begin_quote
+"Entonces hay que saber manejar esas herramientas, hay que tener habilidad para mostrar quiénes somos. El comportamiento visible y la apariencia son dos ejes, eso explicaría el éxito de las redes sociales y los reality shows." 
+
+-- Paula Sibilia
+#+end_quote
+
+#+BEGIN_NOTES
+Es importante entonces hablar del quienes median entre el contenido y la información
+#+END_NOTES
+** Resistencias frente al cambio de eje 
+#+begin_quote
+Hay resistencias conservadoras que tienen que ver con no conectarse a Internet. Pero me resultan banales y no creo que duren. Tratar de identificar fuerzas más complejas que están operando ahí y construyendo sentido también es una forma de resistir.
+
+-- Paula Sibilia
+#+end_quote
+* Redes, un mundo difícil
+- Facebook
+- Instagram
+- WhatsApp
+- Snapchat
+- Twitter
+- Mil más...
+
+** Herramientas digitales
+#+begin_quote
+Tal vez, entre los sujetos y los objetos con los que interactuamos, se estableció un régimen de inmediatez que elimina la posibilidad de reflexionar sobre el contenido que de dicha interacción se decanta.
+#+end_quote
+
+#+begin_quote
+A la inmediatez de los dispositivos y la información, existe como opción, articular la palabra en tanto forma de mediar entre las pantallas y lxs chicxs
+#+end_quote
+* Recursos
+- [[http://www.dailymotion.com/video/x2ov8j5][¡Gumball!]]
+- Juegos de Rol / semáforo
+- Juegos entre familias
+- [[https://learning.mozilla.org/en-US/web-literacy][Mapa de alfabetización web]]
+  - [[https://learning.mozilla.org/en-US/clubs][Mozilla Clubs]]
+- [[https://wattapad.com][Wattpad]]
+* Créditos
+- Paula Sibilia, La intimidad como espectáculo
+- Paula Sibilia, Entrevista: [[http://edant.clarin.com/suplementos/zona/2008/09/21/z-01764657.htm]["Antes lo íntimo era secreto, ahora se lo hace público en Internet"]]
+- Paula Sibilia, Entrevista: [[https://www.pagina12.com.ar/diario/suplementos/las12/13-6858-2011-11-11.html]["Estado: visible"]]
+- [[http://www.acercadelaeducacion.com.ar/2014/11/herramientas-digitales-pensamiento-en-voz-alta/][Acerca de la educación]]
+- Debora Kozak, [[https://pensarlaescuela.com/][Pensar la escuela]]
+- [[https://learning.mozilla.org/en-US/][learning mozilla]]
+- [[http://www.elmundo.es/sociedad/2017/05/20/59159abc468aeb4c678b462c.html][¡Mamá, papá! Dejad de contar mi vida en las redes sociales]]
+- [[https://www.casadellibro.com/libro-modos-de-ver-4-ed/9788425218071/704278][Modos de ver]]

@@ -13,14 +13,12 @@
    
 	<item>
 	  <title>Flujo de trabajo para escribir textos con otrxs en GitHub</title>
-	  <link>//2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/</link>
+	  <link>//flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-12-22T12:47:33+00:00</pubDate>
-	  <guid>//2015/12/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github/</guid>
+	  <guid>//flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
 	  <description><![CDATA[
-	     <p><img class="size-full wp-image-2509 aligncenter" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/08/boss.gif" alt="boss" width="500" height="276" /></p>
-
-<p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
+	     <p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
 
 <h2 id="el-procedimiento-simplificado-sera">El procedimiento simplificado sería:</h2>
 
@@ -57,10 +55,10 @@
 
 	<item>
 	  <title>Escenas del Mapatón | Mapeo colectivo Área Reconquista</title>
-	  <link>//2015/11/escenas-del-mapaton-mapeo-colectivo-area-reconquista/</link>
+	  <link>//escenas-del-mapaton-mapeo-colectivo-area-reconquista</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-11-19T06:58:16+00:00</pubDate>
-	  <guid>//2015/11/escenas-del-mapaton-mapeo-colectivo-area-reconquista/</guid>
+	  <guid>//escenas-del-mapaton-mapeo-colectivo-area-reconquista</guid>
 	  <description><![CDATA[
 	     <p><a href="http://noticias.unsam.edu.ar/2015/11/17/mapaton-cartografia-colectiva-de-jose-leon-suarez-en-la-escuela-secundaria-tecnica/">Crónica y escenas del mapeo colectivo que se inció el 14/11</a></p>
 
@@ -71,12 +69,12 @@
 
 	<item>
 	  <title>Plantilla Camino del Héroe | Inglés, Prácticas del Lenguaje y HTML</title>
-	  <link>//2015/11/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html/</link>
+	  <link>//plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-11-18T15:26:41+00:00</pubDate>
-	  <guid>//2015/11/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html/</guid>
+	  <guid>//plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
 	  <description><![CDATA[
-	     <p><img class="wp-image-2610 alignleft" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
+	     <p><img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
 
 <p>Plantilla del proyecto Camino del Héroe.</p>
 
@@ -96,20 +94,15 @@
 
 	<item>
 	  <title>LaTex | Capítulo 1</title>
-	  <link>//2015/09/latex-capitulo-1/</link>
+	  <link>//latex-capitulo-1</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2015-09-19T13:33:00+00:00</pubDate>
-	  <guid>//2015/09/latex-capitulo-1/</guid>
+	  <guid>//latex-capitulo-1</guid>
 	  <description><![CDATA[
-	     <div id="outline-container-orgheadline1" class="outline-2">
-<h2><img class="alignnone" src="http://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" alt="tipeando" width="495" height="296" /></h2>
-<h2 id="orgheadline1"><a id="o2b:ae379726-b412-4bbc-959b-642201af5d19"></a>Qué es LaTeX</h2>
-<div id="text-orgheadline1" class="outline-text-2">
+	     <p><a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.</p>
 
-<a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.
-
-</div>
-</div>
+<p>&lt;/div&gt;
+&lt;/div&gt;</p>
 <div id="outline-container-orgheadline2" class="outline-2">
 <h2 id="orgheadline2">Cómo nos podemos beneficiar de él</h2>
 <div id="text-orgheadline2" class="outline-text-2">

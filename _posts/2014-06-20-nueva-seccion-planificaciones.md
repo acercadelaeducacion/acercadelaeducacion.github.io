@@ -5,7 +5,12 @@ date: 2014-06-20T14:03:10+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2462
-permalink: /2014/06/nueva-seccion-planificaciones/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/06/lain150x1501.gif'
 dsq_thread_id:
   - "2781625537"
 bitly_url:

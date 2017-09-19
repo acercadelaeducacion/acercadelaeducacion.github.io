@@ -5,7 +5,12 @@ date: 2014-04-03T09:47:32+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2357
-permalink: /2014/04/competencias-i/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/04/Hipnosapo1.gif'
 dsq_thread_id:
   - "2583211226"
 bitly_url:
@@ -16,8 +21,8 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2014/04/competencias-i/
 image: /wp-content/uploads/2014/04/Hipnosapo1.gif
 categories:
-  - La vida esta en otro lado
 tags:
+  - La vida esta en otro lado
   - Educación
   - pensamientos
 ---

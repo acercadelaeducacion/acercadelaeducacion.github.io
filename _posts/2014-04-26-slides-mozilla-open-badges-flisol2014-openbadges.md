@@ -5,7 +5,12 @@ date: 2014-04-26T08:25:20+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2425
-permalink: /2014/04/slides-mozilla-open-badges-flisol2014-openbadges/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/04/kakashi.gif'
 dsq_thread_id:
   - "2640280509"
 bitly_url:
@@ -25,7 +30,7 @@ tags:
   - Presentacion
   - slides
 ---
-<img class="alignleft size-full wp-image-2427" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/04/kakashi.gif" alt="kakashi" width="500" height="281" />Entre ayer y hoy voy a estar dando <a title="Eventos" href="https://events.webmaker.org/#!/user/amaciel" target="_blank">3 o 4 charlas</a> en el marco del <a href="http://flisol.info" target="_blank">FLISoL</a>.
+Entre ayer y hoy voy a estar dando <a title="Eventos" href="https://events.webmaker.org/#!/user/amaciel" target="_blank">3 o 4 charlas</a> en el marco del <a href="http://flisol.info" target="_blank">FLISoL</a>.
 
 <a title="Slides" href="http://acercadelaeducacion.com.ar/presentaciones/openbadges/firefox-open-badges_es.html" target="_blank">Estos son los slides.</a>
 

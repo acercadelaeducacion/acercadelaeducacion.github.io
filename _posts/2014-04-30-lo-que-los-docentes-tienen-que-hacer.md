@@ -5,7 +5,12 @@ date: 2014-04-30T09:31:28+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2433
-permalink: /2014/04/lo-que-los-docentes-tienen-que-hacer/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/04/frustrated.gif'
 dsq_thread_id:
   - "2649049276"
 bitly_url:
@@ -16,8 +21,8 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2014/04/lo-que-los-docentes-tienen-que-hacer/
 image: /wp-content/uploads/2014/04/frustrated.gif
 categories:
-  - Educación
 tags:
+  - Educación
   - pensamientos
 ---
 Re formulación de un arrebato de ira en una lista de mail

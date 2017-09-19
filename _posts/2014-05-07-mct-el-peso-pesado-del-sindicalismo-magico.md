@@ -5,7 +5,12 @@ date: 2014-05-07T21:42:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2452
-permalink: /2014/05/mct-el-peso-pesado-del-sindicalismo-magico/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/05/mct.jpg'
 dsq_thread_id:
   - "2668738215"
 bitly_url:
@@ -21,4 +26,4 @@ tags:
   - La vida está en otro lado
 format: image
 ---
-[caption id="attachment_2453" align="aligncenter" width="320"]<img class="wp-image-2453 size-full" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/05/mct.jpg" alt="Movilización contra la realidad" width="320" height="457" /> Mi Compañero TOTORO[/caption]
+![Mi compañero TOTORO](/wp-content/uploads/2014/05/mct.jpg)

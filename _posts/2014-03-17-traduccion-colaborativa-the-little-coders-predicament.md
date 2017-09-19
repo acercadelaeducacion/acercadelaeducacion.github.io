@@ -5,7 +5,12 @@ date: 2014-03-17T08:54:57+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2349
-permalink: /2014/03/traduccion-colaborativa-the-little-coders-predicament/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/03/hackety_org_header.png'
 dsq_thread_id:
   - "2450408769"
 bitly_url:

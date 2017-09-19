@@ -49,10 +49,10 @@
 
 	<item>
 	  <title>Nueva sección: Planificaciones</title>
-	  <link>//2014/06/nueva-seccion-planificaciones/</link>
+	  <link>//nueva-seccion-planificaciones</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2014-06-20T14:03:10+00:00</pubDate>
-	  <guid>//2014/06/nueva-seccion-planificaciones/</guid>
+	  <guid>//nueva-seccion-planificaciones</guid>
 	  <description><![CDATA[
 	     <p>Abro una nueva sección en el blog, más que sección es un deposito de ideas y prácticas y frustraciones desde aula.</p>
 
@@ -71,12 +71,12 @@
 
 	<item>
 	  <title>Por qué usar github para bloguear | Primer post usando #octopress</title>
-	  <link>//2014/05/por-que-usar-github-para-bloguear-primer-post-usando-octopress/</link>
+	  <link>//por-que-usar-github-para-bloguear-primer-post-usando-octopress</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2014-05-07T20:05:13+00:00</pubDate>
-	  <guid>//2014/05/por-que-usar-github-para-bloguear-primer-post-usando-octopress/</guid>
+	  <guid>//por-que-usar-github-para-bloguear-primer-post-usando-octopress</guid>
 	  <description><![CDATA[
-	     <p><a href="http://acercadelaeducacion.github.io/"><img class="alignleft wp-image-2445 size-thumbnail" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/05/happy-150x150.gif" alt="" width="150" height="150" /></a><a title="Post on github" href="http://acercadelaeducacion.github.io/" target="_blank">Por qué usar github para bloguear | Primer post usando #octopress</a></p>
+	     <p>&lt;/a&gt;<a title="Post on github" href="http://acercadelaeducacion.github.io/" target="_blank">Por qué usar github para bloguear | Primer post usando #octopress</a></p>
 
 	  ]]></description>
 	</item>

@@ -5,7 +5,7 @@
    
       <title>acercadelaeducacion.io/</title>
    
-   <link>http://acercadelaeducacion.github.io/</link>
+   <link>http://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
    <language>es-es</language>
    <managingEditor> Alvar Maciel</managingEditor>
@@ -21,36 +21,6 @@
 	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
 
 <p><a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/">https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/</a></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Notas a la inciativa Webmaker Clubs de Mozilla 1. #TeachTheWeb #Webmaker</title>
-	  <link>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</link>
-	  <author>Alvar Maciel</author>
-	  <pubDate>2014-12-23T08:07:00+00:00</pubDate>
-	  <guid>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</guid>
-	  <description><![CDATA[
-	     <p><img class="alignleft wp-image-2531" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/12/pensando.gif" alt="pensando" width="370" height="207" />A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
-<ul class="org-ul">
-	<li>Mejorar la calidad de la enseñanza y el aprendizaje.</li>
-	<li>Fortalecer Redes comunitarias locales.</li>
-	<li>Conservar colaboradores.</li>
-</ul>
-<p>Con la idea de construir de forma <b>abierta</b> con usuarios y colaboradores líderes basándose en sus necesidades e intereses, comienza a delinearse el documento base sobre <b><a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a></b>.</p>
-
-<!--more-->
-<h2 id="seccion1">¿Qué son los clubs?</h2>
-<p>Por ahora es un término “comodín”. Al ser una idea en desarrollo, puede o no estar asociado a lo que comúnmente llamamos “clubs”. El término está para ayudarnos a mantener nuestras ideas en torno a un sustantivo. Puede mantenerse o cambiar, ya se verá en la marcha.</p>
-
-<p>Podemos anticipar que los clubs cuentan aproximadamente con los siguientes elementos:</p>
-<h3 id="seccion1.1">Una serie de actividades.</h3>
-<p>Una colección de actividades para aprender sobre la web.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Estás incluyen instrucciones para los mentores sobre como facilitar las actividades y materiales para los aprendientes. Puede haber formas de reconocer los aprendizajes y la participación en estas actividades.
-<strong>Hipótesis:</strong> Creemos que estás actividades deben ser <b>modulares y remixzables</b>, de manera que los mentores puedan modificarlas <b>fácilmente</b> a sus necesidades. Pero deben ser <b>simples de usar</b> para que los mentores se sientan confiados en su uso. También creemos que a los aprendientes les va mejor <b>hacen cosas juntos</b> y <b>agencian sus propios aprendizajes</b>.</p>
-<h4 id="notas">Notas:</h4>
-<p><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup></p>
-<p class="footpara">Pensaría también en términos de secuencia de actividades, además de colección a menos que esta incluya a las primeras. Sobre esto: <a title="Enlace a la discusión" href="http://discourse.webmaker.org/t/about-a-series-of-activities-collections-and-or-sequences/1098" target="_blank">abrí un tema en la plataforma de discusión de Webmaker</a></p>
 
 	  ]]></description>
 	</item>
@@ -336,6 +306,23 @@ Si estás interesado <em><a href="http://doodle.com/knpyc2kfa79k2xzd" title="Doo
 	<li><strong>Registros en línea todos los jueves</strong>. Puede contribuir a las conversaciones en curso via <a href="http://mzl.la/gpluswebmaker⏎">Google Plus</a> y <a title="#teachtheweb" href="https://twitter.com/search?q=%23teachtheweb&amp;src=typd">Chats de Twitter</a></li>
 	<li><strong>Asista a una reunión de seguimiento en linea</strong> con otros participantes del curso el 2 de Mayo, 23 de mayo, 13 de Junio a las 4pm (UTC) (Teach TBD!)</li>
 </ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Enseñar la web | Curso Abierto masivo y On-Line #teachtheweb</title>
+	  <link>//2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2013-04-23T20:35:49+00:00</pubDate>
+	  <guid>//2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</guid>
+	  <description><![CDATA[
+	     <p>Esta otra traducción al vuelo, en este caso el trailer del curso de <strong><a href="http://mozilla.org">Mozilla</a></strong> <a href="http://webmaker.org/teach"><strong>Teach The Web</strong></a>. Los subtítulos los agregé vía dotsub y luego remixé el proyecto con <a href="https://webmaker.org/en-US/tools/#popcorn-maker">popcorn</a>.</p>
+
+<iframe src="http://popcorn.webmadecontent.org/yts_" height="358" width="560" allowfullscreen="" frameborder="0"></iframe>
+<h3>Transcripción al vuelo.</h3>
+<p>Mozilla WebMaker trata sobre construir una nueva generación de creadores digitales y hacedores de la red (Webmakers desde ahora).
+Juntos queremos enseñarle al mundo la Web y queremos que vos te nos unas, entonces, para hacer esto más fácil, estamos ofreciendo un Curso Online Abierto y Gratuito. El curso se llama Teach The Web y es un Curso Online abierto y masivo (MOOC) para mentores de webmaker y cualquiera que quiera curiosear sobre habilidades digitales, alfabetizaciones web, y construcciones web básicas, como HTML, CSS y JavaScript. El curso va del 2 de Mayo hasta el 30 de Junio. Podes empezar en en cualquier momento e invertir tanto como tiempo como quieras cada semana. Mentores y educadores se reunirán para compartir prácticas y consejos enseñando sobre alfabetizaciones web y programando. Todo esto a través de un abordaje práctico y divertido. Te conectarás con otros educadores, técnicos y expertos en su campo y más importante, tendrás preparación y soporte para la proxima gran campaña de aprendizaje de verano: Maker party 2013. Donde gente de todo el mundo se junta en grandes y pequeños eventos para enseñar la web y aprender juntos. El año pasado hubo alrededor de 700 de estos eventos en todo el mundo y este año, con tu ayuda, esperamos doblar ese número. Entonces, asi es como podés participar: Te podes registras para el Curso Online Abierto y Gratuito o conocer más en webmaker.org/teach, podés pedir ayuda y preguntar en cualquier momento usando el hash #teachtheweb o empezar a enseñar ahora, accediendo a los kits gratuitos, recursos de enseñanza y guías de eventos que son libres, remixables y divertidos para aprender más, entrá a <a href="http://webmaker.org/teach">webmaker.org/teach</a></p>
 
 	  ]]></description>
 	</item>

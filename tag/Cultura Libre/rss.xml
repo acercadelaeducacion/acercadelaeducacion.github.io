@@ -5,7 +5,7 @@
    
       <title>acercadelaeducacion.io/</title>
    
-   <link>http://acercadelaeducacion.github.io/</link>
+   <link>http://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
    <language>es-es</language>
    <managingEditor> Alvar Maciel</managingEditor>
@@ -215,12 +215,12 @@ imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/grav
 
 	<item>
 	  <title>Notas a la inciativa Webmaker Clubs de Mozilla 1. #TeachTheWeb #Webmaker</title>
-	  <link>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</link>
+	  <link>//notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2014-12-23T08:07:00+00:00</pubDate>
-	  <guid>//2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/</guid>
+	  <guid>//notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</guid>
 	  <description><![CDATA[
-	     <p><img class="alignleft wp-image-2531" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/12/pensando.gif" alt="pensando" width="370" height="207" />A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
+	     <p>A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
 <ul class="org-ul">
 	<li>Mejorar la calidad de la enseñanza y el aprendizaje.</li>
 	<li>Fortalecer Redes comunitarias locales.</li>
@@ -245,10 +245,10 @@ imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/grav
 
 	<item>
 	  <title>Charla | Herramintas Distribuidas para planificar</title>
-	  <link>//2014/11/charla-herramintas-distriibuidas-para-planificar/</link>
+	  <link>//charla-herramintas-distriibuidas-para-planificar</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2014-11-03T10:45:16+00:00</pubDate>
-	  <guid>//2014/11/charla-herramintas-distriibuidas-para-planificar/</guid>
+	  <guid>//charla-herramintas-distriibuidas-para-planificar</guid>
 	  <description><![CDATA[
 	     <p><a href="https://rawgit.com/acercadelaeducacion/charlas-talleres/master/HerramientasDistribuidas/Presentacion/index.html">Acá están las diapositivas de la Charla dada en el <strong>SqueakFest 2014</strong></a></p>
 
@@ -259,12 +259,12 @@ imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/grav
 
 	<item>
 	  <title>Aula Taller | último eslabón del anillo de recursos para el aula</title>
-	  <link>//2014/08/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula/</link>
+	  <link>//aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2014-08-22T10:36:51+00:00</pubDate>
-	  <guid>//2014/08/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula/</guid>
+	  <guid>//aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
 	  <description><![CDATA[
-	     <p><img class="alignright wp-image-2509 size-full" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/08/boss.gif" alt="boss" width="500" height="276" />Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
+	     <p>Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
 
 <p>En el sitio <a href="http://acercadelaeducacion.github.io/">acerca de la educación [versión github]</a> mantengo un blog que funciona como diario de aula y repositorio de ideas. Y para los chicos y chicas tengo el blog <a href="http://acercadelaeducacion.github.io/aulataller">Aula Taller</a> donde cargo las actividades que hacemos en clase.</p>
 
@@ -295,23 +295,13 @@ imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/grav
 	</item>
 
 	<item>
-	  <title>Nueva sección: Planificaciones</title>
-	  <link>//2014/06/nueva-seccion-planificaciones/</link>
+	  <title>Del blog a la wiki cambios para planificar</title>
+	  <link>//del-blog-a-la-wiki-cambios-para-planificar</link>
 	  <author>Alvar Maciel</author>
-	  <pubDate>2014-06-20T14:03:10+00:00</pubDate>
-	  <guid>//2014/06/nueva-seccion-planificaciones/</guid>
+	  <pubDate>2014-07-09T16:18:48+00:00</pubDate>
+	  <guid>//del-blog-a-la-wiki-cambios-para-planificar</guid>
 	  <description><![CDATA[
-	     <p>Abro una nueva sección en el blog, más que sección es un deposito de ideas y prácticas y frustraciones desde aula.</p>
-
-<p>El proceso es simple, planifico y posteo en un mismo espacio. Hago de ambas cosas en un solo lugar, lo que implica que en el espacio de planificación se reflejen las ideas previas a la práctica y las modificaciones de las prácticas a las ideas.</p>
-
-<p>El sitio no tiene mucho filtro de edición, como dije antes: el lugar donde planifico es el sitio donde publico.</p>
-
-<p>Dejo entonces el link:</p>
-
-<p><a href="http://acercadelaeducacion.github.io/" title="blog experimental">Acerca de la Educación [versión GitHub]</a></p>
-
-<p> </p>
+	     <p><a href="http://acercadelaeducacion.github.io/blog/2014/07/09/del-blog-a-la-wiki-para-planificar/" target="_blank"> Del blog a la Wiki cambios para planificar</a></p>
 
 	  ]]></description>
 	</item>

@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Author</title>
+    <title>Acerca de la Educación</title>
     <meta name="description" content="Acerca de la Educación - Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
 
     <meta name="HandheldFriendly" content="True" />
@@ -73,9 +73,15 @@
         <li class="nav-fables " role="presentation"><a href="/tag/Para Eva y Sol">Para Eva y Sol</a></li>
         <li class="nav-speeches " role="presentation"><a href="/tag/Educación">Educación</a></li>
         <li class="nav-fiction " role="presentation"><a href="/tag/La vida está en otro lado">La vida está en otro lado</a></li>
-        <li class="nav-author  nav-current" role="presentation"><a href="/author/casper">Author</a></li>
+        <li class="nav-author " role="presentation"><a href="/author/casper">Author</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="/feed.xml">Subscribe</a>
+
+    <form action="/search.html" method="get">
+    		<label for="search_box">Buscar</label>
+    		<input type="text" id="search_box" name="query">
+    		<input type="submit" value="search">
+    </form>
 </div>
 <span class="nav-cover"></span>
 
@@ -83,55 +89,46 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default}} -->
+        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
+
+
+<!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The big featured header -->
-
-<!-- Everything inside the #author tags pulls data from the author -->
-<!-- #author  -->
-    <header class="main-header author-head " style="background-image: url(/assets/images/cover4.jpg) ">
-        <nav class="main-nav overlay clearfix">
-            <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
+<!-- If we have a tag cover, display that - else blog cover - else nothing -->
+<header class="main-header tag-head " style="background-image: url(/assets/images/cover2.jpg) ">
+    <nav class="main-nav overlay clearfix">
+        <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
+        
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">Educación</h1>
+            <h2 class="page-description">
             
-                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+			    A 89-post collection
             
-        </nav>
-    </header>
-
-    <section class="author-profile inner">
-        
-        <figure class="author-image">
-            <div class="img" style="background-image: url(/assets/images/lain.gif)"><span class="hidden">Alvar Maciel's Picture</span></div>
-        </figure>
-        
-        <h1 class="author-title">Alvar Maciel</h1>
-        
-            <h2 class="author-bio">Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.</h2>
-        
-        <div class="author-meta">
-            <span class="author-location icon-location">Buenos Aires, Argentina</span>
-            <span class="author-link icon-link"><a href="http://acercadelaeducacion.github.io/">acercadelaeducacion.io/</a></span>
-            <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
-            <span class="author-stats"><i class="icon-stats"></i>18 posts</span>
+            </h2>
         </div>
-    </section>
-<!-- /author -->
+    </div>
+</header>
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs  -->
+    <!-- The tag below includes the post loop - partials/loop.hbs -->
         <!-- Previous/next page links - only displayed on page 2+ -->
     <div class="extra-pagination inner">
         
             <nav class="pagination" role="pagination">
     
         
-            <a class="newer-posts" href="/author/Alvar/page2/" title="Previous Page">&laquo; Newer Posts</a>
+            <a class="newer-posts" href="/tag/Educación/page11/" title="Previous Page">&laquo; Newer Posts</a>
       
     
-    <span class="page-number"> Page 3 of 3 </span>
+    <span class="page-number"> Page 12 of 12 </span>
      
 </nav>
         
@@ -141,10 +138,12 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/201302estandares-en-alfabetizacion-web-introduccion-weblitstd">Estándares en Alfabetización Web | Introducción | #weblitstd</a></h2>
+            <h2 class="post-title"><a href="/200709una-imagen-mas-palabras-valen-mas-que-mil-explicaciones">una imagen, más palabras, valen más que mil explicaciones</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>....Creemos que se aprende aquello que tiene sentido para uno y que se aprende a escribir escribiendo y a leer, leyendo..." Ana María Kauffman. Leer y... <a class="read-more" href="/201302estandares-en-alfabetizacion-web-introduccion-weblitstd">&raquo;</a></p>
+            <p>vía: bloc de periodista
+
+ <a class="read-more" href="/200709una-imagen-mas-palabras-valen-mas-que-mil-explicaciones">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -155,51 +154,23 @@
                 on 
                 
                     
-                       <a href='/tag/Alfabetización'>Alfabetización</a>,
+                       <a href='/tag/Educación'>Educación</a>,
                        
                 
                     
-                       <a href='/tag/Emacs'>Emacs</a>,
+                       <a href='/tag/Noticias'>Noticias</a>,
                        
                 
                     
-                       <a href='/tag/estalfweb'>Estalfweb</a>,
+                       <a href='/tag/Recursos'>Recursos</a>,
                        
                 
                     
-                       <a href='/tag/org2blog'>Org2blog</a>
+                       <a href='/tag/Web X.X'>Web x.x</a>
                        
                 
             
-            <time class="post-date" datetime="2013-02-21">21 Feb 2013</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/201211como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web">Cómo traducir proyectos en #Thimble #Webmaker [para hacer y deshacer la web]</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Esto es una copia exacta de alguien que explica mucho mejor aquello en lo que yo me enredo [@deimidis] vía Localizando proyectos en Thimble Webmaker |... <a class="read-more" href="/201211como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/author/Alvar'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/¿Cómo?'>¿cómo?</a>,
-                       
-                
-                    
-                       <a href='/tag/Thimble'>Thimble</a>
-                       
-                
-            
-            <time class="post-date" datetime="2012-11-19">19 Nov 2012</time>
+            <time class="post-date" datetime="2007-09-29">29 Sep 2007</time>
         </footer>
     </article>
     
@@ -209,17 +180,16 @@
         <nav class="pagination" role="pagination">
     
         
-            <a class="newer-posts" href="/author/Alvar/page2/" title="Previous Page">&laquo; Newer Posts</a>
+            <a class="newer-posts" href="/tag/Educación/page11/" title="Previous Page">&laquo; Newer Posts</a>
       
     
-    <span class="page-number"> Page 3 of 3 </span>
+    <span class="page-number"> Page 12 of 12 </span>
      
 </nav>
     
 
 
 </main>
-
 
         <footer class="site-footer clearfix">
           <section class="copyright"><a href="/">Acerca de la Educación</a> &copy; 2017</section>

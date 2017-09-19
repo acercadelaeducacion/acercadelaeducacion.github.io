@@ -16,7 +16,7 @@ author: 'Alvar Maciel'
 nickname: Alvar
 bio: 'Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.'
 location: 'Buenos Aires, Argentina'
-url: 'http://acercadelaeducacion.com.ar/'
+url: 'http://acercadelaeducacion.github.io/'
 image: 'assets/images/lain.gif'
 
 short_url: 'acercadelaeducacion.io/'
@@ -61,7 +61,7 @@ repo: acercadelaeducacion.github.io
 branch: source
 relative_source: ../
 destination: ../jasper-pages/
-production_url: http://acercadelaeducacion.com.ar/
+production_url: http://acercadelaeducacion.github.io/
 source_url: https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
 
 exclude:

@@ -5,7 +5,12 @@ date: 2014-03-15T11:56:49+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2338
-permalink: /2014/03/narrativas-digitales-algunos-pensamientos-mas/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 dsq_thread_id:
   - "2436326379"
 bitly_url:

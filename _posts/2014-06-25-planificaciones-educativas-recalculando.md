@@ -5,7 +5,12 @@ date: 2014-06-25T11:54:52+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2471
-permalink: /2014/06/planificaciones-educativas-recalculando/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/06/cambios.gif'
 dsq_thread_id:
   - "2794341755"
 bitly_url:

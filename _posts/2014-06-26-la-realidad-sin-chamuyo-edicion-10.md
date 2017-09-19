@@ -5,7 +5,12 @@ date: 2014-06-26T19:09:31+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2475
-permalink: /2014/06/la-realidad-sin-chamuyo-edicion-10/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/06/10.gif'
 dsq_thread_id:
   - "2798024557"
 bitly_url:

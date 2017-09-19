@@ -5,7 +5,12 @@ date: 2014-06-30T22:04:23+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2479
-permalink: /2014/06/planificacion-semana-30-de-junio-2014/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/06/cansancio1.gif'
 dsq_thread_id:
   - "2808319187"
 bitly_url:
@@ -23,4 +28,4 @@ tags:
   - Planificaciones
 format: link
 ---
-<img class="alignleft  wp-image-2481" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/06/cansancio1.gif" alt="cansancio" width="196" height="110" /><a title="Al blog en github" href="http://acercadelaeducacion.github.io/blog/2014/06/30/semana-30-de-junio-2014/" target="_blank">Planificación Semana 30 de Junio</a>
+<a title="Al blog en github" href="http://acercadelaeducacion.github.io/blog/2014/06/30/semana-30-de-junio-2014/" target="_blank">Planificación Semana 30 de Junio</a>

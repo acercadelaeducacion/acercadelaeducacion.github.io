@@ -5,7 +5,12 @@ date: 2014-07-09T16:18:48+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2484
-permalink: /2014/07/del-blog-a-la-wiki-cambios-para-planificar/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/07/cambios2.gif'
 dsq_thread_id:
   - "2830799600"
 bitly_url:
@@ -16,11 +21,11 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2014/07/del-blog-a-la-wiki-cambios-para-planificar/
 image: /wp-content/uploads/2014/07/cambios2.gif
 categories:
-  - Cultura Libre
   - Educación
 tags:
+  - Cultura Libre
   - Educación
   - Planificaciones
 format: link
 ---
-<a href="http://acercadelaeducacion.github.io/blog/2014/07/09/del-blog-a-la-wiki-para-planificar/" target="_blank"><img class="alignleft  wp-image-2485" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/07/cambios2.gif" alt="cambios2" width="214" height="101" /> Del blog a la Wiki cambios para planificar</a>
+<a href="http://acercadelaeducacion.github.io/blog/2014/07/09/del-blog-a-la-wiki-para-planificar/" target="_blank"> Del blog a la Wiki cambios para planificar</a>

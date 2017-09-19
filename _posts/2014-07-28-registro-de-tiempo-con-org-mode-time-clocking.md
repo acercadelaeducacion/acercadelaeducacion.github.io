@@ -5,7 +5,12 @@ date: 2014-07-28T09:30:43+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2491
-permalink: /2014/07/registro-de-tiempo-con-org-mode-time-clocking/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/07/naquehacer.gif'
 dsq_thread_id:
   - "2879575853"
 bitly_url:
@@ -19,4 +24,4 @@ categories:
   - microblog
 format: link
 ---
-<img class="alignleft size-full wp-image-2492" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/07/naquehacer.gif" alt="naquehacer" width="500" height="281" /> <a title="Registro de tiempo con org-mode" href="http://acercadelaeducacion.github.io/blog/2014/07/27/registro-de-tiempo-con-org-mode-time-clocking/" target="_blank">Registro De Tiempo Con #Org-Mode | Time Clocking</a>
+<a title="Registro de tiempo con org-mode" href="http://acercadelaeducacion.github.io/blog/2014/07/27/registro-de-tiempo-con-org-mode-time-clocking/" target="_blank">Registro De Tiempo Con #Org-Mode | Time Clocking</a>

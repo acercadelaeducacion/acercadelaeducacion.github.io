@@ -5,7 +5,12 @@ date: 2014-12-23T08:07:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2528
-permalink: /2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'wp-content/uploads/2014/12/pensando.gif'
 dsq_thread_id:
   - "3352294580"
 bitly_url:
@@ -17,15 +22,15 @@ bitly_long_url:
 categories:
   - Cultura Libre
   - Educación
+tags:
   - emacs
-  - Mozilla
   - org2blog
   - Webmaker
-tags:
+  - Mozilla
   - Cultura Libre
   - Educación
 ---
-<img class="alignleft wp-image-2531" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2014/12/pensando.gif" alt="pensando" width="370" height="207" />A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:
+A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:
 <ul class="org-ul">
 	<li>Mejorar la calidad de la enseñanza y el aprendizaje.</li>
 	<li>Fortalecer Redes comunitarias locales.</li>

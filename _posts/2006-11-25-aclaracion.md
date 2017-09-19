@@ -5,7 +5,12 @@ date: 2006-11-25T21:54:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=14
-permalink: /2006/11/aclaracion/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com

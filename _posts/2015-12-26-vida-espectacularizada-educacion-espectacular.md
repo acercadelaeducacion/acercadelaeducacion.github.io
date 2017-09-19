@@ -22,6 +22,7 @@ bitly_long_url:
 image: /wp-content/uploads/2014/04/Hipnosapo1.gif
 categories:
   - Educación
+  - Alvar
 tags:
   - Educación
   - Guy Debord

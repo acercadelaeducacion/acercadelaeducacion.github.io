@@ -5,7 +5,12 @@ date: 2006-11-25T20:53:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=13
-permalink: /2006/11/seminario-de-pedagogia/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_permalink:
   - /2006/11/seminario-de-pedagoga.html
   - /2006/11/seminario-de-pedagoga.html

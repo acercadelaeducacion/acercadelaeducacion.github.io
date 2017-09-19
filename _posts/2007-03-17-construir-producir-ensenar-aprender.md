@@ -5,7 +5,12 @@ date: 2007-03-17T15:38:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=16
-permalink: /2007/03/construir-producir-ensenar-aprender/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'http://farm1.static.flickr.com/132/323354197_99180ee29f.jpg?v=0'
 blogger_permalink:
   - /2007/03/construir-producir-ensear-aprender.html
   - /2007/03/construir-producir-ensear-aprender.html

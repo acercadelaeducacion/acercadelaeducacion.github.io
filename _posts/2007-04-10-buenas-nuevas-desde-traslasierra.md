@@ -5,7 +5,12 @@ date: 2007-04-10T18:13:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=31
-permalink: /2007/04/buenas-nuevas-desde-traslasierra/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -23,9 +28,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/buenas-nuevas-desde-traslasierra/
 categories:
-  - Novedades
+  - Alvar
 tags:
-  - Daniel Kerchman
+  - Daniel Kirchman
+  - Educación
+  - TD
 ---
 <span style="font-family: Verdana"><a href="http://danielkaar.wordpress.com/">Daniel I. Krichman</a> se ha convertido en un punto de referencia obligado para mi a la hora de pensar la <a href="http://danielkaar.wordpress.com/2007/03/12/el-futuro-de-la-educacion-virtual/trackback/">Educación mediada por las TIC</a>.
 Ahora nos acerca netAbras <a href="http://www.netabras.com.ar/centrorecursos/index.htm">Recursos para aprender:</a>

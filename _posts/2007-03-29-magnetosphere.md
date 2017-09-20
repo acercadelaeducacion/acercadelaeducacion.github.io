@@ -5,7 +5,12 @@ date: 2007-03-29T21:55:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=22
-permalink: /2007/03/magnetosphere/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -26,6 +31,9 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/03/magnetosphere/
 categories:
   - Novedades
+  - Alvar
+tags:
+ - La vida está en otro lado
 ---
 <object height="339" width="420">
 <param name="movie" value="http://www.dailymotion.com/swf/x1gkm0"></param>

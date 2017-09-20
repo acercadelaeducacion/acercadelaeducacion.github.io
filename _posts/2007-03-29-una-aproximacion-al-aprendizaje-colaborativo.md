@@ -5,7 +5,12 @@ date: 2007-03-29T01:05:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=21
-permalink: /2007/03/una-aproximacion-al-aprendizaje-colaborativo/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -26,7 +31,9 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/03/una-aproximacion-al-aprendizaje-colaborativo/
 categories:
   - Novedades
+  - Alvar
 tags:
+  - Educación
   - aprendizaje colaborativo
   - El Hecho
   - Normal 1

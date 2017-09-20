@@ -5,7 +5,7 @@ date: 2007-04-07T22:52:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=28
-permalink: /2007/04/pegarle-a-un-maestro/
+
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,7 +25,10 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/pegarle-a-un-maestro/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - Educación
+  - Para Eva y Sol
 ---
 Viernes 6 de abril de 2007
 

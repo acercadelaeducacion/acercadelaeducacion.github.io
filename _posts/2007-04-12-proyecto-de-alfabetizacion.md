@@ -5,7 +5,12 @@ date: 2007-04-12T11:41:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=33
-permalink: /2007/04/proyecto-de-alfabetizacion/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -23,7 +28,10 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/proyecto-de-alfabetizacion/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - TD
+  - Educación
 ---
 Vía: <a href="http://www.pablomancini.com.ar/?p=1873">Pablo Mancini</a> nos llega esto:
 <blockquote>El <a href="http://www.google.es/literacy/index.html">Proyecto de Alfabetización de Google</a>, realizado <a href="http://www.un.org/spanish/News/fullstorynews.asp?NewsID=7982">junto a la Unesco</a> y <a href="http://weblog.educ.ar/sociedad-informacion/archives/008117.php">presentado en octubre pasado</a>, ya cuenta con su sitio en español: <a href="http://www.google.es/literacy/">www.google.es/literacy</a>. Es “un recurso para profesores, organizaciones para la alfabetización y todas aquellas personas interesadas en la lectura y la educación”.</blockquote>

@@ -4,7 +4,12 @@ title: Congreso Argentino de Estudios Sociales de la Ciencia y la Tecnología
 date: 2007-04-03T13:11:00+00:00
 author: Alvar
 layout: post
-guid: http://www.acercadelaeducacion.com.ar/?p=25
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 permalink: /2007/04/congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia/
 blogger_blog:
   - acercadelaeducacion.blogspot.com
@@ -25,7 +30,10 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - Educación
+  - TD
 ---
 via: <a href="http://www.aprenderlalibertad.org/blog/?p=188">Aprender la Libertad</a> me entero de este evento(que me pare muy interesante):
 <blockquote>Los días 5 y 6 de Julio de 2007 tendrá lugar el Primer Congreso Argentino de Estudios Sociales de la Ciencia y la Tecnología [<a href="http://www.arielvercelli.org/blog/?p=195">info completa</a>]. La sede será la Universidad Nacional de Quilmes y el evento está organizado por el Instituto de Estudios sobre la Ciencia y la Tecnologia (IEC - UNQ) y el Centro de Estudios de Historia de la Ciencia y la Tecnica “Jose Babini” (CEJB-UNSAM). Varios de los ejes del Congreso invitan a la presentación de artículos sobre tecnologías, innovación, producción colaborativa en redes distribuidas o, entre muchos otros, la construcción social de las tecnologías en el contexto educativo. Con Lucila y José vamos a prepara algunas cosas para el Congreso. Los 5 ejes principales son:

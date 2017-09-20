@@ -5,7 +5,12 @@ date: 2007-04-03T22:48:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=26
-permalink: /2007/04/agregadores/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -23,7 +28,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/agregadores/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - recursos
+  - Educación
+  - TD
 ---
 Con este post  comienzo a un serie de recursos orientados a los docentes con los que trabajo... y todo el resto de las personas que está leyendo (en especial mi mamá).
 Pretendo que estos recursos absolutamente prácticos. Así que allí vamos:

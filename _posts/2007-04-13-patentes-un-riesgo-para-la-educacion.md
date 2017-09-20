@@ -5,7 +5,12 @@ date: 2007-04-13T15:11:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=34
-permalink: /2007/04/patentes-un-riesgo-para-la-educacion/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -23,7 +28,10 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/patentes-un-riesgo-para-la-educacion/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - Cultura libre
+  - Educación
 ---
 <a href="http://freetrans.blogspot.com/"></a>Y qué me dicen de esto:
 Via<a href="http://barrapunto.com/article.pl?sid=07/04/13/1055209"> barrapunto</a>

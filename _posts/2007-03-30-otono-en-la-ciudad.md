@@ -5,7 +5,12 @@ date: 2007-03-30T13:15:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=23
-permalink: /2007/03/otono-en-la-ciudad/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -26,8 +31,10 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/03/otono-en-la-ciudad/
 categories:
   - Novedades
+  - Alvar
 tags:
   - Solett
+  - misc
 ---
 <p style="text-align: center"><a href="http://sp6.fotologs.net/photo/38/19/51/solett/1174669261_f.jpg"><img src="http://sp6.fotologs.net/photo/38/19/51/solett/1174669261_f.jpg" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 320px" border="0" /></a>Llegó el otoño con todo por estos pagos...
 entre agua e inundación...

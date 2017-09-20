@@ -5,7 +5,12 @@ date: 2007-03-30T15:55:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=24
-permalink: /2007/03/big-brother/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,7 +30,9 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/03/big-brother/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - misc
 ---
 Vía <a href="http://www.monuz.com.ar/?p=658"> Monuz </a>llegan estas reflexiones que me parecen interesantes en torno al uso y manejo de la información
 

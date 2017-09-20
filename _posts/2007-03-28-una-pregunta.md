@@ -5,7 +5,12 @@ date: 2007-03-28T22:35:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=19
-permalink: /2007/03/una-pregunta/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'http://bp2.blogger.com/_i1u0IG1Y3Lg/RgruXVMlvOI/AAAAAAAAACo/W9WRHcZiNxo/s320/norte+sur.png'
 blogger_permalink:
   - /2007/03/una-pregunta.html
   - /2007/03/una-pregunta.html
@@ -26,6 +31,9 @@ bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/03/una-pregunta/
 categories:
   - Novedades
+  - Alvar
+tags:
+  - La vida está en otro lado
 ---
 <a href="http://maps.bpl.org/id/05_01_000239"></a>
 <p style="text-align: center"><a href="http://maps.bpl.org/id/05_01_000239"><img src="http://bp2.blogger.com/_i1u0IG1Y3Lg/RgruXVMlvOI/AAAAAAAAACo/W9WRHcZiNxo/s320/norte+sur.png" alt="Mapa dado vuelta" align="top" border="0" /></a></p>

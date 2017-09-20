@@ -5,7 +5,12 @@ date: 2007-04-08T22:46:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=29
-permalink: /2007/04/aprendizaje-basado-en-problemas/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -23,7 +28,9 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/04/aprendizaje-basado-en-problemas/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - Educación
 ---
 Vía : <a href="http://e-rgonomic.blogspot.com/2007/03/problem-based-learning-o-aprendizaje.html">e-rgonomic</a><span style="text-decoration: underline"></span> leo este post con detallada información sobre esta técnica
 <blockquote>orientada a entrenar a los estudiantes a que aprendan a enfrentarse a una realidad compleja, caótica y permanentemente cambiante.</blockquote>

@@ -5,7 +5,12 @@ date: 2007-04-11T15:04:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=32
-permalink: '/2007/04/algunas-palabras-inocentes%e2%80%a6/'
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,10 +30,11 @@ bitly_hash:
 bitly_long_url:
   - 'http://www.acercadelaeducacion.com.ar/2007/04/algunas-palabras-inocentes%e2%80%a6/'
 categories:
-  - Novedades
+  - Alvar
 tags:
   - El Hecho
   - Normal 1
+  - Educación
 ---
 <span style="font-family: verdana;">Les dejo un <a href="http://docs.google.com/Doc?id=dg936ns6_18cnxjs3">vínculo a una nota </a>que escribí para en la revista <a href="http://www.internormales.com.ar/publicaciones.htm">El (h)echo</a> que publica el <a href="http://www.internormales.com.ar/normal1.htm">Centro de estudiantes del Normal 1</a>.
 Extracto.

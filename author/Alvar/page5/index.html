@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Acerca de la Educación</title>
+    <title>Author</title>
     <meta name="description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
 
     <meta name="HandheldFriendly" content="True" />
@@ -25,31 +25,31 @@
     <style>.hljs { background: none; }</style>
 
     <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
-    <link rel="canonical" href="http://acercadelaeducacion.com.ar//tag/TD/page2/" />
+    <link rel="canonical" href="http://acercadelaeducacion.com.ar//author/Alvar/page5/" />
     <meta name="referrer" content="origin" />
     <link rel="next" href="/page2/" />
 
     <meta property="og:site_name" content="Acerca de la Educación" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Acerca de la Educación" />
+    <meta property="og:title" content="Author" />
     <meta property="og:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
-    <meta property="og:url" content="http://acercadelaeducacion.com.ar//tag/TD/page2/" />
-    <meta property="og:image" content="/assets/images/cover2.jpg" />
+    <meta property="og:url" content="http://acercadelaeducacion.com.ar//author/Alvar/page5/" />
+    <meta property="og:image" content="/assets/images/cover4.jpg" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Acerca de la Educación" />
+    <meta name="twitter:title" content="Author" />
     <meta name="twitter:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
-    <meta name="twitter:url" content="http://acercadelaeducacion.com.ar//tag/TD/page2/" />
-    <meta name="twitter:image:src" content="/assets/images/cover2.jpg" />
+    <meta name="twitter:url" content="http://acercadelaeducacion.com.ar//author/Alvar/page5/" />
+    <meta name="twitter:image:src" content="/assets/images/cover4.jpg" />
 
     <script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "Website",
     "publisher": "Acerca de la Educación",
-    "name": "Acerca de la Educación",
-    "url": "http://acercadelaeducacion.com.ar//tag/TD/page2/",
-    "image": "/assets/images/cover2.jpg",
+    "name": "Author",
+    "url": "http://acercadelaeducacion.com.ar//author/Alvar/page5/",
+    "image": "/assets/images/cover4.jpg",
     "description": "Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes."
 }
     </script>
@@ -72,7 +72,7 @@
         <li class="nav-fables " role="presentation"><a href="/tag/Para Eva y Sol">Para Eva y Sol</a></li>
         <li class="nav-speeches " role="presentation"><a href="/tag/Educación">Educación</a></li>
         <li class="nav-fiction " role="presentation"><a href="/tag/La vida está en otro lado">La vida está en otro lado</a></li>
-        <li class="nav-author " role="presentation"><a href="/author/Alvar">Autor</a></li>
+        <li class="nav-author  nav-current" role="presentation"><a href="/author/Alvar">Autor</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="/feed.xml">Subscribirse</a>
 
@@ -88,46 +88,55 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
-
-
-<!-- < default}} -->
+        <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- If we have a tag cover, display that - else blog cover - else nothing -->
-<header class="main-header tag-head " style="background-image: url(/assets/images/cover2.jpg) ">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
-        
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-        
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Td</h1>
-            <h2 class="page-description">
+<!-- The big featured header -->
+
+<!-- Everything inside the #author tags pulls data from the author -->
+<!-- #author  -->
+    <header class="main-header author-head " style="background-image: url(/assets/images/cover4.jpg) ">
+        <nav class="main-nav overlay clearfix">
+            <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
             
-			    A 11-post collection
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
             
-            </h2>
+        </nav>
+    </header>
+
+    <section class="author-profile inner">
+        
+        <figure class="author-image">
+            <div class="img" style="background-image: url(/assets/images/lain.gif)"><span class="hidden">Alvar Maciel's Picture</span></div>
+        </figure>
+        
+        <h1 class="author-title">Alvar Maciel</h1>
+        
+            <h2 class="author-bio">Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.</h2>
+        
+        <div class="author-meta">
+            <span class="author-location icon-location">Buenos Aires, Argentina</span>
+            <span class="author-link icon-link"><a href="http://acercadelaeducacion.com.ar">acercadelaeducacion.io/</a></span>
+            <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
+            <span class="author-stats"><i class="icon-stats"></i>33 posts</span>
         </div>
-    </div>
-</header>
+    </section>
+<!-- /author -->
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs -->
+    <!-- The tag below includes the post loop - partials/loop.hbs  -->
         <!-- Previous/next page links - only displayed on page 2+ -->
     <div class="extra-pagination inner">
         
             <nav class="pagination" role="pagination">
     
         
-            <a class="newer-posts" href="/tag/TD" title="Previous Page">&laquo; Posts Nuevos</a>
-        
+            <a class="newer-posts" href="/author/Alvar/page4/" title="Previous Page">&laquo; Posts Nuevos</a>
+      
     
-    <span class="page-number"> Page 2 of 2 </span>
+    <span class="page-number"> Page 5 of 5 </span>
     
 </nav>
 
@@ -138,10 +147,10 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/pensar-la-web20-o-21">Pensar la web&#8230;2.0 o 2.1&#8230;</a></h2>
+            <h2 class="post-title"><a href="/una-pregunta">Una Pregunta</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Via: Pablo Mancini llega este post que nos lleva a Web 2.1: del yo-rey al nosotros-red y deja un excelente artículo para pensar la red y... <a class="read-more" href="/pensar-la-web20-o-21">&raquo;</a></p>
+            <p>En el siglo doce, el geógrafo oficial del reino de Sicilia, Al-Idrisi, trazó el mapa del mundo, el mundo que Europa conocía, con el sur arriba... <a class="read-more" href="/una-pregunta">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -152,71 +161,11 @@
                 on 
                 
                     
-                       <a href='/tag/TD'>Td</a>
+                       <a href='/tag/La vida está en otro lado'>La vida está en otro lado</a>
                        
                 
             
-            <time class="post-date" datetime="2007-04-09">09 Apr 2007</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/agregadores">Agregadores</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Con este post comienzo a un serie de recursos orientados a los docentes con los que trabajo… y todo el resto de las personas que está... <a class="read-more" href="/agregadores">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/author/Alvar'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/recursos'>Recursos</a>,
-                       
-                
-                    
-                       <a href='/tag/Educación'>Educación</a>,
-                       
-                
-                    
-                       <a href='/tag/TD'>Td</a>
-                       
-                
-            
-            <time class="post-date" datetime="2007-04-03">03 Apr 2007</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/200704congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia">Congreso Argentino de Estudios Sociales de la Ciencia y la Tecnología</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>via: Aprender la Libertad me entero de este evento(que me pare muy interesante): Los días 5 y 6 de Julio de 2007 tendrá lugar el Primer... <a class="read-more" href="/200704congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/author/Alvar'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/Educación'>Educación</a>,
-                       
-                
-                    
-                       <a href='/tag/TD'>Td</a>
-                       
-                
-            
-            <time class="post-date" datetime="2007-04-03">03 Apr 2007</time>
+            <time class="post-date" datetime="2007-03-28">28 Mar 2007</time>
         </footer>
     </article>
     
@@ -226,10 +175,10 @@
         <nav class="pagination" role="pagination">
     
         
-            <a class="newer-posts" href="/tag/TD" title="Previous Page">&laquo; Posts Nuevos</a>
-        
+            <a class="newer-posts" href="/author/Alvar/page4/" title="Previous Page">&laquo; Posts Nuevos</a>
+      
     
-    <span class="page-number"> Page 2 of 2 </span>
+    <span class="page-number"> Page 5 of 5 </span>
     
 </nav>
 
@@ -237,6 +186,7 @@
 
 
 </main>
+
 
         <footer class="site-footer clearfix">
           <section class="copyright"><a href="/">Acerca de la Educación</a> &copy; 2017</section>

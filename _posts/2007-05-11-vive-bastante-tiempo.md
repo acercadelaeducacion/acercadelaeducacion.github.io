@@ -5,7 +5,12 @@ date: 2007-05-11T17:43:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=44
-permalink: /2007/05/vive-bastante-tiempo/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'http://bp3.blogger.com/_i1u0IG1Y3Lg/RkS_1dEM-TI/AAAAAAAAADg/O0FmpxKpa3M/s1600-h/besos.jpg'
 blogger_permalink:
   - /2007/05/vivi-bastante-tiempo.html
   - /2007/05/vivi-bastante-tiempo.html
@@ -19,7 +24,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/vive-bastante-tiempo/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - Educación
+  - ESI
+  - Para Eva y Sol
 ---
 <a href="http://bp3.blogger.com/_i1u0IG1Y3Lg/RkS_1dEM-TI/AAAAAAAAADg/O0FmpxKpa3M/s1600-h/besos.jpg"><img style="float:left;cursor:pointer;margin:0 10px 10px 0;" src="http://bp3.blogger.com/_i1u0IG1Y3Lg/RkS_1dEM-TI/AAAAAAAAADg/O0FmpxKpa3M/s200/besos.jpg" border="0" alt="" /></a>
 Via <a href="http://llamamelola.com/2007/05/11/aides-my-boy-lollipop/">Llamame Lola</a> llegan estos spots de una campaña publicitaria para la prevención del SIDA.

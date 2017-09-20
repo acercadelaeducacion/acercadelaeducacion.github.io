@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>acerca de la educación</title>
+    <title>Author</title>
     <meta name="description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
 
     <meta name="HandheldFriendly" content="True" />
@@ -25,31 +25,31 @@
     <style>.hljs { background: none; }</style>
 
     <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
-    <link rel="canonical" href="http://acercadelaeducacion.com.ar//page46/" />
+    <link rel="canonical" href="http://acercadelaeducacion.com.ar//author/Alvar/page4/" />
     <meta name="referrer" content="origin" />
     <link rel="next" href="/page2/" />
 
     <meta property="og:site_name" content="Acerca de la Educación" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="acerca de la educación" />
+    <meta property="og:title" content="Author" />
     <meta property="og:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
-    <meta property="og:url" content="http://acercadelaeducacion.com.ar//page46/" />
-    <meta property="og:image" content="/assets/images/cover1.jpg" />
+    <meta property="og:url" content="http://acercadelaeducacion.com.ar//author/Alvar/page4/" />
+    <meta property="og:image" content="/assets/images/cover4.jpg" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="acerca de la educación" />
+    <meta name="twitter:title" content="Author" />
     <meta name="twitter:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
-    <meta name="twitter:url" content="http://acercadelaeducacion.com.ar//page46/" />
-    <meta name="twitter:image:src" content="/assets/images/cover1.jpg" />
+    <meta name="twitter:url" content="http://acercadelaeducacion.com.ar//author/Alvar/page4/" />
+    <meta name="twitter:image:src" content="/assets/images/cover4.jpg" />
 
     <script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "Website",
     "publisher": "Acerca de la Educación",
-    "name": "acerca de la educación",
-    "url": "http://acercadelaeducacion.com.ar//page46/",
-    "image": "/assets/images/cover1.jpg",
+    "name": "Author",
+    "url": "http://acercadelaeducacion.com.ar//author/Alvar/page4/",
+    "image": "/assets/images/cover4.jpg",
     "description": "Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes."
 }
     </script>
@@ -67,12 +67,12 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home  nav-current" role="presentation"><a href="/">Inicio</a></li>
+        <li class="nav-home " role="presentation"><a href="/">Inicio</a></li>
         <li class="nav-about " role="presentation"><a href="/about">Sobre el sitio</a></li>
         <li class="nav-fables " role="presentation"><a href="/tag/Para Eva y Sol">Para Eva y Sol</a></li>
         <li class="nav-speeches " role="presentation"><a href="/tag/Educación">Educación</a></li>
         <li class="nav-fiction " role="presentation"><a href="/tag/La vida está en otro lado">La vida está en otro lado</a></li>
-        <li class="nav-author " role="presentation"><a href="/author/Alvar">Autor</a></li>
+        <li class="nav-author  nav-current" role="presentation"><a href="/author/Alvar">Autor</a></li>
     </ul>
     <a class="subscribe-button icon-feed" href="/feed.xml">Subscribirse</a>
 
@@ -88,43 +88,55 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default -->
+        <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- The big featured header  -->
-<header class="main-header "
-        style="background-image: url(/assets/images/cover1.jpg) ">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
+<!-- The big featured header -->
+
+<!-- Everything inside the #author tags pulls data from the author -->
+<!-- #author  -->
+    <header class="main-header author-head " style="background-image: url(/assets/images/cover4.jpg) ">
+        <nav class="main-nav overlay clearfix">
+            <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
+            
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+            
+        </nav>
+    </header>
+
+    <section class="author-profile inner">
         
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
+        <figure class="author-image">
+            <div class="img" style="background-image: url(/assets/images/lain.gif)"><span class="hidden">Alvar Maciel's Picture</span></div>
+        </figure>
         
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Acerca de la Educación</h1>
-            <h2 class="page-description">Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</h2>
+        <h1 class="author-title">Alvar Maciel</h1>
+        
+            <h2 class="author-bio">Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.</h2>
+        
+        <div class="author-meta">
+            <span class="author-location icon-location">Buenos Aires, Argentina</span>
+            <span class="author-link icon-link"><a href="http://acercadelaeducacion.com.ar">acercadelaeducacion.io/</a></span>
+            <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
+            <span class="author-stats"><i class="icon-stats"></i>32 posts</span>
         </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
-</header>
+    </section>
+<!-- /author -->
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs -->
+    <!-- The tag below includes the post loop - partials/loop.hbs  -->
         <!-- Previous/next page links - only displayed on page 2+ -->
     <div class="extra-pagination inner">
         
             <nav class="pagination" role="pagination">
     
         
-            <a class="newer-posts" href="/page45/" title="Previous Page">&laquo; Posts Nuevos</a>
+            <a class="newer-posts" href="/author/Alvar/page3/" title="Previous Page">&laquo; Posts Nuevos</a>
       
     
-    <span class="page-number"> Page 46 of 50 </span>
-    
-        <a class="older-posts" href="/page47/" title="Next Page">Posts Antiguos &raquo;</a>
+    <span class="page-number"> Page 4 of 4 </span>
     
 </nav>
 
@@ -135,10 +147,10 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/plumiferos">Plumiferos</a></h2>
+            <h2 class="post-title"><a href="/agregadores">Agregadores</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Esta mañana en la escuela estaba charlando con Anibal, profesor de video; charlando charlando le mostré Elephant Dreams a partir de un post de Karpicius y... <a class="read-more" href="/plumiferos">&raquo;</a></p>
+            <p>Con este post comienzo a un serie de recursos orientados a los docentes con los que trabajo… y todo el resto de las personas que está... <a class="read-more" href="/agregadores">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -147,107 +159,30 @@
             <!-- [[tags prefix=" on "]] -->
              
                 on 
+                
+                    
+                       <a href='/tag/recursos'>Recursos</a>,
+                       
+                
+                    
+                       <a href='/tag/Educación'>Educación</a>,
+                       
                 
                     
                        <a href='/tag/TD'>Td</a>
                        
                 
             
-            <time class="post-date" datetime="2007-05-16">16 May 2007</time>
+            <time class="post-date" datetime="2007-04-03">03 Apr 2007</time>
         </footer>
     </article>
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/codelinux">codelinux</a></h2>
+            <h2 class="post-title"><a href="/200704congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia">Congreso Argentino de Estudios Sociales de la Ciencia y la Tecnología</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Vía Kirkob les dejo a los amiguitos  un documental algo antiguo pero siempre bueno sobre la historia de GNU Linux
- <a class="read-more" href="/codelinux">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/author/Alvar'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/GNU/Linux'>Gnu/linux</a>,
-                       
-                
-                    
-                       <a href='/tag/TD'>Td</a>,
-                       
-                
-                    
-                       <a href='/tag/Hacks'>Hacks</a>
-                       
-                
-            
-            <time class="post-date" datetime="2007-05-15">15 May 2007</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/lo-prometido-es-deuda">Lo prometido es deuda</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>&lt;blockquote&gt;&lt;div style="text-align:center;"&gt;LO PROMETIDO ES DEUDA&lt;/div&gt;Crean un wiki para recordar a todos los políticos que lo que prometen “puede ser utilizado en su contra” - Libertad Digital:Con... <a class="read-more" href="/lo-prometido-es-deuda">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/author/Alvar'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/TD'>Td</a>,
-                       
-                
-                    
-                       <a href='/tag/Hacks'>Hacks</a>
-                       
-                
-            
-            <time class="post-date" datetime="2007-05-15">15 May 2007</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/dominus-vobiscum">Dominus vobiscum</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>clipped from www.espacioblog.comEl Papa no deja de sorprenderme: No solamente se da el tupé de defender la virginidad en Brasil, sino que dice, allí mismo, que... <a class="read-more" href="/dominus-vobiscum">&raquo;</a></p>
-        </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            <a href='/author/Alvar'>Alvar Maciel</a>
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/Para Eva y Sol'>Para eva y sol</a>
-                       
-                
-            
-            <time class="post-date" datetime="2007-05-15">15 May 2007</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/vive-bastante-tiempo">Vive bastante tiempo….</a></h2>
-        </header>
-        <section class="post-excerpt">
-            <p>Via Llamame Lola llegan estos spots de una campaña publicitaria para la prevención del SIDA. ..Un soberbio spot de animación enfocado a las relaciones heterosexuales y... <a class="read-more" href="/vive-bastante-tiempo">&raquo;</a></p>
+            <p>via: Aprender la Libertad me entero de este evento(que me pare muy interesante): Los días 5 y 6 de Julio de 2007 tendrá lugar el Primer... <a class="read-more" href="/200704congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -262,24 +197,20 @@
                        
                 
                     
-                       <a href='/tag/ESI'>Esi</a>,
-                       
-                
-                    
-                       <a href='/tag/Para Eva y Sol'>Para eva y sol</a>
+                       <a href='/tag/TD'>Td</a>
                        
                 
             
-            <time class="post-date" datetime="2007-05-11">11 May 2007</time>
+            <time class="post-date" datetime="2007-04-03">03 Apr 2007</time>
         </footer>
     </article>
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/elecciones-portenas">Elecciones Porteñas</a></h2>
+            <h2 class="post-title"><a href="/big-brother">Big Brother</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>…Y estamos al fin en la ultima vuelta de las elecciones en la ciudad de Buenos Aires… y para quien se pregunte que tiene que ver... <a class="read-more" href="/elecciones-portenas">&raquo;</a></p>
+            <p>Vía Monuz llegan estas reflexiones que me parecen interesantes en torno al uso y manejo de la información En Gran Hermano son los espectadores los que... <a class="read-more" href="/big-brother">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -290,21 +221,112 @@
                 on 
                 
                     
-                       <a href='/tag/Para Eva y Sol'>Para eva y sol</a>
+                       <a href='/tag/misc'>Misc</a>
                        
                 
             
-            <time class="post-date" datetime="2007-05-09">09 May 2007</time>
+            <time class="post-date" datetime="2007-03-30">30 Mar 2007</time>
         </footer>
     </article>
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/ultima-entrevista-a-paulo-freire-1-c2-b0-parte">Ultima Entrevista a Paulo Freire 1° parte</a></h2>
+            <h2 class="post-title"><a href="/otono-en-la-ciudad">Otoño en la ciudad</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Es y Será un grande, maestro de maestros.Para reflexionar ahondar y estudiar&lt;ul&gt;&lt;li&gt;Marcha&lt;/li&gt;&lt;li&gt;Adaptación - Inserción en el mundo&lt;/li&gt;&lt;/ul&gt;
- <a class="read-more" href="/ultima-entrevista-a-paulo-freire-1-c2-b0-parte">&raquo;</a></p>
+            <p>Llegó el otoño con todo por estos pagos...
+entre agua e inundación...
+se lleva la lluvia mis llantos.Gracias solett por las fotos
+
+ <a class="read-more" href="/otono-en-la-ciudad">&raquo;</a></p>
+        </section>
+        <footer class="post-meta">
+            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
+            <!-- author -->
+            <a href='/author/Alvar'>Alvar Maciel</a>
+            <!-- [[tags prefix=" on "]] -->
+             
+                on 
+                
+                    
+                       <a href='/tag/Solett'>Solett</a>,
+                       
+                
+                    
+                       <a href='/tag/misc'>Misc</a>
+                       
+                
+            
+            <time class="post-date" datetime="2007-03-30">30 Mar 2007</time>
+        </footer>
+    </article>
+    
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/magnetosphere">Magnetosphere</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>Magnetosphere by Robert Hodgin by Razorbuzz Todas las asociaciones son licitas El video está realizado con Processing, un lenguaje de código abierto para la programación de... <a class="read-more" href="/magnetosphere">&raquo;</a></p>
+        </section>
+        <footer class="post-meta">
+            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
+            <!-- author -->
+            <a href='/author/Alvar'>Alvar Maciel</a>
+            <!-- [[tags prefix=" on "]] -->
+             
+                on 
+                
+                    
+                       <a href='/tag/La vida está en otro lado'>La vida está en otro lado</a>
+                       
+                
+            
+            <time class="post-date" datetime="2007-03-29">29 Mar 2007</time>
+        </footer>
+    </article>
+    
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/una-aproximacion-al-aprendizaje-colaborativo">Una aproximación al aprendizaje colaborativo</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>Este es un articulo que se publicó en la revista que hacen los alumnos del Profesorado de Enseñanza Primaria Normal Nro 1 de la Ciudad de... <a class="read-more" href="/una-aproximacion-al-aprendizaje-colaborativo">&raquo;</a></p>
+        </section>
+        <footer class="post-meta">
+            <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
+            <!-- author -->
+            <a href='/author/Alvar'>Alvar Maciel</a>
+            <!-- [[tags prefix=" on "]] -->
+             
+                on 
+                
+                    
+                       <a href='/tag/Educación'>Educación</a>,
+                       
+                
+                    
+                       <a href='/tag/aprendizaje colaborativo'>Aprendizaje colaborativo</a>,
+                       
+                
+                    
+                       <a href='/tag/El Hecho'>El hecho</a>,
+                       
+                
+                    
+                       <a href='/tag/Normal 1'>Normal 1</a>
+                       
+                
+            
+            <time class="post-date" datetime="2007-03-29">29 Mar 2007</time>
+        </footer>
+    </article>
+    
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="/evoluciones">Evoluciones</a></h2>
+        </header>
+        <section class="post-excerpt">
+            <p>Este espacio va tomando forma, si bien de forma formal… no tiene mucho. Creo que actúa como actúa cualquier blog. Empezás escribiendo con un objeto definido... <a class="read-more" href="/evoluciones">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -319,16 +341,16 @@
                        
                 
             
-            <time class="post-date" datetime="2007-05-03">03 May 2007</time>
+            <time class="post-date" datetime="2007-03-28">28 Mar 2007</time>
         </footer>
     </article>
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/manuel-castells-desde-traslasierra">Manuel Castells desde traslasierra</a></h2>
+            <h2 class="post-title"><a href="/una-pregunta">Una Pregunta</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Daniel desde Traslasierra nos acerca una entrevista a Manuel Castells que vale la pena analizar, dejo algunas partes del la entrevista&lt;blockquote&gt;“…Lo que sí es nuevo es... <a class="read-more" href="/manuel-castells-desde-traslasierra">&raquo;</a></p>
+            <p>En el siglo doce, el geógrafo oficial del reino de Sicilia, Al-Idrisi, trazó el mapa del mundo, el mundo que Europa conocía, con el sur arriba... <a class="read-more" href="/una-pregunta">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/lain.gif" alt="Author image" nopin="nopin" />
@@ -339,15 +361,11 @@
                 on 
                 
                     
-                       <a href='/tag/TD'>Td</a>,
-                       
-                
-                    
-                       <a href='/tag/Sociedad del Espectáculo'>Sociedad del espectáculo</a>
+                       <a href='/tag/La vida está en otro lado'>La vida está en otro lado</a>
                        
                 
             
-            <time class="post-date" datetime="2007-05-03">03 May 2007</time>
+            <time class="post-date" datetime="2007-03-28">28 Mar 2007</time>
         </footer>
     </article>
     
@@ -357,12 +375,10 @@
         <nav class="pagination" role="pagination">
     
         
-            <a class="newer-posts" href="/page45/" title="Previous Page">&laquo; Posts Nuevos</a>
+            <a class="newer-posts" href="/author/Alvar/page3/" title="Previous Page">&laquo; Posts Nuevos</a>
       
     
-    <span class="page-number"> Page 46 of 50 </span>
-    
-        <a class="older-posts" href="/page47/" title="Next Page">Posts Antiguos &raquo;</a>
+    <span class="page-number"> Page 4 of 4 </span>
     
 </nav>
 

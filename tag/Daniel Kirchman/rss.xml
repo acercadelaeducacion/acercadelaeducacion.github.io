@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>acercadelaeducacion.io/</title>
+   
+   <link>http://acercadelaeducacion.com.ar</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes.</description>
+   <language>es-es</language>
+   <managingEditor> Alvar Maciel</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Buenas. Nuevas. Desde Traslasierra</title>
+	  <link>//buenas-nuevas-desde-traslasierra</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-04-10T18:13:00+00:00</pubDate>
+	  <guid>//buenas-nuevas-desde-traslasierra</guid>
+	  <description><![CDATA[
+	     <p><span style="font-family: Verdana"><a href="http://danielkaar.wordpress.com/">Daniel I. Krichman</a> se ha convertido en un punto de referencia obligado para mi a la hora de pensar la <a href="http://danielkaar.wordpress.com/2007/03/12/el-futuro-de-la-educacion-virtual/trackback/">Educación mediada por las TIC</a>.
+Ahora nos acerca netAbras <a href="http://www.netabras.com.ar/centrorecursos/index.htm">Recursos para aprender:</a></span></p>
+<blockquote>
+<p class="MsoNormal"> El Centro de Recursos no es un <span> </span>directorio donde de yuxtaponen ítems y enlaces revueltos, sino que está pensado para asistir a aquel que quiere iniciarse en el manejo de TICs y orientado especialmente hacia aquellas personas que además, están relacionadas con la enseñanza: alumnos y docentes de todos los niveles.</p>
+S<span>abemos que <em>tener no significa saber</em><strong>. </strong></span>Que hace falta que se jueguen otras cuestiones, que no necesariamente son dificultades relacionadas con el aprendizaje tecnológico, para que los docentes comiencen a ver las tecnologías como herramientas capaces generar otros abordajes del conocimiento en la experiencia educativa.</blockquote>
+<p>Les dejo el <a href="http://danielkaar.wordpress.com/2007/04/09/centro-recursos-disponible/trackback/">vínculo al post</a> y recomiendo especialmente el <a href="http://www.netabras.com.ar/downloading/docentes.pps">slideshow</a> y la <a href="http://www.netabras.com.ar/delaula/comunicacion/comunica1.htm">clase de comunicación</a>.
+Una vez más ¡Felicitaciones Daniel!
+nos leemos
+Alvar
+<span style="font-size: 85%">pd: Tenemos que ahondar en esto que supuestamente sabemos “</span></p>
+
+<p>&lt;/span&gt;<span style="font-family: Verdana; font-size: 85%"><span><em>tener no significa saber</em></span></span></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

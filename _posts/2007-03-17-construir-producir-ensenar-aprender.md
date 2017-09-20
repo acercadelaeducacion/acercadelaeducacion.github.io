@@ -10,7 +10,7 @@ subclass: 'post'
 cover: false
 navigation: True
 logo: 'assets/images/lain.gif'
-cover: 'http://farm1.static.flickr.com/132/323354197_99180ee29f.jpg'
+cover: 'assets/images/323354197_99180ee29f.jpg'
 blogger_permalink:
   - /2007/03/construir-producir-ensear-aprender.html
   - /2007/03/construir-producir-ensear-aprender.html

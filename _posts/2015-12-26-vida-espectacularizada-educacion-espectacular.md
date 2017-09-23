@@ -10,7 +10,7 @@ subclass: 'post'
 cover: false
 navigation: True
 logo: 'assets/images/lain.gif'
-cover: 'assets/images/cover1.jpg'
+cover: 'assets/images/lain2.gif'
 dsq_thread_id:
   - "4435720323"
 bitly_url:
@@ -29,16 +29,16 @@ tags:
   - pensamientos
   - Sociedad del espectáculo
 ---
-<blockquote>
 
-1. Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.
+>1. Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.
+>2. Las imágenes que se han desprendido de cada aspecto de la vida se fusionan en un curso común, donde la unidad de esta vida ya no puede ser reestablecida. La realidad considerada <em>parcialmente</em> se despliega en su propia unidad general en tanto que pseudo-mundo <em>aparte</em>, objeto de mera contemplación.
+>La especialización de las imágenes del mundo se encuentra, consumada, en el mundo de la imagen hecha autónoma, donde el mentiroso se miente a si mismo. El espectáculo en general, como inversión concreta de la vida, es el movimiento autónomo de lo no viviente
 
-2. Las imágenes que se han desprendido de cada aspecto de la vida se fusionan en un curso común, donde la unidad de esta vida ya no puede ser reestablecida. La realidad considerada <em>parcialmente</em> se despliega en su propia unidad general en tanto que pseudo-mundo <em>aparte</em>, objeto de mera contemplación.
+>---Guy Debord - Sociedad del espectáculo
 
-La especialización de las imágenes del mundo se encuentra, consumada, en el mundo de la imagen hecha autónoma, donde el mentiroso se miente a si mismo. El espectáculo en general, como inversión concreta de la vida, es el movimiento autónomo de lo no viviente
-
-Guy Debord - Sociedad del espectáculo</blockquote>
 &nbsp;
+
+![](assets/images/lain2.gif)
 
 Cada oración me remite al torrente de digitalización que atraviesa a la construcción de la sociedad. El pensamiento no solo es potente. Es develador. Corre la cortina de la apariencia natural de las cosas y deja al descubierto engranaje de carne, likes, fotos y videitos.
 

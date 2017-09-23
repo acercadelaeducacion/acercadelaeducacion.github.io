@@ -27,7 +27,7 @@ tags:
   - Educación
   - Guy Debord
   - pensamientos
-  - Sociedad del espectáculo
+  - Sociedad del Espectáculo
 ---
 
 >1. Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.

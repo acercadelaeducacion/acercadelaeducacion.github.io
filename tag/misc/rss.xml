@@ -12,13 +12,61 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Hermano poeta</title>
+	  <link>//hermano-poeta</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-28T15:23:00+00:00</pubDate>
+	  <guid>//hermano-poeta</guid>
+	  <description><![CDATA[
+	     <blockquote>Esta es la vera de sílice
+por donde un torrente transita
+no es otra cosa que la noción
+de lo que es cierto - Según el agrado -
+con sus bordes que contienen lo real
+acaso es la veta, el canal
+o el torrente que lo ensancha
+Esta es la veta y siento...</blockquote>
+<p>Es de mi hermano, y la palabra suena en mis venas y hace eco en mi pasado, expresa más que una filiación, o un vínculo formal… amor.
+Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de mis hermanos.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Periodismo ciudadano&#8230; de estos pagos</title>
+	  <link>//periodismo-ciudadano-de-estos-pagos</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2007-05-21T20:22:00+00:00</pubDate>
+	  <guid>//periodismo-ciudadano-de-estos-pagos</guid>
+	  <description><![CDATA[
+	     <p><a href="http://gritoargentino.com/themes/internet_services/images/gritoargentinod.jpg"><img style="display:block;text-align:center;cursor:pointer;width:320px;margin:0 auto 10px;" src="http://gritoargentino.com/themes/internet_services/images/gritoargentinod.jpg" alt="" border="0" /></a>&lt;div style="text-align:center;color:rgb(0, 102, 0);"&gt;&lt;blockquote&gt;<span style="font-family:Courier New;"><span style="font-size:85%;"> “antes te contaban las noticias,<br />ahora las vas a escribir vos…”</span></span>&lt;/blockquote&gt;&lt;/div&gt;<br />A través del blog de <a href="http://www.pablomancini.com.ar/nuevo-periodico-ciudadano-en-la-argentina/trackback/">Pablo Mancini</a> me entero que se está armando “un multiblog que será nuestro propio periódico ciudadano” llamado <a href="http://gritoargentino.com/">Grito Argentino</a>.<br />Apoyo la moción y espero ansioso su entrada en circulación que será el 25 de mayo. Así podremos celebrar la “Revolución de Mayo” (proceso revolucionario complejo que devino en “independencia” por estos pagos) y ese mismo día celebrar la apertura de un espacio más en esta “revolución” del periodismo, que aún no sabemos en que devendrá, ni si tendrá éxito, pero a la que adhiero.<br />Ya que considero necesario para vivir en libertad que tengamos libertad (ya se es redundante) no solo de expresión sino se selección de fuentes de información, que estas sean construidas partipativamente y estas propuestas de periodismo participativo desplazan el poder de los editores hacia los lectores.<br />Ahora será cuestión de ver como los lectores y escritores construyen este espacio</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Recolección</title>
-	  <link>//2007/04/recoleccion/</link>
+	  <link>//recoleccion</link>
 	  <author>Alvar Maciel</author>
 	  <pubDate>2007-04-23T14:44:00+00:00</pubDate>
-	  <guid>//2007/04/recoleccion/</guid>
+	  <guid>//recoleccion</guid>
 	  <description><![CDATA[
-	     <p><a href="http://farm1.static.flickr.com/89/233677788_6351f0e5fa.jpg?v=0"><img style="float:left;cursor:pointer;width:320px;margin:0 10px 10px 0;" src="http://farm1.static.flickr.com/89/233677788_6351f0e5fa.jpg?v=0" alt="" border="0" /></a><br /><span style="font-family:verdana;">Todo empezó <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html#comments">acá</a> y como quien no quiere la cosa empecé a subir este camino… sin preparación, ni sogas, ni nada. Ahora, este post después de casi una semana sin escribir va a ser una recolección de sucesos, sensaciones y más que nada preguntas que espero encaucen hacia alguna respuesta, o sensación de respuesta o bue… algo que tranquilice el alma.</span><br /><span style="font-family:verdana;">¿por donde empezar?</span><br /><span style="font-family:verdana;">bueno… por el principio supongo.  Hace unos post  o días atrás <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html">comentarios mediante</a> propuse lo siguiente: “</span>se m ocurrio preparar un cursillo sobre aramado de cazas como introduccion a las webquest, el aprendizaje mediado por las TIC y aprendizaje colabrativo/cooperativo. lo armo en el moodle de prueba que tengo en casa y voy mandando las consultas adelanto y solicitudes de sugerencias en <a href="http://acercadelaeducacion.blogspot.com/">http://acercadelaeducacion.blogspot.com</a><br />ya que tenemos los campus, un diseñador y pedagogogos en esto podemos hacer algo lindo ¿que les parece?.” <span style="font-family:verdana;">con el objetivo de proporcionar una estrategia al alcance de los docentes cono o sin experiencia en el uso de TIC y que pueda servir de base para futuros abordajes sobre el uso en las escuelas de las TIC.</span><br /><span style="font-family:verdana;">Entonces me descargue el moodle en mi casa y me puse a explorar (sigo en eso).</span><br /><span style="font-family:verdana;">pero el objetivo de este post no es solo darle carácter “oficial” a este emprendimiento sino, solo exponer algunas características del mismo y ordenarme en la tarea, y además exponer algunas ideas. Desconexas, pasajeras y no vinculantes, ni con este post, ni con nadie.</span><br />&lt;ol&gt;&lt;li&gt;En el proceso de elaboración voy a necesitar de ayuda&lt;/li&gt;&lt;li&gt;En el proceso de producción… también&lt;/li&gt;&lt;li&gt;En la puesta en marcha y el seguimiento… también.&lt;/li&gt;&lt;li&gt;Por lo anteriormente dicho… Esto de trabajo colaborativo (a mi me gusta más el termino cooperativo) es necesario, vital y  móvil.&lt;/li&gt;&lt;li&gt;Me estoy dando cuenta (en realidad mi pareja me lo hace notar) de lo que le hace a mi subjetividad estar conectado… y de esto quisiera hablar mas adelante ya que como campo de experimento me siento y  como dije <a href="http://karpicius.freeflux.net/blog/archive/2007/04/18/de-premios-y-castigos.html#comments">por ahí</a>“me estoy preguntando que tengo que aprender para saber que tengo que enseñar… y la respuesta… se está tornando cada día más compleja”&lt;/li&gt;&lt;li&gt;<a href="http://danielkaar.wordpress.com/">Daniel</a>  creo que de estas cosas vos sabes así que espero podamos ampliar.&lt;/li&gt;&lt;li&gt;acerca del punto 5 y 6 y por ende este mismo 7 ya voy a ampliar en otro post.&lt;/li&gt;&lt;/ol&gt;Nos leemos…<a href="void(0)"><span></span></a><span style="font-family:verdana;"><br /></span></p>
+	     <p>Todo empezó <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html#comments">acá</a> y como quien no quiere la cosa empecé a subir este camino… sin preparación, ni sogas, ni nada. Ahora, este post después de casi una semana sin escribir va a ser una recolección de sucesos, sensaciones y más que nada preguntas que espero encaucen hacia alguna respuesta, o sensación de respuesta o bue… algo que tranquilice el alma.<br />¿por donde empezar?<br />bueno… por el principio supongo.  Hace unos post  o días atrás <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html">comentarios mediante</a> propuse lo siguiente: “se me ocurrio preparar un cursillo sobre aramado de cazas como introduccion a las webquest, el aprendizaje mediado por las TIC y aprendizaje colabrativo/cooperativo. lo armo en el moodle de prueba que tengo en casa y voy mandando las consultas adelanto y solicitudes de sugerencias en <a href="http://acercadelaeducacion.blogspot.com/">http://acercadelaeducacion.blogspot.com</a></p>
+
+<p><br /></p>
+
+<p>ya que tenemos los campus, un diseñador y pedagogogos en esto podemos hacer algo lindo ¿que les parece?.” con el objetivo de proporcionar una estrategia al alcance de los docentes cono o sin experiencia en el uso de TIC y que pueda servir de base para futuros abordajes sobre el uso en las escuelas de las TIC.<br />Entonces me descargue el moodle en mi casa y me puse a explorar (sigo en eso).<br />pero el objetivo de este post no es solo darle carácter “oficial” a este emprendimiento sino, solo exponer algunas características del mismo y ordenarme en la tarea, y además exponer algunas ideas. Desconexas, pasajeras y no vinculantes, ni con este post, ni con nadie.<br /></p>
+
+<ol>
+<li>En el proceso de elaboración voy a necesitar de ayuda</li>
+<li>En el proceso de producción... también</li>
+<li>En la puesta en marcha y el seguimiento... también.</li>
+<li>Por lo anteriormente dicho... Esto de trabajo colaborativo (a mi me gusta más el termino cooperativo) es necesario, vital y  móvil.</li>
+<li>Me estoy dando cuenta (en realidad mi pareja me lo hace notar) de lo que le hace a mi subjetividad estar conectado... y de esto quisiera hablar mas adelante ya que como campo de experimento me siento y  como dije <a href="http://karpicius.freeflux.net/blog/archive/2007/04/18/de-premios-y-castigos.html#comments">por ahí</a>"me estoy preguntando que tengo que aprender para saber que tengo que enseñar... y la respuesta... se está tornando cada día más compleja"</li>
+<li><a href="http://danielkaar.wordpress.com/">Daniel</a>  creo que de estas cosas vos sabes así que espero podamos ampliar.</li>
+<li>acerca del punto 5 y 6 y por ende este mismo 7 ya voy a ampliar en otro post.</li>
+</ol>
+<p>Nos leemos…</p>
 
 	  ]]></description>
 	</item>

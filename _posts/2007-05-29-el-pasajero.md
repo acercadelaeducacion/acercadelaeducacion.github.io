@@ -5,7 +5,12 @@ date: 2007-05-29T16:58:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=57
-permalink: /2007/05/el-pasajero/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_permalink:
   - /2007/05/el-pasajero.html
   - /2007/05/el-pasajero.html
@@ -23,7 +28,7 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/el-pasajero/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - cnerii
   - tareas

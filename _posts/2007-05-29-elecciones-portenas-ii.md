@@ -5,7 +5,12 @@ date: 2007-05-29T14:29:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=56
-permalink: /2007/05/elecciones-portenas-ii/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/ciudad.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,7 +30,7 @@ bitly_long_url:
 dsq_thread_id:
   - "1928279620"
 categories:
-  - Novedades
+  - Alvar
 tags:
   - elecciones porteñas
 ---

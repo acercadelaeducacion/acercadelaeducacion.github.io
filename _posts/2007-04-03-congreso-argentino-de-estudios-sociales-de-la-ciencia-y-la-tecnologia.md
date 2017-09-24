@@ -10,7 +10,6 @@ cover: false
 navigation: True
 logo: 'assets/images/lain.gif'
 cover: 'assets/images/cover1.jpg'
-permalink: /2007/04/congreso-argentino-de-estudios-sociales-de-la-ciencia-y-la-tecnologia/
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com

@@ -5,7 +5,12 @@ date: 2007-05-25T19:37:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=53
-permalink: '/2007/05/laminas-o-power-point-%c2%bfson-lo-mismo/'
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,10 +30,12 @@ bitly_hash:
 bitly_long_url:
   - 'http://www.acercadelaeducacion.com.ar/2007/05/laminas-o-power-point-%c2%bfson-lo-mismo/'
 categories:
-  - Novedades
+  - Alvar
 tags:
   - diapositivas
   - power point
+  - Educación
+  - TD
 ---
 <a href="http://farm1.static.flickr.com/161/373172084_b5517e8012.jpg?v=0"><img src="http://farm1.static.flickr.com/161/373172084_b5517e8012.jpg?v=0" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px" border="0" /></a>
 <p style="text-align: left; font-family: verdana"><span style="font-size: 100%">Los contenidos de enseñanza, en la escuela, sufren necesarias modificaciones a medida que transcurre el tiempo, ya que los mismos se modifican o reconfiguran con el desarrollo de la sociedad y del conocimiento. De la misma, manera los procedimientos tradicionales que la escuela valora sufren modificaciones. La búsqueda de información sobre algún tema, como procedimiento a aprehender, no puede ser entendida como hace 20 o 30 años atrás. Otras tecnologías, otros medios, hoy están en juego y se hace necesario comprenderlos para poder enseñarlos, pero más importante aún, es necesario para construir una práctica responsable, tener la capacidad de analizar los recursos, dispositivos y elementos de enseñanza. </span></p>

@@ -5,7 +5,12 @@ date: 2007-05-31T15:34:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=62
-permalink: /2007/05/la-ortografia-es-una-actitud-la-escritura-tambien/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - senderosilencioso.blogspot.com
   - senderosilencioso.blogspot.com
@@ -25,10 +30,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/la-ortografia-es-una-actitud-la-escritura-tambien/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - escritura
   - ortografía
+  - Educación
 ---
 <a href="http://farm1.static.flickr.com/169/440616682_e35166c922.jpg?v=0"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px;" src="http://farm1.static.flickr.com/169/440616682_e35166c922.jpg?v=0" border="0" alt="" /></a>
 Lo apasionante de la escritura es la transformación constante.... de todo.

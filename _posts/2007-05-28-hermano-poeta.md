@@ -5,7 +5,12 @@ date: 2007-05-28T15:23:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=55
-permalink: /2007/05/hermano-poeta/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,10 +30,12 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/hermano-poeta/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - Lautaro Maciel
   - poesía
+  - misc
+  - La vida está en otro lado
 ---
 
 <blockquote>Esta es la vera de sílice

@@ -10,7 +10,7 @@ subclass: 'post'
 cover: false
 navigation: True
 logo: 'assets/images/lain.gif'
-cover: 'http://bp2.blogger.com/_i1u0IG1Y3Lg/RgruXVMlvOI/AAAAAAAAACo/W9WRHcZiNxo/s320/norte+sur.png'
+cover: 'assets/images/norte+sur.png'
 blogger_permalink:
   - /2007/03/una-pregunta.html
   - /2007/03/una-pregunta.html

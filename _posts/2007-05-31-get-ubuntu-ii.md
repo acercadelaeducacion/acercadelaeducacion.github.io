@@ -5,7 +5,12 @@ date: 2007-05-31T18:37:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=64
-permalink: /2007/05/get-ubuntu-ii/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,10 +30,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/get-ubuntu-ii/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - mac
   - ubuntu
+  - TD
 ---
 Festejando La Semana Ubuntu, seguimos con la serie ilustrativa, que provee la <a href="http://www.hachemuda.com/">HacheMuda</a>, sobre las ventajas de <a href="http://www.ubuntu.com/">Ubuntu</a>
 

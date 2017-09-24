@@ -10,7 +10,7 @@ subclass: 'post'
 cover: false
 navigation: True
 logo: 'assets/images/lain.gif'
-cover: 'http://www.libertaddigital.com/fotos/noticias/wloprometido140507.jpg'
+cover: 'assets/images/wloprometido140507.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com

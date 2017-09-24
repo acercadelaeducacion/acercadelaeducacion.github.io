@@ -5,7 +5,13 @@ date: 2007-05-30T13:37:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=58
-permalink: '/2007/05/%c2%bfque-es-un-blog/'
+guid: http://www.acercadelaeducacion.com.ar/?p=56
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_permalink:
   - /2007/05/que-es-un-blog.html
   - /2007/05/que-es-un-blog.html
@@ -25,7 +31,9 @@ bitly_hash:
 bitly_long_url:
   - 'http://www.acercadelaeducacion.com.ar/2007/05/%c2%bfque-es-un-blog/'
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - TD
 ---
 Gracias a <a href="http://ramiropol.com.ar/">Ramo</a> llego a esta muy buena pagina de <a href="http://joanplanas.com/">Joan Planas</a>, un videobloger que sale a la calle a hacer una pregunta. En este caso
 ¿Qué es un blog?

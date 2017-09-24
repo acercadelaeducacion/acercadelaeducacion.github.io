@@ -5,7 +5,12 @@ date: 2007-06-05T02:16:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=65
-permalink: /2007/06/feliz-cumple-maestro/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - senderosilencioso.blogspot.com
   - senderosilencioso.blogspot.com
@@ -23,7 +28,9 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/06/feliz-cumple-maestro/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - cneri
 ---
 <a href="http://farm2.static.flickr.com/1041/530756978_85e955e567.jpg?v=0"><img src="http://farm2.static.flickr.com/1041/530756978_85e955e567.jpg?v=0" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 149px; height: 200px" border="0" /></a>Llegue a tus puertos navegando estos mares y encontré además de un faro una ruta una guía en el pensamiento.
 Celebro el encuentro, celebro su cumpleaños.

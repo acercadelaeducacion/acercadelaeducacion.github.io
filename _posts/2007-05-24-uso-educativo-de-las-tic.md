@@ -5,7 +5,12 @@ date: 2007-05-24T16:37:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=52
-permalink: /2007/05/uso-educativo-de-las-tic/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -25,9 +30,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/uso-educativo-de-las-tic/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - humor
+  - TD
+  - Educación
 ---
 <a href="http://web.educastur.princast.es/proyectos/cuate/blog/wp-images/innoveision.gif"><img src="http://web.educastur.princast.es/proyectos/cuate/blog/wp-images/innoveision.gif" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 400px" border="0" /></a>
 <p style="text-align: left">Ya ni se como llegue hasta<a href="http://web.educastur.princast.es/proyectos/cuate/blog/?p=226"> aquí</a>, pero encontre este blog que supongo que para muchos será conocido (ya que es excelente). En fín no puedo parar de leerlo, se los recomiendo, pero advierto que es algo adictivo.</p>

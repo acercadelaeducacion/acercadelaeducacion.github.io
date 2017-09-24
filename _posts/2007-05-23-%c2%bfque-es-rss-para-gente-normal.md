@@ -5,7 +5,12 @@ date: 2007-05-23T01:44:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=51
-permalink: '/2007/05/%c2%bfque-es-rss-para-gente-normal/'
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
@@ -21,7 +26,9 @@ bitly_hash:
 bitly_long_url:
   - 'http://www.acercadelaeducacion.com.ar/2007/05/%c2%bfque-es-rss-para-gente-normal/'
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - TD
 ---
 Coincidiendo con <a href="http://domingomendez.blogspot.com/">Domingo Méndez</a>, maestro de matemática y Naturaleza que descubrí hoy blogeando, tampoco puedo resistirme a subir <a href="http://domingomendez.blogspot.com/2007/05/qu-es-el-rss.html">este video</a>  acerca de  ¿que es RSS? está muy bien hecho y es muy didáctico.
 Pero además me llevé una grata sorpresa por el medio en el que está publicado. Es una plataforma que no conocía, <a href="http://dotsub.com/">dotsub.com</a>, y que me parece interesante ya que los videos que tiene los podes seleccionar con subtítulos en distintos idiomas. Habrá que investigarla un poco más

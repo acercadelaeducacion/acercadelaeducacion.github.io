@@ -5,7 +5,12 @@ date: 2007-05-30T13:56:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=59
-permalink: /2007/05/get-ubuntu/
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 blogger_blog:
   - senderosilencioso.blogspot.com
   - senderosilencioso.blogspot.com
@@ -25,10 +30,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/05/get-ubuntu/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - ubuntu
   - videos
+  - TD
 ---
 vía <a href="http://ubuntulife.wordpress.com/2007/05/29/primer-video-de-la-serie-get-ubuntu/trackback/">Ubuntu Life</a> me enteré de lo siguiente y lo quería compartir acá:
 <blockquote>Una fantastica idea de <a href="http://www.hachemuda.com/2007/05/28/primer-video-de-la-serie-get-ubuntu-examen/" target="_blank">Hache Muda</a>

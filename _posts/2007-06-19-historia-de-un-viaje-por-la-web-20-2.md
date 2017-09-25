@@ -9,6 +9,12 @@ permalink: /2007/06/historia-de-un-viaje-por-la-web-20-2/
 blogger_blog:
   - acercadelaeducacion.blogspot.com
   - acercadelaeducacion.blogspot.com
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/bandera.jpg'
 blogger_permalink:
   - /2007/06/historia-de-un-viaje-por-la-web-20.html
   - /2007/06/historia-de-un-viaje-por-la-web-20.html
@@ -25,9 +31,11 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/06/historia-de-un-viaje-por-la-web-20-2/
 categories:
-  - Novedades
+  - Alvar
+tags:
+  - TD	
 ---
-<a href="http://bp3.blogger.com/_i1u0IG1Y3Lg/Rnfs2x7DqII/AAAAAAAAAEw/6_tqrqLGqww/s1600-h/bandera.jpg"><img src="http://bp3.blogger.com/_i1u0IG1Y3Lg/Rnfs2x7DqII/AAAAAAAAAEw/6_tqrqLGqww/s320/bandera.jpg" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer" border="0" /></a>
+
 Un buen rato me tomó empezar a contar lo que  <strong>"Un viaje por la Web 2.0" </strong>me está aportando. Así que empiezo por el comienzo...
 <a href="http://tangotrio.blogspot.com/"><img src="http://bp2.blogger.com/__nXGIkfFhOQ/RfwyJM_0U7I/AAAAAAAAABg/_mRangGz3mQ/s1600/IMG_32361.jpg" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 113px; height: 150px" border="0" /></a>
 

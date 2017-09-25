@@ -5,6 +5,12 @@ date: 2007-06-11T14:37:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=70
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 permalink: /2007/06/la-brecha-digital-en-clave-colifata/
 blogger_blog:
   - acercadelaeducacion.blogspot.com
@@ -25,10 +31,12 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/06/la-brecha-digital-en-clave-colifata/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - brecha digitla
   - la colifata
+  - TD
+  - Sociedad del Espectáculo
 ---
 Buscando videos sobre la brecha digital Maxi (que no es blogger aún... pero ya está con ganas de serlo) encontró este video Muy Bueno, En dos sentidos... dos.
 <ol>

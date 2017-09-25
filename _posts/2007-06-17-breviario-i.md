@@ -5,6 +5,12 @@ date: 2007-06-17T20:17:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=71
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/cover1.jpg'
 permalink: /2007/06/breviario-i/
 blogger_blog:
   - senderosilencioso.blogspot.com
@@ -23,7 +29,7 @@ bitly_hash:
 bitly_long_url:
   - http://www.acercadelaeducacion.com.ar/2007/06/breviario-i/
 categories:
-  - Novedades
+  - Alvar
 tags:
   - tareas
 ---

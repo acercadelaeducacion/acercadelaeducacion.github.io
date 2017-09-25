@@ -5,6 +5,12 @@ date: 2007-06-09T15:00:00+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=69
+disqus: true
+subclass: 'post'
+cover: false
+navigation: True
+logo: 'assets/images/lain.gif'
+cover: 'assets/images/amorosos.jpg'
 permalink: /2007/06/los-amorosos-2/
 blogger_blog:
   - acercadelaeducacion.blogspot.com

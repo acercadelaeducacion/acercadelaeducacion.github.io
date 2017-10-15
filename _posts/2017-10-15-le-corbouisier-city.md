@@ -1,6 +1,6 @@
 ---
 id: 2699
-title: The Beach Beneath the Street #TBBTS | Apuntes | Chtcheglov, por otro urbanismo  @mckenziewark
+title: Chtcheglov, por otro urbanismo | Apuntes | The Beach Beneath the Street #TBBT
 date: 2017-10-15
 author: Alvar
 layout: post

@@ -12,6 +12,24 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>The Beach Beneath the Street</title>
+	  <link>//le-corbouisier-city</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2017-10-15T00:00:00+00:00</pubDate>
+	  <guid>//le-corbouisier-city</guid>
+	  <description><![CDATA[
+	     <p>La ciudad de Le Corbusier’ no era moderna: ya era anticuada. Era el producto de una cultura retrograda, a la zaga de la ciencia. El mundo físico ya no se entiende como un órden geométrico, pero la cultura todavía tiene que ponerse al día. El propósito de la tecnología no es hacer una ciudad purificada de complejidad, una forma platónica brillando al sol. La vida es terrena, no celestial; la vida es movimiento y forma, espíritu e idea. Las fuentes de Chtcheglov’s para pensar la ciudad de esta manera eran dobles. Una era cierta variedad de arte y la literatura que proponía paisajes fantásticos, como las pinturas de Giorgio de Chirico, en cuales se podía vislumbrar una nueva concepción del tiempo y del espacio…</p>
+
+<blockquote>
+  <p>Le Corbusier’s city was not modern: it was already out of date. It was a product of a retrograde culture, lagging behind science. The physical world is no longer understood as an orderly geometry, but culture has yet to catch up. The purpose of technology is not to make a city purified of complexity, a Platonic form gleaming in the sun. Life is earthy, not heavenly; life is movement and form, spirit or idea. Chtcheglov’s sources for this way of imagining the city were twofold. One was a certain strain of art and literature that proposed fantastic landscapes, such as the paintings of Giorgio de Chirico, in which could be glimpsed a new conception of space and time.</p>
+</blockquote>
+
+<p><a href="http://www.histoiredelart.net/courants/la-peinture-metaphysique-14">Imagen: Le troubadour fatigué</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>The Beach Beneath the Street | Apuntes | Toda cultura es derivada @mckenziewark </title>
 	  <link>//the-beach-beneath-the-street-apuntes-toda-cultura-es-derivada</link>
 	  <author>Alvar Maciel</author>
@@ -290,18 +308,6 @@ imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/grav
 <p>Imagen: <a href="http://gph.is/1a7HFcq">Soul Eater</a></p>
 
 <p> </p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Del blog a la wiki cambios para planificar</title>
-	  <link>//del-blog-a-la-wiki-cambios-para-planificar</link>
-	  <author>Alvar Maciel</author>
-	  <pubDate>2014-07-09T16:18:48+00:00</pubDate>
-	  <guid>//del-blog-a-la-wiki-cambios-para-planificar</guid>
-	  <description><![CDATA[
-	     <p><a href="http://acercadelaeducacion.github.io/blog/2014/07/09/del-blog-a-la-wiki-para-planificar/" target="_blank"> Del blog a la Wiki cambios para planificar</a></p>
 
 	  ]]></description>
 	</item>

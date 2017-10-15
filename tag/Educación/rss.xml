@@ -12,6 +12,24 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>The Beach Beneath the Street</title>
+	  <link>//le-corbouisier-city</link>
+	  <author>Alvar Maciel</author>
+	  <pubDate>2017-10-15T00:00:00+00:00</pubDate>
+	  <guid>//le-corbouisier-city</guid>
+	  <description><![CDATA[
+	     <p>La ciudad de Le Corbusier’ no era moderna: ya era anticuada. Era el producto de una cultura retrograda, a la zaga de la ciencia. El mundo físico ya no se entiende como un órden geométrico, pero la cultura todavía tiene que ponerse al día. El propósito de la tecnología no es hacer una ciudad purificada de complejidad, una forma platónica brillando al sol. La vida es terrena, no celestial; la vida es movimiento y forma, espíritu e idea. Las fuentes de Chtcheglov’s para pensar la ciudad de esta manera eran dobles. Una era cierta variedad de arte y la literatura que proponía paisajes fantásticos, como las pinturas de Giorgio de Chirico, en cuales se podía vislumbrar una nueva concepción del tiempo y del espacio…</p>
+
+<blockquote>
+  <p>Le Corbusier’s city was not modern: it was already out of date. It was a product of a retrograde culture, lagging behind science. The physical world is no longer understood as an orderly geometry, but culture has yet to catch up. The purpose of technology is not to make a city purified of complexity, a Platonic form gleaming in the sun. Life is earthy, not heavenly; life is movement and form, spirit or idea. Chtcheglov’s sources for this way of imagining the city were twofold. One was a certain strain of art and literature that proposed fantastic landscapes, such as the paintings of Giorgio de Chirico, in which could be glimpsed a new conception of space and time.</p>
+</blockquote>
+
+<p><a href="http://www.histoiredelart.net/courants/la-peinture-metaphysique-14">Imagen: Le troubadour fatigué</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Sobre la docencia. Los pensadores y los panelistas.</title>
 	  <link>//sobre-la-docencia-los-pensadores-y-los-panelistas</link>
 	  <author>Alvar Maciel</author>
@@ -255,67 +273,6 @@ La especialización de las imágenes del mundo se encuentra, consumada, en el mu
 	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
 
 <p><a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/">https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/</a></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>LaTex | Capítulo 1</title>
-	  <link>//latex-capitulo-1</link>
-	  <author>Alvar Maciel</author>
-	  <pubDate>2015-09-19T13:33:00+00:00</pubDate>
-	  <guid>//latex-capitulo-1</guid>
-	  <description><![CDATA[
-	     <p><a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.</p>
-
-<p>&lt;/div&gt;
-&lt;/div&gt;</p>
-<div id="outline-container-orgheadline2" class="outline-2">
-<h2 id="orgheadline2">Cómo nos podemos beneficiar de él</h2>
-<div id="text-orgheadline2" class="outline-text-2">
-
-LaTeX esta especialmente indicado para documentaciones técnicas o científicas. Es legendaria su superior composición tipográfica (typesetting) de formulas matemáticas. Si sos estudiante o científico, entonces LaTeX es tu mejor opción para la preparación y escritura de documentación. Aunque esto va también para todo aquel que hace de la escritura y la publicación de textos parte de su profesión. Produce documentos de muy alta calidad, es extremadamente estable y maneja documentos complejos de forma sencilla, sin importar cuan grandes sean.
-
-&nbsp;
-
-</div>
-</div>
-<!--more-->
-<div id="outline-container-orgheadline3" class="outline-2">
-<h2 id="orgheadline3">Separación de forma y contenido</h2>
-<div id="text-orgheadline3" class="outline-text-2">
-
-Un principio básico de LaTeX es que el autor no debe distraerse demasiado por temas de formato. Usualmente el autor se centra en el contenido. Generalmente con LaTeX nos centraremos en el contenido y en el formato pero de forma lógica. Por ejemplo en lugar de escribir un título de capítulo en letras grandes y en negrita, escribiremos el algo y luego le diremos a LaTeX que es el título de un capítulo.
-
-</div>
-</div>
-<div id="outline-container-orgheadline4" class="outline-2">
-<h2 id="orgheadline4">Portabilidad</h2>
-<div id="text-orgheadline4" class="outline-text-2">
-
-LaTeX está disponible para casi todos los sistemas operativos. El formato de sus archivos es de <a href="https://es.wikipedia.org/wiki/Archivo_de_texto">texto simple o plano</a>, leíble y editable en todos los sistemas operativos. LaTeX producirá el mismo resultado en cualquiera de los sistemas. LaTeX no tiene en si mismo ninguna interfaz gráfica, por esta razón se puede usar en cualquier sistema operativo. LaTeX genera archivos PDF, imprimibles y leibles,en casi todas las computadoras y esos archivos se verán de la misma forma en cualquier sistema. Además soporta DVI, PostScript, y HTML, dejando archivos listos para trabajarlos y hacer pubs y otros tipos de formatos. En suma, LaTeX es portable en 3 sentidos: código, su implementación y su salida.
-
-</div>
-</div>
-<div id="outline-container-orgheadline5" class="outline-2">
-<h2 id="orgheadline5">Protección del trabajo</h2>
-<div id="text-orgheadline5" class="outline-text-2">
-
-Los documentos en LaTeX se guardan en un formato de texto leible por los seres humanos, no en el formato oscuro y complejo de los procesadores de texto. Formatos que pueden cambiar entre diferentes versiones del mismo software. Intenten abrir un documento de hace 20 años escrito en algún procesador de texto comercial. LaTeX promete que el documento va a estar siempre leible y con el mismo resultado en su proceso de salida. Los procesadores de texto pueden ser infectados con virus y destruir sus datos. LaTeX no tiene amenazas de virus
-
-</div>
-</div>
-<div id="outline-container-orgheadline6" class="outline-2">
-<h2 id="orgheadline6">¿Desafíos?</h2>
-<div id="text-orgheadline6" class="outline-text-2">
-
-La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un montón de info online. Esta serie de artículos son resúmenes y notas del libro <a href="http://shop.oreilly.com/product/9781847199867.do">LaTeX Beginner's Guide</a>
-
-</div>
-</div>
-<p> </p>
-
-<p>Imagen: <a href="http://debdeb-debdeb.tumblr.com/post/121745844096/working-on-my-book-tomorrow-found-out-ill-only">debdeb-debdeb.tumblr.com</a></p>
 
 	  ]]></description>
 	</item>

@@ -3,6 +3,7 @@ layout: post
 cover: false
 title: Lucecitas de Santiago Maldonado
 date:   2017-10-21 10:18:00
+disqus: true      
 tags:
   - Para Eva y Sol
 subclass: 'post tag-fiction'

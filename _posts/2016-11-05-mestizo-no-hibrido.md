@@ -24,7 +24,7 @@ categories:
 tags:
   - pensamientos
 ---
-<img class="alignleft" src="http://66.media.tumblr.com/f2ecc97972039f40a4cbcdf182ba8c32/tumblr_njsjkg4gq01sjurvio1_1280.jpg" alt="" width="283" height="386">En algún momento me definí como un híbrido entre la educación y la tecnología, alguien me advirtió luego que los híbridos son estériles. No tienen descendencia y dejé a un lado la metáfora híbrida.
+<img style="float: right; margin:10px;"  src="http://66.media.tumblr.com/f2ecc97972039f40a4cbcdf182ba8c32/tumblr_njsjkg4gq01sjurvio1_1280.jpg" alt="" width="283" height="386">En algún momento me definí como un híbrido entre la educación y la tecnología, alguien me advirtió luego que los híbridos son estériles. No tienen descendencia y dejé a un lado la metáfora híbrida.
 
 Hoy advierto que soy mestizo. De hecho y mis raíces se hunden&nbsp; en diversas fuentes.
 

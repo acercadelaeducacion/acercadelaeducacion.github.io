@@ -14,6 +14,10 @@ logo: 'assets/images/lain.gif'
 published: true
 ---
 
+Esquema para una charla
+
+
+
 # Huella Digital
 
 > La **huella digital de los navegadores** consiste en recolectar datos acerca de la configuración del navegador y el sistema de un usuario cuando este visita un sitio web. Este proceso puede revelar una cantidad sorprendente de información acerca del software y hardware de un usuario, y en última instancia puede ser usado para crear un identificador único del mismo, llamado huella digital del navegador [browser fingerprint en inglés] (Pierre Laperdrix, Walter Rudametkin, Benoit Baudry) 

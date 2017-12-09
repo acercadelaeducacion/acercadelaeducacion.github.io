@@ -87,7 +87,7 @@ Test para conocer la huella digital de nuestro navegador
 
 # Qué hacen con nuestros datos
 
-![img]({{site.url}}/assets/image/cambridge-analytica-chart.png)
+![img](assets/image/cambridge-analytica-chart.png)
 
 
 # Psicometría de los perfiles

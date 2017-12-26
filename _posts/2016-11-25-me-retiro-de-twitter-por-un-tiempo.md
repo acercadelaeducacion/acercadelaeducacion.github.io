@@ -1,7 +1,7 @@
 ---
 id: 2685
-title: Me retiro de Twitter por un tiempo
-date: 2016-11-25T18:23:37+00:00
+title: Me retiro de las redes sociales por un tiempo
+date: 2017-12-26T18:23:37+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2685
@@ -24,9 +24,9 @@ categories:
 ---
 Cada tanto me agarra la fobia a las redes sociales. Ya no lucho contra ella.
 
-Durante un tiempo no voy a estar chequeando el stream de Twitter.
+Durante un tiempo no voy a estar chequeando el stream de Twitter ni paseandome por facebook.
 
-Me contactan via mail o en el blog
+Me contactan via mail (alvarmacielATgmail.com) o en el blog
 
 Nos vemos.
 

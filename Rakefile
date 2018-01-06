@@ -68,6 +68,7 @@ namespace :site do
     Dir.chdir(CONFIG["destination"]) do
       # check if there is anything to add and commit, and pushes it
       sh "if [ -n '$(git status)' ]; then
+            git config --list
             git add --all .;
             git commit -m 'Updating to #{USERNAME}/#{REPO}@#{sha}.';
             git push --quiet origin #{DESTINATION_BRANCH};

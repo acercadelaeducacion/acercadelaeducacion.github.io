@@ -1,17 +1,16 @@
 ---
 layout: post
+current: post
+navigation: True
 cover: false
 title: Ojos en el bolsillo
 date:   2017-12-09 10:18:00
 disqus: true      
 tags:
   - Sociedad del Espectáculo
-subclass: 'post tag-fiction'
+subclass: 'post tag-sociedad-del-espectáculo'
 categories: 'Alvar'
 cover: 'assets/images/survillance.jpg'
-navigation: True
-logo: 'assets/images/lain.gif'
-published: true
 ---
 
 Esquema para una charla
@@ -20,7 +19,7 @@ Esquema para una charla
 
 # Huella Digital
 
-> La **huella digital de los navegadores** consiste en recolectar datos acerca de la configuración del navegador y el sistema de un usuario cuando este visita un sitio web. Este proceso puede revelar una cantidad sorprendente de información acerca del software y hardware de un usuario, y en última instancia puede ser usado para crear un identificador único del mismo, llamado huella digital del navegador [browser fingerprint en inglés] (Pierre Laperdrix, Walter Rudametkin, Benoit Baudry) 
+> La **huella digital de los navegadores** consiste en recolectar datos acerca de la configuración del navegador y el sistema de un usuario cuando este visita un sitio web. Este proceso puede revelar una cantidad sorprendente de información acerca del software y hardware de un usuario, y en última instancia puede ser usado para crear un identificador único del mismo, llamado huella digital del navegador [browser fingerprint en inglés] (Pierre Laperdrix, Walter Rudametkin, Benoit Baudry)
 
 
 

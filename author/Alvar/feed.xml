@@ -88,6 +88,145 @@
 	</item>
 
 	<item>
+	  <title>Ojos en el bolsillo</title>
+	  <link>/ojos-en-el-bolsillo</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2017-12-09T10:18:00+00:00</pubDate>
+	  <guid>/ojos-en-el-bolsillo</guid>
+	  <description><![CDATA[
+	     <p>Esquema para una charla</p>
+
+<h1 id="huella-digital">Huella Digital</h1>
+
+<blockquote>
+  <p>La <strong>huella digital de los navegadores</strong> consiste en recolectar datos acerca de la configuración del navegador y el sistema de un usuario cuando este visita un sitio web. Este proceso puede revelar una cantidad sorprendente de información acerca del software y hardware de un usuario, y en última instancia puede ser usado para crear un identificador único del mismo, llamado huella digital del navegador [browser fingerprint en inglés] (Pierre Laperdrix, Walter Rudametkin, Benoit Baudry)</p>
+</blockquote>
+
+<h2 id="identificación-única-en-la-red">Identificación única en la red</h2>
+
+<blockquote>
+  <p>El riesgo de este poder de identificación es la pérdida de nuestra privacidad, ya que los sitios web que utilizan estas técnicas pueden conocer muchos datos sobre nuestros equipos lo que ayuda a crear un perfil nuestro para sus anuncios…</p>
+</blockquote>
+
+<h3 id="cual-es-mi-huella">Cual es mi huella</h3>
+
+<p>Test para conocer la huella digital de nuestro navegador</p>
+
+<ul>
+  <li><a href="https://amiunique.org/">Am I Unique</a></li>
+  <li><a href="https://panopticlick.eff.org/">Panopticlick</a></li>
+  <li><a href="https://browserprint.info/">Browserprint.info</a></li>
+</ul>
+
+<h3 id="aspectos-técnicos">Aspectos técnicos</h3>
+
+<ul>
+  <li><em>user-agent</em>
+Identificador del navegador en las páginas. El servidor de la página, utiliza este dato para enviarme la información en un formato que mi navegador pueda entender.</li>
+</ul>
+
+<h2 id="un-poco-de-anonimato">Un poco de anonimato</h2>
+
+<blockquote>
+  <p>Todos estos sitios nos ayudan a ver qué tan único es nuestro navegador, sabiendo que en este caso estar fuera de la masa es lo menos conveniente.</p>
+</blockquote>
+
+<ul>
+  <li><a href="https://www.torproject.org/">TOR</a>
+    <ul>
+      <li>incluye algunas reglas predeterminadas para crear una <em>huella digital</em> falsa.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="cambiar-el-user-agent">Cambiar el user-agent</h2>
+
+<ul>
+  <li>En <strong>Firefox</strong> hay que ingresar a about:config para cambiarla, siguiendo estos pasos:
+    <ol>
+      <li>En la barra de navegación, hay que borrar la url y escribir <em>about:config</em></li>
+      <li>Hay que aceptar que uno se hace responsable de lo que está por hacer</li>
+      <li>En la caja de búsqueda escribir: <em>privacy.resistFingerprinting</em></li>
+      <li>Aparecerá una línea que en la parte final dice: <em>false</em></li>
+      <li>Hacemos doble clic sobre la palabra false y se convertirá en <em>true</em></li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="sistemas-operativos">Sistemas Operativos</h2>
+
+<blockquote>
+  <p>Para pasar desapercibido, lo mejor es estar en medio de la masa, así que lo más recomendable es navegar en una máquina virtual con algún sistema operativo pelado, con la menor cantidad de modificaciones que puedan .</p>
+</blockquote>
+
+<blockquote>
+  <p>Otra buena opción es usar Tails para hacer navegar privadamente. Tails es una distribución de GNU/Linux que funciona desde un dispositivo USB y que arranca como nueva cada vez que la encendemos.</p>
+</blockquote>
+
+<h2 id="tres-consejos-para-la-privacidad-de-tu-teléfono">Tres consejos para la privacidad de tu teléfono</h2>
+
+<ul>
+  <li>Apagar los servicios de localización</li>
+  <li>Chequear todos los permisos</li>
+  <li>Usar otros navegadores en el celu
+    <ul>
+      <li>Focus</li>
+      <li>Firefox</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="qué-hacen-con-nuestros-datos">Qué hacen con nuestros datos</h1>
+
+<p><img src="assets/image/cambridgeAnalytica.png" alt="" /></p>
+
+<h1 id="psicometría-de-los-perfiles">Psicometría de los perfiles</h1>
+
+<p>…La robustez del modelo podía ilustrarse sobre cómo de bueno era éste prediciendo las respuestas del sujeto. Kosinski continuó trabajando en su modelo de forma incesante: en poco tiempo, el modelo era capaz de evaluar a una persona mejor que un compañero de trabajo, basándose sólo en 10 “me gusta”. 70 “me gusta” eran suficiente para para hacerlo mejor que un amigo, 150 mejor que sus padres, y 300 mejor que su pareja. Más “me gusta” podían incluso predecir más de lo que la misma persona sabía sobre ella misma.</p>
+
+<h1 id="herramientas-para-el-hackactivismo">Herramientas para el hackactivismo</h1>
+
+<ul>
+  <li>¿Y si el poder ya no residiera en las instituciones, sino en las infraestructuras? ¿En qué consistiría entonces la revolución?</li>
+  <li><a href="https://github.com/mozilla/toolsforactivism">https://github.com/mozilla/toolsforactivism</a></li>
+</ul>
+
+<h1 id="créditos-fuentes-y-agradecimientos-varios">Créditos fuentes y agradecimientos varios</h1>
+
+<ul>
+  <li><a href="https://unojoenelcielo.com.ar/2017/10/02/nuesta-huella-digital-en-internet/">Artículo del Blog de Guillermo Movia</a></li>
+  <li><a href="https://blog.mozilla.org/internetcitizen/2017/01/25/better-password-security/">Guía para loguines seguros</a></li>
+  <li><a href="https://elgatoylacaja.com.ar/cuentos/como-agujas/">Cuento como agujas</a></li>
+  <li><a href="https://blog.mozilla.org/internetcitizen/2017/04/21/https-protect/">HTTPS y tu seguridad online</a></li>
+  <li><a href="https://blog.mozilla.org/internetcitizen/2017/06/26/irl-episode-1-privacy/">Tres consejos para la privacidad de tu teléfono</a></li>
+  <li><a href="http://www.tribunahacker.com.ar/2014/04/donde-se-guardan-los-datos-que-hay-en-internet/">Dónde se guardan los datos que hay en internet</a></li>
+  <li><a href="http://www.cubadebate.cu/especiales/2017/02/19/yo-no-construi-la-bomba-solo-demostre-que-existia/">Yo no construí la bomba solo demostré que existía</a></li>
+  <li><a href="http://www.eldiario.es/interferencias/Curzio_Malaparte-Comite_Invisible_6_447315274.html"> La revolución como problema técnico: de Curzio Malaparte al Comité Invisible</a></li>
+  <li><a href="http://maxpixel.freegreatpicture.com/Cctv-Graffiti-Surveillance-Security-Camera-89012">Cctv Graffiti Surveillance Security Camera</a></li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Chtcheglov, por otro urbanismo | Apuntes | The Beach Beneath the Street</title>
 	  <link>/chtcheglov-por-otro-urbanismo</link>
 		
@@ -371,53 +510,6 @@ We are bored with this planet. It has seen better centuries, and the promise of 
 	  <guid>/no-se-fue-quedo-para-siempre-en-la-memoria-de-los-pueblos-libres</guid>
 	  <description><![CDATA[
 	     <p><img src="wp-content/uploads/2016/11/wp-1480163633309.jpg" alt="" /></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>El espectáculo educativo</title>
-	  <link>/el-espectaculo-educativo</link>
-		
-				
-						<author>Alvar Maciel</author>
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-	  <pubDate>2016-11-21T19:31:02+00:00</pubDate>
-	  <guid>/el-espectaculo-educativo</guid>
-	  <description><![CDATA[
-	     <p>La realidad educativa se puede presentar como una representación. Como un espectáculo.</p>
-
-<p>El aula como una representación del curriculúm y este como una representación de políticas públicas.</p>
-
-<p>Un loop sin fin de simulaciones que terminan y empiezan en los cuerpos de los estudiantes.</p>
-
-<p>Estudiantes que ignoran lo que cada una de las instancias pretenden de ellos mientras estas se ignoran a si mismas.</p>
-
-<p> </p>
-
-<p> </p>
-<blockquote class="twitter-tweet" data-lang="es">
-<p dir="ltr" lang="en"><a href="https://twitter.com/mckenziewark">@mckenziewark</a> <a href="https://twitter.com/eraser">@eraser</a> <a href="https://twitter.com/brianhousand">@brianhousand</a> this thread give me a hug in sight. All education reality presents as representation. A big spectacle</p>
-— Alvar Maciel (@amaciel) <a href="https://twitter.com/amaciel/status/800789740903534594">21 de noviembre de 2016</a></blockquote>
-<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p> </p>
-<p style="text-align: center;"><a href="https://en.wikipedia.org/wiki/Angel_Beats!" target="_blank">Y si te gusta el gif... es de este animé</a></p>
 
 	  ]]></description>
 	</item>

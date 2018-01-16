@@ -2,7 +2,6 @@
 layout: post
 current: post
 navigation: True
-cover: false
 title: Ojos en el bolsillo
 date:   2017-12-09 10:18:00
 disqus: true      

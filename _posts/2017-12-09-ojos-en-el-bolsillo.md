@@ -8,7 +8,7 @@ disqus: true
 tags:
   - Sociedad del Espectáculo
 subclass: 'post tag-sociedad-del-espectáculo'
-categories: 'Alvar'
+author: 'Alvar'
 cover: 'assets/images/survillance.jpg'
 ---
 

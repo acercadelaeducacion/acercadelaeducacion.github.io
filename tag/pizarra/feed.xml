@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Pizarra del día</title>
+	  <link>/2008/02/pizarra-del-dia-2/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-02-20T14:20:19+00:00</pubDate>
+	  <guid>/2008/02/pizarra-del-dia-2/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center"><img src="http://farm3.static.flickr.com/2305/2279942710_b2e9e1b3e9.jpg?v=0 http://farm3.static.flickr.com/2305/2279942710_b2e9e1b3e9.jpg?v=0 &lt;b&gt;After&lt;/b&gt; &lt;a mce_thref='http://www.flickr.com/photos/8012087@N08/2279942710'&gt;&lt;img mce_tsrc='http://farm3.static.flickr.com/2305/2279942710_b2e9e1b3e9_m.jpg' title='pizarra de febrero'&gt;&lt;/a&gt;" alt="¿sabés quién muere en el último Harry potter? ¿y en " border="1" /></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Recursos para el granjero urbano | Autoriego con sensores libres</title>
+	  <link>/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-02-09T21:48:42+00:00</pubDate>
+	  <guid>/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignnone" alt="" src="http://farm4.staticflickr.com/3635/3641480769_cfe7d822a1.jpg" width="500" height="344" /></p>
+<ul>
+	<li><a href="http://www.compostadores.com">Compostadores</a></li>
+</ul>
+<p style="padding-left: 30px;">tags: <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a> <a href="https://www.diigo.com/user/amaciel/residuos">residuos</a></p>
+<p style="padding-left: 30px;">Data e información sobre compostaje</p>
+
+<ul>
+	<li><a href="http://www.dondereciclo.org.ar">Donde Reciclo - Sitio de reciclaje</a>
+
+<a href="http://www.dailydump.org">tags: </a><a href="https://www.diigo.com/user/amaciel/residuos">residuos</a></li>
+</ul>
+<ul>
+	<li>Home page | Daily Dump</li>
+</ul>
+<p class="diigo-tags" style="padding-left: 30px;"><span>tags:</span> <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a> <a href="https://www.diigo.com/user/amaciel/residuos">residuos</a></p>
+<p class="diigo-tags" style="padding-left: 30px;">Todo lo que necesitas saber para el compostaje y una forma linda de hacer compostadores aeróbicos</p>
+
+<ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="https://www.youtube.com/urbanhomestead">The Urban Homestead - YouTube</a></p>
+<p class="diigo-tags"><span>tags:</span> <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a></p>
+</li>
+</ul>
+<p style="padding-left: 30px;">Una película que hay que ver, con muy buena data</p>
+
+<ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://www.melbartholomew.com/category/beginners-guide/">Beginner’s Guide - Mel Bartholomew</a></p>
+<p class="diigo-tags"><span>tags:</span> <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a></p>
+</li>
+</ul>
+<p style="padding-left: 30px;">Página con data para hacer una huerta de un metro cuadrado</p>
+
+<ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://www.youtube.com/watch?v=l564OJeW2B8">Auto-riego casero con sensores libres para huertos urbanos - YouTube</a></p>
+<p class="diigo-description">Sistema de riego hecho con un Arduino: http://t.co/6QZd4xpC</p>
+</li>
+</ul>
+<p style="padding-left: 30px;">Otra muuuy buen recurso para cruzar tecnología libre y de bajos recursos con la huerta urbana</p>
+<p>Imagen : <a title="Brote de flor de cebolla" href="http://www.flickr.com/photos/jlcernadas/3641480769/">http://www.flickr.com/photos/jlcernadas/3641480769/</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

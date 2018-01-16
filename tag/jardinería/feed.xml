@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Cosas que quiero hacer | Science Class Hydroponics: STEM Garden</title>
+	  <link>/2011/10/cosas-que-quiero-hacer-science-class-hydroponics-stem-garden/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2011-10-20T09:33:01+00:00</pubDate>
+	  <guid>/2011/10/cosas-que-quiero-hacer-science-class-hydroponics-stem-garden/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft size-medium wp-image-1211" style="border-width: 3px; border-color: black; border-style: solid; margin: 3px;" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/10/hydroponics-300x150.jpg" alt="" width="300" height="150" />Vía <a title="Página de la revista" href="http://makezine.com">MAKE Magazine</a>, leo y sueño con proyectos a los que no puedo dedicar (por ahora) el escaso tiempo que tengo, pero creo que tal vez alguno de ustedes si pueden aprovechar estas maravillas de la originalidad, en este caso es un jardín hidropónico vertical, para pequeños departamentos.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>link</td>
+      <td> <a href="http://feedproxy.google.com/~r/makezineonline/~3/n1kf4Hiyn6E/science-class-hydroponics-stem-garden.html">Science Class Hydroponics: STEM Garden</a>.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<iframe src="http://www.youtube.com/embed/pJ9qe01RN60" frameborder="0" width="560" height="315"></iframe>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

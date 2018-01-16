@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Ellen, Miguel Abuelo y&#8230; Calamaro</title>
+	  <link>/2008/03/ellen-miguel-abuelo-y-calamaro/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-03-27T22:03:22+00:00</pubDate>
+	  <guid>/2008/03/ellen-miguel-abuelo-y-calamaro/</guid>
+	  <description><![CDATA[
+	     <p>Interminables discusiones (generalmete con motivo de hacerla enojar… cosa que no es difícil) con mi cuñada, Ellen, sobre <a href="http://es.wikipedia.org/wiki/Andres_calamaro">Calamaro,</a> se zanjan este día. En un humilde homenaje de quien escribe a<a href="http://es.wikipedia.org/wiki/Miguel_Abuelo"> Miguel Abuelo</a> y en una suerte de reparación histórica con mi cuñada. Dejo uno de los temas que más me gusta de <a href="http://es.wikipedia.org/wiki/Andres_calamaro">Andrés</a>.</p>
+<object height="355" width="425"></object>
+
+<param name="movie" value="http://www.youtube.com/v/2Fg9m9YZhTY&amp;hl=en" />
+<p>&lt;/param&gt;</p>
+<param name="wmode" value="transparent" />
+<p>&lt;/param&gt;<embed src="http://www.youtube.com/v/2Fg9m9YZhTY&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425" />&lt;/embed&gt;</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

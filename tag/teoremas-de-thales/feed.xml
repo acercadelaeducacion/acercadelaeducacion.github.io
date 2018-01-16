@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Teorema de Thales ¡Buenisimooo!</title>
+	  <link>/2007/10/teorema-de-thales-%c2%a1buenisimooo/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-10-16T18:54:04+00:00</pubDate>
+	  <guid>/2007/10/teorema-de-thales-%c2%a1buenisimooo/</guid>
+	  <description><![CDATA[
+	     <p>Buscando el tanguito a la mamá de <a title="Les Luthier" href="http://www.lesluthiers.com/"><strong>Les Luthiers</strong></a> encontré esta maravilla que hicieron unos muchachos para realizar el final de la materia “Edición de video” está BUENISIMO</p>
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="366" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/czzj2C4wdxY&amp;rel=1&amp;border=0" /><embed type="application/x-shockwave-flash" width="425" height="366" src="http://www.youtube.com/v/czzj2C4wdxY&amp;rel=1&amp;border=0" wmode="transparent" />&lt;/embed&gt;</object></div>
+<blockquote>Nicolás y Matías, los autores de este vídeo, nos explican cómo surgió esta fantástica idea de mezclar una canción de Les Luthiers (obra Teorema de Thales) e imágenes varias, para explicar a través de un vídeo-montaje un teorema matemático.
+
+El Teorema de Thales fue nuestra inspiración para realizar el final de la materia "Edición de video" de nuestra facultad. Quisimos explicar el teorema con imágenes de la vida cotidiana y realizar algo distinto y divertido. El video muestra imágenes de muchas partes de Buenos Aires y su relación con el teorema.
+
+¡¡Esperamos que les guste!!</blockquote>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

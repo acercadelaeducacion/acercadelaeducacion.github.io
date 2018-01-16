@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>De esto se trata</title>
+	  <link>/2008/09/de-esto-se-trata/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-09-06T19:19:18+00:00</pubDate>
+	  <guid>/2008/09/de-esto-se-trata/</guid>
+	  <description><![CDATA[
+	     <object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/87yq372R4Ts&amp;hl=en&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" />&lt;/param&gt;<param name="allowFullScreen" value="true" />&lt;/param&gt;<embed src="http://www.youtube.com/v/87yq372R4Ts&amp;hl=en&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="349" />&lt;/embed&gt;</object>
+<h2>¿Todos nosotros queremos cambiar el mundo?</h2>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

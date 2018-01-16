@@ -1,148 +1,186 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- [[! Document Settings ]] -->
+
+    <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    <!-- [[! Page Meta ]] -->
-    <title>Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma</title>
-    <meta name="description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
+    <!-- Base Meta -->
+    <!-- dynamically fixing the title for tag/author pages -->
 
+
+
+    <title>Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <link rel="shortcut icon" href="/assets/images/favicon.ico" >
-
-    <!-- [[! Styles'n'Scripts ]] -->
-    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
-    <link rel="stylesheet" type="text/css"
-          href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
-    <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css" />
-
-    <!-- [[! highlight.js ]] -->
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
+    <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
 
-    <!-- [[! Ghost outputs important style and meta data with this tag ]] -->
-    <link rel="canonical" href="http://acercadelaeducacion.com.ar//palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma" />
-    <meta name="referrer" content="origin" />
-    <link rel="next" href="/page2/" />
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <meta name="description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes" />
+    <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
 
+     <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Acerca de la Educación" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma" />
-    <meta property="og:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
-    <meta property="og:url" content="http://acercadelaeducacion.com.ar//palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma" />
+    <meta property="og:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes" />
+    <meta property="og:url" content="/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma" />
     <meta property="og:image" content="/assets/images/roog.jpg" />
-
+    <meta property="article:publisher" content="https://www.facebook.com/alvar.maciel" />
+    <meta property="article:tag" content="Para Eva Y Sol" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma" />
-    <meta name="twitter:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes." />
-    <meta name="twitter:url" content="http://acercadelaeducacion.com.ar//palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma" />
-    <meta name="twitter:image:src" content="/assets/images/roog.jpg" />
+    <meta name="twitter:description" content="Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes" />
+    <meta name="twitter:url" content="/" />
+    <meta name="twitter:image" content="/assets/images/roog.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="Acerca de la Educación" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Para Eva Y Sol" />
+    <meta name="twitter:site" content="@amaciel" />
+    <meta name="twitter:creator" content="@amaciel" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="666" />
 
     <script type="application/ld+json">
 {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "@type": "Website",
-    "publisher": "Acerca de la Educación",
-    "name": "Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma",
-    "url": "http://acercadelaeducacion.com.ar//palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma",
-    "image": "/assets/images/roog.jpg",
-    "description": "Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes."
+    "publisher": {
+        "@type": "Organization",
+        "name": "Acerca de la Educación",
+        "logo": "/assets/images/blog-icon.png"
+    },
+    "url": "/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma",
+    "image": {
+        "@type": "ImageObject",
+        "url": "/assets/images/roog.jpg",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma"
+    },
+    "description": "Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes"
 }
     </script>
 
-    <meta name="generator" content="Jekyll 3.0.0" />
-<link rel="alternate" type="application/rss+xml" title="Acerca de la Educación" href="/feed.xml" />
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma" href="/feed.xml" />
 
 
 </head>
-<body class="home-template nav-closed">
-
-    <div class="nav">
-    <h3 class="nav-title">Menu</h3>
-    <a href="#" class="nav-close">
-        <span class="hidden">Close</span>
-    </a>
-    <ul>
-        <li class="nav-home " role="presentation"><a href="/">Inicio</a></li>
-        <li class="nav-about " role="presentation"><a href="/about">Sobre el sitio</a></li>
-        <li class="nav-fables " role="presentation"><a href="/tag/Para Eva y Sol">Para Eva y Sol</a></li>
-        <li class="nav-speeches " role="presentation"><a href="/tag/Educación">Educación</a></li>
-        <li class="nav-fiction " role="presentation"><a href="/tag/La vida está en otro lado">La vida está en otro lado</a></li>
-        <li class="nav-fiction " role="presentation"><a href="/tag/Sociedad del Espectáculo">Sociedad del Espectáculo</a></li>
-        <li class="nav-author " role="presentation"><a href="/author/Alvar">Autor</a></li>
-        <li><form action="/search.html" method="get" autocomplete="on">
-        		<label for="search_box">Buscar</label>
-        		<input type="text" id="search_box" name="query" size="13">
-        		<input type="submit" value="Buscar">
-        </form></li>
-    </ul>
-    <a class="subscribe-button icon-feed" href="/feed.xml">Subscribirse</a>
-
-
-</div>
-<span class="nav-cover"></span>
-
+<body class="home-template">
 
     <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+        <!-- default -->
 
-        <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < default -->
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
 
-<!-- The comment above "< default" means - insert everything in this file into -->
-    <!-- the [body] of the default.hbs template, which contains our header/footer. -->
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="/"><img src="/assets/images/blog-icon.png" alt="Acerca de la Educación" /></a>
+            
+        
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="/">Inicio</a></li>
+    <li class="nav-about" role="menuitem"><a href="/about/">Sobre el sitio</a></li>
+    <li class="nav-sociedad-del-espectaculo" role="menuitem"><a href="/tag/Sociedad del Espectáculo/">Sociedad del espectáculo</a></li>
+    <li class="nav-educacion" role="menuitem"><a href="/tag/Educación">Educación</a></li>
+   <li class="nav-la-vida-esta-en-otro-lado" role="menuitem"><a href="/tag/La vida está en otro lado/">La vida está en otro lado</a></li>
+   <li class="nav-para-eva-y-sol" role="menuitem"><a href="/tag/Para Eva y Sol/">Para Eva y Sol</a></li>
+
+</ul>
+
+        
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+            
+                <a class="social-link social-link-fb" href="https://facebook.com/alvar.maciel" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+</a>
+            
+            
+                <a class="social-link social-link-tw" href="https://twitter.com/amaciel" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+</a>
+            
+        </div>
+        
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+        
+    </div>
+</nav>
+
+    </div>
+</header>
 
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<header class="main-header post-head " style="background-image: url(/assets/images/roog.jpg) ">
-    <nav class="main-nav  overlay  clearfix">
-        <a class="blog-logo" href="/"><img src="/assets/images/lain.gif" alt="Blog Logo" /></a>
-        
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-        
-    </nav>
-</header>
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
 
-<main class="content" role="main">
+        <article class="post-full post ">
 
-    <article class="post">
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <time class="post-full-meta-date" datetime="28 October 2016">28 October 2016</time>
+                    
+                        <span class="date-divider">/</span>
+                        
+                            
+                               <a href='/tag/para-eva-y-sol/'>PARA EVA Y SOL</a>,
+                            
+                        
+                            
+                               <a href='/tag/ciencia-ficción/'>CIENCIA FICCIóN</a>,
+                            
+                        
+                            
+                               <a href='/tag/literatura/'>LITERATURA</a>,
+                            
+                        
+                            
+                               <a href='/tag/phillip-k.-dick/'>PHILLIP K. DICK</a>
+                            
+                        
+                    
+                </section>
+                <h1 class="post-full-title">Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma</h1>
+            </header>
 
-        <header class="post-header">
-            <h1 class="post-title">Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma</h1>
-            <section class="post-meta">
-            <!-- <a href='/'>Alvar Maciel</a> -->
-            <time class="post-date" datetime="2016-10-28">28 Oct 2016</time>
-                <!-- [[tags prefix=" on "]] -->
-                
-                on
-                
-                    
-                       <a href='/tag/Para Eva y Sol'>Para eva y sol</a>,
-                    
-                
-                    
-                       <a href='/tag/Ciencia Ficción'>Ciencia ficción</a>,
-                    
-                
-                    
-                       <a href='/tag/Literatura'>Literatura</a>,
-                    
-                
-                    
-                       <a href='/tag/Phillip K. Dick'>Phillip k. dick</a>
-                    
-                
-                
-            </section>
-        </header>
+            
+            <figure class="post-full-image" style="background-image: url(/assets/images/roog.jpg)">
+            </figure>
+            
 
-        <section class="post-content">
-
-            <p><img class="aligncenter" src="http://4.bp.blogspot.com/-ORRdVZW8MBI/Tx23pIvY_rI/AAAAAAAABZg/qHp8zlu23QU/s1600/illustrations-philip-k-dick-roog.jpg" alt="ilustración de Roog" width="342" height="260" />Quedo acelerado después de intercambiar charlas sobre literatura, o más bien sobre como esta impacta en mi psique permitiendo ver detalles en los paisajes cotidanos.</p>
+            <section class="post-full-content">
+                <div class="kg-card-markdown">
+                    <p><img class="aligncenter" src="http://4.bp.blogspot.com/-ORRdVZW8MBI/Tx23pIvY_rI/AAAAAAAABZg/qHp8zlu23QU/s1600/illustrations-philip-k-dick-roog.jpg" alt="ilustración de Roog" width="342" height="260" />Quedo acelerado después de intercambiar charlas sobre literatura, o más bien sobre como esta impacta en mi psique permitiendo ver detalles en los paisajes cotidanos.</p>
 
 <p>Después de un intecambio en el <a href="https://learningcircles.p2pu.org/es-ar/signup/universidad-de-san-martin-136/" target="_blank">Circulo de Estudio de Antroplogía de lo Digital</a>, quedé con ganas de más y me sambullí en los cuentos de Dick.</p>
 
@@ -162,131 +200,1289 @@ Me gusta este cuento, y dudo que hoy lo pudiera escribir mejor que cuando lo hic
 Imagen de: <a href="http://stoicdecay.blogspot.com.ar/2012/01/philip-k-dick-illustrations.html" target="_blank">http://stoicdecay.blogspot.com.ar/2012/01/philip-k-dick-illustrations.html</a></blockquote>
 <!--more-->
 
-
-        </section>
-
-        <footer class="post-footer">
-
-            <!-- Everything inside the #author tags pulls data from the author -->
-            <!-- #author-->
-
-            
-            <figure class="author-image">
-                <a class="img" href="/author/Alvar" style="background-image: url(/assets/images/lain.gif)"><span class="hidden">Alvar's Picture</span></a>
-            </figure>
-            
-
-            <section class="author">
-                <h4><a href="/author/Alvar">Alvar Maciel</a></h4>
-
-                
-                    <p> Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.</p>
-                
-                <div class="author-meta">
-                    <span class="author-location icon-location"> Buenos Aires, Argentina</span>
-                    <span class="author-link icon-link"><a href="http://acercadelaeducacion.com.ar"> acercadelaeducacion.io/</a></span>
                 </div>
             </section>
 
-            <!-- /author  -->
-
-            <section class="share">
-                <h4>Para Compartir</h4>
-
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=&quot;&quot;%20http://acercadelaeducacion.com.ar/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma%20via%20&#64;&hashtags=Para Eva y Sol,Ciencia Ficción,Literatura,Phillip K. Dick,"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://acercadelaeducacion.com.ar/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://acercadelaeducacion.com.ar/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
-            </section>
-
-            <!-- Add Disqus Comments -->
+            <!-- Email subscribe form at the bottom of the page -->
             
-                <div id="disqus_thread"></div>
-<script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'alvar'; // required: replace example with your forum shortname
-        var disqus_identifier = '/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma';
-        var disqus_url = 'http://acercadelaeducacion.com.ar/palabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma';
+                <section class="subscribe-form">
+                    <h3 class="subscribe-form-title">Subscribe to Acerca de la Educación</h3>
+                    <p>Get the latest posts delivered right to your inbox</p>
+                    <form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
 
-            /* * * DON'T EDIT BELOW THIS LINE * * */
-            (function() {
-                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-                dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
     </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
 
+                </section>
             
 
-        </footer>
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    
+                        <section class="author-card">
+                            
+                                <img class="author-profile-image" src="/assets/images/lain.gif" alt="Alvar" />
+                            
+                            <section class="author-card-content">
+                                <h4 class="author-card-name"><a href="/author/Alvar">Alvar Maciel</a></h4>
+                                
+                                    <p>Docente, busco entender el engranaje tecnológico en el que estamos metides. Trabajo y escribo acerca de la educación.</p>
+                                
+                            </section>
+                        </section>
+                        <div class="post-full-footer-right">
+                            <a class="author-card-button" href="/author/Alvar">Read More</a>
+                        </div>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                <!-- /author  -->
+            </footer>
 
-    </article>
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            this.page.url = '/';
+                            this.page.identifier = 'Acerca de la Educación';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://acercadelaeducacion.io/.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                </section>
+            
 
+        </article>
+
+    </div>
 </main>
 
-<aside class="read-next">
+<!-- Links to Previous/Next posts -->
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            
+                
+                
+                
+                
+                    <article class="read-next-card"
+                        
+                            style="background-image: url(/assets/images/cover1.jpg)"
+                        
+                    >
+                        <header class="read-next-card-header">
+                            <small class="read-next-card-header-sitetitle">&mdash; Acerca de la Educación &mdash;</small>
+                            
+                                <h3 class="read-next-card-header-title"><a href="/tag/para-eva-y-sol/">Para eva y sol</a></h3>
+                            
+                        </header>
+                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+</div>
+                        <div class="read-next-card-content">
+                            <ul>
+                                
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/unas-palabras-santiago-maldonado">Lucecitas de Santiago Maldonado</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/apuntes-tbbts-el-chantaje-de-nuestra-epoca-mckenziewark">Apuntes #TBBTS | El chantaje de nuestra epoca | @mckenziewark </a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/apuntes-tbbts-dejando-el-siglo-xxi-mckenziewark">Apuntes TBBTS | Dejando el siglo XXI | @mckenziewark </a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                            </ul>
+                        </div>
+                        <footer class="read-next-card-footer">
+                            <a href="/tag/para-eva-y-sol/">
+                                
+                                    See all 14 posts  →
+                                
+                            </a>
+                        </footer>
+                    </article>
+                
+            
 
-    <!-- [[! next_post ]] -->
-    
-        <a class="read-next-story " style="background-image: url(/wp-content/uploads/2016/11/wp-image-922672199jpg.jpg)" href="/github-para-docentes-ideas-para-arrancar-squeakfest2016">
-            <section class="post">
-                <h2>Github para docentes | ideas para arrancar #squeakfest2016</h2>
-                <p>El&nbsp;SqueakFest&nbsp;se acerca y vamos a contar, mostrar como usar&nbsp;Github&nbsp;para la&nbsp;planificación y seguimiento de clases.&nbsp; Borrador...</p>
-            </section>
-        </a>
-    
-    <!-- [[! /next_post ]] -->
-    <!-- [[! prev_post ]] -->
-    
-        <a class="read-next-story prev " style="background-image: url(/assets/images/lain2.gif)" href="/vida-espectacularizada-educacion-espectacular">
-            <section class="post">
-                <h2>Vida espectacularizada. Educación espectacular</h2>
-                <p>Toda la vida de las sociedades en las que dominan las condiciones modernas de producción...</p>
-            </section>
-        </a>
-    
-    <!-- [[! /prev_post ]] -->
+            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+    <article class="post-card ">
+        
+            <a class="post-card-image-link" href="/github-para-docentes-ideas-para-arrancar-squeakfest2016">
+                <div class="post-card-image" style="background-image: url(/wp-content/uploads/2016/11/wp-image-922672199jpg.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/github-para-docentes-ideas-para-arrancar-squeakfest2016">
+                <header class="post-card-header">
+                    
+                        
+                            
+                               <span class="post-card-tags">Github</span>
+                            
+                        
+                            
+                               <span class="post-card-tags">Planificaciones</span>
+                            
+                        
+                            
+                                <span class="post-card-tags">Squeakfest</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Github para docentes | ideas para arrancar #squeakfest2016</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    <p>El&nbsp;SqueakFest&nbsp;se acerca y vamos a contar, mostrar como usar&nbsp;Github&nbsp;para la&nbsp;planificación y seguimiento de clases.&nbsp;
+
+Borrador en marcha.
+
+![](wp-content/uploads/2016/11/wp-image-922672199jpg.jpg)
+</p>
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/images/lain.gif" alt="Alvar Maciel" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/Alvar/">Alvar Maciel</a>
+                        </span>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+            </footer>
+        </div>
+    </article>
+
+            
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+    <article class="post-card ">
+        
+            <a class="post-card-image-link" href="/vida-espectacularizada-educacion-espectacular">
+                <div class="post-card-image" style="background-image: url(/assets/images/lain2.gif)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/vida-espectacularizada-educacion-espectacular">
+                <header class="post-card-header">
+                    
+                        
+                            
+                               <span class="post-card-tags">Educación</span>
+                            
+                        
+                            
+                               <span class="post-card-tags">Guy debord</span>
+                            
+                        
+                            
+                               <span class="post-card-tags">Pensamientos</span>
+                            
+                        
+                            
+                                <span class="post-card-tags">Sociedad del espectáculo</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Vida espectacularizada. Educación espectacular</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    <p>Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de espectáculos. Todo lo que era vivido directamente se aparta en una</p>
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/images/lain.gif" alt="Alvar Maciel" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/Alvar/">Alvar Maciel</a>
+                        </span>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+            </footer>
+        </div>
+    </article>
+
+            
+
+        </div>
+    </div>
 </aside>
+
+<!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
+<div class="floating-header">
+    <div class="floating-header-logo">
+        <a href="/">
+            
+                <img src="/assets/images/favicon.png" alt="Acerca de la Educación icon" />
+            
+            <span>Acerca de la Educación</span>
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">Palabras a Roog de Phillip K. Dick. O cómo la Ciencia Ficción alimenta mi alma</div>
+    <div class="floating-header-share">
+        <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
+</svg>
+</div>
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Palabras+a+Roog+de+Phillip+K.+Dick.+O+c%C3%B3mo+la+Ciencia+Ficci%C3%B3n+alimenta+mi+alma&amp;url=https://acercadelaeducacion.com.arpalabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+
+        </a>
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://acercadelaeducacion.com.arpalabras-a-roog-de-phillip-k-dick-o-como-la-ciencia-ficcion-alimenta-mi-alma"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+
+        </a>
+    </div>
+    <progress class="progress" value="0">
+        <div class="progress-container">
+            <span class="progress-bar"></span>
+        </div>
+    </progress>
+</div>
+
 
 <!-- /post -->
 
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
 
-        <footer class="site-footer clearfix">
-          <section class="copyright"><a href="/">Acerca de la Educación</a> &copy; 2018</section>
-          <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> using <a href="https://github.com/biomadeira/jasper">Jasper</a></section>
+
+        <!-- Previous/next page links - displayed on every page -->
+        
+
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href="/">Acerca de la Educación</a> &copy; 2018</section>
+                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+                    <a href="https://pages.github.com/">GitHub Pages</a> using
+                    <a href="https://github.com/myJekyll/jasper2">Jasper2</a></section>
+                <nav class="site-footer-nav">
+                    <a href="/">Latest Posts</a>
+                    <a href="https://facebook.com/alvar.maciel" target="_blank" rel="noopener">Facebook</a>
+                    <a href="https://twitter.com/amaciel" target="_blank" rel="noopener">Twitter</a>
+                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
+                </nav>
+            </div>
         </footer>
+
     </div>
-    <!-- [[! highlight.js ]] -->
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+
+    <!-- The big email subscribe modal content -->
+    
+        <div id="subscribe" class="subscribe-overlay">
+            <a class="subscribe-overlay-close" href="#"></a>
+            <div class="subscribe-overlay-content">
+                
+                    <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="Acerca de la Educación" />
+                
+                <h1 class="subscribe-overlay-title">Subscribe to Acerca de la Educación</h1>
+                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+                <form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
+    </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+            </div>
+        </div>
+    
+
+    <!-- highlight.js -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
-    <!-- [[! Ghost outputs important scripts and data with this tag ]] -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <!-- [[! The main JavaScript file for Casper ]] -->
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="/assets/js/index.js"></script>
+    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+
+    <!-- Paginator increased to "infinit" in _config.yml -->
+    <!-- if paginator.posts  -->
+    <!-- <script>
+        var maxPages = parseInt('');
+    </script>
+    <script src="/assets/js/infinitescroll.js"></script> -->
+    <!-- /endif -->
+
+    
+
 
     <!-- Add Google Analytics  -->
-        <!-- Google Analytics Tracking code -->
-     <script>
-	    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <!-- Google Analytics Tracking code -->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	    ga('create', 'UA-6677717-1', 'auto');
-	    ga('send', 'pageview');
+  ga('create', 'UA-6677717-1', 'auto');
+  ga('send', 'pageview');
 
-     </script>
+ </script>
+
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
 </body>
 </html>

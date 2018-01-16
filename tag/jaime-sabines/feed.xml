@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Los Amorosos</title>
+	  <link>/2007/06/los-amorosos-2/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-06-09T15:00:00+00:00</pubDate>
+	  <guid>/2007/06/los-amorosos-2/</guid>
+	  <description><![CDATA[
+	     <p class="flickr-frame" align="center"><a title="photo sharing" href="http://www.flickr.com/photos/el_fer/532989936/"><img class="flickr-photo" src="http://farm2.static.flickr.com/1135/532989936_9de2661c07.jpg" alt="" /></a></p>
+
+<blockquote>
+<p class="flickr-yourcomment" align="left"><a href="http://www.los-poetas.com/f/sabi1.htm#LOS%20AMOROSOS">...</a>Los amorosos
+se ponen a cantar entre labios
+una canción no aprendida.
+Y se van
+llorando, llorando
+la hermosa vida.</p>
+<p class="flickr-yourcomment" style="text-align: right;">Jaime Sabines</p>
+</blockquote>
+<p>[embed]https://www.youtube.com/watch?v=YMU1RKzt9cw[/embed]</p>
+
+<p><span class="flickr-caption"><span style="font-size: 78%;">Imagen:</span><a href="http://www.flickr.com/photos/el_fer/532989936/"><span style="font-size: 78%;"> Reloj de sol humano</span></a><span style="font-size: 78%;">, originally uploaded by </span><a href="http://www.flickr.com/people/el_fer/"><span style="font-size: 78%;">fertraban</span></a><span style="font-size: 78%;">.</span></span></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

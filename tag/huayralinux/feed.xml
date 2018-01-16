@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>HuayraLinux más que un Sistema Operativo Libre, la concreción de muchos sueños compartidos</title>
+	  <link>/2013/09/huayralinux-mas-que-un-sistema-operativo-libre-la-concrecion-de-muchos-suenos-compartidos/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-09-13T20:40:17+00:00</pubDate>
+	  <guid>/2013/09/huayralinux-mas-que-un-sistema-operativo-libre-la-concrecion-de-muchos-suenos-compartidos/</guid>
+	  <description><![CDATA[
+	     <p>[youtube http://www.youtube.com/watch?v=92Hu2EpdhkE&amp;feature=youtu.be]</p>
+
+<p>Hoy es un día feliz. Hoy después de mucho soñar, tuve el honor de asistir a la presentación de <strong><a title="Página de Huayra" href="http://huayra.conectarigualdad.gob.ar">Huayra Linux</a></strong>, un proyecto que nace y se desarrolla a fuerza de militancia y decisiones políticas.</p>
+
+<p>Dejo a los gurues de la información ese lugar del que no se sale, lugar destinado a obstaculizar.</p>
+
+<p>Me quedo con el camino, las discusiones y el trabajo de este grupo de amigos que hacen realidad el sueño de muchos.</p>
+
+<p>Ahora queda por delante acompañarlos, trabajar con ellos para que sigamos creciendo.</p>
+
+<p>… Y por si todavía no saben de que hablo…</p>
+
+<p>[youtube http://youtu.be/v3o6tbf8s88]</p>
+
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

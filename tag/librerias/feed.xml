@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Pizarra del día</title>
+	  <link>/2008/09/pizarra-del-dia-3/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-09-21T02:23:13+00:00</pubDate>
+	  <guid>/2008/09/pizarra-del-dia-3/</guid>
+	  <description><![CDATA[
+	     <p>Una más y van….
+<a target="_blank" href="http://www.acercadelaeducacion.com.ar/?p=139"><strong>La librería del barrio</strong></a> sigue creciendo.</p>
+
+<p>&lt;img style=”max-width: 800px;” src=”http://lh4.ggpht.com/alvarmaciel/SNXYU0ZPOqI/AAAAAAAAARI/G1Tjz75d4iQ/s400/Imagen020-1.jpg” border:=”” 2px=”” solid=”” /&gt;</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

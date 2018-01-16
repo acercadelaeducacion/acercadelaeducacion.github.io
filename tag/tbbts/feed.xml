@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Apuntes TBBTS | Dejando el siglo XXI | @mckenziewark </title>
+	  <link>/apuntes-tbbts-dejando-el-siglo-xxi-mckenziewark</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2016-12-06T10:20:00+00:00</pubDate>
+	  <guid>/apuntes-tbbts-dejando-el-siglo-xxi-mckenziewark</guid>
+	  <description><![CDATA[
+	     <p>En el siglo XXI,  el insomnio de la razón no cría monstruos, sino mascotas. No es de extrañar que ya no haya ningun dios, cuando lo que se espera de ellos es que desciendan del Monte Olimpo con bolsitas de plástico y que limpien. 
+Estamos aburridos de este planeta.  Ya ha visto siglos mejores, y nos elude la promesa de la llegada de mejores tiempos. </p>
+<blockquote>In the twenty-first century, the insomnia of reason does not breed monsters, but pets. No wonder there are no longer any gods, when what is expected of them is that they descend from Mount Olympus with plastic baggies and clean up.&nbsp;
+
+We are bored with this planet. It has seen better centuries, and the promise of better times to come eludes us.&nbsp;</blockquote>
+<p><a href="https://www.versobooks.com/books/1869-the-beach-beneath-the-street">Texto original</a></p>
+
+<p><a href="http://sickoftheradio.com/wp-content/uploads/2013/05/PAUL-MCCARTHY-ARTIST-poop-sculpture.jpg">Imagen</a> y <a href="https://www.theguardian.com/world/2008/aug/12/3">noticia</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

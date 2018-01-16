@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>El gAto Lee… Mañana no estarán</title>
+	  <link>/2013/03/el-gato-lee-manana-no-estaran/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-03-06T21:45:28+00:00</pubDate>
+	  <guid>/2013/03/el-gato-lee-manana-no-estaran/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://elgatoescaldado.com.ar/wp-content/uploads/2013/03/mañana-no-estarán-TAPA-001.jpg" rel="lightbox[2423]"><img class="alignright size-large wp-image-2428" style="border: 3px solid black; margin: 3px;" title="mañana no estarán TAPA 001" alt="" src="http://elgatoescaldado.com.ar/wp-content/uploads/2013/03/mañana-no-estarán-TAPA-001-652x1024.jpg" width="274" height="430" /></a></p>
+<h2 style="text-align: center;"><em><strong>Mañana no estarán</strong></em></h2>
+<h3 style="text-align: center;">en busca de las más variopintas especies de animales al borde de la existención</h3>
+<h4 style="text-align: center;">Douglas Adams con Mark Carwardine</h4>
+<p style="text-align: center;">Anagrama
+Barcelona, 1994
+Precio: $ 115,00</p>
+<p> 
+<!--more-->
+ </p>
+
+<p> </p>
+
+<p> </p>
+
+<p>Acá podés escuchar el fragmento del programa radial Nº 48 de ¿<a href="http://www.facebook.com/QuienLimpiaraLosBanios">Quién limpiará los baños</a>?, donde lópez recomienda su lectura veraniega en la Isla Martín García del libro <strong>Mañana no estarán</strong>.</p>
+<h3 style="text-align: center;"><a class="wpaudio" href="http://elgatoescaldado.com.ar/wp-content/uploads/2013/03/El-gato-lee-Mañana-no-estarán-QLLB-12-02-2013.mp3">El gato lee, Mañana no estarán (QLLB, 12-02-2013)</a></h3>
+<p> </p>
+
+<p> </p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Software libre para Bibliotecas #Meran | Cómo extraer páginas de PDF | Más Inkscape</title>
+	  <link>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-10-31T09:00:25+00:00</pubDate>
+	  <guid>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</guid>
+	  <description><![CDATA[
+	     <h2>Software Libre para Bibliotecas | Meran</h2>
+<p>Meran es el sucesor de Koha-UNLP y ya es un sistema que trabaja bajo la filosofía de software libre.</p>
+
+<p>A diferencia de Koha-UNLP que estaba basado en la versión 2.0 de
+Koha.org, Meran es un desarrollo nuevo, pensado y creado íntegramente en el ámbito de la UNLP.</p>
+
+<p>Mantiene las funcionalidades de un sistema de gestión, tal como lo presentaba Koha-UNLP y además incorpora prestaciones con una fuerte orientación al usuario mediante el uso de servicios de la Web 2.0 para compartir recursos, comentar, valorar bibliografía y difundir contenidos mediante la interacción con las redes sociales.</p>
+
+<p>La nueva url es <a href="http://www.meran.unlp.edu.ar" target="_blank">http://www.meran.unlp.edu.ar</a>
+&lt;<a href="http://www.meran.unlp.edu.ar/" target="_blank">http://www.meran.unlp.edu.ar/</a></p>
+<div id=":2m6"><wbr />Allí hay un instalador automatizado disponible para Debian 6.0 y derivados para arquitecturas de 32 y 64 bits. Como siempre el usuario puede realizar la instalación manual de todas las dependencias.&lt;/wbr&gt;</div>
+<div></div>
+<p><a href="http://www.meran.unlp.edu.ar/">Meran - Inicio</a>.</p>
+<h2>Cómo extraer páginas de PDF</h2>
+<p>Abrimos una terminal y</p>
+<pre class="brush:shell"># primero Instalar psutils y pdf2ps
+ pdftops documento.pdf - | psselect -p11-14 | ps2pdf - file-p11-14.pdf</pre>
+<p> </p>
+
+<p>via |<a title="Página fuente" href=" https://sites.google.com/a/ubuntu.org.uy/www-ubuntu-org-uy-salto/conoce-tu-ancho-de-banda-desde-co" target="_blank"> https://sites.google.com/a/ubuntu.org.uy/www-ubuntu-org-uy-salto/conoce-tu-ancho-de-banda-desde-co</a></p>
+<h2>Sencillo tuto para hacer caritas con inkscape</h2>
+<p><a href="http://www.acercadelaeducacion.com.ar/?attachment_id=1775" rel="attachment wp-att-1775"><img class="aligncenter size-full wp-image-1775" title="carita1" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/carita1.png" alt="" width="297" height="245" /></a></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>vía</td>
+      <td><a title="Página del tuto" href="http://2dgameartforprogrammers.blogspot.com.ar/2011/10/lets-get-started-with-circles.html" target="_blank">http://2dgameartforprogrammers.blogspot.com.ar/2011/10/lets-get-started-with-circles.html</a></td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Hongos | Inkscape | wicd</title>
+	  <link>/2012/10/hongos-inkscape-wicd/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-10-24T23:28:19+00:00</pubDate>
+	  <guid>/2012/10/hongos-inkscape-wicd/</guid>
+	  <description><![CDATA[
+	     <p>Tres cosas que aprendí hoy:</p>
+<h2>La importancia de llamarme Hongos</h2>
+<p>Lejos de pensar que sólo sirven para envenenar, pudrir o alucinar. Sino que también sirven para mejorar el ambiente.</p>
+
+<iframe src="http://embed.ted.com/talks/lang/es/paul_stamets_on_6_ways_mushrooms_can_save_the_world.html" frameborder="0" scrolling="no" width="560" height="315"></iframe>
+
+<p> </p>
+<h2>Aprendiendo a dibujar un Cohete</h2>
+<p>Si bien el tutorial no es sencillo. Al final pude hacer el cohete casi como en el ejemplo</p>
+
+<p><a title="Cómo crear un cohete con Inkscape" href="http://rogercv.wordpress.com/2012/02/09/como-crear-un-cohete-de-dibujos-animados-con-inkscape/" target="_blank">Como crear un cohete con Inkscape</a></p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/2012/10/24/hongos-inkscape-wicd/g3020/" rel="attachment wp-att-1759"><img class="alignnone size-medium wp-image-1759" title="Cohete" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/g3020-201x300.png" alt="Mi cohete en inkscape" width="201" height="300" /></a></p>
+<h2>Como instalar <strong>WICD</strong> en Fedora 16</h2>
+<p>En algunas máquinas el <strong>NetworkMannager</strong> no anda muy bien, en esos casos instalo <strong><a title="Página de WICD" href="http://wicd.sourceforge.net/" target="_blank">wicd</a></strong> y todo marcha.</p>
+<pre class="brush:shell">#Instalamos wicd
+sudo yum install wicd wicd-gtk beesu
+
+#Desactivamos NetworkManager
+sudo service NetworkManager stop
+sudo chkconfig NetworkManager off
+#activamos wicd
+sudo chkconfig wicd on
+#reboot
+sudo shutdown -r now</pre>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

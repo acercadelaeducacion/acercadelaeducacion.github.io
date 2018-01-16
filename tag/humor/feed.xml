@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Uso educativo de las TIC</title>
+	  <link>/uso-educativo-de-las-tic</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-05-24T16:37:00+00:00</pubDate>
+	  <guid>/uso-educativo-de-las-tic</guid>
+	  <description><![CDATA[
+	     <p><a href="http://web.educastur.princast.es/proyectos/cuate/blog/wp-images/innoveision.gif"><img src="http://web.educastur.princast.es/proyectos/cuate/blog/wp-images/innoveision.gif" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 400px" border="0" /></a></p>
+<p style="text-align: left">Ya ni se como llegue hasta<a href="http://web.educastur.princast.es/proyectos/cuate/blog/?p=226"> aquí</a>, pero encontre este blog que supongo que para muchos será conocido (ya que es excelente). En fín no puedo parar de leerlo, se los recomiendo, pero advierto que es algo adictivo.</p>
+<p>El tratamiento de la información, los dibujos y la info es muy buena.
+Pa quienes no lo conozcan<a href="http://web.educastur.princast.es/proyectos/cuate/blog/?p=226"> ¡visitenlo!</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

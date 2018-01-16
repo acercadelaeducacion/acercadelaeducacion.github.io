@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Elecciones Porteñas II</title>
+	  <link>/elecciones-portenas-ii</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-05-29T14:29:00+00:00</pubDate>
+	  <guid>/elecciones-portenas-ii</guid>
+	  <description><![CDATA[
+	     <p><a href="http://farm1.static.flickr.com/42/104206486_72fa271ada.jpg?v=0"><img src="http://farm1.static.flickr.com/42/104206486_72fa271ada.jpg?v=0" style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer; width: 200px" border="0" /></a>Ya quedan escasos días para las elecciones y quería dejarles los resultados de la experiencia que comenzó hace unas semanas <a href="http://acercadelaeducacion.blogspot.com/2007/05/elecciones-porteas.html">por acá</a>.
+Les recuerdo que intente contactarme vía mail con los tres principales candidatos a Jefe de Gobierno ya que, consternado por la similitud de algunas de sus propuestas, quería que me aclaren cómo las llevarían a cabo.
+De los tres candidatos solo el equipo de uno de ellos contesto mis preguntas (Tellerman) y me envió <a href="http://docs.google.com/Doc?id=dg936ns6_46fm7j3x">este documento</a> con una detallada ampliación de las propuestas que traen para ser elegidos.
+Espero aún que me envíen las plataformas los restantes candidatos e informo si estas arriban.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

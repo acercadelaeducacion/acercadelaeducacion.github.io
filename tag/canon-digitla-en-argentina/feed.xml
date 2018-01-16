@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Simposio sobre Software Libre y Educación en Buenos Aires</title>
+	  <link>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-05-06T00:00:28+00:00</pubDate>
+	  <guid>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="alignleft size-medium wp-image-527" style="border: 3px solid black; margin: 3px;" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="Banner del simposio" width="300" height="115" /></a>Participaré junto a<a href="http://ramiropol.com.ar"> Ramiro Pol</a> en el<a href="http://www.slye.org.ar/2010/">Tercer Simposio sobre Software Libre y Educación</a> (SLyE), organizado por la comunidad educativa libre de <a href="http://www.gleducar.org.ar/">Gleducar</a>. Disertaremos sobre Tuquito en las Classmate. EL simposio se realizará el próximo <strong>8 de Mayo</strong> en la <a href="http://www.filo.uba.ar/">Facultad de Filosofía y Letras de la Universidad de Buenos Aires</a> (UBA).</p>
+
+<p>El evento busca difundir la importancia del uso de Software Libre en la educación, acercando a la comunidad docente propuestas para utilizarlo en su tarea cotidiana.</p>
+
+<p>De acuerdo a <a href="http://www.slye.org.ar/2010/cronograma/">su programa</a>, algunas de las experiencias, herramientas y recursos que se presentarán incluyen:</p>
+<ul>
+	<li>Aplicaciones multimedia en el escuela.</li>
+	<li>Moodle y su implementación en la Educación Pública.</li>
+	<li>Scratch transversal a otras asignaturas y en Moodle.</li>
+	<li>Vikidia, la enciclopedia libre de contenido adaptado para chicos.</li>
+	<li>Aplicaciones Libres en la UBA.</li>
+	<li>Entorno de aprendizaje Sugar.</li>
+	<li>Tuquito en las Classmates.</li>
+	<li>Todo muy lindo pero… ¿cómo se hace para que una escuela funcione con Software Libre?</li>
+	<li>Del Software a la Cultura Libre.</li>
+</ul>
+<p>El simposio es gratuito, pero es necesario <a href="http://www.slye.org.ar/2010/inscripcion-2/">registrarte antes de asistir</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Las OLPC, las Classmate y la mar en coche</title>
+	  <link>/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-03-19T21:20:28+00:00</pubDate>
+	  <guid>/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" title="Obsoleto" src="http://farm1.static.flickr.com/40/84051198_ae7ee5cbd5.jpg" alt="" width="287" height="300" />La fiebre 1 a 1 invadió las oficinas públicas y de pronto hoy todos salimos corriendo a comprar netbooks, o notbooks o algo similar aunque no sepamos bien cual es la diferencia. El caso <a title="Plan Ceibal" href="http://www.ceibal.edu.uy/">Uruguayo</a> despertó en la clase dirigente una ventana más para buscar el tan ansiado balcón (presidencial, provincial o municipal) y de buenas a primeras el dinero fluye de las cajas a la inversión en equipos, software, capacitaciones y profesionales. No es un panorama criticable, a menos que seas un <a title="Quemarse a lo bonzo en wikipedia" href="http://es.wikipedia.org/wiki/Quemarse_a_lo_bonzo">bonzo</a>. No es mi caso. Pero no dejo de sentir una cierta incomodidad en todo este asunto: que llenó mi casilla de mails, mis feeds de artículos, pero que no despejó ninguna de mis dudas.</p>
+
+<p>La principal es de orden intuitiva ¿Qué harán los maestros con las máquinas? La respuesta es inmediata, las máquinas son para los alumnos, las capacitaciones son para los maestros. Entonces, más tranquilo me replanteo ¿Qué pasará en un aula, con 30 máquinas, los alumnos y un/a maestrx? El tiempo esclarecerá estas incógnitas, pero no dejo de preocuparme ya que:</p>
+<ol>
+	<li>La Ciudad de Buenos Aires, en materia de inclusión tecnológica se mostró hasta ahora bastante retrógrada a partir del cambio de gestión. Más allá de mi experiencia personal, que implicó que luego de años de trabajo en el <strong>Proyecto Aulas en Red</strong> viera como desmantelaron al único espacio que intentó integrar al maestro de grado con las tecnologías (pueden leer los motivos de mi desvinculación <a title="Incorporación de TIC e insomnio crónico" href="http://www.acercadelaeducacion.com.ar/2008/04/24/incorporacion-de-tic-e-insomnio-cronico/">acá</a> y <a title="Coherencia y renuncia" href="http://www.acercadelaeducacion.com.ar/2008/09/02/coherencia-y-renuncia/">acá</a>) lo que más me sorprende es su espacio institucional:
+<ol>
+	<li>El sitio cambio de contenido (obviamente) y BORRO así como lo leen toda la experiencia previa. Por suerte hice un backup de la web antes de irme y lo voy a subir acá. 4 años de experiencias ininterrumpidas no pueden tirarse a la basura por la negligencia de un coordinador. Además, fue mucho trabajo docente el que tiraron por la ventana, eso no se hace :P</li>
+	<li>chequen la página y verán lo que les digo, es patético (salvo el blog)</li>
+</ol>
+</li>
+	<li>Está claro que hay que capacitar a los docentes, ahora bien, capacitar en qué: en el uso de programas, en estratégias pedagógicas, en el uso de la pizarra, en adminstración de un servidor, en administración de redes, en concepciones colaborativas de la enseñanza. En qué hay que capacitar, por donde empezarán, quienes darán esa capacitación, cuanto durará ¿y los profesorados de enseñanza primaria?</li>
+	<li>Es muy lindo que anuncien que las pc van a venir con windows y linux, pero ¿qué linux pondrán? ¿por qué?</li>
+</ol>
+<p>Llevo un par de años trabajando en la incorporación de tecnologías en las escuelas, desde profesor de informática, pasando por facilitador a capacitador docente, recorrí el país trabajando con la flor y nata de la docencia argentina. Porque siento otra vez que de los docentes se olvidaron, que no los tienen en cuenta, y que nosotros, por considerarnos, en lo más íntimo y recóndito de nuestro ser docente, el último orejón del tarro. Aceptamos sin chistar lo que nos bajan y después cargamos con las responsabilidades de los fracasos.</p>
+
+<p>Ahora que lo pienso, algo de responsabilidad tenemos, por no colegiarnos, por no asumirnos profesionales de la enseñanza y delegar la responsabilidad TOTAL de nuestra profesión siempre en otras manos. En definitiva no velamos por nuestra profesión, más bien asistimos a su velatorio.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Imagen vía</td>
+      <td><a title="Flickrcc" href="http://flickrcc.bluemountains.net/">flickrcc</a></td>
+      <td>f<a title="flickr" href="http://www.flickr.com/photos/alpoma/84051198/sizes/m/">lickr</a></td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Educación Sexual&#8230;.</title>
+	  <link>/2009/08/educacion-sexual/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-08-05T21:41:40+00:00</pubDate>
+	  <guid>/2009/08/educacion-sexual/</guid>
+	  <description><![CDATA[
+	     <p>Hace unos días la noticia sobre las declaraciones de <a title="Noticias sobre el tema" href="http://news.google.com.ar/news?pz=1&amp;ned=es_ar&amp;hl=es&amp;q=H%C3%A9ctor+Aguer">Héctor Aguer</a> sacudió a la opinión pública e instaló una vez más, este tema en los medios. No voy a escribir más palabras sobre los dichos del Arzobispo de La Plata.</p>
+
+<p>Por eso repongo algunos enlaces y videos que pueden aportar a seguir pensando el tema.</p>
+<h2><a style="cursor: pointer;" title="Una noche en La Marshall" href="http://www.acercadelaeducacion.com.ar/?p=100">Una noche en La Marshall</a></h2>
+<div>
+
+<a href="http://www.lamarshall.com.ar/index_archivos/image585.jpg"><img src="http://www.lamarshall.com.ar/index_archivos/image585.jpg" alt="" width="336" height="372" align="left" /></a>El Miércoles 25 de Julio, aprovechando el receso invernal de las escuelas, fui otra vez a LaMarshàll. Éste es, según palabras de sus organizadores:
+<blockquote><em>“Un espacio cultural en donde se fomenta la práctica del Tango, teniendo como consigna poder bailar con la pareja que cada uno elija, sólo en función del rol que se quiera asumir en la danza. Un espacio en el cual la gente se sienta cómoda, pueda comunicar y transmitir sus emociones libremente.”</em></blockquote>
+Pero lo que viví allí fue mucho más que esta cita. Hace unos años empecé, movido por una gran deseo, a bailar tango. Esta actividad constituyó un verdadero espacio de aprendizaje en mi vida, las emociones, el movimiento y la libertad que se enlazan en el tango pasan de ser un fenómeno cultural a una forma de vida. Y en este aprendizaje, la libertad es esencia y sustento.
+
+Antes de continuar puede haber quienes se pregunten ¿qué tiene que ver lo que hoy escribe con la educación? Bueno, mucho… esperen y verán.
+
+LaMarshàll se caracteriza por ser una milonga gay, y concentra en esta característica todas las representaciones que quepan en el imaginario social. Cuando lo comento con mis amigos, siempre, en cualquier círculo, una broma, un chiste o un gesto de extrañeza se escapa y tengo que ponerme a aclarar o explicar qué implica La Marshàll. Ya no lo hago más.
+
+En síntesis, el miércoles, LaMarshàll festejó sus 4 años de existencia y asistí a un show de tango que impactó mis sentidos.
+
+La danza como vehículo, medio de expresión, carece de juicio, simplemente comunica, y nosotros como en todo dialogo podemos escuchar, o no, comprender, o no. Comprendí, escuché, Libertad. Sublime expresión de Libertad al ver–sentir a dos hombres bailando y en su abrazo amándose. Entonces comprendí, en mi cavernícola razón heterosexual-machista, la soledad del pensamiento único, en la pista, los bailarines no sólo demostraron su destreza, sino su amor, y lo compartieron.
+
+Este suceso me dejó muchas líneas de reflexión. La primera fue en torno a la sexualidad en nuestra sociedad. Pude contemplar y sentir lo que expresó el baile y dos hombres amándose, sin sentir rechazo (por uno u otro motivo es una sensación que muchos heterosxuales tenemos ante estas demostraciones homosexuales). Creo que el devenir de mi propia sexualidad, el encontrarme con la personal forma de vivir este aspecto de mi vida me liberó de miedos y prejuicios a los que estamos atados; mucho del sentir homofóbico está basado en el miedo de los hombres de sentirse atraídos o enamorados de otro hombre y junto con este miedo, montado sobre él, una enormidad de prejuicios obstaculizan el devenir de nuestra sexualidad.
+
+Varios son los factores que posibilitaron que pueda disfrutar del espectáculo de LaMarshàll, entre ellos, la claridad con que mis padres charlaron estos temas, la negación sistemática al silencio en pos de la vergüenza con mis parejas y entender que una relación sexual no está atada a cánones de amor novelesco, ni al desapego emocional del pornostar; que no necesariamente ha de ser un éxtasis de amor puro, ni siempre ha de ser una euforia de chorreante placer corporal; que una relación sexual es más bien un montón de todas estas cosas mezcladas y sumidas en la particularidad del momento.
+
+En tiempos de vouyerismo mediático, euforia sexual televisada, fotografiada y publicada y  de leyes educativas en torno a la sexualidad, inevitablemente me pregunto: ¿qué implica la educación sexual? ¿Qué tipo de educación sexual necesitamos? ¿Quién nos va a capacitar? ¿En qué?
+
+De las líneas anteriores, de mis dudas y certezas en torno al tema… pregunto al lector ¿en qué consiste la educación sexual? Para mí cada día es más claro que se trata de educación en torno a la Libertad, aunque más que a la Libertad a la capacidad de pararnos frente a la pila de prejuicios y miedos para elegir en Libertad.
+
+En fin, mientras escribí esto se lo mostré a mi pareja, ella me sugería que fuera claro (dificultad de mi vida) ya que el texto podría dar a confusiones ¿de mí? y mientras revisaba (¿no quería que se confundan?… ¿de mí?) me daba cuenta de que el miedo, otra vez como sombra recurrente, la asaltaba y en su salto me tocaba también. ¿Tan adentro está?
+
+Así dadas las cosas… no cambié una sola frase.
+
+En síntesis… celebro LaMarshàll, los hombres y mujeres que bailan allí y los amigos que hoy tengo y hacen de esta confusa vida.. un lugar mas entretenido.
+<h2>Vive bastante tiempo…</h2>
+<div>
+
+<a style="cursor: pointer;" href="http://bp3.blogger.com/_i1u0IG1Y3Lg/RkS_1dEM-TI/AAAAAAAAADg/O0FmpxKpa3M/s1600-h/besos.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://bp3.blogger.com/_i1u0IG1Y3Lg/RkS_1dEM-TI/AAAAAAAAADg/O0FmpxKpa3M/s200/besos.jpg" border="0" alt="" /></a> Via <a style="cursor: pointer;" href="http://llamamelola.com/2007/05/11/aides-my-boy-lollipop/">Llamame Lola</a> llegan estos spots de una campaña publicitaria para la prevención del SIDA.
+<div style="text-align: center;">
+<blockquote>...Un <a style="cursor: pointer;" href="http://www.dailymotion.com/video/x1y9wg_aides-aids-awareness" target="blank">soberbio spot</a> de animación enfocado en las relaciones heterosexuales y que fue referenciado por cientos de sites. En 2006 volvieron a la carga con <a style="cursor: pointer;" href="http://www.dailymotion.com/razorbuzz/video/x1y9sv_aides-sugar-baby-love/1" target="blank">otro spot</a> que tenía el mismo <em>leit motive</em> de prevención del SIDA, pero en esta ocasión enfocado a las relaciones homosexuales. A esta altura no puedo omitir el apunte de que YouTube eliminó en su día este último spot por obsceno, por guarro, o como demonios cataloguen un video cuando a su entender se sale de madre. Ellos eran (o son) así: mariconadas las justas.</blockquote>
+</div>
+Estos videos pueden resultar ofensivos para menores; pacatos/as y aburridos/as.
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="420" height="339" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.dailymotion.com/swf/x1y9wg" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="420" height="339" src="http://www.dailymotion.com/swf/x1y9wg" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+<strong><a href="http://www.dailymotion.com/swf/x1y9wg">AIDES - AIDS Awareness</a></strong>
+<em>por <a href="http://www.dailymotion.com/Razorbuzz">Razorbuzz</a></em></div>
+<div><em>
+</em></div>
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="420" height="339" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.dailymotion.com/swf/x1y9sv" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="420" height="339" src="http://www.dailymotion.com/swf/x1y9sv" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+<strong><a href="http://www.dailymotion.com/swf/x1y9sv">Aides - Sugar Baby Love</a></strong>
+<em>por <a href="http://www.dailymotion.com/Razorbuzz">Razorbuzz</a></em></div>
+<div><em>
+</em></div>
+<div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="420" height="339" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.dailymotion.com/swf/x1y9tk" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="420" height="339" src="http://www.dailymotion.com/swf/x1y9tk" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+<strong><a href="http://www.dailymotion.com/swf/x1y9tk">AIDES - My Boy Lollipop</a></strong>
+<em>por <a href="http://www.dailymotion.com/Razorbuzz">Razorbuzz</a></em></div>
+Son excelentes, desde la producción hasta la idea en torno a ellos.<a style="cursor: pointer;" href="http://bp0.blogger.com/_i1u0IG1Y3Lg/RkTBitEM-UI/AAAAAAAAADo/tu-MIPa5Q04/s1600-h/culpa.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp0.blogger.com/_i1u0IG1Y3Lg/RkTBitEM-UI/AAAAAAAAADo/tu-MIPa5Q04/s200/culpa.jpg" border="0" alt="" /></a>
+En tiempos de legalización de la educación sexual en Argentina. Me parece que éste es un excelente material, no sé ni para qué chicos, ni para qué edad. Pero sí sé que para los docentes es muy bueno.
+Hace algunas semanas en reunión con mis compañeras/os se tocó este tema y qué y cómo enseñar. <a style="cursor: pointer;" href="http://bp0.blogger.com/_i1u0IG1Y3Lg/RkTB5tEM-WI/AAAAAAAAAD4/fBkCaOIwZU4/s1600-h/kamasutra.jpg"><img style="margin: 0pt 10px 10px 0pt; float: left; cursor: pointer;" src="http://bp0.blogger.com/_i1u0IG1Y3Lg/RkTB5tEM-WI/AAAAAAAAAD4/fBkCaOIwZU4/s200/kamasutra.jpg" border="0" alt="" /></a>Bueno, creo que en principio, es un buen momento para sacarle al sexo su carga de culpa (que aún la tiene); de opresión y agresión, que se expresa claramente en la forma en que los chicos/adultos se insultan, (chupame la pija, te rompo el culo, andá a hacerte cojer, etc.) y de misterio, resuelto por la TV y manteniendo una especie de vouyerismo público (único permitdo) que llena de fantasías la cabeza pero niega, reprime y juzga la mera posibilidad de querer concretarlas.
+Sueño con una educación (y una sociedad) como la que describió<a style="cursor: pointer;" href="http://es.wikipedia.org/wiki/La_isla_%28Aldous_Huxley%29"> Aldous Huxley en La Isla</a>, así y todo, vivo acá tratando de llevarla a la realidad y me pregunto si en el fondo, tanto problema no será por causa de nuestra generalizada insatisfacción sexual.
+
+</div>
+</div>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Sobre el Canon Digital… otra vez</title>
+	  <link>/2009/02/sobre-el-canon-digital-otra-vez/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-02-17T19:06:39+00:00</pubDate>
+	  <guid>/2009/02/sobre-el-canon-digital-otra-vez/</guid>
+	  <description><![CDATA[
+	     <p><a style="cursor: pointer;" onclick="javascript:pageTracker._trackPageview ('/outbound/noalcanon.org');" href="http://noalcanon.org"><img src="http://noalcanon.org/wp-content/uploads/2008/02/noalcanonmb2.jpg" alt="No Al Canon en Argentina" /></a></p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/?p=179" target="_blank">Como el año pasado</a>, de regalo en las vacaciones, otra vez, la amenaza de una legislación artera acosa el avispero. La fundación <a href="http://www.vialibre.org.ar/" target="_blank">Vía Libre</a> esta  realizando <a href="http://www.vialibre.org.ar/index.php?s=canon" target="_blank">una serie de acciones importantes</a>
+Replico y convoco a participar.</p>
+<blockquote>Si te interesa adherir a la<a href="http://www.vialibre.org.ar/2009/02/12/solicitud-de-audiencia-con-el-senador-daniel-filmus/"> carta que enviaremos esta semana al Senador Daniel Filmus</a>,  envianos tus datos personales: nombre, dni, lugar de residencia y profesión a <a href="mailto:info@vialibre.org.ar">info[en]vialibre.org.ar </a>
+
+Aceptamos adhesiones de personas, organizaciones sociales sin fines de lucro, empresas, grupos ad hoc como GLUGs y toda otra voz que se sume a decirle al Senador Filmus que <a href="http://noalcanon.org">no queremos una ley de Canon Digital en Argentina</a>. Envianos tu adhesión hasta el jueves 19 de febrero. Muchas gracias!</blockquote>
+<p>fuente| <a href="http://www.vialibre.org.ar/2009/02/17/queremos-hacer-oir-la-otra-campana-sobre-el-canon-digital/" target="_blank">Vía Libre</a></p>
+<div class="zemanta-pixie"><img class="zemanta-pixie-img" src="http://img.zemanta.com/pixy.gif?x-id=6b655187-4a57-45fa-b43f-b1b7a5bf8dc7" alt="" /></div>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Reconto sobre Canon Digital en la Argentina</title>
+	  <link>/2008/02/reconto-sobre-canon-digital-en-la-argentina/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-02-21T17:58:29+00:00</pubDate>
+	  <guid>/2008/02/reconto-sobre-canon-digital-en-la-argentina/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://noalcanon.org"><img src="http://noalcanon.org/wp-content/uploads/2008/02/noalcanonmb2.jpg" alt="No Al Canon en Argentina" /></a></p>
+
+<p>Me tomé un tiempo para escribir este post, desde que llegué a Buenos Aires, leí todo lo que pude sobre el tema y si bien mi opinión sobre el tema ya estaba formada apenas vi la noticia, antes de escribir, quise documentarme bien.</p>
+
+<p>Dentro de todo lo que leí, la <a href="http://www.pablomancini.com.ar/canon-digital-en-la-argentina-tips-para-involucrarse/trackback/" title="tips para involucrarse">propuesta para involucrarse</a> de <strong><a href="http://www.pablomancini.com.ar" title="blog de Pablo Mancini">Pablo Mancini</a></strong>, me pareció apropiada y sigo entonces sus lineamientos.</p>
+<blockquote>&gt; Dejá comentarios en <a href="http://labarbarie.com.ar/2008/el-proyecto-de-gravamen-a-la-copia-privada/">La Barbarie</a>, si querés. Pero también <strong>discutí desde tu blog</strong>. Esto es muy importante: si la información y los debates no son distribuidos, todo queda centralizado en un sólo nodo, dependiendo de su estabilidad la disponibilidad de los datos.</blockquote>
+<blockquote>&gt; <strong>Taggeá y/o categorizá</strong> todo lo que escribas sobre <a href="http://www.pablomancini.com.ar/tag/canon-digital-en-la-argentina/">Cánon digital en la Argentina</a>, de tal forma que sea fácil de encontrar y quede bien indexado en los buscadores.</blockquote>
+<blockquote>&gt; Pronunciate contra el cánon, sí, pero recordá que es muy importante <strong>esgrimir argumentos y formular propuestas</strong>.</blockquote>
+<blockquote>&gt; <strong>Enlazá</strong> a otros bloggers que estén hablando del tema. Es muy importante tejer el sentido de la discusión.</blockquote>
+<p><strong>Para empezar</strong></p>
+
+<p>En el blog de <strong><a href="http://www.uberbin.net/" title="Mariano Amartino">Mariano Amartino</a></strong> hay un excelente artículo acerca de<a href="http://www.uberbin.net/archivos/derechos/%c2%bfque-es-el-canon-y-porque-deberia-importarme.php" title="Qué es el canon y por que debería importarme"> ¿Qué es el canon y por qué debería importante?</a>  dejo un extracto y recomiendo leer los comentarios que no tienen desperdicio</p>
+<blockquote><strong>Versión Corta del Canon por copia privada</strong>: con este canon el estado dice que por comprar cualquier equipo digital sos un pirata y que por lo tanto tenés que pagar una tasa (como un impuesto, otro mas) para compensar a los artistas a los que estás dañando y, como consecuencia, todo lo que compres (y sea digital) te va a salir más caro.
+
+<span id="more-3734"></span><strong>Versión Larga y con algunos detalles</strong>
+En Wikipedia hay una buena definicion del <a href="http://es.wikipedia.org/wiki/Canon_por_copia_privada_%28Espa%C3%B1a%29">Canon por copia privada</a> y uniendolo con el proyecto de ley que quieren introducir en argentina es, básicamente, <strong>una tasa aplicada a todo objeto que permita el almacenaje, grabación y/o reproducción de música e imagen que se cobra para compensar los derechos intelectuales de los autores, perjudicados por las reproducciones impagas de sus obras</strong>.</blockquote>
+<p><strong>Percusiones y Repercusiones</strong></p>
+
+<p>A partir de las discusiones y preocupaciones aparece <a href="http://noalcanon.org/" title="no al canon">noalcanon.org</a> que se define de la siguiente manera</p>
+<blockquote>
+<p class="storycontent"><strong>No Al Canon.org</strong> es un sitio privado que tiene como único fin informar a la población sobre los intentos, llevados a cabo por políticos, empresarios, lobbys y “artistas”, de gravar o cobrar impuestos a los actos privados de las personas.</p>
+El objetivo principal es evitar los abusos cometidos por empresarios que sólo persiguen un fin económico y corporativo dejando de lado el beneficio a la sociedad.
+
+“NO al canon” <strong>NO</strong> es un movimiento revolucionario porque sí, no es un movimiento negativo ni pesimista. Es una lucha <strong>A FAVOR</strong> de un uso de las nuevas tecnologías, a favor de un progreso sano y que respete los derechos básicos de los cuidadanos.
+
+<strong>Aclaración:</strong> Este blog no persigue ningún fin político. Tampoco está asociado a ningún funcionario político, partido o agrupación.</blockquote>
+<p>Durante la primer semana de febrero se realiza una reunión con <a href="http://labarbarie.com.ar/2008/el-proyecto-de-gravamen-a-la-copia-privada/" title="proyecto ">Claudio Morgado</a>, propulsor de la nueva ley de Musicos que incluye el artículo que legaliza el canon. De dicha reunión (que trajo algunos contrapuntos) se postea lo siguente</p>
+<blockquote> Aclarando el panorama, durante estos días hubo de todo un poco, desde la exclusión del párrafo famoso de forma dudosa hasta la reunión de bloggers, periodistas y el diputado Claudio Morgado.
+
+No voy a copiar las notas, los tres blogs tienen sus respectivos artículos y vale la pena leer los distintos puntos de vista.
+<ul>
+	<li><a href="http://www.uberbin.net/archivos/derechos/canon-digital-reunion-con-morgado-y-el-canon-que-muta.php">Denker Über</a></li>
+	<li><a href="http://www.lapropaladora.com.ar/">La propaladora</a></li>
+	<li><a href="http://www.fabio.com.ar/verpost.php?id_noticia=2539">Fabio.com.ar</a> (quien les escribe)</li>
+</ul>
+Les dejo además un video que pude filmar durante la amena charla con el diputado.</blockquote>
+<object type="application/x-shockwave-flash" data="http://www.vimeo.com/moogaloop.swf?clip_id=672581&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=" height="302" width="400"></object>
+
+<param name="quality" value="best" />
+<p>&lt;/param&gt;</p>
+<param name="allowfullscreen" value="true" />
+<p>&lt;/param&gt;</p>
+<param name="scale" value="showAll" />
+<p>&lt;/param&gt;</p>
+<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=672581&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=" />
+<p>&lt;/param&gt; <a href="http://www.vimeo.com/672581/l:embed_672581">Claudio Morgado hablando del Canon</a> from <a href="http://www.vimeo.com/fabiomb/l:embed_672581">Fabio</a> on <a href="http://vimeo.com/l:embed_672581">Vimeo</a><a href="http://vimeo.com/l:embed_672581"></a><strong>Posición</strong> <strong>y Posiciones</strong></p>
+
+<p>Retomando lo que <a href="http://adefinirlo.blogspot.com/2008/01/el-canon-digital-en-la-argentina.html" title="Guillermo Lutzky"><strong>Guillermo Lutzky</strong> publicó en su blog</a></p>
+<blockquote> Nosotros nos enfrentaremos a nuestros estudiantes y seremos formadores de opinión al respecto. Y creo que es estratégicamente clave.</blockquote>
+<p>Bien, acá va entonces <strong>mi opinión</strong>. El canon apunta a “compensar” a los damnificados por la piratería, haciéndonos a TODOS responsables del daño. Y si bien el artículo que mencionaba el canon desapareció del proyecto de ley. Nada impide que se cuele por otros proyectos y más aun que no lo den a conocer. Me parece importante empezar a pensar quién es un “pirata” y que es la “piratería” ambos términos muy usados pero poco aclarados. ¿Qué se pena, la venta ilegal, el uso de las redes P2P? creo que el caso  da lugar a empezar a discutir asuntos relacionados con la propiedad intelectual y la propiedad del conocimiento. Por mi parte, me <strong>pronuncio en contra </strong>de cualquier tipo de impuesto o medida que implique la presunción de culpabilidad a toda la sociedad.</p>
+
+<p>Ya para terminar dejo un artículo sobre la discusión acerca del canon digital en España, lugar donde se está aplicando hace rato este impuesto y genera más de una controversia. Cabe destacar algunas palabras de <a href="http://es.wikipedia.org/wiki/Manuel_Castells">Manuel Castells</a>:</p>
+<blockquote>...un canon sobre los soportes digitales es "injusto e indiscriminado, no frena la piratería y nos hace responsables a todos de ella", en palabras de Castells, que añade: "El canon puede afectar seriamente al desarrollo de la sociedad de la información".</blockquote>
+<p><a href="http://www.elpais.com/articulo/cultura/comision/expertos/asesora/Montilla/exige/fin/canon/elpporcul/20060517elpepicul_8/Tes/">La comisión de expertos que asesora a Montilla exige el fin de canon</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

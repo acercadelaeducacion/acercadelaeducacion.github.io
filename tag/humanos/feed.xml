@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>La isla de las flores</title>
+	  <link>/2008/12/la-isla-de-las-flores/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-12-18T12:17:57+00:00</pubDate>
+	  <guid>/2008/12/la-isla-de-las-flores/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.youtube.com/watch?v=4kDN49_bFno">YouTube - La isla de las flores</a>.</p>
+
+<object width="425" height="350" data="http://www.youtube.com/v/4kDN49_bFno" type="application/x-shockwave-flash"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/4kDN49_bFno" /></object>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

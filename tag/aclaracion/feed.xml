@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>&#34;Aclaración&#34;</title>
+	  <link>/aclaracion</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2006-11-25T21:54:00+00:00</pubDate>
+	  <guid>/aclaracion</guid>
+	  <description><![CDATA[
+	     <p>“Aclaración”
+Desde el principio… la primer palabra… su título advierte, aclara y compromete. Es aquí, en la “aclaración” donde varios temas fundamentales para la comprensión de la obra aparecen.
+<span style="font-weight: bold">1.Para quienes</span>
+<span style="font-style: italic">“No existe educación sin sociedad humana y no existe hombre fuera de ella. El esfuerzo educativo desarrollado por el autor y que pretende exponer en este ensayo fue realizado para las condiciones especiales de la sociedad brasileña, aun cuando pueda tener validez fuera de ella…”</span>
+Bien. Claro está que el ámbito directo de este ensayo es la sociedad brasileña. Pero Freire no solo abre su reflexión a una validez externa a esta especifica sociedad. Sino que aclara luego para quienes tambien está dirigido este ensayo y que es lo que constituyó este esfuerzo educativo: <span style="font-style: italic">“…una tentativa de respuesta a los desafíos que contenía este transformarse de la sociedad…”</span> una opción <span style="font-style: italic">“… que significaba una sociedad sin pueblo, dirigida por una elite superpuesta, alienada, y en la cual el hombre común minimizado y sin conciencia de serlo era más “cosa” que hombre mismo…”</span> o<span style="font-style: italic"> “…la opción por el mañana, por una nueva sociedad que, siendo sujeto de sí misma, considerase al hombre y al pueblo sujetos de su Historia”</span>
+Esta opción se presentaba como un dilema y es aquí donde Freire extiende el campo de su reflexión/acción, más allá de la sociedad brasileña.
+Es en la opción donde el dilema básico aparece y “<span style="font-style: italic">… se presenta hoy, en forma ineludible, a los países subdesarrollados -al Tercer Mundo”</span>
+Las preguntas entonces se me escapan y detienen mi lectura: este dilema ¿existe hoy? ¿si, no? ¿cómo se presenta?…
+Algunas noticias de estas épocas: <span class="tt3"><a href="http://www.clarin.com/diario/2006/11/29/sociedad/s-03102.htm">Casi la mitad de los chicos argentinos son pobres  </a>
+</span><span style="color: #009900">
+</span></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

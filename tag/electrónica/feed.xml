@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Circuitos flexibles</title>
+	  <link>/2012/09/circuitos-flexibles/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-09-06T14:00:05+00:00</pubDate>
+	  <guid>/2012/09/circuitos-flexibles/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"><a href="http://www.instructables.com/id/Flexible-Circuits/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/09/FKVCESGH6DWVLCX.LARGE_.jpg" alt="" /></a></p>
+<p>Circuitos flexibles, paso a paso, construcción de circuitos flexibles hechos con <span id="result_box" lang="es"><span class="hps">pintura conductora</span> <span class="hps">para </span><span class="hps">que</span> un LED se atenue dependendiendo de cuanto se flexiona<span id="result_box" lang="es">.</span></span></p>
+
+<p><a href="http://www.instructables.com/id/Flexible-Circuits/">Vía Instructables | Flexible Circuits</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Arduino en Argentina</title>
+	  <link>/2008/12/arduino-en-argentina/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-12-14T17:00:00+00:00</pubDate>
+	  <guid>/2008/12/arduino-en-argentina/</guid>
+	  <description><![CDATA[
+	     <p><img class="aligncenter size-full wp-image-260" title="arduino-layoyut" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/12/arduino-layoyut.gif" alt="arduino-layoyut" width="372" height="282" /></p>
+
+<p>El Jueves pasado se presentó el proyecto <a href="http://arduino.cc/es/"><strong>Arduino</strong></a> a las Escuelas Técnicas de la Ciudad de Buenos Aires. En este blog sobran las críticas sobre la gestión que La Ciudad está haciendo en materia de tecnología y educación. Pero en este caso, una presentación de un sistema de Hardware Libre  es algo remarcable. Felicito a <a href="http://proyectoarduino.wordpress.com/2008/12/12/presentacion-de-proyecto-arduino-para-tecnicas/" target="_blank">l@s muchach@s </a>que están con esto y les dejo el <a href="http://proyectoarduino.wordpress.com" target="_blank">blog</a> y <a href="http://proyectoarduino.foroactivo.com/" target="_blank">foro</a> del proyecto, junto con las diapositivas que pasaron en la charla.</p>
+<div id="__ss_841281" style="width: 425px; text-align: left;"><object width="425" height="355" data="http://static.slideshare.net/swf/ssplayer2.swf?doc=presentacionweb-1229103815692616-1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=presentacionweb-1229103815692616-1" /><param name="allowfullscreen" value="true" /></object>
+<div style="font-size: 11px; font-family: tahoma,arial; height: 26px; padding-top: 2px;"><a href="http://www.slideshare.net/?src=embed"><img style="border:0px none;margin-bottom:-5px" src="http://static.slideshare.net/swf/logo_embd.png" alt="SlideShare" /></a> | <a title="View this slideshow on SlideShare" href="undefined">View</a> | <a href="http://www.slideshare.net/upload">Upload your own</a></div>
+</div>
+<p>Mientras, intento por todos los medios conseguir un Arduino :D</p>
+
+<p>Me olvidaba, dejo un video de <a href="http://www.r4p.es/" target="_blank">R4P</a> un <a href="http://www.r4p.es/" target="_blank">robot open source</a> funcionando con Arduino.</p>
+<object width="425" height="355" data="http://www.youtube.com/v/PhilcBqF6iM&amp;hl=es&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" type="application/x-shockwave-flash"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/PhilcBqF6iM&amp;hl=es&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" /><param name="allowfullscreen" value="true" /></object>
+
+<p><span style="color: #ff0000;">Actualización</span></p>
+
+<p>Acá encontré dos fotos del evento donde aparezco con Eva a upa</p>
+
+<p>[caption id=”” align=”aligncenter” width=”500” caption=”Eva y yo de prefil”]<img title="Eva y yo de prefil" src="http://farm4.static.flickr.com/3169/3102669869_1d9c7ce119.jpg" alt="Eva y yo de prefil" width="500" height="375" />[/caption]</p>
+
+<p>[caption id=”” align=”aligncenter” width=”500” caption=”Eva y yo (ahora de espaldas)”]<img title="Eva y yo (ahora de espaldas)" src="http://farm4.static.flickr.com/3077/3103506298_e4cc0bf7f2.jpg" alt="Eva y yo (ahora de espaldas)" width="500" height="375" />[/caption]</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

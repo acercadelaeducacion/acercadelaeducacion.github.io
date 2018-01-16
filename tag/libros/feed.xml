@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>El futuro del libro | Toma 1: Una experiencia nueva</title>
+	  <link>/2013/03/el-futuro-del-libro-toma-1-una-experiencia-nueva/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-03-09T11:11:00+00:00</pubDate>
+	  <guid>/2013/03/el-futuro-del-libro-toma-1-una-experiencia-nueva/</guid>
+	  <description><![CDATA[
+	     <p>El futuro no llega, nos lo venden día a día y nosotros compramos pedazos de pasado en virtud de estar un poco más adelantados. Jugando a ser los primeros en hablar o tener cosas que dejen atrás a quienes tenemos a nuestro lado.Así se configura la competencia, para nada silenciosa, que anclada en modernos discursos, hace de lo que viene una fantasía de bondades absolutas… para quien las compra.</p>
+
+<p>Hace años que el libro viene siendo tema de merchandising disfrazado de discusiones. Kilos de bites están depositados en la red sobre virtudes, dificultades y adivinaciones acerca de los dispositivos de lectura. Lo cierto es que mientras se dilata el hecho de que nada cambia, mientras la técnica sea el eje de nuestras discusiones, hay alguna gente que se permite jugar, no con tu dispositivo, sino con tu relación lectora.</p>
+
+<p>Cambiar algo para no cambiar nada parece ser el llamado de las revoluciones en la red. Por debajo y silenciosamente ocurren otras cosas. En definitiva, la vida siempre está en otro lado. <a href="http://www.futureofthebook.org">The Future of the book</a> y <a href="http://web.futureofthebook.org/mckenziewark/">una obra</a> de <a href="http://twitter.com/mckenziewark">Mckenzie Warck</a> logran entrar de lleno en el juego literario, cambiando radicalmente la experiencia lectora.</p>
+
+<p>No voy a teorizar sobre la obra, ni sobre la propuesta que cambia la experiencia. Véanlo, vívanlo y luego hablemos sobre esto. <img alt="file:///home/alvar/Imágenes/blog/howtoread.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-howtoread.png" /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Turtle Confusion en castellano, para que los pibes aprendan a programar</title>
+	  <link>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-10-27T14:59:29+00:00</pubDate>
+	  <guid>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
+	  <description><![CDATA[
+	     <p> </p>
+<p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/2012/10/27/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/turtlebookcoversskewed/" rel="attachment wp-att-1766"><img class="aligncenter size-full wp-image-1766" title="turtlebookcoversskewed" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/turtlebookcoversskewed.png" alt="" width="290" height="207" /></a></p>
+<p>Este año retomé con entusiasmo el uso de logo para iniciar a los chicos y chicas en la resolución de problemas a partir de problemas de programación, para eso usamos la actividad de sugar<strong><a title="Actividad de sugar" href="activities.sugarlabs.org/es-ES/sugar/addon/4450" target="_blank"> Turtle confusion</a></strong> que está basado en <a title="Libro en inglés" href="http://constructingmodernknowledge.com/cmk08/?p=1451" target="_blank">un libro de Barry Newell</a> que se pueden descargar de la web… Pero está en inglés.</p>
+
+<p>Ésta es una traducción al Español del libro “Turtle Confusion” de Barry Newell realizada por <strong>Melina Lucía Coronel</strong> y revisada y editada por<strong> Manuel Kaufmann</strong>.</p>
+
+<p>Es gracias a estos esfuerzos que una comunidad crece y se estabiliza en torno a objetivos comunes. Felicitaciones a Manuel Melinda y todos los que colaboraron para que este material esté accesible a todos los docentes de habla hispana.
+[1] <a href="http://turtle-confusion-spanish-version.readthedocs.org/" target="_blank">http://turtle-confusion-<wbr />spanish-version.readthedocs.<wbr />org&lt;/wbr&gt;&lt;/wbr&gt;</a>
+[2] <a href="https://github.com/downloads/humitos/turtle-confusion-es/la-confusion-de-la-tortuga.pdf" target="_blank">https://github.com/<wbr />downloads/humitos/turtle-confu<wbr />sion-es/la-confusion-de-la-<wbr />tortuga.pdf&lt;/wbr&gt;&lt;/wbr&gt;&lt;/wbr&gt;</a></p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

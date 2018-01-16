@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
+	  <link>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
+	  <guid>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <description><![CDATA[
+	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
+
+<p>Pero cabe aclarar antes que además de pensarlo como un entorno de construcción y aprendizaje para niños. Sugar es una activa comunidad de desarrolladores y docentes que trabaja para aportar desde el <a href="http://es.wikipedia.org/wiki/Software_libre"><strong>Software Libre</strong></a> recursos para ser utilizados en función de la creación y la colaboración.</p>
+
+<p>Sin Más: <strong><a title="Documento sobre sugar" href="https://docs.google.com/document/pub?id=1zdLKAf_dQji2tUYzaD6T1HEz1y0VIYMRG7dboXHMFXw">breve documento sobre sugar</a></strong></p>
+
+<p>y</p>
+
+<p><strong><a title="Página de SugarLabs Argentina" href="http://ar.sugarlabs.org">El capítulo local de sugarlabs</a></strong>. con más información</p>
+
+<p>Ahora bien, los usuarios de <strong><a title="Página de Debian" href="http://debian.org">Debian</a></strong>, <a title="Página de Tuquito" href="http://tuquito.org.ar"><strong>Tuquito</strong></a> o <strong><a title="Página de Ubuntu" href="http://ubuntu.com" target="_blank">Ubuntu</a></strong>. nos encontramos con el problema de que sugar está desarrollado para <a title="Página de Fedora" href="http://fedoraproject.org/es/" target="_blank">Fedora</a>. No obstante hay iniciativas que derivaron en el empaquetamiento de Sugar, pueden hacer:</p>
+<pre class="brush:shell">sudo aptitude search sugar</pre>
+<p>y ver los paquetes para instalarlo en nuestros sistemas. <a title="Como instalar sweets (sugar by Trisquel)" href="http://ar.sugarlabs.org/go/Tuquito%2BSugar">También existe un repositorio para Trisquel que funciona muy bien</a>.</p>
+
+<p>El problema de ambos procedimientos es que o bien la actividad Browse (navegador) no funciona, o bien tenemos que conformarnos con una versión antigua del sugar. Para evitar esto, la solución es compilar el sugar en nuestras adoradas máquinas. No es un trabajo simple, para eso. Les dejo dos scripts para compilar sugar en Debian o instalar Sugar en Ubuntu/Tuquito.</p>
+
+<p>Estos script resuelven las dependencias, y además descargan de mi sitio los archivos necesarios para que quede bonito en nuestro gnome y tengamos la opción de iniciar una sesión con sugar en full screen</p>
+<h3>Script para compilar Sugar en Tuquito/Ubuntu</h3>
+<pre class="brush:shell">#!/bin/bash
+#GLOBAL VARS
+SUGAR_DIR=/usr/share/tuquito
+
+#Script de instalación de Sugar en Tuquito 4.1
+
+if [ -d $SUGAR_DIR ]; then
+	cd $SUGAR_DIR
+else
+	sudo mkdir $SUGAR_DIR; cd $SUGAR_DIR
+fi
+##Actualizando##
+sudo aptitude update
+sudo aptitude -y upgrade
+sudo aptitude install -y git jhbuild
+cd $SUGAR_DIR
+sudo git clone git://git.sugarlabs.org/sugar-jhbuild/mainline.git sugar-jhbuild
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+###Aplicar Parche####
+echo "Aplicando parche..."
+cd $SUGAR_DIR/sugar-jhbuild
+wget http://acercadelaeducacion.com.ar/scripts/0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+sudo chmod 0644 0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+git apply 0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+rm 0001-adding-support-for-Tuquito-GNU-Linux-distribution.patch
+###Instalar las dependencias para compilar###
+echo "Instalando Dependencias para compilar"
+sudo aptitude install -y libgtk2.0-dev libdbus-glib-1-dev libxml2-dev libpopt-dev python-dev libtool intltool python-gconf python-gnome2-dev python2.7-dev python-gtk2-dev python-gnome2-dev libgnome-desktop-dev libgnomecups1.0-dev libwnck-dev librsvg2-dev gtk-doc-tools libtelepathy-glib-dev libasound2-dev icon-slicer  xulrunner-dev libcroco3-dev libtelepathy-glib-dev icon-naming-utils shtool libgconf2-dev abiword espeak espeak-data libabiword-2.8-dev libtelepathy-glib0 libdbus-glib-1-dev metacity pep8 pylint python-abiword python-evince python-rsvg python-telepathy python-wnck python-xklavier telepathy-gabble telepathy-salut xulrunner-1.9.2 python-lxml python-beautifulsoup
+###Instalar dependencias sugar
+echo "Instalando dependencias de sugar"
+cd $SUGAR_DIR/sugar-jhbuild
+./sugar-jhbuild depscheck -s | sudo xargs aptitude -y install
+###Instalar python_xpcom.deb###
+echo "Instalando python_xpcom.deb"
+wget http://acercadelaeducacion.com.ar/scripts/python_xpcom.deb
+sudo dpkg -i python_xpcom.deb
+rm -rf python_xpcom.deb
+###Actualizando y compilando sugar###
+echo "Actualizando y compilando sugar"
+./sugar-jhbuild update
+./sugar-jhbuild build
+./sugar-jhbuild buildone squeak
+./sugar-jhbuild buildone etoys
+###Instalando en entorno###
+echo "Instalando en el entorno"
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator" | sudo tee /usr/bin/sugar-desktop
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator --fullscreen"|sudo tee /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-desktop
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+cd $SUGAR_DIR/sugar-jhbuild/
+wget http://acercadelaeducacion.com.ar/scripts/sugar.png
+sudo mv sugar.png /usr/share/icons/sugar.png
+wget http://acercadelaeducacion.com.ar/scripts/SUGAR.desktop
+cp -f $SUGAR_DIR/sugar-jhbuild/SUGAR.desktop ~/Escritorio/
+ln -s $SUGAR_DIR/sugar-jhbuild/ ~/sugar-jhbuild
+sudo ln -s $SUGAR_DIR/sugar-jhbuild/ /etc/skel/sugar-jhbuild
+wget http://acercadelaeducacion.com.ar/scripts/sugar.desktop
+sudo mv sugar.desktop /usr/share/xsessions/
+wget http://acercadelaeducacion.com.ar/scripts/sugar-menu.desktop
+sudo mv sugar-menu.desktop /usr/share/applications/
+sudo chmod 777 /usr/share/tuquito/sugar-jhbuild -R
+clear
+echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
+<h3>Script para compilar Sugar en Debian</h3>
+<pre class="brush:shell">#!/bin/bash
+#GLOBAL VARS
+SUGAR_DIR=/opt
+
+#Script de instalación de Sugar en Debian
+
+if [ -d $SUGAR_DIR ]; then
+	cd $SUGAR_DIR
+else
+	sudo mkdir $SUGAR_DIR; cd $SUGAR_DIR
+fi
+##Actualizando##
+sudo aptitude update
+sudo aptitude -y upgrade
+sudo aptitude install -y git jhbuild
+###Instalar las dependencias para compilar###
+echo "Instalando Dependencias para compilar"
+sudo aptitude install -y libgtk2.0-dev libdbus-glib-1-dev libxml2-dev libpopt-dev python-dev libtool intltool python-gconf python-gnome2-dev  python-gtk2-dev python-gnome2-dev libgnome-desktop-dev libgnomecups1.0-dev libwnck-dev librsvg2-dev gtk-doc-tools libtelepathy-glib-dev libasound2-dev icon-slicer  xulrunner-dev libcroco3-dev libtelepathy-glib-dev icon-naming-utils shtool libgconf2-dev abiword espeak espeak-data libabiword-2.8-dev libtelepathy-glib0 libdbus-glib-1-dev metacity pep8 pylint python-abiword python-evince python-rsvg python-telepathy python-wnck python-xklavier telepathy-gabble telepathy-salut xulrunner-1.9.2 sqlite3 libsqlite3-dev libsoup2.4-dev libnice-dev libavahi-gobject-dev libavahi-client-dev python-decorator python-hippocanvas python-simplejson python-lxml python-beautifulsoup
+###Clonando sugar###
+cd $SUGAR_DIR
+sudo git clone git://git.sugarlabs.org/sugar-jhbuild/mainline.git sugar-jhbuild
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+echo "Instalando dependencias de sugar"
+cd $SUGAR_DIR/sugar-jhbuild
+###Actualizando y compilando sugar###
+echo "Actualizando y compilando sugar"
+./sugar-jhbuild update
+./sugar-jhbuild depscheck -s | sudo xargs aptitude -y install
+./sugar-jhbuild build
+./sugar-jhbuild buildone squeak
+./sugar-jhbuild buildone etoys
+###Instalando en entorno###
+echo "Instalando en el entorno"
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator" | sudo tee /usr/bin/sugar-desktop
+echo "~/sugar-jhbuild/sugar-jhbuild run sugar-emulator --fullscreen"|sudo tee /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-session
+sudo chmod +x /usr/bin/sugar-desktop
+sudo chmod 777 /$SUGAR_DIR/sugar-jhbuild -R
+cd $SUGAR_DIR/sugar-jhbuild/
+wget http://acercadelaeducacion.com.ar/scripts/sugar.png
+sudo mv sugar.png /usr/share/icons/sugar.png
+wget http://acercadelaeducacion.com.ar/scripts/SUGAR.desktop
+cp -f SUGAR.desktop ~/Escritorio
+sudo ln -s $SUGAR_DIR/sugar-jhbuild/ /etc/skel/sugar-jhbuild
+ln -s $SUGAR_DIR/sugar-jhbuild/ ~/sugar-jhbuild
+wget http://acercadelaeducacion.com.ar/scripts/sugar.desktop
+sudo mv sugar.desktop /usr/share/xsessions/
+wget http://acercadelaeducacion.com.ar/scripts/sugar-menu.desktop
+sudo mv sugar-menu.desktop /usr/share/applications/
+sudo chmod 777 $SUGAR_DIR/sugar-jhbuild -R
+clear
+echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Geogebra para primaria</title>
+	  <link>/2011/03/geogebra-para-primaria-2/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2011-03-19T18:55:13+00:00</pubDate>
+	  <guid>/2011/03/geogebra-para-primaria-2/</guid>
+	  <description><![CDATA[
+	     <p>Esta es una prueba del <a title="Geogebra para primaria" href="http://www.acercadelaeducacion.com.ar/2011/03/16/geogebra-para-primaria/">geogebra para primaria</a></p>
+
+<object width="480" height="390"><param name="movie" value="http://www.youtube.com/v/ECxbaVxnzeo?fs=1&amp;hl=es_ES" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="480" height="390" src="http://www.youtube.com/v/ECxbaVxnzeo?fs=1&amp;hl=es_ES" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Ardesia y Zotero: Anotaciones y grabaciones en pantalla | Recolección y administración de fuentes</title>
+	  <link>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-12-10T18:17:49+00:00</pubDate>
+	  <guid>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba.png"><img class="size-medium wp-image-830 alignleft" style="border: 2px solid black; margin: 3px;" title="ardesia_prueba" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba-300x168.png" alt="" width="300" height="168" /></a></p>
+
+<p>Dicen que todos los días se aprende algo nuevo… no es mi caso. Pero hoy a través de un tweet de @evitalinuxera me enteré de esto: <a title="Pagina de uberstudent" href="http://www.uberstudent.org/">Uberstudent</a> que no lo investigué mucho pero saqué algunos datos partir de su slideshow y ahora cuento en mi navegador con <strong>Zotero</strong>:</p>
+<div class="zotero-notes">
+<div class="zotero-note">
+<blockquote cite="http://es.wikipedia.org/wiki/Zotero">
+<p style="margin-left: 30px;">“Zotero es una extensión libre para el navegador Firefox, que permite a los usuarios recolectar, administrar y citar investigaciones de todo tipo de orígenes del navegador. Es parcialmente una aplicación de administración de referencias, usada para administrar bibliografías y referencias al escribir ensayos y artículos. Su nombre proviene de la palabra albanesa zotëroj que significa &amp;quot;poseer/dominar&amp;quot;. Su objetivo es reemplazar aplicaciones más tradicionales de administración de referencias, originalmente diseñadas para ajustarse a las demandas de la investigación offline.”</p>
+
+<div style="line-height: 1.1em; margin-left: 0.5in; text-indent: -0.5in;">
+<p style="margin: 0pt; text-align: right;">“Zotero - Wikipedia, la enciclopedia libre.” <a href="http://es.wikipedia.org/wiki/Zotero">http://es.wikipedia.org/wiki/Zotero</a>.</p>
+
+</div></blockquote>
+</div>
+</div>
+<p>Este agregado me parece que resuelve muchos de mis problemas a la hora de organizar mis sitiografías y bibliografías creo que junto con <a title="Sitio Mendeley" href="http://www.mendeley.com/">Mendeley</a> y un poco de organización podré mejorar mis escritos.</p>
+
+<p>Por otro lado está <a href="http://code.google.com/p/ardesia/"><strong>Ardesia</strong></a>: Este es un programa para hacer anotaciones y capturas en vivo de las pantallas. Con él se puede estar dando una clase con el cañón parar, hacer anotaciones y guardar una imagen o video de lo que se está haciendo en pantalla.</p>
+
+<p>Les dejo una captura hechacon <a href="http://code.google.com/p/ardesia/">Ardesia</a> y dos videos uno con <a title="Página de recordMyDesktop" href="http://recordmydesktop.sourceforge.net/about.php">RecordMyDesktop</a> y otro con <a href="http://code.google.com/p/ardesia/">Ardesia</a> mismo</p>
+<p style="text-align: center;"></p>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/lH426rYMeGc?hl=es&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/lH426rYMeGc?hl=es&amp;fs=1" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+
+<p>Otro videito, este hecho con RecorMyDesktop</p>
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/IMgWcnp2j5s?hl=es&amp;fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/IMgWcnp2j5s?hl=es&amp;fs=1" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Charla en Conurbania</title>
+	  <link>/2010/11/charla-en-conurbania/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-11-14T15:58:00+00:00</pubDate>
+	  <guid>/2010/11/charla-en-conurbania/</guid>
+	  <description><![CDATA[
+	     <p>Ayer di la charla <strong>Tuquito y Classmate</strong> (La máquina, una excusa para encontrarnos). Quería agradecer a la gente de <a title="Página de conurbania" href="http://conurbania.org.ar" target="_blank">Conurbania</a> por la invitación y la calidad en la organización del evento. Fue una buena oportunidad para reencontrarme con gente a la que sólo conocía desde la virtualidad.</p>
+
+<p>Dejo acá un resumen de la charla, las diapos y algunas fotitos.</p>
+
+<p>Resumen:</p>
+
+<p>Una de las características del Software Libre es la apuesta a la libertad. Este concepto muchas veces utilizado para doblegar las acciones colectivas en movimientos individualistas tiene una vertiente social a partir de la posibilidad de resolver problemas en conjunto. Este es el recorrido de un docente con problemas individuales (técnicos) que termino envuelto en la construcción de un colectivo anclado en la búsqueda de la dimensión social de la tecnología. Una distribución GNU/Linux. Un problema técnico. Una búsqueda pedagógica y un encuentro entre pares para la distribución libre del conocimiento. La máquina es sólo una excusa para encontrarnos.</p>
+
+<p>Diapos:</p>
+<div id="__ss_5771801" style="width: 425px;"><strong><a title="Tuquito gnu linux - CONURBANIA" href="http://www.slideshare.net/tallertic/tuquito-gnu-linux-conurbania">Tuquito gnu linux - CONURBANIA</a></strong><object id="__sse5771801" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tuquitognu-linux-conurbania-101113175034-phpapp02&amp;rel=0&amp;stripped_title=tuquito-gnu-linux-conurbania&amp;userName=tallertic" /><param name="name" value="__sse5771801" /><param name="allowfullscreen" value="true" /><embed id="__sse5771801" type="application/x-shockwave-flash" width="425" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=tuquitognu-linux-conurbania-101113175034-phpapp02&amp;rel=0&amp;stripped_title=tuquito-gnu-linux-conurbania&amp;userName=tallertic" name="__sse5771801" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+<div style="padding: 5px 0 12px;">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/tallertic">Alvar Maciel</a>.</div>
+</div>
+<p>Fotitos:</p>
+
+<p>[gallery id=”2”]</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Tuquito 4.1 LXDE funcionando en classmate touch</title>
+	  <link>/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-10-24T13:03:25+00:00</pubDate>
+	  <guid>/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</guid>
+	  <description><![CDATA[
+	     <p>Este fin de semana salió <a href="http://blog.tuquito.org.ar/2010/10/22/tuquito-4-1-wichi-lxde-alpha-liberado/" target="_self">la nueva versión ALPHA</a> de <strong><a href="http://www.tuquito.org.ar">Tuquito</a></strong>. La instalé y probé en una classmate touch. Funciona de maravillas.</p>
+
+<p>Les dejo un video y algo de información sobre esa nueva versión:</p>
+
+<p>[youtube]http://www.youtube.com/watch?v=Vts1-KovwiA[/youtube]</p>
+
+<p>Por primera vez, Tuquito tiene una vesión basada en <strong>LXDE</strong>, pensada para equipos de <strong>bajos recursos</strong>.</p>
+
+<p>Esta es una versión bastante desarrollada y posee una estricta  selección de paquetes para que funcione fluidamente en máquinas  pequeñas.</p>
+
+<p>También publicamos el <strong>registro de usuarios en Tuquito</strong>, para poder llevar una estadística y brindar nuevas opciones. (ver gestor de programas)</p>
+
+<p>Estas son algunas de las novedades:</p>
+<ul>
+	<li><strong>Linux 2.6.35-22</strong></li>
+	<li><strong>Openbox 3.4.11.1</strong></li>
+	<li>Arranque más rápido</li>
+	<li><strong>Soporte para pantallas táctiles</strong> (touchscreen)
+Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
+	<li><strong>Gestor de Programas</strong>
++ Nuevas funciones de calificación con estrellas
++  Nueva función de comentarios (se necesita estar  registrado en <a title="Registro de usuarios" href="http://tuquito.org.ar/usuarios.html">http://tuquito.org.ar/usuarios.html</a>)
++ Mejor categorizacón
++ Iconos de aplicaciones</li>
+	<li><strong>Gestor de Actualizaciones</strong>
++ Nueva interfaz más intuitiva
++ Mejor gestion de actualizaciones</li>
+	<li>Nuevo aspecto</li>
+	<li>Mejoras en el funcionamiento</li>
+	<li>Cambio de <strong>Empathy</strong> por <strong>Pidgin</strong></li>
+	<li>Reproductor de música Exaile</li>
+	<li>Codecs instalado por defecto</li>
+</ul>
+<p><strong>Requerimientos del sistema:</strong></p>
+<ul>
+	<li><strong>Procesador</strong>: Pentium II o superior.</li>
+	<li><strong>Memoria RAM</strong>: 128 MB. (Recomendado 384 MB)</li>
+	<li><strong>Disco Duro</strong>: 2 GB. (Recomendado 5 GB)</li>
+	<li>Lector de CD-ROM.</li>
+	<li>Tarjeta gráfica con una resolución mínima de 600×800.</li>
+</ul>
+<p><strong>Problemas conocidos</strong> (corrección en futuras actualizaciones)<strong>:</strong></p>
+<ul>
+	<li>Al instalar, no se loguea automáticamente</li>
+	<li>Resolución de boot-splash</li>
+	<li>No todas las funciones del Centro de control está disponibles</li>
+	<li>No todas las aplicaciones están traducidas a español o portugués</li>
+</ul>
+<blockquote>Recuerden que es una versión alpha (en desarrollo), por  lo que está dirigida a desarrolladores o bete-testers que quieran  colaborar y ayudar a Tuquito a encontrar y corregir errores. No se  recomienda su instalación en el escritorio principal.</blockquote>
+<p><strong>Reporte de errores:</strong></p>
+
+<p>Para reportar errores puede utilizar nuestro sistema en <a href="https://bugs.launchpad.net/tuquito-project">Launchpad</a></p>
+
+<p><strong>Descargas:</strong></p>
+
+<p><a title="Descargar Tuquito 4.1 &quot;Wichi&quot; - LXDE" href="http://tuquito.org.ar/descargas.html">Descargar Tuquito 4.1 “Wichi”  - LXDE</a></p>
+
+<p>Esperamos sus comentarios y respuestas! así seguimos mejorando!</p>
+
+<p>Disfruntenlo!</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Apuntes para una charla | Epuel &#8211; actualización</title>
+	  <link>/2010/09/apuntes-para-una-charla-epuel-actualizacion/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-09-08T01:12:04+00:00</pubDate>
+	  <guid>/2010/09/apuntes-para-una-charla-epuel-actualizacion/</guid>
+	  <description><![CDATA[
+	     <p><span style="text-decoration: line-through;"> Es sido invitado</span>Me invitaron a dar una charla en<a title="Link al sitio de Epuel" href="http://2010.epuel.org.ar/" target="_blank"> Epuel 2010</a>.<br />&lt;blockquote&gt; EPUEL  es el Encuentro Por Una Educación Libre….Es un evento que reúne  educadores de diferentes niveles, comunidad de software y cultura libre,  actores oficiales, autoridades educativas, estudiantes y público en  general para debatir y construir juntos la posibilidad de aprovechar al  máximo la cultura, ética y filosofía del software libre en las aulas. <br /> <br /> El evento es libre y gratuito, no es necesario registrarse previamente para participar.&lt;/blockquote&gt;<br />Disertaré sobre “Tuquito en las Classmate” de 16:40 a 17:20. Punteo un borrador de temas que pienso abordar:<br />&lt;ul&gt; <br /> &lt;li&gt;  Elementos de una decisión. &lt;/li&gt; <br /> &lt;li&gt;  ¿Software educativo? &lt;/li&gt; <br /> &lt;li&gt;  Comunidad de práctica. &lt;/li&gt; <br />&lt;/ul&gt;<br />Se aceptan sugerencias para agregar al punteo<br /><br />Actualización<br />lamentablemente no puedo llegar al evento. Complicaciones laborales me obligan a atender una serie de reuniones que imposibilitan mi presencia  en el evento.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Streaming del Simposio de Software Libre y Educación</title>
+	  <link>/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-05-08T01:54:44+00:00</pubDate>
+	  <guid>/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="aligncenter size-medium wp-image-527" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="" width="300" height="115" /></a></p>
+
+<p>El 3er Simposio de Software Libre y Educación
+(<a href="http://www.slye.org.ar/" target="_blank">http://www.slye.org.ar/</a>)  será transmitido en vivo mediante streaming
+web. Aquellas personas que no puedan asistir al evento de mañana,
+podrán seguir la transmisión de video y audio siguiendo las
+instrucciones detalladas en esta página:
+<a href="http://www.slye.org.ar/2010/info-2/streaming-del-evento/" target="_blank">http://www.slye.org.ar/2010/info-2/streaming-del-evento/</a></p>
+
+<p>También podrás seguir las alternativas del Simposio por medio de
+microblogging, tanto en Identi.ca como en Twitter:
+<a href="http://www.slye.org.ar/2010/2010/04/27/microblogging/" target="_blank">http://www.slye.org.ar/2010/2010/04/27/microblogging/</a></p>
+
+<p>== Sobre el evento ==</p>
+
+<p>Desde la comunidad educativa libre Gleducar, invitamos a todos los
+interesados a participar del Tercer Simposio sobre Software Libre y
+Educación (SLyE) que se realizará el 8 de mayo en la Facultad de  Filosofía y
+Letras de la Universidad de Buenos Aires (UBA), sito en Puan 480 de la
+ciudad de Buenos Aires. Este evento pretende acercar a la comunidad  docente,
+de la mano de educadores, propuestas para utilizar Software Libre en su
+tarea cotidiana. ¡La entrada es gratuita!</p>
+<h2>== Cronograma del encuentro ==</h2>
+<p>09:30 hs – Acreditación</p>
+
+<p>10:00 hs – Presentación de Simposio – Iris Fernández y María Eugenia  Nuñez</p>
+
+<p>10:20 hs – Aplicaciones multimedia en el escuela – María Eugenia Núñez</p>
+
+<p>11:10 hs – Moodle y su implementación en la Educación Pública – Lic  Carlos
+Rodriguez</p>
+
+<p>12:10 hs – Scratch transversal a otras asignaturas y en Moodle – Prof.
+Marisa Conde</p>
+
+<p>13:10 hs – Vikidia, la enciclopedia libre de contenido adaptado para  chicos
+– Alejandro Joos</p>
+
+<p>13:30 hs – Almuerzo</p>
+
+<p>14:30 hs – Aplicaciones Libres en la UBA – Lic. Laura Marotias</p>
+
+<p>15:00 hs – Entorno de aprendizaje Sugar – Gonzalo Odiard</p>
+
+<p>16:00 hs – Tuquito en las Classmates – Alvar Maciel y Ramiro Pol</p>
+
+<p>17:00 hs – Todo muy lindo pero… ¿cómo se hace para que una escuela  funcione
+con Software Libre? – Javier Castrillo</p>
+
+<p>18:00 hs – Del Software a la Cultura Libre –  María Eugenia
+Núñez, Franco Iacomella e Iris Fernández</p>
+<h2>== Sobre el Software Libre ==</h2>
+<p>El Software Libre, según la Wikipedia [4], es aquel cuya licencia  respeta la
+libertad de los usuarios sobre su producto adquirido y, por tanto, una  vez
+obtenido puede ser usado, copiado, estudiado, cambiado y redistribuido
+libremente. El software libre se refiere a la libertad de los usuarios
+para ejecutar, copiar, distribuir, estudiar, cambiar y
+mejorar el software. De modo más preciso, se refiere a cuatro libertades  de
+los usuarios del software: la libertad de usar el programa, con  cualquier
+propósito; de estudiar el funcionamiento del programa, y adaptarlo a las
+necesidades; de distribuir copias, con lo cual se puede ayudar a otros y  de
+mejorar el programa y hacer públicas las mejoras, de modo que toda la
+comunidad se beneficie.</p>
+<h2>== Sobre Gleducar ==</h2>
+<p>Gleducar es una comunidad de docentes, estudiantes y activistas de la
+educación interesados en el trabajo colectivo, la construcción  cooperativa
+del conocimiento y su libre distribución. Gleducar es también una  Asociación
+Civil que apoya e impulsa el desarrollo de la comunidad.</p>
+
+<p>Trabajamos sobre temáticas como el Conocimiento Libre, la Educación  Popular
+y las Nuevas Tecnologías Libres. Buscamos transformar la realidad a  través
+de la intervención crítica y activa en todos los espacios educativos:
+formales y no formales.</p>
+
+<p>Impulsamos el uso de Software Libre en las escuelas, como un modelo
+pedagógico y técnico, buscando un cambio en el paradigma de la  producción,
+construcción y difusión de los contenidos educativos.</p>
+
+<p>Mas sobre Gleducar: <a href="http://www.gleducar.org.ar/" target="_blank">http://www.gleducar.org.ar</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Simposio sobre Software Libre y Educación en Buenos Aires</title>
+	  <link>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-05-06T00:00:28+00:00</pubDate>
+	  <guid>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="alignleft size-medium wp-image-527" style="border: 3px solid black; margin: 3px;" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="Banner del simposio" width="300" height="115" /></a>Participaré junto a<a href="http://ramiropol.com.ar"> Ramiro Pol</a> en el<a href="http://www.slye.org.ar/2010/">Tercer Simposio sobre Software Libre y Educación</a> (SLyE), organizado por la comunidad educativa libre de <a href="http://www.gleducar.org.ar/">Gleducar</a>. Disertaremos sobre Tuquito en las Classmate. EL simposio se realizará el próximo <strong>8 de Mayo</strong> en la <a href="http://www.filo.uba.ar/">Facultad de Filosofía y Letras de la Universidad de Buenos Aires</a> (UBA).</p>
+
+<p>El evento busca difundir la importancia del uso de Software Libre en la educación, acercando a la comunidad docente propuestas para utilizarlo en su tarea cotidiana.</p>
+
+<p>De acuerdo a <a href="http://www.slye.org.ar/2010/cronograma/">su programa</a>, algunas de las experiencias, herramientas y recursos que se presentarán incluyen:</p>
+<ul>
+	<li>Aplicaciones multimedia en el escuela.</li>
+	<li>Moodle y su implementación en la Educación Pública.</li>
+	<li>Scratch transversal a otras asignaturas y en Moodle.</li>
+	<li>Vikidia, la enciclopedia libre de contenido adaptado para chicos.</li>
+	<li>Aplicaciones Libres en la UBA.</li>
+	<li>Entorno de aprendizaje Sugar.</li>
+	<li>Tuquito en las Classmates.</li>
+	<li>Todo muy lindo pero… ¿cómo se hace para que una escuela funcione con Software Libre?</li>
+	<li>Del Software a la Cultura Libre.</li>
+</ul>
+<p>El simposio es gratuito, pero es necesario <a href="http://www.slye.org.ar/2010/inscripcion-2/">registrarte antes de asistir</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Tuquito-Sugar</title>
+	  <link>/2010/02/tuquito-sugar/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-02-03T10:37:38+00:00</pubDate>
+	  <guid>/2010/02/tuquito-sugar/</guid>
+	  <description><![CDATA[
+	     <p>Este es el video de las primeras pruebas de <a title="página de sugar" href="http://www.sugarlabs.org/">Sugar</a> sobre <a title="página de tuquito" href="http://tuquito.org.ar">Tuquito</a>. En estas pruebas usamos una classamate tercera generación (touchscreen) y mi Toshiba.</p>
+
+<p>[dailymotion]http://www.dailymotion.com/video/xb71ba_tuquitosugar_tech[/dailymotion]</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Mirá:Tuquito Urbano en vivo</title>
+	  <link>/2009/12/miratuquito-urbano-en-vivo/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-12-19T00:54:41+00:00</pubDate>
+	  <guid>/2009/12/miratuquito-urbano-en-vivo/</guid>
+	  <description><![CDATA[
+	     <object id="utv496475" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="320" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="autoplay=false&amp;brand=embed&amp;cid=2321347" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.ustream.tv/flash/live/1/2321347" /><param name="name" value="utv_n_410792" /><embed id="utv496475" type="application/x-shockwave-flash" width="400" height="320" src="http://www.ustream.tv/flash/live/1/2321347" name="utv_n_410792" allowscriptaccess="always" allowfullscreen="true" flashvars="autoplay=false&amp;brand=embed&amp;cid=2321347" />&lt;/embed&gt;</object>
+<p><a style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" href="http://www.ustream.tv/" target="_blank">Free video chat by Ustream</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

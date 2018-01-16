@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Script de post instalación para Fedora 16</title>
+	  <link>/2012/01/script-de-post-instalacion-para-fedora-16/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-01-24T12:48:36+00:00</pubDate>
+	  <guid>/2012/01/script-de-post-instalacion-para-fedora-16/</guid>
+	  <description><![CDATA[
+	     <p><img class="aligncenter" src="http://fedoraproject.org/w/uploads/4/47/Fedora-button_plain-preview.png" alt="" width="200" height="200" /></p>
+
+<p>A pedido de unos amigotes, les dejo acá el script de post instalación que estoy usando para las máquinas con<a href="http://fedoraproject.org/es/" target="_blank"><strong> Fedora 16</strong></a>. Este script agrega los repos Livna, Rpmfusion Adobe y Chromium</p>
+
+<p>Aclaro, esta instalación incluye contenido no libre.</p>
+
+<p>Lo único que tienen que hacer es instalar Fedora, copiar o bajarse el script y desde una terminal (y con permisos de root) ejecutar el archivo</p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/01/post_instalacion_fedora_16.sh_.tar.gz">post_instalacion_fedora_16</a></p>
+<pre class="brush:shell">#!/bin/bash
+##RPMFUSION##
+yum localinstall --nogpgcheck http://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-stable.noarch.rpm http://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-stable.noarch.rpm
+## Adobe Repository 32-bit x86 ##
+rpm -ivh http://linuxdownload.adobe.com/adobe-release/adobe-release-i386-1.0-1.noarch.rpm
+rpm --import /etc/pki/rpm-gpg/RPM-GPG-KEY-adobe-linux
+#Livna
+rpm -ivh http://rpm.livna.org/livna-release.rpm
+#Chromium
+wget http://repos.fedorapeople.org/repos/spot/chromium-stable/fedora-chromium-stable.repo
+cp fedora-chromium-stable.repo /etc/yum.repos.d
+#Actualización
+yum update -y
+##CODECS##
+yum -y install gstreamer-plugins-bad gstreamer-plugins-bad-free-extras gstreamer-plugins-bad-nonfree gstreamer-plugins-ugly gstreamer-ffmpeg
+#PACK de APP##
+yum -y install --skip-broken audacity-freeworld gimp gparted sound-juicer clementine gwget vlc kdenlive firefox unrar p7zip p7zip-plugins java-1.6.0-openjdk ntfs-config kid3 java-1.6.0-openjdk-plugin btrfs-progs wget rfkill alsa-plugins-pulseaudio flash-plugin gnome-shell-extension-common bash-completion dconf-editor guake gnome-shell-extensions-alternative-status-menu gnome-shell-extensions-drive-menu gnome-shell-extensions-places-menu gnome-tweak-tool shutter sugar-emulator redhat-lsb chromium gnome-shell-extension-alternate-tab gnome-shell-extensions-common
+##Pack office##
+yum -y groupinstall "Oficina y Productividad"
+##SUGAR##
+yum -y groupinstall "Entorno de Escritorio Sugar"
+##Fuentes de microsoft#
+wget http://physics.bgu.ac.il/DOWNLOADS/RPMs/msttcorefonts-2.0-2.noarch.rpm
+rpm -ivh msttcorefonts-2.0-2.noarch.rpm</pre>
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

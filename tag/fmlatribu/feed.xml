@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Muerde</title>
+	  <link>/2009/06/muerde/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-06-14T17:05:28+00:00</pubDate>
+	  <guid>/2009/06/muerde/</guid>
+	  <description><![CDATA[
+	     <p>Vía: <a href="www.vialibre.org.ar">Fundación Vía Libre</a></p>
+<blockquote cite="http://www.vialibre.org.ar/2009/06/14/muerde/">11 Palabras.
+
+Felicidad, Conocimiento, Democracia, Autonomía, Libertad, Izquierda, Arte, Tecnología, Comunidad, Revolución, Comunicación.
+
+<strong>Presentación</strong>: Miércoles 17 de junio, 19 hs, en Lambaré 873. Buenos Aires.  Entrada libre y gratuita. La Internacional Errorista realizará una intervención poética con textos del libro. Tenés que venir!.
+
+En el marco de la celebración de sus 20 años, <a href="http://fmlatribu.com/">La Tribu</a> presenta <strong>Muerde</strong>,  un libro asambleario, hijo del tiempo y el barro de la historia, y no de la eternidad. Por esto, definiciones como fronteras: cuyo destino seguro es ser eliminadas. Una ética de bolsillo. El intento de ser momentáneamente tan feroces como aquello que leemos. Vía Libre forma parte de este libro colectivo, y por supuesto, estará presente también en su presentación.  <span id="more-4803"> </span></blockquote>
+<p class="citation"><cite><a href="http://www.vialibre.org.ar/2009/06/14/muerde/"></a></cite></p>
+
+<p>Y de paso aprovecho para reactivar y probar flock :D
+<a title="Merino" href="http://flickrcc.bluemountains.net/index.php?terms=back&amp;page=2&amp;edit=yes&amp;com=no"><img style="margin: 0px auto 10px; display: block; text-align: center;" src="http://static.flickr.com/3503/3462838017_ccbdd0b947_m.jpg" border="0" alt="Merino" /></a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

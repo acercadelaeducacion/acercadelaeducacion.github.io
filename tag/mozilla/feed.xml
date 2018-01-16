@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Plantilla para chequear fuentes web | proyecto Código Kraken</title>
+	  <link>/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-11-10T10:44:32+00:00</pubDate>
+	  <guid>/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</guid>
+	  <description><![CDATA[
+	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
+
+<p><a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/">https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Notas a Webmaker Club 2</title>
+	  <link>/notas-a-webmaker-club-2</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-01-26T16:13:00+00:00</pubDate>
+	  <guid>/notas-a-webmaker-club-2</guid>
+	  <description><![CDATA[
+	     <p>Siguiendo con lo que <a href="http://www.acercadelaeducacion.com.ar/2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/">empecé acá</a>, continuo hoy con la traducción del documento  borrador base del los <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a>.</p>
+
+<p>Podemos anticipar que los clubs cuentan aproximadamente con los siguientes elementos:</p>
+<ul class="org-ul">
+	<li><a href="http://www.acercadelaeducacion.com.ar/2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/#seccion1.1">Una series de actividades</a>.</li>
+	<li>Participación comunitaria liviana</li>
+	<li>Grupos locales conectados globalmente</li>
+	<li>Desarrollo de liderazgo</li>
+	<li>Integración con otras redes de mentores de Mozilla</li>
+</ul>
+<!--more-->
+<div id="outline-container-unnumbered-1" class="outline-2">
+<h3></h3>
+<h3 id="unnumbered-1">Participación comunitaria liviana</h3>
+<div id="text-unnumbered-1" class="outline-text-2">
+
+Implica habilitar procesos simples para conectarse con otros clubs y mentores. El objetivo es comunicar qué es lo que esta sucediendo y ayudar a la gente a aprender entre sí. Pueden ser cosas como hashtag compartidos o foros de discusiones.
+
+<strong>Hipótesis</strong>: Para tener éxito con esta iniciativa, necesitamos que la gente comparta qué están haciendo en sus clubs y que esto se refleje de forma sencilla. Esto nos ayudará a responder a metores reales y a que los mentores se ayuden entre sí. Buenas interacciones sociales fomentan que la gente se mantenga participando por más tiempo.
+
+</div>
+</div>
+<p> </p>
+<div id="outline-container-unnumbered-2" class="outline-2">
+<h3 id="unnumbered-2">Grupos locales conectados globalmente</h3>
+<div id="text-unnumbered-2" class="outline-text-2">
+
+Establecer una forma en que los clubs expresen sus características locales, para que sean relevantes localmente y para que innoven en función de las necesidades locales. Sea como sea que se vea la instancia local, tiene que ser algo que lo una a nivel mundial con otros clubs. Cosas como elementos de diseño, páginas o cosas físicas podrían sen formas de mostrar las conexiones locales y globales
+
+<strong>Hipótesis</strong>: Hay formas de ser local, más allá de lo "geográfico". Los Clubs podrían adaptarse a las audiencias y los espacios (ej. adultos en librerías públicas y jóvenes en programas extracurriculares), a los lenguajes (ej. Guaraní, Quechua, Aymará, Catalán o Inglés ), a redes asociadas (ej. <a href="http://www.thinkbig.eu" target="_blank">ThinkBig</a> o <a href="http://www.codedojo.com/" target="_blank">CoderDojo</a>). Creemos que los clubs serán más exitosos cuando mentores y aprendientes hagan su propio club. Sin embargo, habrá algún ADN común que conecte a todos los clubs.
+
+</div>
+</div>
+<div id="outline-container-unnumbered-3" class="outline-2">
+<h3 id="unnumbered-3">Desarrollo de liderazgo</h3>
+<div id="text-unnumbered-3" class="outline-text-2">
+
+Los clubs deben reconocer y cultivar a los lideres locales. Los Clubs pueden ser donde los lideres locales prueben e innoven, de la misma manera, que creen espacios donde ellos tengan independencia y que permitan dinamizar a una comunidad más grande. Es posible que haya recursos y personal que de apoyo a los lideres para que sean más efectivos y distribuidos, incluyendo el desarrollo profesional.
+
+<strong>Hipótesis</strong>: Tenemos una posición sobre el liderazgo: Funciona en lo abierto, y se trata de tener su propio agenciamiento como líder y crear espacios para que otros desarrollo su propio agenciamiento también. Creemos que los mismos métodos que funcionan para enseñar alfabetización web serán efectivos para enseñar liderazgo comunitario. Se trata de aprender con otros, basado en intereses comunes y mezclado con lo online y offline.
+<h3>Integrado con otras redes de mentores de Mozilla</h3>
+Estos grupos locales se entretejen con otras redes de mentores, especialmente con <strong><a title="Página de Hive" href="http://hivelearningnetworks.org/" target="_blank">Hive</a></strong>, siendo esta una gran comunidad de práctica que aborda la difusión de alfabetización digital y la alfabetización web. Hive puede empezar clubs, o los clubs pueden convertirse en miembros de Hive. Vemos estas situaciones profundamente interrelacionadas. También hay muchas oportunidades para continuar expandiendo todo este trabajo con las redes de Mozilla como Reps y MDN.
+
+<strong>Hipótesis</strong>: Las redes Hive han tenido un gran éxito al tener raíces locales con comunidades globales. Ellas son laboratorios y aulas para la alfabetización web. Webmakers Clubs puede encontrar un buen lugar en este ecosistema que trae algo nuevo (como una particular posición en alfabetización web y liderazgo comunitario) mientras integra y aprovecha lo que ya existe.
+
+&nbsp;
+
+Hasta acá la traducción del documento base, voy a continuar escribiendo sobre esta iniciativa en sucesivos artículos.
+
+&nbsp;
+
+imagen: <a title="Link a alfuente de la imagen" href="http://giphy.com/gifs/gravity-falls-dipper-pines-JsnbYw3mMgObe" target="_blank">Dipper Pines</a>
+
+</div>
+</div>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Notas a la inciativa Webmaker Clubs de Mozilla 1. #TeachTheWeb #Webmaker</title>
+	  <link>/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-12-23T08:07:00+00:00</pubDate>
+	  <guid>/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</guid>
+	  <description><![CDATA[
+	     <p>A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
+<ul class="org-ul">
+	<li>Mejorar la calidad de la enseñanza y el aprendizaje.</li>
+	<li>Fortalecer Redes comunitarias locales.</li>
+	<li>Conservar colaboradores.</li>
+</ul>
+<p>Con la idea de construir de forma <b>abierta</b> con usuarios y colaboradores líderes basándose en sus necesidades e intereses, comienza a delinearse el documento base sobre <b><a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a></b>.</p>
+
+<!--more-->
+<h2 id="seccion1">¿Qué son los clubs?</h2>
+<p>Por ahora es un término “comodín”. Al ser una idea en desarrollo, puede o no estar asociado a lo que comúnmente llamamos “clubs”. El término está para ayudarnos a mantener nuestras ideas en torno a un sustantivo. Puede mantenerse o cambiar, ya se verá en la marcha.</p>
+
+<p>Podemos anticipar que los clubs cuentan aproximadamente con los siguientes elementos:</p>
+<h3 id="seccion1.1">Una serie de actividades.</h3>
+<p>Una colección de actividades para aprender sobre la web.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup> Estás incluyen instrucciones para los mentores sobre como facilitar las actividades y materiales para los aprendientes. Puede haber formas de reconocer los aprendizajes y la participación en estas actividades.
+<strong>Hipótesis:</strong> Creemos que estás actividades deben ser <b>modulares y remixzables</b>, de manera que los mentores puedan modificarlas <b>fácilmente</b> a sus necesidades. Pero deben ser <b>simples de usar</b> para que los mentores se sientan confiados en su uso. También creemos que a los aprendientes les va mejor <b>hacen cosas juntos</b> y <b>agencian sus propios aprendizajes</b>.</p>
+<h4 id="notas">Notas:</h4>
+<p><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup></p>
+<p class="footpara">Pensaría también en términos de secuencia de actividades, además de colección a menos que esta incluya a las primeras. Sobre esto: <a title="Enlace a la discusión" href="http://discourse.webmaker.org/t/about-a-series-of-activities-collections-and-or-sequences/1098" target="_blank">abrí un tema en la plataforma de discusión de Webmaker</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Premio Blog Solidario</title>
+	  <link>/2007/10/premio-blog-solidario/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-10-14T18:00:20+00:00</pubDate>
+	  <guid>/2007/10/premio-blog-solidario/</guid>
+	  <description><![CDATA[
+	     <p><img src="http://irisfernandez.com.ar/betaweblog/wp-content/uploads/2007/10/blogsolidariobmpni3.thumbnail.jpg" align="left" height="74" width="128" /> Por primera vez este blog es premiado con algo, y la verdad, la sensación es linda. Linda porque quienes hacemos esto de escribir, comentar y por ende crear en este medio, muchas veces lo hacemos (parafraseando al amigo <a href="http://danielkaar.wordpress.com/" title="Daniel kirchman"><strong>Daniel Kirchman</strong></a>) <em>“robandole tiempo a todo lo demás”</em> y entonces, cuando un amigo como <a href="http://www.karpicius.com.ar/?p=98" title="Karpicius"><strong>karpicius </strong></a>menciona el blog y le otorga el premio… pues bien… se siente lindo ydan ganas de seguir.</p>
+
+<p>Entonces, antes de pasar la posta y otorgar el premio, me puse a buscar de donde salió esto y legue a <a href="http://bohemiamar.blogspot.com/" title="Bohemia mar">bohemia mar</a>, quien tuvo la iniciativa, y fue interesante recorrer el camino inverso de este meme, ya que da cuenta de la multiplicidad de voces que hay en la red y la multiplicidad de puntos de encuentro entre tantas diferencias.  Y coincido con <strong><a href="http://www.moebius.lodigital.com.ar" title="Carlos">carlos</a></strong> que dice:</p>
+<blockquote>Aún conociendo el camino de los memes, siempre es un orgullo que alguien se tome un momento y piense en otro blog.</blockquote>
+<p>sin más, los premiados son:</p>
+
+<p><strong><a href="http://eltilodeolivos.com.ar/" title="el tilo de olivos">El tilo de Olivos</a></strong>: Blog de Daniel Kirchman, que aporta desinteresadamente una gran dosis de refelxión y tiempo para la reflexión, que es a mi entender, un espacio que falta.</p>
+
+<p><strong><a href="http://escuelaytic.blogspot.com/" title="Escuela y TIC">Escuela y TIC</a></strong>: Blog de Nora aznar, compañera de viajes y excelente persona que no duda no solo en compartir lo que sabe, sino también ponerlo en práctica en cada momento.</p>
+
+<p><strong><a href="http://www.deugarte.com/" title="David de Ugarte">deugarte.com</a></strong>: Groso, David de Ugarte, antes de entregarlo e pregunte que es ser solidario (la palabra me hace ruido desde hace tiempo) y creo que es alguien que hace comparte y lucha. entonces no podía faltar david en esto.</p>
+
+<p><strong><a href="http://ramiropol.com.ar/" title="el blog de ramo">El blog de ramo</a></strong>: Ramiro Pol, persona solidaria si las hay, ¿qué hace de solidario su blog? la inmutable certeza de que su escritos (con los que no siempre coincido) pueden ser discutidos y compartido sin censura.</p>
+
+<p><strong><a href="http://www.adelat.org/index.php" title="Bitácora de Aníbal de la Torre">Bitácora de Aníbal de la Torre</a></strong>: Blog solidario, educador solidario, y por sobre todas las cosas crítico de la educación si los hay.</p>
+
+<p><strong><a href="http://tuxpepino.wordpress.com/" title="Entre tuxes y pepinos">Entre tuxes y pepinos</a>: </strong>En mi caso, declarado defensor del software libre y sus derivaciones éticas, usar linux no es una opción, sino un acto de coherencia, algo más que una decisión técnica, es una decisión ética. y mi experiencia como usuario no hubiesesido de lo más satisfactoria sin el blog de este ¿muchacho? que no duda en compartir lo que sabe, descubre y le interesa.</p>
+
+<p><strong><a href="http://ubuntulife.net/wordpress" title="Ubuntu Life">Ubuntu Life</a></strong> :Blog indispensable para continuar experimentando con ubuntu, solidario en su conocimiento y absolutamente activo en sus publicaciones.</p>
+
+<p>Bueno hasta aca la lista de premiados, faltan más, más blogs, más bloggers que aportan. y si utilizo mi concepcion de blogger solidario, tendría que poner todos los blogs que tengo sindicado. Per bue como yo no hice las bases, solo siete blogs pueden ser premiados.</p>
+
+<p>a proposito de eso, dejo las pautas para seguir con esto :)</p>
+<blockquote>1ª)Escribir un post mostrando el PREMIO y citar el nombre del blog que te lo regala y enlazarlo al post que te nombra (de esta manera se podrá seguir la cadena)
+2ª)Elegir un mínimo de 7 blogs que creas que se han destacado alguna vez, por ayudar , apoyar, y compartir. Poner sus nombres y los enlaces a ellos. (Avisarles)
+3ª)Opcional. Exhibir el PREMIO con orgullo en tu blog, haciendo enlace al post que escribes sobre el y lo otorgas a otros.</blockquote>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

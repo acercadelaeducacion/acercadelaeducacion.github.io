@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Traducción colaborativa: The Little Coder&#8217;s Predicament</title>
+	  <link>/traduccion-colaborativa-the-little-coders-predicament</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-03-17T08:54:57+00:00</pubDate>
+	  <guid>/traduccion-colaborativa-the-little-coders-predicament</guid>
+	  <description><![CDATA[
+	     <blockquote>Why the Lucky Stiff (o _Why para ser mas breves) fue uno de los programadores mas brillantes e inspiradores de estos tiempos. Se volvió famoso mediante una serie de blogs y una cantidad increible de proyectos open-source que mantuvo durante mas de 7 años.
+
+La popularidad de _Why creció junto con la popopularidad del lenguaje de programación Ruby. Cuando el éxito del framework Rails se disparó en el año 2005, un numeroso grupo de jóvenes desarrolladores empezaron a querer aprender más sobre Ruby, y ahí fue cuando la mayoría de ellos se encontró con La conmovedora guía para Ruby de Why, una guia Creative Commons que contenía todas las características de su autor: una mente artística e inquieta con una visión muy diferente acerca de la programación.</blockquote>
+<p>[caption id=”” align=”aligncenter” width=”500”]<img alt="" src="http://www.examplelab.com.ar/content/images/2014/Jan/2007_cover_shut.jpg" width="500" height="388" /> Tapa de La (conmovedora) Guía de Why para Ruby.[/caption]</p>
+
+<p>_Why despierta pasiones, y con ellas, mucha admiración se derrama en torno a él. La crónica de su aparición, desaparición y legado está muy bien contada en <a title="Artículo sobre _Why" href="/http://www.examplelab.com.ar/_why-una-historia-de-un-genio-post-moderno/">_why una historia de un genio post-moderno</a>. A partir de este artículo comenzamos a traducir <a title="Página con el dilema" href="http://viewsourcecode.org/why/hacking/theLittleCodersPredicament.html">The Little Coders Predicament </a>un texto que hace mucho quería que esté en español, pero que sólo, no podría traducir ¡Gracias <strong><a href="https://twitter.com/hugoruscitti">Hugo Ruscitti</a></strong> !</p>
+
+<p>El proyecto de traducción está en <a href="https://github.com/hugoruscitti/traducciones">Github</a> para quienes quieran participar.</p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Narrativas Digitales. Algunos pensamientos más</title>
+	  <link>/narrativas-digitales-algunos-pensamientos-mas</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-03-15T11:56:49+00:00</pubDate>
+	  <guid>/narrativas-digitales-algunos-pensamientos-mas</guid>
+	  <description><![CDATA[
+	     <p>Sigo dándole vueltas a esto que ya arrancó <a title="Pensamiento en voz alta | Narrativas digitales" href="http://www.acercadelaeducacion.com.ar/2014/03/pensamiento-en-voz-alta-narrativas-digitales/">acá</a>. Y de paso, pruebo <a title="Enlace a medium" href="http://medium.com">Medium</a>. Un servicio de escritura  muy interesante. Os dejo las dos versiones</p>
+
+<!--more-->
+
+<script type="text/javascript" src="https://static.medium.com/embed.js" async=""></script>
+<p><a class="m-story" href="https://medium.com/hackear-la-educacion/719bdbd361b5" data-collapsed="true">Narrativas Digitales</a></p>
+
+<p> </p>
+
+<p> </p>
+<div>
+<blockquote><a href="http://www.acercadelaeducacion.com.ar/2014/03/pensamiento-en-voz-alta-narrativas-digitales/" target="_blank" rel="nofollow">Tal vez sea hora de pensar en narrativas digitales y en estas, la programación, intervenga como un recurso más.</a></blockquote>
+</div>
+<section>
+<div>
+
+<hr />
+
+</div>
+<div>
+
+Dentro del marco de la currícula educativa se disputan áreas y territorios del conocimiento como si fueran tierras en disputa de poderes temerosos de perder privilegios.
+
+Las tecnologías digitales no sólo llegaron para quedarse en las escuelas, llegaron para disputarse. Disputa que se ensancha bajo el techo de la brecha digital. Brecha que al parecer, sólo puede salvarse desde un extremo hacia el otro. Sólo la orilla del saber tecnólogo puede acortar un espacio que él mismo creó.
+
+Pero volviendo al tema que nos ocupa. Ese pedacito de currícula que quiere conquistar su espacio ¿Hemos de enseñar a programar o hemos de enseñar nuevas formas de narrar? Una intuición a contramarea me asalta, desplazar le foco, cambiar la óptica y poner al conocimiento computacional al servicio de las narrativas.
+
+Elevar en su categoría a las historias, relatos, narraciones orales y disparates comunicionales, utilizando para su construcción y comunicación todos aquellos recursos de los que hoy disponemos. En este contexto, la programación toma cuerpo en una escuela. Porque programar es crear con un lenguaje propio dispositivos digitales o en su defecto crear relatos digitalizados para los dispositivos actuales.
+
+</div>
+</section>
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Sobre la justicia y la venganza</title>
+	  <link>/2011/08/sobre-la-justicia-y-la-venganza/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2011-08-13T21:25:25+00:00</pubDate>
+	  <guid>/2011/08/sobre-la-justicia-y-la-venganza/</guid>
+	  <description><![CDATA[
+	     <blockquote>"... Sin rencor, pero con memoria. Tengamos siempre presente que en nuestro país la existencia de las Madres y Abuelas fue la que frenó la venganza por mano propia. No se mató a ningún represor. Por eso es falso hablar de venganza. A los asesinos se los juzga. No se los tortura. no se los tira de un avión al Río de la Plata. Y las familias siempre saben donde están. revancha sería aplicar el mismo procedimiento que los desaparecedores aplicaron. Aunque ¿De donde sacar tanta crueldad?..."</blockquote>
+<p>Te escribo esto para recordar, para que no me olvide y por si las dudas. Estas son palabras de <a title="Página de feinmann en wikipedia" href="http://es.wikipedia.org/wiki/Jos%C3%A9_Pablo_Feinmann">José Pablo Feinmann</a>. En ellas relata el impacto que las palabras de <a title="Página de Nestor kirchner en wikipedia" href="http://es.wikipedia.org/wiki/N%C3%A9stor_Kirchner">Nestor Kirchner</a>, al dar su <a title="Discurso de Asunción en la Página de Anibal Fernandez" href="http://www.anibalfernandez.com.ar/index.php/te-lo-digo-yo/esto-es-asi/645">discurso</a> de asunción como Presidente de la República Argentina ante la Asamblea Legislativa. Pero además son palabras que me mantienen alerta, y espero que también te mantengan alerta a vos.</p>
+
+<p>En tiempos de masividad de discursos únicos, de verguenza periodística y pobreza de argumentos, a falta de ideas concretas. Es bueno estar alerta a las palabras.</p>
+
+<p>Hoy cuando se busca justicia, se la llama venganza, y cuando se busca venganza… muchas veces la justicia acuda a ejecutarla.</p>
+<iframe src="http://player.vimeo.com/video/22973522?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="225"></iframe>
+
+<p><a href="http://vimeo.com/22973522">Discurso de asuncion de Nestor Kirchner</a> from <a href="http://vimeo.com/user3750763">Anibal Fernandez</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+<p>Image: ‘<a href="http://www.flickr.com/photos/8344872@N05/5356144467">Ghostbusters trap</a>’</p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Para Eva</title>
+	  <link>/2010/11/para-eva/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2010-11-01T07:34:13+00:00</pubDate>
+	  <guid>/2010/11/para-eva/</guid>
+	  <description><![CDATA[
+	     <p>Hay libros que no terminé, algunos me aburrieron, otros no los entendí. Pero hay uno que no quiero terminar. No quiero saber como sigue una historia que lejos de constituirse como una ficción, se hace, en cada línea, angustia en mi lectura. Estoy refiriéndome a El Libro de Manuel. Tal vez algún día lo leas y tal vez tengas el coraje que hoy a mi me falta. Lo cierto es que de ese libro intencionalmente inconcluso, de estos días inmensamente tristes, de esta sensación cargada de esperanza en medio de una constante lucha saco una idea, un proyecto pequeño y personal que va a formar parte de este espacio publico y colectivo. Intentaré en este espacio (que ironía) recopilar mis ideas, mis sueños políticos y mis contradicciones. Para que algún día, si querés saber que pensaba tu viejo, o simplemente recorrer un sencillo y sesgado relato histórico, tengas un lugar en donde recalar.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

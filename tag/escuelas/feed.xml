@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Principios y principio de realidad</title>
+	  <link>/2008/04/principios-y-pricipio-de-realidad/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-04-29T13:30:19+00:00</pubDate>
+	  <guid>/2008/04/principios-y-pricipio-de-realidad/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.flickr.com/photos/17471033@N06/2381970730/" target="_blank"><img class="alignright" style="border: 2px solid black; margin: 2px; float: right;" src="http://farm3.static.flickr.com/2341/2381970730_03bf4dc431_m.jpg" border="0" alt="" /> </a> Por ahí se dice que para evitar una neurosis o algún que otro problema psíquico, mi estructura psíquica ha de estar en sintonía con La Realidad. Y siguiendo el tenor del post anterior. Caigo en cuenta que el proyecto Aulas en Red ya no existe más, que lo que se espera de mi en las escuelas es que cumpla una función que garantice a los alumnos el contacto con las TIC. Ya no se si importa que los docentes sean quienes vehiculisen (¿se escribe así esa palabra?) ese contacto. Todavía dependo de mi trabajo, así que saco el disfraz de profesor de informática del placard y salgo a las escuelas a satisfacer ese urgente deseo docente: que los chicos tengan computación.</p>
+
+<p>Y mis principios… y mis ideas en torno a las TIC. Se tendrán que desarrollar en otros ámbitos, por lo menos hasta que pueda conseguir otro trabajo que me permita comer a fin de mes.</p>
+
+<p>PD: estoy triste.</p>
+<h2><strong><span style="color: #ff0000;">Actualización</span> </strong></h2>
+<p>Siempre hay alguien que puede traernos de estas regiones oscuras de la voluntad. En este caso Dani, mi compañera, mi pareja, la mujer que me enseña y aun a pesar de mis debilidades me aguanta y elige, me llamó por teléfono y me recordó (una vez más) que no esta perdido quién pelea. Esto para mi quiere decir que no he de dejar mis principios en mi trabajo por un simple cambio de gestión.</p>
+
+<p>pd: estoy más contento, como si es fuera condición de estar con algo o alguien. Es decir, antes estba sintento, ahora estoy contento.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Foto vía</td>
+      <td><small><a title="creative commons" href="http://www.photodropper.com/creative-commons/" target="_blank"><img src="http://www.acercadelaeducacion.com.ar/wp-content/plugins/photo_dropper/images/cc.png" border="0" alt="Creative Commons License" width="16" height="16" align="absmiddle" /> </a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a title="enjoys while could" href="http://www.flickr.com/photos/17471033@N06/2381970730/" target="_blank">enjoys while could</a> </small></td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

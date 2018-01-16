@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Hongos | Inkscape | wicd</title>
+	  <link>/2012/10/hongos-inkscape-wicd/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-10-24T23:28:19+00:00</pubDate>
+	  <guid>/2012/10/hongos-inkscape-wicd/</guid>
+	  <description><![CDATA[
+	     <p>Tres cosas que aprendí hoy:</p>
+<h2>La importancia de llamarme Hongos</h2>
+<p>Lejos de pensar que sólo sirven para envenenar, pudrir o alucinar. Sino que también sirven para mejorar el ambiente.</p>
+
+<iframe src="http://embed.ted.com/talks/lang/es/paul_stamets_on_6_ways_mushrooms_can_save_the_world.html" frameborder="0" scrolling="no" width="560" height="315"></iframe>
+
+<p> </p>
+<h2>Aprendiendo a dibujar un Cohete</h2>
+<p>Si bien el tutorial no es sencillo. Al final pude hacer el cohete casi como en el ejemplo</p>
+
+<p><a title="Cómo crear un cohete con Inkscape" href="http://rogercv.wordpress.com/2012/02/09/como-crear-un-cohete-de-dibujos-animados-con-inkscape/" target="_blank">Como crear un cohete con Inkscape</a></p>
+
+<p><a href="http://www.acercadelaeducacion.com.ar/2012/10/24/hongos-inkscape-wicd/g3020/" rel="attachment wp-att-1759"><img class="alignnone size-medium wp-image-1759" title="Cohete" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/g3020-201x300.png" alt="Mi cohete en inkscape" width="201" height="300" /></a></p>
+<h2>Como instalar <strong>WICD</strong> en Fedora 16</h2>
+<p>En algunas máquinas el <strong>NetworkMannager</strong> no anda muy bien, en esos casos instalo <strong><a title="Página de WICD" href="http://wicd.sourceforge.net/" target="_blank">wicd</a></strong> y todo marcha.</p>
+<pre class="brush:shell">#Instalamos wicd
+sudo yum install wicd wicd-gtk beesu
+
+#Desactivamos NetworkManager
+sudo service NetworkManager stop
+sudo chkconfig NetworkManager off
+#activamos wicd
+sudo chkconfig wicd on
+#reboot
+sudo shutdown -r now</pre>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

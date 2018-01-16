@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>¿Por qué compartirlo con el resto del mundo?</title>
+	  <link>/2014/03/por-que-compartirlo-con-el-resto-del-mundo/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-03-13T11:57:42+00:00</pubDate>
+	  <guid>/2014/03/por-que-compartirlo-con-el-resto-del-mundo/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft size-full wp-image-2333" alt="Relaciones" src="/wp-content/uploads/2014/03/Alvar-Maciel-Google+-2014-03-13-11-36-52.png" width="360" height="228" /></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Flujo de trabajo para escribir textos con otrxs en GitHub</title>
+	  <link>/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-12-22T12:47:33+00:00</pubDate>
+	  <guid>/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
+	  <description><![CDATA[
+	     <p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
+
+<h2 id="el-procedimiento-simplificado-sería">El procedimiento simplificado sería:</h2>
+
+<ol>
+  <li>Abrir un repositorio nuevo con un archivo README.md en él estarían las instrucciones y el índice</li>
+  <li>Cada colaborador tendría que: sacarse una cuenta e informar para sumarlo al equipo</li>
+  <li>La primer tarea consistiría en hacer un aporte al README.md</li>
+</ol>
+
+<h2 id="algunas-aclaraciones">Algunas aclaraciones:</h2>
+
+<ol>
+  <li>Un branch, una rama (Github usa como metáfora la estructura de los arboles) sería el tronco principal, (voy a usar el nombre en inglés  BRANCH)  llamado master esta rama es considerada <em>estable</em></li>
+  <li>Las actualizaciones o modificaciones se hacen en ramas separadas de la rama  master</li>
+  <li>cuando una actualización está lista para ser mergeada (esto quiere decir mezclada con la rama estable master) se crea un “pull request” (pedido de subida a rama master)</li>
+  <li>El pull request es revisado por un miembro del grupo, marcando y trabajando en él los cambio que se tienen que hacer (rol de editor)</li>
+  <li>Cuando el pull request es aprobado, la rama que contiene los cambios es mezclada en la rama estable master.</li>
+</ol>
+
+<h2 id="esto-en-la-práctica-sería-así">Esto en la práctica sería  así:</h2>
+
+<ol>
+  <li>Alvar  escribe el README.md implementando la estructura básica y algunas cuestiones iniciales</li>
+  <li>Daniel  cliquea en un botón y crea una rama nueva con su propia versión del documento. No tiene que bajarse ningún archivo, ni crear copias ni renombrar nada. Github se hace cargo de esto. Daniel puede hacer todo los cambios que quiera sin preocuparse de estar modificando nada del documento principal. Daniel agrega nuevas secciones al índice, crea archivos nuevos para las nuevas partes del índice e incluso corrige algunos errores  que Alvar pasó por alto en el archivo README.md</li>
+  <li>Daniel considera que sus cambios están listos para ser mezclados (mergeados) en el documento principal, así que crea un pull request (haciendo un solo click)</li>
+  <li>GitHub notifica automáticamente al equipo que Daniel abrió un pull request</li>
+  <li>Cualquiera del equipo puede, rápidamente, ver exactamente que se ha cambiado. Línea a línea, palabra a palabra.</li>
+  <li>Alejandra ve el trabajo de Daniel y se da nota algunas cuestiones gramaticales, entonces se las anota en los comentarios del pull request de Daniel.</li>
+  <li>Daniel corige esos errores, Alejandra aprueba el pull request (de nuevo, con un solo click) y los cambios se mezclan en el documento principal.</li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Escenas del Mapatón | Mapeo colectivo Área Reconquista</title>
+	  <link>/escenas-del-mapaton-mapeo-colectivo-area-reconquista</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-11-19T06:58:16+00:00</pubDate>
+	  <guid>/escenas-del-mapaton-mapeo-colectivo-area-reconquista</guid>
+	  <description><![CDATA[
+	     <p><a href="http://noticias.unsam.edu.ar/2015/11/17/mapaton-cartografia-colectiva-de-jose-leon-suarez-en-la-escuela-secundaria-tecnica/">Crónica y escenas del mapeo colectivo que se inció el 14/11</a></p>
+
+<p><a href="http://noticias.unsam.edu.ar/2015/11/17/mapaton-cartografia-colectiva-de-jose-leon-suarez-en-la-escuela-secundaria-tecnica/" target="_blank"><img class="alignnone" src="http://noticias.unsam.edu.ar/wp-content/uploads/2015/11/WP_20151114_14_45_11_Pro-1070x660.jpg" alt="" width="517" height="319" /></a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Plantilla Camino del Héroe | Inglés, Prácticas del Lenguaje y HTML</title>
+	  <link>/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-11-18T15:26:41+00:00</pubDate>
+	  <guid>/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
+	  <description><![CDATA[
+	     <p><img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
+
+<p>Plantilla del proyecto Camino del Héroe.</p>
+
+<h2 id="pasos-a-seguir">PASOS A SEGUIR</h2>
+
+<ol>
+  <li>Ir a la <a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/14577/">plantilla de edición del comic</a></li>
+  <li>Hacer click en el botón remix</li>
+  <li>Loguearse</li>
+  <li>Cambiar titulo y agregar sus nombres</li>
+  <li>Guardar</li>
+  <li>Comenzar a editar en la linea:110</li>
+</ol>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>LaTex | Capítulo 1</title>
+	  <link>/latex-capitulo-1</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-09-19T13:33:00+00:00</pubDate>
+	  <guid>/latex-capitulo-1</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.</p>
+
+<p>&lt;/div&gt;
+&lt;/div&gt;</p>
+<div id="outline-container-orgheadline2" class="outline-2">
+<h2 id="orgheadline2">Cómo nos podemos beneficiar de él</h2>
+<div id="text-orgheadline2" class="outline-text-2">
+
+LaTeX esta especialmente indicado para documentaciones técnicas o científicas. Es legendaria su superior composición tipográfica (typesetting) de formulas matemáticas. Si sos estudiante o científico, entonces LaTeX es tu mejor opción para la preparación y escritura de documentación. Aunque esto va también para todo aquel que hace de la escritura y la publicación de textos parte de su profesión. Produce documentos de muy alta calidad, es extremadamente estable y maneja documentos complejos de forma sencilla, sin importar cuan grandes sean.
+
+&nbsp;
+
+</div>
+</div>
+<!--more-->
+<div id="outline-container-orgheadline3" class="outline-2">
+<h2 id="orgheadline3">Separación de forma y contenido</h2>
+<div id="text-orgheadline3" class="outline-text-2">
+
+Un principio básico de LaTeX es que el autor no debe distraerse demasiado por temas de formato. Usualmente el autor se centra en el contenido. Generalmente con LaTeX nos centraremos en el contenido y en el formato pero de forma lógica. Por ejemplo en lugar de escribir un título de capítulo en letras grandes y en negrita, escribiremos el algo y luego le diremos a LaTeX que es el título de un capítulo.
+
+</div>
+</div>
+<div id="outline-container-orgheadline4" class="outline-2">
+<h2 id="orgheadline4">Portabilidad</h2>
+<div id="text-orgheadline4" class="outline-text-2">
+
+LaTeX está disponible para casi todos los sistemas operativos. El formato de sus archivos es de <a href="https://es.wikipedia.org/wiki/Archivo_de_texto">texto simple o plano</a>, leíble y editable en todos los sistemas operativos. LaTeX producirá el mismo resultado en cualquiera de los sistemas. LaTeX no tiene en si mismo ninguna interfaz gráfica, por esta razón se puede usar en cualquier sistema operativo. LaTeX genera archivos PDF, imprimibles y leibles,en casi todas las computadoras y esos archivos se verán de la misma forma en cualquier sistema. Además soporta DVI, PostScript, y HTML, dejando archivos listos para trabajarlos y hacer pubs y otros tipos de formatos. En suma, LaTeX es portable en 3 sentidos: código, su implementación y su salida.
+
+</div>
+</div>
+<div id="outline-container-orgheadline5" class="outline-2">
+<h2 id="orgheadline5">Protección del trabajo</h2>
+<div id="text-orgheadline5" class="outline-text-2">
+
+Los documentos en LaTeX se guardan en un formato de texto leible por los seres humanos, no en el formato oscuro y complejo de los procesadores de texto. Formatos que pueden cambiar entre diferentes versiones del mismo software. Intenten abrir un documento de hace 20 años escrito en algún procesador de texto comercial. LaTeX promete que el documento va a estar siempre leible y con el mismo resultado en su proceso de salida. Los procesadores de texto pueden ser infectados con virus y destruir sus datos. LaTeX no tiene amenazas de virus
+
+</div>
+</div>
+<div id="outline-container-orgheadline6" class="outline-2">
+<h2 id="orgheadline6">¿Desafíos?</h2>
+<div id="text-orgheadline6" class="outline-text-2">
+
+La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un montón de info online. Esta serie de artículos son resúmenes y notas del libro <a href="http://shop.oreilly.com/product/9781847199867.do">LaTeX Beginner's Guide</a>
+
+</div>
+</div>
+<p> </p>
+
+<p>Imagen: <a href="http://debdeb-debdeb.tumblr.com/post/121745844096/working-on-my-book-tomorrow-found-out-ill-only">debdeb-debdeb.tumblr.com</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Charla | Herramintas Distribuidas para planificar</title>
+	  <link>/charla-herramintas-distriibuidas-para-planificar</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-11-03T10:45:16+00:00</pubDate>
+	  <guid>/charla-herramintas-distriibuidas-para-planificar</guid>
+	  <description><![CDATA[
+	     <p><a href="https://rawgit.com/acercadelaeducacion/charlas-talleres/master/HerramientasDistribuidas/Presentacion/index.html">Acá están las diapositivas de la Charla dada en el <strong>SqueakFest 2014</strong></a></p>
+
+<!--more-->
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Aula Taller | último eslabón del anillo de recursos para el aula</title>
+	  <link>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-08-22T10:36:51+00:00</pubDate>
+	  <guid>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
+	  <description><![CDATA[
+	     <p>Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
+
+<p>En el sitio <a href="http://acercadelaeducacion.github.io/">acerca de la educación [versión github]</a> mantengo un blog que funciona como diario de aula y repositorio de ideas. Y para los chicos y chicas tengo el blog <a href="http://acercadelaeducacion.github.io/aulataller">Aula Taller</a> donde cargo las actividades que hacemos en clase.</p>
+
+<p>Asi las cosas:</p>
+
+<ul>
+  <li>
+    <p><strong><a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a></strong>: Para planificar</p>
+  </li>
+  <li>
+    <p><strong><a href="http://acercadelaeducacion.github.io/">1 blog</a></strong>: Para pensar y registrar</p>
+  </li>
+  <li>
+    <p><strong><a href="http://acercadelaeducacion.github.io/aulataller">1 blog</a></strong>: Para los estudiantes</p>
+  </li>
+  <li>
+    <p>Para fin de año… un librito con <strong><a href="https://www.gitbook.io/@alvarmaciel">Gitbook</a></strong></p>
+  </li>
+</ul>
+
+<p> </p>
+
+<p>Imagen: <a href="http://gph.is/1a7HFcq">Soul Eater</a></p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Disqus en el blog</title>
+	  <link>/2014/01/disqus-en-el-blog/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-01-21T21:44:17+00:00</pubDate>
+	  <guid>/2014/01/disqus-en-el-blog/</guid>
+	  <description><![CDATA[
+	     <p>Estoy probando y habilitando <strong><a title="Página de disqus" href="http://disqus.com" target="_blank">Disqus</a></strong> en el el blog… por ahora no pude integrar bien los comentarios viejos con el nuevo sistema… Seguiré probando en estos días</p>
+
+<p> </p>
+
+<p><img class="alignnone" alt="" src="http://i.imgur.com/Q3cUg29.gif" width="276" height="207" /></p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Curso Abierto Online de Mozilla #teachtheweb | Webmaker y otras yerbas</title>
+	  <link>/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-04-26T10:37:51+00:00</pubDate>
+	  <guid>/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</guid>
+	  <description><![CDATA[
+	     <p>Esta es otra traducción que armamos desde <a href="http://hivenyc.org/teachtheweb/⏎">acá</a></p>
+<h1>Enseñar la Web</h1>
+<p><em>Aprender como enseñar alfabetizaciones digitales, manejar herramientas para construir la web, desarrollar tus propios recursos y llevar lo que aprendas de vuelta a tu comunidad y tus clases</em></p>
+<ul>
+	<li><strong>Unase a nosotros en este curso en linea gratuito y abierto</strong>. Como parte de nuestra misión sin fines de lucro, Mozilla cree que la alfabetización web - El entendimiento de como las cosas digitales funcionan - es una habilidad esencial en el siglo 21. Queremos contribuir para que los <em>usuarios</em> de la web se conviertan en <em>creadores</em> de la web</li>
+	<li>Participe en discusiones guiadas, abordar actividades prácticas, desarrollar y remixar recursos de enseñanza, y compará apuntes con una comunidad global de creadores, mentores y educadores.</li>
+	<li>Nosotros iremos introduciendo nuevos temas y actividades cada semana : Usted puede unirse en cualquier momento y trabajar a su propio ritmo.</li>
+	<li><strong>¿Quiere participar?</strong> Registrese y empiece en <strong>webmaker.org/teach</strong></li>
+</ul>
+<h2><strong>¿Esto es como para mí?</strong></h2>
+<ul>
+	<li><strong>Tiempo estimado</strong> 2hr por semana o todo el tiempo que le quiera dedicar. Esta es una experiencia completamente autogestionada.</li>
+	<li><strong>Equipamiento necesario</strong> Laptop, internet y una cuenta de Google+</li>
+	<li><strong>Habilidades requeridas</strong> Sólo el interés en enseñar a otros a aprender como hacer cosas en la web. Y espíritu de aventura.</li>
+	<li>**¿Suena posible? ¡Siga leyendo!</li>
+</ul>
+<!--more-->
+<h2><strong>Los temas incluirán:</strong></h2>
+<ul>
+	<li>enseñanza de alfabetizaciones digitales a través de crear, remixar y compartir</li>
+	<li>incorporación de innovación abiertas a las prácticas educativas en linea.</li>
+	<li>adaptación de los recursos educativos para satisfacer los intereses y necesidades de los estudiantes</li>
+	<li>intercambios de opinión de sus compañeros sobre sus propios recursos y lecciones</li>
+	<li>Preparación para Maker Party 2013. Celebrando eventos locales como parte de la campaña de aprendizaje global promovida por la Fundación MacArthur, El Proyecto Nacional de Escritura (USA) y Mozilla</li>
+	<li>Ver el programa del curso</li>
+</ul>
+<h2><strong>¿Quiénes pueden participar?</strong></h2>
+<p>Cualquiera con curiosidad sobre la enseñanza de la web y alfabetizaciones digitales  — A través de una práctica divertida y creativa — desde mentores, educadores, maestras, profesores, bibliotecarios, a creadores, jóvenes, padres y Mozilleros</p>
+<h2><strong>¿Cómo funciona?</strong></h2>
+<p><a href="http://www.flickr.com/photos/alvarmaciel/8682109312/⏎"><img class="alignleft size-full wp-image-2032" alt="Diagrama de participación" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/04/engagementdiagram.png" width="700" height="453" /></a></p>
+
+<p>Cada semana, introduciremos nuevos temas y facilitaremos conversaciones y actividades sobre un rango sencillo de servicios en linea.</p>
+<ul>
+	<li><strong>Inscribase en el link de la derecha</strong> y <a title="Get Started" href="http://hivenyc.org/teachtheweb/get-started/">empiece</a></li>
+	<li><strong>Únase a la <a href="http://mzl.la/gpluswebmaker⏎">comunidad Webmaker de Google+</a></strong> para conocer a los participantes y charlar sobre el curso</li>
+	<li><strong><a title="Share Your Blog" href="http://hivenyc.org/teachtheweb/share-your-blog/">Conecte su blog</a> al <em><a href="http://hivenyc.org/teachtheweb/bloghub/">concentrador de blogs</a></em> del curso</strong>. Comparte lo que estás creando y haciendo, hacé preguntas a la comunidad y obtené ayuda de pares.</li>
+	<li><strong>Obtenga ayuda y pregunte</strong> en cualquier momento a través de <a title="#teachtheweb" href="https://twitter.com/search?q=%23teachtheweb&amp;src=typd"><strong>#teachtheweb</strong></a></li>
+	<li><strong>¡Esto es <em>flexible</em>!</strong> participe como su horario le permita. Puede diseñar su propia participación en sesiones en vivo y debates en linea</li>
+	<li><strong>Registros en línea todos los jueves</strong>. Puede contribuir a las conversaciones en curso via <a href="http://mzl.la/gpluswebmaker⏎">Google Plus</a> y <a title="#teachtheweb" href="https://twitter.com/search?q=%23teachtheweb&amp;src=typd">Chats de Twitter</a></li>
+	<li><strong>Asista a una reunión de seguimiento en linea</strong> con otros participantes del curso el 2 de Mayo, 23 de mayo, 13 de Junio a las 4pm (UTC) (Teach TBD!)</li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Localization Models | Workflow with Github and Transifex | #WebLitStd</title>
+	  <link>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-03-23T17:31:00+00:00</pubDate>
+	  <guid>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
+	  <description><![CDATA[
+	     <div class="outline-2" id="outline-container-1">
+<h2>Introducción</h2>
+<div class="outline-text-2" id="text-1">
+
+La iniciativa de Mozilla para que todos y todas tengamos acceso a la posibilidad de participar activamente en la construcción de la Web se compone de un ecosistema con múltiples objetos que interactúan en diversos niveles. Esta complejidad inherente a la magnitud del proyecto hace que la aproximación al mismo sea también compleja, complejidad que se agudiza dado que toda la documentación, herramientas y recursos están en inglés. Para que la iniciativa tome un verdadero marco global es necesario traducir estos objetos en función de que los esfuerzos orientados a la creación de Nuevos Estándares en Alfabetización Web sean realmente Abiertos. Si sólo participan de estos esfuerzos angloparlantes o académicos bilingües se deja de lado a la población que en efecto lleva a cabo esta tarea: los educadores.
+
+&nbsp;
+
+<!--more-->
+
+&nbsp;
+
+Dentro del ecosistema Webmakers existen tres clases de objetos constitutivos con respectivos elementos que las caracterizan. Estos objetos interactúan entre sí dando a lugar a una inmensa base de conocimiento.
+<ul>
+	<li>Herramientas:
+<ul>
+	<li>Thimble</li>
+	<li>Popcorn</li>
+	<li>X-Ray</li>
+</ul>
+</li>
+	<li>Documentación
+<ul>
+	<li>Wiki</li>
+	<li>Etherpad</li>
+	<li>Community Calls</li>
+	<li>Hacktivity Kits</li>
+</ul>
+</li>
+	<li>Proyectos
+<ul>
+	<li>Thimble</li>
+	<li>Popcorn</li>
+	<li>X-Ray</li>
+</ul>
+</li>
+</ul>
+<img alt="MozillaLearningResources.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-MozillaLearningResources.png" />
+
+Estas tres clases de objetos tienen características propias que hacen difícil homologar un mismo proceso de traducción. En los siguientes gráficos se muestran dos modalidades de traducción, una usando github + po4a y la otra usando transifex. Los objetos más importantes a la hora de convocar a los educadores son la documentación y los proyectos. Este es un intento de mostrar de forma gráfica los procesos involucrados en la localización, están armados en forma de diagrama de actividades para que se visualicen los pasos involucrados. Creo que es momento de buscar la forma más económica para que a las traducciones se sume la mayor cantidad de gente.
+
+</div>
+<div class="outline-3" id="outline-container-1-1">
+<h3 id="sec-1-1">Caso 1: Wiki</h3>
+<div class="outline-text-3" id="text-1-1">
+
+Las páginas de la wiki son convertidas a MarkDown para que po4a las pueda convertir a archivos .pot
+
+</div>
+<div class="outline-4" id="outline-container-1-1-1">
+<h4 id="sec-1-1-1">Modelo Github</h4>
+<div class="outline-text-4" id="text-1-1-1">
+
+<img alt="Wiki2GithubActDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-Wiki2GithubActDiagram.png" />
+
+</div>
+</div>
+<div class="outline-4" id="outline-container-1-1-2">
+<h4 id="sec-1-1-2">Modelo Transifex</h4>
+<div class="outline-text-4" id="text-1-1-2">
+
+<img alt="Wiki2transifexDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-Wiki2transifexDiagram.png" />
+
+</div>
+</div>
+</div>
+<div class="outline-3" id="outline-container-1-2">
+<h3 id="sec-1-2">Caso 2: Proyectos</h3>
+<div class="outline-text-3" id="text-1-2">
+
+Los proyectos están en formato HTML y convergen en él información del proyecto en si mismo (comentarios) y propiedades que son ejecutadas desde Thimble (ayudas). En este caso me centraré en el html del proyecto ya que las ayudas están siendo traducidas en transifex. Las páginas html de los proyectos en thimble tienen valor por sus comentarios. Sin embargo,  tanto transifex como po4a no extraen las cadenas de comentarios para la traducción. La opción menos prolija pero más viable, es convertir los archivos html a txt y traducir toda la cadena obviando las etiquetas y los caracteres de inicio de comentarios.
+
+</div>
+<div class="outline-4" id="outline-container-1-2-1">
+<h4 id="sec-1-2-1">Modelo Github</h4>
+<div class="outline-text-4" id="text-1-2-1">
+
+<img alt="project2GithubActDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-project2GithubActDiagram.png" />
+
+</div>
+</div>
+<div class="outline-4" id="outline-container-1-2-2">
+<h4 id="sec-1-2-2">Modelo Transifex</h4>
+<div class="outline-text-4" id="text-1-2-2">
+
+<img alt="Proyectos2transifexDiagram.png" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/03/wpid-Proyectos2transifexDiagram.png" />
+
+</div>
+</div>
+</div>
+</div>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Recursos para el granjero urbano | Autoriego con sensores libres</title>
+	  <link>/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-02-09T21:48:42+00:00</pubDate>
+	  <guid>/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignnone" alt="" src="http://farm4.staticflickr.com/3635/3641480769_cfe7d822a1.jpg" width="500" height="344" /></p>
+<ul>
+	<li><a href="http://www.compostadores.com">Compostadores</a></li>
+</ul>
+<p style="padding-left: 30px;">tags: <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a> <a href="https://www.diigo.com/user/amaciel/residuos">residuos</a></p>
+<p style="padding-left: 30px;">Data e información sobre compostaje</p>
+
+<ul>
+	<li><a href="http://www.dondereciclo.org.ar">Donde Reciclo - Sitio de reciclaje</a>
+
+<a href="http://www.dailydump.org">tags: </a><a href="https://www.diigo.com/user/amaciel/residuos">residuos</a></li>
+</ul>
+<ul>
+	<li>Home page | Daily Dump</li>
+</ul>
+<p class="diigo-tags" style="padding-left: 30px;"><span>tags:</span> <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a> <a href="https://www.diigo.com/user/amaciel/residuos">residuos</a></p>
+<p class="diigo-tags" style="padding-left: 30px;">Todo lo que necesitas saber para el compostaje y una forma linda de hacer compostadores aeróbicos</p>
+
+<ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="https://www.youtube.com/urbanhomestead">The Urban Homestead - YouTube</a></p>
+<p class="diigo-tags"><span>tags:</span> <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a></p>
+</li>
+</ul>
+<p style="padding-left: 30px;">Una película que hay que ver, con muy buena data</p>
+
+<ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://www.melbartholomew.com/category/beginners-guide/">Beginner’s Guide - Mel Bartholomew</a></p>
+<p class="diigo-tags"><span>tags:</span> <a href="https://www.diigo.com/user/amaciel/huerta">huerta</a></p>
+</li>
+</ul>
+<p style="padding-left: 30px;">Página con data para hacer una huerta de un metro cuadrado</p>
+
+<ul class="diigo-linkroll">
+	<li>
+<p class="diigo-link"><a href="http://www.youtube.com/watch?v=l564OJeW2B8">Auto-riego casero con sensores libres para huertos urbanos - YouTube</a></p>
+<p class="diigo-description">Sistema de riego hecho con un Arduino: http://t.co/6QZd4xpC</p>
+</li>
+</ul>
+<p style="padding-left: 30px;">Otra muuuy buen recurso para cruzar tecnología libre y de bajos recursos con la huerta urbana</p>
+<p>Imagen : <a title="Brote de flor de cebolla" href="http://www.flickr.com/photos/jlcernadas/3641480769/">http://www.flickr.com/photos/jlcernadas/3641480769/</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

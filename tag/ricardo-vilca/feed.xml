@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Ricardo Vilca</title>
+	  <link>/2007/06/ricardo-vilca-2/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-06-26T20:06:00+00:00</pubDate>
+	  <guid>/2007/06/ricardo-vilca-2/</guid>
+	  <description><![CDATA[
+	     <p>A veces alguien aparece en mi vida solo por un momento o unos días y deja marcas que me acompañan cada día. Una de estas personas es <strong><a href="http://www.ricardovilca.com/">Ricardo Vilca</a></strong>. No solo por la simpleza con la que me habló, sino por el calor que en su casa me transmitió, en una etapa fría  y complicada de mi vida.
+Reviven esas brasas en mi cada vez que te escucho.
+Te recuerdo, y te pienso.</p>
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/kw95bSCUuG0&amp;rel=1&amp;border=0" />&lt;/param&gt;<param name="wmode" value="transparent" />&lt;/param&gt;&lt;embed src="http://www.youtube.com/v/kw95bSCUuG0&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent"width="425" height="355"&gt;&lt;/embed&gt;</object>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Electronic music from Jelly</title>
+	  <link>/2012/04/electronic-music-from-jelly/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-04-18T09:39:23+00:00</pubDate>
+	  <guid>/2012/04/electronic-music-from-jelly/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://arduino.cc/blog/2012/04/18/electronic-music-from-jelly/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/logo_blog_arduino.png" alt="" /></a></p>
+
+<p><span id="result_box" lang="es"><span class="hps">Alguna vez te imaginaste</span> <span class="hps">hacer su</span> <span class="hps">propio instrumento musical</span><span>?</span> <span class="hps">O mejor</span><span>,</span> <span class="hps alt-edited">cocinar tu</span> <span class="hps">propio instrumento musical</span><span>?</span> <span class="hps">Dos estudiantes</span> <span class="hps">en su último año</span> <span class="hps">en </span></span> Les Ateliers French National Institute for Design <span id="result_box" lang="es"><span class="hps alt-edited">crearon</span> <span class="hps">este impresionante proyecto</span> <span class="hps">musical usando</span> <span class="hps">gelatina,</span> <span class="hps alt-edited">llamado</span> <span class="hps">-</span> <span class="hps">Noisy</span> <span class="hps">Jelly</span><span>.</span> <span class="hps">Cuando</span> <span class="hps">la gelatina</span> <span class="hps">se</span> <span class="hps alt-edited">acaricia</span><span>, produce</span> <span class="hps">sonidos</span> <span class="hps">de diferentes modelos</span><span>.</span></span></p>
+
+<p><span class="hps">Las variaciones de</span> <span class="hps">las formas y</span> <span class="hps">la concentración de sal</span><span>, además de</span> <span class="hps">la fuerza de</span> <span class="hps">contacto de los dedos</span><span>,</span> <span class="hps alt-edited">determina las</span> <span class="hps">señales de audio</span> <span class="hps alt-edited">resultantes</span><span>.</span> <span class="hps alt-edited">Una vez hecha,</span> <span class="hps">las</span> <span class="hps">jaleas</span> <span class="hps">se colocan</span> <span class="hps">en la parte superior</span> <span class="hps">del tablero de juego</span><span>, que es</span> <span class="hps">un</span> <span class="hps">sensor capacitivo</span> <span class="hps">conectado a</span> <span class="hps">un</span> <span class="hps">Arduino</span> <span class="hps">q</span><span class="hps">ue traduce</span> <span class="hps">la interacción</span> <span class="hps">en sonido.</span></p>
+
+<p><span class="hps">El punto culminante de</span> <span class="hps">esta obra de arte</span> <span class="hps">es la visualización de</span> <span class="hps">las señales eléctricas</span> <span class="hps">en forma de</span> <span class="hps">theremin</span><span class="atn">-</span><span>como</span> <span class="hps">ruidos</span><span>.</span></p>
+
+<p>Desde el Blog de Arduino | <a href="http://arduino.cc/blog/2012/04/18/electronic-music-from-jelly/">Electronic music from Jelly</a>.</p>
+<iframe src="http://player.vimeo.com/video/38796545?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="225"></iframe>
+
+<p><a href="http://vimeo.com/38796545">NOISY JELLY</a> from <a href="http://vimeo.com/user3131794">Raphaël Pluvinage</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Guardabarros caseros con botellas Version 2 #bikehack</title>
+	  <link>/2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-03-25T22:39:46+00:00</pubDate>
+	  <guid>/2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</guid>
+	  <description><![CDATA[
+	     <p>Después de la versión 1 de los<a title="Primera versión" href="http://www.acercadelaeducacion.com.ar/2012/03/23/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/"> guardabarros caseros</a>, acá tengo la versión 2. Una modificación de estilo para la bici.</p>
+
+<p>Acá pueden ver la evolución de los guardabarros</p>
+
+<p>[gallery type=’picasa’ user_id=’111769376606120018736’ album=’bikehacks’  thumbsize=’75’]</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Colaborá! Quedan pocos días… « Laboratorio de Juguete</title>
+	  <link>/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-03-25T19:47:05+00:00</pubDate>
+	  <guid>/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</guid>
+	  <description><![CDATA[
+	     <p>Necesitamos más de estos eventos en Argentina. vía <a href="http://toylab.wordpress.com/2012/03/25/colabora-quedan-pocos-dias/">Colaborá! Quedan pocos días… « Laboratorio de Juguete</a>.</p>
+
+<p> </p>
+<blockquote>&nbsp;
+
+Las hermanas de CHIMBALAB organizan el 2° ENCUENTRO DE CIRCUITOS ELECTRÓNICOS OPEN HARDWARE Y HAZLO TU MISMO en Santiago de Chile. Si bien es el segundo proyecto más apoyado de idea.me en la actualidad, necesita más apoyo para concretarse. De no llegar a la suma estipulada, el dinero recaudado será devuelto a los donantes. Faltan apenas 9 días y el 50%! Si querés y podés colaborar (empezando desde los 3U$S) podés hacerlo en el siguiente link. Gracias por apoyar la difusión del hardware libre!
+
+Recordá también que si tenés algun circuito diseñado que quieras compartir, podés participar de la convocatoria. Podés descargar aquí las BASES y la FICHA de inscripción. El Laboratorio de Juguete tiene el honor de ser parte del jurado de selección.</blockquote>
+<p style="text-align: center;"><a href="http://toylab.wordpress.com/2012/03/25/colabora-quedan-pocos-dias/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/grafica_encuentro_web1.jpg" alt="" /></a></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<iframe src="http://player.vimeo.com/video/36805885?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="400" height="225"></iframe>
+
+<p><a href="http://vimeo.com/36805885">2º Encuentro de Circuitos Open Hardware y DIY</a> from <a href="http://vimeo.com/user10442873">Chimbalab</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

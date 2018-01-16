@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Mapatón: Mapeo digital, social y colectivo del Area Reconquista</title>
+	  <link>/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-11-11T16:01:58+00:00</pubDate>
+	  <guid>/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</guid>
+	  <description><![CDATA[
+	     <h2>¿Qué es un MAPATON?</h2>
+<p>El mapatón tiene como fin desarrollar una herramienta de mapeo digital para el área reconquista de José León Suárez que pueda articular, visibilizar y potenciar las existentes, generar instancias de articulación de organizaciones que favorezcan el trabajo conjunto en función del territorio y sus habitantes, e implementar una agenda que permita la elaboración de estrategias y acciones a mediano y largo plazo.</p>
+
+<p>El encuentro nos convoca a una jornada de trabajo colectivo integrado por diseñadores y desarrolladores web, programadores, referentes territoriales, organizaciones sociales, científicos sociales, educadores populares, habitantes y conocedores del área, trabajadores y toda persona interesada en este desarrollo.</p>
+
+<!--more-->
+
+<p><img class="alignleft size-full wp-image-2601" src="wp-content/uploads/2015/11/mapaton.jpg" alt="mapaton" width="1743" height="1975" /></p>
+
+<h2 id="agenda-de-actividades-para-el-mapatón">Agenda de actividades para el Mapatón:</h2>
+<ul>
+	<li>12:00hs. Acreditación y comisiones temáticas.</li>
+	<li>12:30 hs. Apertura. Palabras de bienvenida y del objetivo del Mapatón. Presentación de actividades. Presentación de participantes y de la aplicación para celulares para alerta de inundaciones realizada por alumnas de la <a href="http://unsam.edu.ar/escuela_secundaria/" target="_blank">Escuela Secundaria Técnica Unsam</a> en el <a href="https://twitter.com/search?q=%23HackGIT2015" target="_blank">#HackGIT2015</a> organizado por <a href="https://twitter.com/girlsintecharg" target="_blank">Girls In Tech</a> .</li>
+	<li>13:00hs. Trabajo de mapeo en comisiones temáticas:
+<ul>
+	<li>Aula 1: Mapeo educativo y social con eje en la escuela secundaria: Educación, Salud, Deporte/cultura, Recursos</li>
+	<li>Aula 2: Mapeo de Situación socio-ambiental: Soluciones y Recursos. Infraestructura</li>
+	<li>Aula 3: Mapeo de las problemáticas actuales: recuperación de mapeos preexistentes.</li>
+	<li>Todas las comisiones trabajarán sobre: Salud, Educación, Cultura/Deporte, Infraestructura/servicios. Preparación de presentaciones finales de cada comisión.</li>
+</ul>
+</li>
+	<li>14:30hs. Café</li>
+	<li>15:00hs. Presentación del trabajo de cada comisión.</li>
+	<li>16:00 hs. Cierre general del Mapatón. Propuestas de continuidad para llegar a la app o herramienta que la gente del barrio pueda usar. Posible fecha para su realización.</li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Nueva sección: Planificaciones</title>
+	  <link>/nueva-seccion-planificaciones</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-06-20T14:03:10+00:00</pubDate>
+	  <guid>/nueva-seccion-planificaciones</guid>
+	  <description><![CDATA[
+	     <p>Abro una nueva sección en el blog, más que sección es un deposito de ideas y prácticas y frustraciones desde aula.</p>
+
+<p>El proceso es simple, planifico y posteo en un mismo espacio. Hago de ambas cosas en un solo lugar, lo que implica que en el espacio de planificación se reflejen las ideas previas a la práctica y las modificaciones de las prácticas a las ideas.</p>
+
+<p>El sitio no tiene mucho filtro de edición, como dije antes: el lugar donde planifico es el sitio donde publico.</p>
+
+<p>Dejo entonces el link:</p>
+
+<p><a href="http://acercadelaeducacion.github.io/" title="blog experimental">Acerca de la Educación [versión GitHub]</a></p>
+
+<p> </p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Por qué usar github para bloguear | Primer post usando #octopress</title>
+	  <link>/por-que-usar-github-para-bloguear-primer-post-usando-octopress</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2014-05-07T20:05:13+00:00</pubDate>
+	  <guid>/por-que-usar-github-para-bloguear-primer-post-usando-octopress</guid>
+	  <description><![CDATA[
+	     <p>&lt;/a&gt;<a title="Post on github" href="http://acercadelaeducacion.github.io/" target="_blank">Por qué usar github para bloguear | Primer post usando #octopress</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Localization process using #Github &#038; #Transifex</title>
+	  <link>/2013/10/localization-process-using-github-transifex/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-10-16T10:34:38+00:00</pubDate>
+	  <guid>/2013/10/localization-process-using-github-transifex/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"> <img class="size-full wp-image-2202 aligncenter" alt="github2transifex" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/github2transifex1.png" width="540" height="134" /></p>
+<p>Hi to all
+I have been refining the process to upload resources to <a title="Web page GitHub" href="http://github.com">GitHub</a> and connect the repositories to <a title="Web page Transifex" href="http://www.acercadelaeducacion.com.ar/2013/09/pajarito-callejero/">Transifex</a></p>
+
+<p>Source… a cookbok repo:</p>
+
+<p><a title="Cookbok repo" href="https://github.com/alvarmaciel/recetario">https://github.com/alvarmaciel/recetario</a></p>
+
+<p>Resource in Transifex page:</p>
+
+<p><a title="Web page Transifex" href="http://www.acercadelaeducacion.com.ar/2013/09/pajarito-callejero/">https://www.transifex.com/projects/p/cookbook/resources/</a></p>
+
+<p><strong>The process</strong></p>
+<ol>
+	<li>Pull or clone the repositories</li>
+	<li>Convert the source to a PO file. I make this with <a title="web page of po4a" href="http://po4a.alioth.debian.org/">Po4A</a>
+<ol>
+	<li>
+<pre class="brush:shell"> po4a-gettextize -f Text -M utf-8 -m README.md  -p /language/README.pot</pre>
+</li>
+	<li>Rename the *.POT file to a XXX.lang.PO file . You should have to edit the header of the file... I don't do it ^_^</li>
+</ol>
+</li>
+	<li>Commit and Push the changes to GitHub</li>
+	<li>Create the project on Transifex or add a resource to an existing project</li>
+	<li>Edit the resources and in the field "URL SOURCE FILE" add the link of the RAW file *.PO in github. In this case <a title="Link of RAW file" href="https://raw.github.com/alvarmaciel/recetario/master/languajes/README.en.po">https://raw.github.com/alvarmaciel/recetario/master/languajes/README.en.po</a></li>
+</ol>
+<p>I hope this help to other to bring more documents to transifex and have the sources on Github</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Charla colectiva para organizar Webmakers hispano #hagamoslaweb #teachtheweb</title>
+	  <link>/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-06-23T15:49:18+00:00</pubDate>
+	  <guid>/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</guid>
+	  <description><![CDATA[
+	     <p><img src="http://openmatt.org/wp-content/uploads/2013/01/Webmaker-2013-building-with-makers-and-mentors.001.jpg" width="1277" height="675" class="aligncenter" /></p>
+
+<p>Estamos planificando una llamada colectiva para las personas interesadas en la organización de eventos y actividades en el marco de <strong><a href="https://webmaker.org/" title="Página del proyecto Webmakers">Mozilla Webmakers</a></strong> para <strong><a href="https://wiki.mozilla.org/Webmaker/Teach_Es" title="Wiki sobre educación de Mozilla">la comunidad de habla hispana</a></strong>.</p>
+
+<p>De acuerdo con la cantidad de personas que se sumen, decidiremos si hacemos un Hangout o una llamada telefónica.
+Si estás interesado <em><a href="http://doodle.com/knpyc2kfa79k2xzd" title="Doodle para organizarnos">sumate acá</a></em>.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Hace tu cajita pirata y compartí todo en cualquier lado #PirateBox</title>
+	  <link>/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-11-29T00:00:00+00:00</pubDate>
+	  <guid>/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-piratebox-logo1.png" alt="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-piratebox-logo1.png" width="226" height="199" /> La <a href="http://wiki.daviddarts.com/PirateBox_DIY">caja pirata</a> es un dispositivo que te permite crear una red wifi por la cual es posible intercambiar archivos y chatear sin que estas actividades sean monitoreadas ni registradas. Según su autor</p>
+<blockquote>Inspirado por la radio pirata y los movimientos de cultura libre, PirateBox es un dispositivo móvil autónomo de colaboración e intercambio de archivos. PirateBox utiliza Software Libre y software de código abierto (FLOSS) para crear redes inalámbricas móviles de intercambio de archivos donde los usuarios pueden compartir anónimamente imágenes, vídeo, audio, documentos y otros contenidos digitales.
+
+PirateBox está diseñado para ser nofensivo y seguro. No son necesarios inicios de sesión y no se registra los datos de usuario . El sistema - intencionalmente - no esta conectado a Internet con el fin de evitar el seguimiento y preservar la privacidad del usuario.
+
+PirateBox fue creado por David Darts y está registrada bajo una Licencia Arte Libre (2011). Para obtener más información sobre el proyecto o para saber cómo crear su propio sistema PirateBox, por favor visite <a href="http://wiki.daviddarts.com/piratebox">http://wiki.daviddarts.com/piratebox</a></blockquote>
+<p>Entonces, podes hacerla con tu <a href="http://wiki.daviddarts.com/PirateBox_DIY#Install_PirateBox_on_a_Plug_Computer">computadora conectada aun router</a>, con tu <a href="#wiki.daviddarts.com-PirateBox_DIY">teléfono</a> o como hice yo, con un <a href="http://wiki.daviddarts.com/PirateBox_DIY_OpenWrt">Router 3g</a> de $160 y 15 minutos de hacking</p>
+<div id="outline-container-1" class="outline-4">
+<h4 id="sec-1">Cosas que necesitarán</h4>
+<div id="text-1" class="outline-text-4">
+<ol>
+	<li>TP-Link MR3020</li>
+	<li>Memoria USB Flash (con formato FAT32 con una sola partición)</li>
+	<li>Cable Ethernet (viene con el TP-Link)</li>
+	<li>5V/USB batería (Viene con el TP-Link )</li>
+	<li>Una computadora para conectarte al TP-LINK</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-2" class="outline-4">
+<h4 id="sec-2">Pre-intalación</h4>
+<div id="text-2" class="outline-text-4">
+
+El siguiente tutorial fue creado en un Linux con Arch Sin embargo, estas instrucciones también funcionará para Mac o Windows (requiere PuTTY ).
+<ol>
+	<li>Primero, descarguen una <a href="http://piratebox.aod-rpg.de/openwrt-ar71xx-generic-tl-mr3020-v1-squashfs-factory.bin">copia personalizada de OpenWrt para el MR3020</a> (modificado por Matthias Strubel para incluir a todos los módulos del kernel necesarios).</li>
+	<li>Ajusten el interruptor situado junto al puerto LAN / WAN a modo WISP</li>
+	<li>Apaguen la placa de red de su portátil (en OSX, haga clic en el icono de wifi y seleccione "Activar Wi-Fi Off")</li>
+	<li>Conecte el router a través de cable ethernet al ordenador y abra un explorador web para <a href="http://192.168.0.254">http://192.168.0.254</a> (para el MR3020)</li>
+	<li>Introduzca el nombre de usuario y contraseña por defecto (admin y admin)</li>
+	<li>Vaya a Herramientas del sistema&gt; Actualización de Firmware y seleccione el firmware OpenWRT</li>
+	<li>Después de la actualización, el sistema se reiniciará (desconecten y reconecten el cable de red)</li>
+	<li>Hagan Telnet al dispositivo.:</li>
+</ol>
+<pre class="src src-bash">telnet 192.168.1.1</pre>
+<ol>
+	<li>Utilice el comando passwd para configurar la contraseña de inicio de sesión - esto permitirá SSH.:</li>
+</ol>
+<pre class="src src-bash">passwd</pre>
+10 Edite el archivo de red con vi (. vi chuleta ):
+
+NOTA: Las siguientes instrucciones asumen su router gateway (home router) Dirección IP es 192.168.2.1. Si su puerta de enlace (gateway) es diferente, tendrán que modificar su archivo de red en consecuencia. Tengan en cuenta que su OpenWrt (PirateBox) router no debe tener la misma dirección que el router gateway aunque tendrá que estar en la misma subred para acceder y descargar archivos desde Internet.
+<pre class="src src-bash">vi /etc/config/network</pre>
+El archivo modificado debe ser similar a esto:
+<pre class="src src-bash">config interface 'loopback'                                                               
+        option ifname 'lo'                                                                
+        option proto 'static'                                                             
+        option ipaddr '127.0.0.1'                                                         
+        option netmask '255.0.0.0'                                                        
+
+config interface 'lan'                                                                    
+        option ifname 'eth0'                                                              
+        option type 'bridge'                                                              
+        option proto 'static'                                                             
+        option ipaddr '192.168.2.111'                                                       
+        option netmask '255.255.255.0'                                                    
+        option gateway '192.168.2.1'                                                     
+        list dns '192.168.2.1'                                                           
+        list dns '8.8.8.8'</pre>
+<ol>
+	<li>Apaguen el router.</li>
+	<li>Activen la conexión inalámbrica de su portátil (para OSX, haga clic en el icono de wifi y seleccione "Activar Wi-Fi On")</li>
+	<li>Conecten el MR3020 a su puerta de enlace -gateway - (por ejemplo, el router de la red de origen) con un cable Ethernet y el conector de alimentación. Esperen un par de minutos hasta que arranca el router. Con el ordenador conectado a la red doméstica, traten de intentar conectarse con ssh al router (Nota: utilizar el "ipaddr" asignado en el paso 9):</li>
+</ol>
+<pre class="src src-bash">ssh root@192.168.2.111</pre>
+<ol>
+	<li>Pingueen a google para garantizar que la configuracion del firewall sea correcta:</li>
+</ol>
+<pre class="src src-bash">ping google.com</pre>
+<ol>
+	<li>Para crear el soporte USB en el OpenWrt instalar y habilitar los siguientes paquetes. (Nota: Este paso no es necesario si se utiliza la imagen personalizada de OpenWrt desde el paso 1):</li>
+</ol>
+<pre class="src src-bash">opkg update
+opkg install kmod-usb-uhci
+usbcore ## insmod puede devolver el mensaje: insmod: no se puede insertar 'usbcore': File exists
+insmod uhci
+opkg install kmod-usb-ohci ## puede devolver el mensaje: instalado en la raíz está actualizado.
+insmod usb-ohci</pre>
+</div>
+</div>
+<div id="outline-container-3" class="outline-4">
+<h4 id="sec-3">Instalación de PirateBox - La Cajita Pirata -</h4>
+<div id="text-3" class="outline-text-4">
+
+A continuación, tendrá que instalar PirateBox en el router.
+<ol>
+	<li>Conecten su unidad USB (formateado a FAT32 con una sola partición) en el puerto USB.</li>
+	<li>Instalen el paquete mkPirateBox usando los siguientes comandos.</li>
+</ol>
+<pre class="src src-bash">cd /tmp
+wget http://piratebox.aod-rpg.de/piratebox_0.5.1_all.ipk
+ opkg update &amp;&amp; opkg install piratebox*</pre>
+<ol>
+	<li>Opcional: Instale la sala de <a href="http://wakaba.c3.cx/s/web/wakaba_kareha">chat Kareha</a> :</li>
+</ol>
+<pre class="src src-bash">/Opt/piratebox/bin/install_piratebox.sh  /opt/piratebox/conf/piratebox.conf imageboard</pre>
+A continuación, editen la imagen Kareha config cambiando en archivo con el nombre de usuario admin y la contraseña (ADMIN_PASS y secreto):
+
+vi /opt/piratebox/www/board/config.pl
+<ol>
+	<li>Una vez que la instalación se haya completado, desenchufen el cable ethernet y desconecte la alimentación durante al menos 10 segundos.</li>
+</ol>
+. 5 Reinicie el equipo y unanse a lared "PirateBox - Share freely" de la red. Abran cualquier página web y deben ser redirigido al menú PirateBox.
+<ol>
+	<li>Comience a compartir archivos y chatear!</li>
+</ol>
+La próxima entrega les muestro como cambiar algunas cosas, como por ejemplo el nombre de red y las páginas en castellano
+
+Así se ve la página a la cual te conectás.
+
+<img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-PirateBoxSendafile1.png" alt="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-PirateBoxSendafile1.png" />
+
+</div>
+</div>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>codelinux</title>
+	  <link>/codelinux</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-05-15T23:28:00+00:00</pubDate>
+	  <guid>/codelinux</guid>
+	  <description><![CDATA[
+	     <p>Vía <a href="http://etsiit.blogspot.com/">Kirkob</a> les dejo a los amiguitos  un documental algo antiguo pero siempre bueno sobre la historia de GNU Linux<span class="down" style="display:block;"></span><br /><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Lo prometido es deuda</title>
+	  <link>/lo-prometido-es-deuda</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-05-15T14:17:00+00:00</pubDate>
+	  <guid>/lo-prometido-es-deuda</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.libertaddigital.com/fotos/noticias/wloprometido140507.jpg"><img style="display:block;text-align:center;cursor:pointer;width:200px;margin:0 auto 10px;" src="http://www.libertaddigital.com/fotos/noticias/wloprometido140507.jpg" alt="" border="0" /></a><br /><br /><a href="http://libertaddigital.es/noticias/noticia_1276305496.html"></a>&lt;blockquote&gt;&lt;div style="text-align:center;"&gt;LO PROMETIDO ES DEUDA<br />&lt;/div&gt;<a href="http://libertaddigital.es/noticias/noticia_1276305496.html">Crean un wiki para recordar a todos los políticos que lo que prometen “puede ser utilizado en su contra” - Libertad Digital</a>:<br /><br />Con motivo de las elecciones municipales y autonómicas del 27 de mayo, un grupo de internautas ha puesto en marcha un wiki, (sitio web cuyo contenido puede ser editado o modificado por varios usuarios) que recoge los compromisos electorales de los diferentes partidos y candidatos. Según se explica en la web, los creadores de ‘<a href="http://loprometidoesdeuda.com/Portada">Lo prometido es deuda</a>’ quieren recordar ‘a todos los políticos que todo lo que prometan puede ser utilizado en su contra. Que tenemos en cuenta sus palabras y que queremos poder recordarles cómo, dónde y cuándo prometieron algo por si habían pensado en incumplirlo’.”&lt;/blockquote&gt;<br />Esta es una buena idea y una forma más de participar.<br />Estaría bueno hacer algo así  algo así para la Argentina<br />pd:<br />Gracias a <a href="http://www.deugarte.com/">David Ugarte</a> por traer <a href="http://es.corank.com/">corank</a>   de donde saque esta noticia que viene de <a href="http://libertaddigital.es/noticias/noticia_1276305496.html">libertad digital</a>  <span class="on down" style="display:block;"></span></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

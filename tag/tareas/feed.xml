@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Breviario I</title>
+	  <link>/2007/06/breviario-i/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-06-17T20:17:00+00:00</pubDate>
+	  <guid>/2007/06/breviario-i/</guid>
+	  <description><![CDATA[
+	     <p>La última semana mientras mis compañeros recorrían las colinas de youtube. Mi trabajo me obligo a ausentarme de las visitas guiadas, pero por las noches, en mi camarote recorría los comentarios y  escuchaba las canciones alegres que emitían los pasajeros de este mágico tren. Las obligaciones no terminaron pero los viajes que me alejaron de las colinas visitadas sí.
+Entonces, en esta tarde de domingo, les dejo un breviario de mi selección. gustos amores y distracciones para la tarde del día del padre.</p>
+<object height="355" width="425">
+<param name="movie" value="http://www.youtube.com/v/jzMUQQ0_PnI&amp;rel=1&amp;border=0" />&lt;/param&gt;
+<param name="wmode" value="transparent" />&lt;/param&gt;<embed src="http://www.youtube.com/v/jzMUQQ0_PnI&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425" />&lt;/embed&gt;</object>
+<p>&lt;/p&gt;</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>El pasajero</title>
+	  <link>/el-pasajero</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-05-29T16:58:00+00:00</pubDate>
+	  <guid>/el-pasajero</guid>
+	  <description><![CDATA[
+	     <object height="355" width="425">
+<param name="movie" value="http://www.youtube.com/v/KjMZFtFbcXY" />&lt;/param&gt;
+<param name="wmode" value="transparent" />&lt;/param&gt;<embed src="http://www.youtube.com/v/KjMZFtFbcXY" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425" />&lt;/embed&gt;</object>
+<p>&lt;/p&gt;</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

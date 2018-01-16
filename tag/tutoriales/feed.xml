@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>#mozfest 2013 | Arribo de tutoriales en Thimble | #teachtheweb</title>
+	  <link>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-11-23T18:09:41+00:00</pubDate>
+	  <guid>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"><img class=" wp-image-2249 aligncenter" alt="horadeaventuras" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/11/horadeaventuras.gif" width="297" height="167" /></p>
+<p> </p>
+
+<p>Una de las novedades que trajo el <strong><a title="Hash en twitter" href="https://twitter.com/search?q=%23mozfest&amp;src=savs&amp;f=realtime" target="_blank">#mozfes</a></strong>t fue el arribo de tutoriales a <strong><a title="Herramientas de webmaker" href="https://webmaker.org/es/tools" target="_blank">Thimble</a></strong>. Tuve la suerte de conocer a <strong><a title="Página de Thomas Park" href="http://thomaspark.me" target="_blank">Thomas Park</a></strong> quien estuvo trabajando principalmente en esta nueva característica de Thimble.</p>
+
+<!--more-->
+
+<p>Thimble es una de las herramientas de webmaker que hace que sea ridículamente simple crear y compartir tus propias páginas web. Permite escribir y editar HTML y CSS directamente en el navegador, para poder revisarlo  instantáneamente. Se pueden hospedar y compartir proyectos finalizados con un solo clic.</p>
+
+<p>Una de las características que hace de thimble un excelente recurso para aprender y enseñar HTML y CSS son las páginas y plantillas que los Mentores de Webmaker crearon, en ellas a través de los comentarios al código HTML se dan las pautas para modificar las páginas y aprender haciendo nuevas creaciones, remixando de forma simple contenidos complejos. La otra característica es que cada etiqueta HTML o instrucción CSS cuenta con descripciones sencillas que van enseñándonos acerca de las mismas.</p>
+
+<p>Ahora se le añade la posibilidad de insertar en las páginas tutoriales que permitan guiar el proceso de aprendizaje a partir del remixado. O simplemente agregar en los proyectos información relevante para quienes lo utilicen.</p>
+
+<p> </p>
+
+<p>El proceso para crear un tutorial insertado en una página es sencillo.</p>
+<ol>
+	<li>Crear el tutorial y publicarlo
+<ul>
+	<li>Este es un ejemplo <a href="https://amaciel.makes.org/thimble/instrucciones-para-tutoriales" target="_blank"> de un tutorial que explica como usar los tutoriales</a></li>
+</ul>
+</li>
+	<li>Crear o remixar la página que va a contener el tutorial
+<ul>
+	<li>Esta es una <a href="https://amaciel.makes.org/thimble/tutorial-de-tutoriales" target="_blank">página simple con unas recetas de empanadas</a> en secciones que contiene el tutorial anterior. Para ver el tutorial sólo tiene que "Remixar el proyecto" o hacer click en <a href="https://thimble.webmaker.org/es/project/26537/edit" target="_blank">acá</a></li>
+</ul>
+</li>
+	<li>Ahora, cuando vayan a publicar su proyecto agreguen la etiqueta <code>tutorial-foo.html</code> y remplacen "foo.html" por la dirección html de su tutorial. En el caso del ejemplo la etiqueta quedó como <code>tutorial-https://amaciel.makes.org/thimble/instrucciones-para-tutoriales</code>.</li>
+</ol>
+<p>[caption id=”” align=”aligncenter” width=”640”]<img style="border: 3px solid black;" title="Empanadas con Tutorial sobre tutoriales" alt="Tres pasos simples para enriquecer nuestros proyectos" src="http://farm3.staticflickr.com/2870/11015893905_e7d3706c9d_z.jpg" width="640" height="281" /> Tres pasos simples para enriquecer nuestros proyectos[/caption]</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Localization process using #Github &#038; #Transifex</title>
+	  <link>/2013/10/localization-process-using-github-transifex/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2013-10-16T10:34:38+00:00</pubDate>
+	  <guid>/2013/10/localization-process-using-github-transifex/</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center;"> <img class="size-full wp-image-2202 aligncenter" alt="github2transifex" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/github2transifex1.png" width="540" height="134" /></p>
+<p>Hi to all
+I have been refining the process to upload resources to <a title="Web page GitHub" href="http://github.com">GitHub</a> and connect the repositories to <a title="Web page Transifex" href="http://www.acercadelaeducacion.com.ar/2013/09/pajarito-callejero/">Transifex</a></p>
+
+<p>Source… a cookbok repo:</p>
+
+<p><a title="Cookbok repo" href="https://github.com/alvarmaciel/recetario">https://github.com/alvarmaciel/recetario</a></p>
+
+<p>Resource in Transifex page:</p>
+
+<p><a title="Web page Transifex" href="http://www.acercadelaeducacion.com.ar/2013/09/pajarito-callejero/">https://www.transifex.com/projects/p/cookbook/resources/</a></p>
+
+<p><strong>The process</strong></p>
+<ol>
+	<li>Pull or clone the repositories</li>
+	<li>Convert the source to a PO file. I make this with <a title="web page of po4a" href="http://po4a.alioth.debian.org/">Po4A</a>
+<ol>
+	<li>
+<pre class="brush:shell"> po4a-gettextize -f Text -M utf-8 -m README.md  -p /language/README.pot</pre>
+</li>
+	<li>Rename the *.POT file to a XXX.lang.PO file . You should have to edit the header of the file... I don't do it ^_^</li>
+</ol>
+</li>
+	<li>Commit and Push the changes to GitHub</li>
+	<li>Create the project on Transifex or add a resource to an existing project</li>
+	<li>Edit the resources and in the field "URL SOURCE FILE" add the link of the RAW file *.PO in github. In this case <a title="Link of RAW file" href="https://raw.github.com/alvarmaciel/recetario/master/languajes/README.en.po">https://raw.github.com/alvarmaciel/recetario/master/languajes/README.en.po</a></li>
+</ol>
+<p>I hope this help to other to bring more documents to transifex and have the sources on Github</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Software libre para Bibliotecas #Meran | Cómo extraer páginas de PDF | Más Inkscape</title>
+	  <link>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2012-10-31T09:00:25+00:00</pubDate>
+	  <guid>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</guid>
+	  <description><![CDATA[
+	     <h2>Software Libre para Bibliotecas | Meran</h2>
+<p>Meran es el sucesor de Koha-UNLP y ya es un sistema que trabaja bajo la filosofía de software libre.</p>
+
+<p>A diferencia de Koha-UNLP que estaba basado en la versión 2.0 de
+Koha.org, Meran es un desarrollo nuevo, pensado y creado íntegramente en el ámbito de la UNLP.</p>
+
+<p>Mantiene las funcionalidades de un sistema de gestión, tal como lo presentaba Koha-UNLP y además incorpora prestaciones con una fuerte orientación al usuario mediante el uso de servicios de la Web 2.0 para compartir recursos, comentar, valorar bibliografía y difundir contenidos mediante la interacción con las redes sociales.</p>
+
+<p>La nueva url es <a href="http://www.meran.unlp.edu.ar" target="_blank">http://www.meran.unlp.edu.ar</a>
+&lt;<a href="http://www.meran.unlp.edu.ar/" target="_blank">http://www.meran.unlp.edu.ar/</a></p>
+<div id=":2m6"><wbr />Allí hay un instalador automatizado disponible para Debian 6.0 y derivados para arquitecturas de 32 y 64 bits. Como siempre el usuario puede realizar la instalación manual de todas las dependencias.&lt;/wbr&gt;</div>
+<div></div>
+<p><a href="http://www.meran.unlp.edu.ar/">Meran - Inicio</a>.</p>
+<h2>Cómo extraer páginas de PDF</h2>
+<p>Abrimos una terminal y</p>
+<pre class="brush:shell"># primero Instalar psutils y pdf2ps
+ pdftops documento.pdf - | psselect -p11-14 | ps2pdf - file-p11-14.pdf</pre>
+<p> </p>
+
+<p>via |<a title="Página fuente" href=" https://sites.google.com/a/ubuntu.org.uy/www-ubuntu-org-uy-salto/conoce-tu-ancho-de-banda-desde-co" target="_blank"> https://sites.google.com/a/ubuntu.org.uy/www-ubuntu-org-uy-salto/conoce-tu-ancho-de-banda-desde-co</a></p>
+<h2>Sencillo tuto para hacer caritas con inkscape</h2>
+<p><a href="http://www.acercadelaeducacion.com.ar/?attachment_id=1775" rel="attachment wp-att-1775"><img class="aligncenter size-full wp-image-1775" title="carita1" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/carita1.png" alt="" width="297" height="245" /></a></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>vía</td>
+      <td><a title="Página del tuto" href="http://2dgameartforprogrammers.blogspot.com.ar/2011/10/lets-get-started-with-circles.html" target="_blank">http://2dgameartforprogrammers.blogspot.com.ar/2011/10/lets-get-started-with-circles.html</a></td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Tutorial de catapulta en Phun</title>
+	  <link>/2009/12/tutorial-de-catapulta-en-phun/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-12-18T12:56:15+00:00</pubDate>
+	  <guid>/2009/12/tutorial-de-catapulta-en-phun/</guid>
+	  <description><![CDATA[
+	     <p>A pedido de mis alumn@s, que debo decir, son un@s  gros@s. Publico el famoso (al menos en el colegio) tutorial para hacer una catapulta usando <a title="Página de phun" href="http://phunland.com" target="_blank">Phun</a> (también dejo el tutorial para hacer el muro… pero esto ya lo saben hacer). Este tutorial en realidad es una traducción libre (y seguro que llena de errores) del tutorial de la <a title="wiki de phun, sección tutoriales" href="http://www.phunland.com/wiki/Tutorials" target="_blank">wiki</a> de phun. Al respecto, cabe recordar que si bien esta no es una aplicación libre y que a partir de su versión 5.28 es pago. No de ja de ser un excelente soft.</p>
+
+<p>Dejo entonces</p>
+<ul>
+	<li>Un video</li>
+	<li>Los tutoriales en PDF para que se los bajen</li>
+	<li>Los tutoriales en ODT. Si los modifican, les pido que me avisen y los compartan así vemos las mejoras</li>
+</ul>
+<p>Sin más, les dejo el video de la catapulta hecha por mi y debajo el link del tutorial.</p>
+
+<p>[youtube]http://www.youtube.com/watch?v=VDYd1iRrRxI[/youtube]</p>
+
+<p>PDF</p>
+<ul>
+	<li><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2009/12/tutorial_phu_catapulta1.pdf">Tutorial Pnun Catapulta</a></li>
+	<li><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2009/12/tutorial_phu_catapulta1.pdf"></a><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2009/12/tutorial_phu_torre.pdf">Tutorial phun torre</a></li>
+</ul>
+<p>ODT</p>
+<ul>
+	<li><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2009/12/tutorial_phu_catapulta2.odt">Tutorial phun catapulta</a></li>
+	<li><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2009/12/tutorial_phu_catapulta2.odt"></a><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2009/12/tutorial_phu_torre.odt">Tutorial phun torre</a></li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Google docs para mortales</title>
+	  <link>/2007/09/google-docs-para-mortales/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-09-27T14:43:58+00:00</pubDate>
+	  <guid>/2007/09/google-docs-para-mortales/</guid>
+	  <description><![CDATA[
+	     <p>Los amigos de <strong><a href="http://www.commoncraft.com/">Common Craft </a></strong>han realizado otro maravilloso video explicando esta vez como funciona <strong><a href="http://docs.google.com">google docs </a></strong>y via <strong><a href="http://www.adelat.org/htsrv/trackback.php?tb_id=742">adelat</a></strong> llega la notica que terminaron de de traducirlo. una vez más, usando <strong><a href="http://dotsub.com/">dotsub</a>. Espacio para la tradicción colaborativa de videos </strong>:)
+Acá les vá el video.</p>
+<iframe src="http://dotsub.com/api/player.php?filmid=1445&amp;filminstance=1447&amp;language=es" frameborder="0" height="392" width="480"></iframe>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

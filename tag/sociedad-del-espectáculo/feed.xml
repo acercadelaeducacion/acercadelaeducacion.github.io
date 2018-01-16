@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Ojos en el bolsillo</title>
+	  <link>/ojos-en-el-bolsillo</link>
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2017-12-09T10:18:00+00:00</pubDate>
+	  <guid>/ojos-en-el-bolsillo</guid>
+	  <description><![CDATA[
+	     <p>Esquema para una charla</p>
+
+<h1 id="huella-digital">Huella Digital</h1>
+
+<blockquote>
+  <p>La <strong>huella digital de los navegadores</strong> consiste en recolectar datos acerca de la configuración del navegador y el sistema de un usuario cuando este visita un sitio web. Este proceso puede revelar una cantidad sorprendente de información acerca del software y hardware de un usuario, y en última instancia puede ser usado para crear un identificador único del mismo, llamado huella digital del navegador [browser fingerprint en inglés] (Pierre Laperdrix, Walter Rudametkin, Benoit Baudry)</p>
+</blockquote>
+
+<h2 id="identificación-única-en-la-red">Identificación única en la red</h2>
+
+<blockquote>
+  <p>El riesgo de este poder de identificación es la pérdida de nuestra privacidad, ya que los sitios web que utilizan estas técnicas pueden conocer muchos datos sobre nuestros equipos lo que ayuda a crear un perfil nuestro para sus anuncios…</p>
+</blockquote>
+
+<h3 id="cual-es-mi-huella">Cual es mi huella</h3>
+
+<p>Test para conocer la huella digital de nuestro navegador</p>
+
+<ul>
+  <li><a href="https://amiunique.org/">Am I Unique</a></li>
+  <li><a href="https://panopticlick.eff.org/">Panopticlick</a></li>
+  <li><a href="https://browserprint.info/">Browserprint.info</a></li>
+</ul>
+
+<h3 id="aspectos-técnicos">Aspectos técnicos</h3>
+
+<ul>
+  <li><em>user-agent</em>
+Identificador del navegador en las páginas. El servidor de la página, utiliza este dato para enviarme la información en un formato que mi navegador pueda entender.</li>
+</ul>
+
+<h2 id="un-poco-de-anonimato">Un poco de anonimato</h2>
+
+<blockquote>
+  <p>Todos estos sitios nos ayudan a ver qué tan único es nuestro navegador, sabiendo que en este caso estar fuera de la masa es lo menos conveniente.</p>
+</blockquote>
+
+<ul>
+  <li><a href="https://www.torproject.org/">TOR</a>
+    <ul>
+      <li>incluye algunas reglas predeterminadas para crear una <em>huella digital</em> falsa.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="cambiar-el-user-agent">Cambiar el user-agent</h2>
+
+<ul>
+  <li>En <strong>Firefox</strong> hay que ingresar a about:config para cambiarla, siguiendo estos pasos:
+    <ol>
+      <li>En la barra de navegación, hay que borrar la url y escribir <em>about:config</em></li>
+      <li>Hay que aceptar que uno se hace responsable de lo que está por hacer</li>
+      <li>En la caja de búsqueda escribir: <em>privacy.resistFingerprinting</em></li>
+      <li>Aparecerá una línea que en la parte final dice: <em>false</em></li>
+      <li>Hacemos doble clic sobre la palabra false y se convertirá en <em>true</em></li>
+    </ol>
+  </li>
+</ul>
+
+<h2 id="sistemas-operativos">Sistemas Operativos</h2>
+
+<blockquote>
+  <p>Para pasar desapercibido, lo mejor es estar en medio de la masa, así que lo más recomendable es navegar en una máquina virtual con algún sistema operativo pelado, con la menor cantidad de modificaciones que puedan .</p>
+</blockquote>
+
+<blockquote>
+  <p>Otra buena opción es usar Tails para hacer navegar privadamente. Tails es una distribución de GNU/Linux que funciona desde un dispositivo USB y que arranca como nueva cada vez que la encendemos.</p>
+</blockquote>
+
+<h2 id="tres-consejos-para-la-privacidad-de-tu-teléfono">Tres consejos para la privacidad de tu teléfono</h2>
+
+<ul>
+  <li>Apagar los servicios de localización</li>
+  <li>Chequear todos los permisos</li>
+  <li>Usar otros navegadores en el celu
+    <ul>
+      <li>Focus</li>
+      <li>Firefox</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="qué-hacen-con-nuestros-datos">Qué hacen con nuestros datos</h1>
+
+<p><img src="assets/image/cambridgeAnalytica.png" alt="" /></p>
+
+<h1 id="psicometría-de-los-perfiles">Psicometría de los perfiles</h1>
+
+<p>…La robustez del modelo podía ilustrarse sobre cómo de bueno era éste prediciendo las respuestas del sujeto. Kosinski continuó trabajando en su modelo de forma incesante: en poco tiempo, el modelo era capaz de evaluar a una persona mejor que un compañero de trabajo, basándose sólo en 10 “me gusta”. 70 “me gusta” eran suficiente para para hacerlo mejor que un amigo, 150 mejor que sus padres, y 300 mejor que su pareja. Más “me gusta” podían incluso predecir más de lo que la misma persona sabía sobre ella misma.</p>
+
+<h1 id="herramientas-para-el-hackactivismo">Herramientas para el hackactivismo</h1>
+
+<ul>
+  <li>¿Y si el poder ya no residiera en las instituciones, sino en las infraestructuras? ¿En qué consistiría entonces la revolución?</li>
+  <li><a href="https://github.com/mozilla/toolsforactivism">https://github.com/mozilla/toolsforactivism</a></li>
+</ul>
+
+<h1 id="créditos-fuentes-y-agradecimientos-varios">Créditos fuentes y agradecimientos varios</h1>
+
+<ul>
+  <li><a href="https://unojoenelcielo.com.ar/2017/10/02/nuesta-huella-digital-en-internet/">Artículo del Blog de Guillermo Movia</a></li>
+  <li><a href="https://blog.mozilla.org/internetcitizen/2017/01/25/better-password-security/">Guía para loguines seguros</a></li>
+  <li><a href="https://elgatoylacaja.com.ar/cuentos/como-agujas/">Cuento como agujas</a></li>
+  <li><a href="https://blog.mozilla.org/internetcitizen/2017/04/21/https-protect/">HTTPS y tu seguridad online</a></li>
+  <li><a href="https://blog.mozilla.org/internetcitizen/2017/06/26/irl-episode-1-privacy/">Tres consejos para la privacidad de tu teléfono</a></li>
+  <li><a href="http://www.tribunahacker.com.ar/2014/04/donde-se-guardan-los-datos-que-hay-en-internet/">Dónde se guardan los datos que hay en internet</a></li>
+  <li><a href="http://www.cubadebate.cu/especiales/2017/02/19/yo-no-construi-la-bomba-solo-demostre-que-existia/">Yo no construí la bomba solo demostré que existía</a></li>
+  <li><a href="http://www.eldiario.es/interferencias/Curzio_Malaparte-Comite_Invisible_6_447315274.html"> La revolución como problema técnico: de Curzio Malaparte al Comité Invisible</a></li>
+  <li><a href="http://maxpixel.freegreatpicture.com/Cctv-Graffiti-Surveillance-Security-Camera-89012">Cctv Graffiti Surveillance Security Camera</a></li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Chtcheglov, por otro urbanismo | Apuntes | The Beach Beneath the Street</title>
+	  <link>/chtcheglov-por-otro-urbanismo</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2017-10-15T00:00:00+00:00</pubDate>
+	  <guid>/chtcheglov-por-otro-urbanismo</guid>
+	  <description><![CDATA[
+	     <p>La ciudad de Le Corbusier no era moderna: ya era anticuada. Era el producto de una cultura retrograda, a la zaga de la ciencia. El mundo físico ya no se entiende como un órden geométrico, pero la cultura todavía tiene que ponerse al día. El propósito de la tecnología no es hacer una ciudad purificada de complejidad, una forma platónica brillando al sol. La vida es terrena, no celestial; la vida es movimiento y forma, espíritu e idea. Las fuentes de Chtcheglov para pensar la ciudad de esta manera eran dobles. Una era cierta variedad de arte y la literatura que proponía paisajes fantásticos, como las pinturas de Giorgio de Chirico, en cuales se podía vislumbrar una nueva concepción del tiempo y del espacio…</p>
+
+<blockquote>
+  <p>Le Corbusier’s city was not modern: it was already out of date. It was a product of a retrograde culture, lagging behind science. The physical world is no longer understood as an orderly geometry, but culture has yet to catch up. The purpose of technology is not to make a city purified of complexity, a Platonic form gleaming in the sun. Life is earthy, not heavenly; life is movement and form, spirit or idea. Chtcheglov’s sources for this way of imagining the city were twofold. One was a certain strain of art and literature that proposed fantastic landscapes, such as the paintings of Giorgio de Chirico, in which could be glimpsed a new conception of space and time.</p>
+</blockquote>
+
+<p><a href="http://www.histoiredelart.net/courants/la-peinture-metaphysique-14">Imagen: Le troubadour fatigué</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Vida espectacularizada. Educación espectacular</title>
+	  <link>/vida-espectacularizada-educacion-espectacular</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-12-26T13:16:38+00:00</pubDate>
+	  <guid>/vida-espectacularizada-educacion-espectacular</guid>
+	  <description><![CDATA[
+	     <blockquote>
+  <ol>
+    <li>Toda la vida de las sociedades en las que dominan las condiciones modernas de producción se presenta como una inmensa acumulación de <em>espectáculos</em>. Todo lo que era vivido directamente se aparta en una representación.</li>
+    <li>Las imágenes que se han desprendido de cada aspecto de la vida se fusionan en un curso común, donde la unidad de esta vida ya no puede ser reestablecida. La realidad considerada <em>parcialmente</em> se despliega en su propia unidad general en tanto que pseudo-mundo <em>aparte</em>, objeto de mera contemplación.
+La especialización de las imágenes del mundo se encuentra, consumada, en el mundo de la imagen hecha autónoma, donde el mentiroso se miente a si mismo. El espectáculo en general, como inversión concreta de la vida, es el movimiento autónomo de lo no viviente</li>
+  </ol>
+</blockquote>
+
+<blockquote>
+  <p>—Guy Debord - Sociedad del espectáculo</p>
+</blockquote>
+
+<p> </p>
+
+<p><img src="assets/images/lain2.gif" alt="" /></p>
+
+<p>Cada oración me remite al torrente de digitalización que atraviesa a la construcción de la sociedad. El pensamiento no solo es potente. Es develador. Corre la cortina de la apariencia natural de las cosas y deja al descubierto engranaje de carne, likes, fotos y videitos.</p>
+
+<p>Una vez abierta esa cortina, queda abierta también una herida subjetiva. Un profundo saberme parte del que no puedo o no se como salir.</p>
+
+<p>Y después de todo ese caudal de realidad queda pendiente resolver, como siempre, para qué enseñamos, por qué lo hacemos y qué es lo que pretendemos dejar en el trabajo diario con nuestros estudiantes.</p>
+
+<p>Nos esforzamos por poner al alcance tecnologías de la comunicación en manos de lxs pibxs, pero hace falta, ya no tan solo pensar cómo hacerlo o para qué hacerlo, sino pensar cómo organizar colectivos de profesionales de la educación que pongan sobre la practica diaria, discusiones a los poderes hegemónicos del discurso educativo.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>La Brecha Digital en Clave Colifata</title>
+	  <link>/2007/06/la-brecha-digital-en-clave-colifata/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-06-11T14:37:00+00:00</pubDate>
+	  <guid>/2007/06/la-brecha-digital-en-clave-colifata/</guid>
+	  <description><![CDATA[
+	     <p>Buscando videos sobre la brecha digital Maxi (que no es blogger aún… pero ya está con ganas de serlo) encontró este video Muy Bueno, En dos sentidos… dos.</p>
+<ol>
+	<li>Explica realmente bien que es la brecha digital.</li>
+	<li>Constituye un claro ejemplo de lo que acortar esta brecha implica.</li>
+</ol>
+<blockquote> La Colifata es un proyecto - pionero en el mundo- que intenta abordar los medios de comunicación con un doble objetivo. Por un lado, como herramienta clínica de recuperación de pacientes diagnosticados de psicosis (los comúnmente llamados "locos") y por otro, como un instrumento de intervención en relación con la problemática social del "estigma" de la locura (lo cual genera una practica discriminatoria por parte de la población respecto a quien padece enfermedades mentales). Por eso hacemos radio, para eso hacemos televisión, para ayudar a disminuir los prejuicios respecto de la enfermedad mental y como terapia o complemento terapéutico para los pacientes, ayudando a su recuperación y reinserción social.
+<p style="text-align: right"><a href="http://lacolifata.openware.biz/index.cgi">La colifata</a></p>
+</blockquote>
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/jzMUQQ0_PnI&amp;rel=1" />&lt;/param&gt;<param name="wmode" value="transparent" />&lt;/param&gt;<embed src="http://www.youtube.com/v/jzMUQQ0_PnI&amp;rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355" />&lt;/embed&gt;</object>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Manuel Castells desde traslasierra</title>
+	  <link>/manuel-castells-desde-traslasierra</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-05-03T00:24:00+00:00</pubDate>
+	  <guid>/manuel-castells-desde-traslasierra</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.forum-global.de/jm/imagens/castells3.jpg"><img style="float:right;cursor:pointer;width:200px;margin:0 0 10px 10px;" src="http://www.forum-global.de/jm/imagens/castells3.jpg" alt="" border="0" /></a><br /><a href="http://eltilodeolivos.com.ar/wp-trackback.php?p=53">Daniel</a> desde Traslasierra nos acerca una entrevista a Manuel Castells que vale la pena  analizar, dejo algunas partes del la <a href="http://www.educared.org.ar/biblioteca/dialogos/entrevistas/entrevista_castells.asp">entrevista</a><br />&lt;blockquote&gt;“…Lo que sí es nuevo es que toda esta relación entre comunicación y poder basada en el mundo de los medios de comunicación de masas se transforma por la aparición de Internet y la comunicación móvil. Y se transforma con las redes de comunicación horizontal y autónomas, que permiten que la gente se comunique entre sí y que puedan generar cortocircuitos en los grandes sistemas de comunicación. Y esto abre el juego completamente. En cierto sentido, es una forma de renacimiento, en un nuevo contexto histórico, de lo que fue la tradición anarquista. Y esto en un catalán resuena con fuerza. Es un cierto neo-anarquismo, interesante desde el punto de vista intelectual porque siempre había sido el marxismo el que ponía énfasis en el desarrollo de las fuerzas productivas y la socialización de la producción. Miren por dónde el desarrollo de las fuerzas productivas ha incrementado la capacidad de autonomía individual y, por tanto, la infraestructura material de ideologías libertarias y neo-anarquistas. Es una de las paradojas interesantes de la historia.”&lt;/blockquote&gt;&lt;blockquote&gt;“En términos de la utilización de Internet en el sistema educativo en países como Argentina el tema más importante, en mi opinión, es el de la formación de los maestros. Pero no la formación de los maestros <em>en</em> Internet sino <em>a través</em> de Internet. Y formar a los maestros no es solo poner tecnología en las aulas. Hace falta, sí, pero si pones tecnología en las aulas y los maestros no saben utilizarla, los niños los “cortocircuitan”. Porque los niños conocen Internet, no hace falta que les enseñes nada, pero también necesitan cierto encuadramiento y orientación. El maestro, y esto no ha cambiado, sigue siendo el centro del sistema educativo. Lo que ocurre es que, en un mundo de cambio permanente, si el maestro no está constantemente reciclado, le resulta imposible satisfacer la demanda. Con lo cual, la reforma educativa fundamental es: primero, mejores condiciones de trabajo y de salario para los maestros. Segundo: cursos de reciclaje mientras están trabajando.”<br />&lt;/blockquote&gt;&lt;blockquote&gt;Lo que es un artilugio totalmente anticuado es el libro de texto. Los libros de texto deberían desaparecer. Me refiero al manual que el maestro se lee antes de dar la clase. Ese es un elemento de retraso cultural; lo que pasa es que hay una industria montada en torno a los manuales escolares mucho más importante que otras industrias, además de los intereses políticos que tienen que ver con los contenidos.&lt;/blockquote&gt;La verdad es que da para analizar cada parte de la entrevista.<br />Por lo pronto “Jorgito” espero tus comentarios al primer párrafo….</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

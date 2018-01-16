@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Noticias y notas de otros</title>
+	  <link>/2007/07/noticias-y-notas-de-otros/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-07-06T15:17:00+00:00</pubDate>
+	  <guid>/2007/07/noticias-y-notas-de-otros/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://farm1.static.flickr.com/228/550218194_6b7d89f4a4.jpg?v=0"><img src="http://farm1.static.flickr.com/228/550218194_6b7d89f4a4.jpg?v=0" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 320px" border="0" /></a></p>
+
+<p>Estoy probando un servicio del<a href="http://google.com/reader"> google reader</a> que me permite compartir los post de los bloggers que leo y que me interesan con los demás, este servicio, además de generarme una <a href="http://www.google.com/reader/shared/00563285106780017259">página con mis notas compartidas</a>, me permite agregar un widget a la barra de mi blog con los post seleccionados, lo que facilita la tarea de divulgar en un post lo que dice otro en su blog. Veremos como funciona. Lo único que encuentro algo objetable es que no puedo agregar comentarios a los mismos…pero bue nada es perfecto y como dice mi mama.</p>
+<blockquote>"Lo perfecto es enemigo de lo bueno"</blockquote>
+<p>Acerca de esta noticia, me trae a la memoria la advertencia que los muchach@s de commoncraft hacían cuando explicaban<a href="http://acercadelaeducacion.blogspot.com/2007/05/qu-es-rss-para-gente-normal.html"> como syndicar blogs al agregador.</a>
+¡Cuidado es adictivo!</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

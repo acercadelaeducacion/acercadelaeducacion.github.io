@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Charla en la II Conferencia Internacional de Software Libre #CISL2011</title>
+	  <link>/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2011-09-08T08:10:51+00:00</pubDate>
+	  <guid>/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</guid>
+	  <description><![CDATA[
+	     <p>Hoy a las 15:00 Hs estaré dando una charla sobre Sugar y su comunidad en la<a href="http://cisl.org.ar"> II Conferencia Internacional de Software Libre</a></p>
+
+<p>Mas datos vía <a title="Notra Solar" href="http://solar.org.ar/spip.php?article876">Solar</a>:</p>
+<div>
+
+El jueves 8 y viernes 9 de setiembre, en la Biblioteca Nacional, tendrá lugar la segunda <a href="http://www.cisl.org.ar/" rel="external">Conferencia Internacional de Software Libre CISL2011</a> Argentina, que contará con la presencia especial de varios disertantes destacados como: Chris Hoffmann - Director de Ingeniería y Proyectos Especiales de Mozilla, Richard Stallman - Presidente de la Free Software Foundation, Marcelo Branco - Asociación Softwarelivre.org (Brasil), y Sergio Amadeu - Universidad Federal del ABC (Brasil); entre otros.
+
+En este evento también estarán presentes responsables de gobierno involucrados en decisiones y políticas públicas relacionadas con la temática de la conferencia (Plan Conectar Igualdad, Software Público, Televisión Digital Terrestre, entre otros) por lo que esperamos también sea un espacio de diálogo sobre estas cuestiones.
+
+En ese marco <a href="http://www.solar.org.ar/" rel="external">Solar – Software Libre Argentina</a> participará por segundo año consecutivo en diferentes charlas tanto como organización, como también a través de sus socios que trabajan además en otras organizaciones y grupos que componen el movimiento que apoya el Software Libre en Argentina. En este sentido, festejamos la posibilidad de encuentro que brinda esta Conferencia Internacional, y que cuenta además con invitados de Paraguay, Brasil, Ecuador, Venezuela, Chile, Uruguay y España, permitiendo un espacio de construcción más allá de nuestro país.
+
+Además de la participación de socios de Solar en el comité organizador (J. Cabezas, E. Lacovsky y M. Olivera) y en el comité seleccionador de ponencias; indicamos aquí <strong>algunas de las charlas en las que participan otros compañeros: </strong>
+<table>
+<thead>
+<tr>
+<th scope="col">Charla</th>
+<th scope="col">Participante</th>
+<th scope="col">Espacio</th>
+<th scope="col">Día y Horario</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>“Guitarra vas a llorar: Arte y Tecnología”</td>
+<td>José Luis di Biase – Solar, Oveja Electrónica</td>
+<td>Auditorio Juan. L. Ortiz PISO 3</td>
+<td>Jueves 10hs</td>
+</tr>
+<tr>
+<td>“Creando Comunidades de Software Libre”</td>
+<td>Ricardo Fritsch – Softwarelivre.org y Horacio Arroyo - Solar</td>
+<td>RAuditorio Juan. L. Ortiz PISO 3</td>
+<td>Jueves 12hs</td>
+</tr>
+<tr>
+<td>“Libros Libres”</td>
+<td>Ana Marotias, Laura Marotias y Natalia Giovagnetti - Flacso</td>
+<td>Aula 2</td>
+<td>Jueves 12hs</td>
+</tr>
+<tr>
+<td>“Video Libre: la producción Audiovisual desde la Cultura Libre”</td>
+<td>Matías Barrientos – Misol</td>
+<td>Auditorio Juan. L. Ortiz PISO 3</td>
+<td>Jueves 13hs</td>
+</tr>
+<tr>
+<td>“SugarCRM en el mundo real. Experiencia de una implementación exitosa”</td>
+<td>José Massón - Gcoop</td>
+<td>Aula 1</td>
+<td>Jueves 13hs</td>
+</tr>
+<tr>
+<td>“Creando música para la liberación”</td>
+<td>Matías Lennie – Red Panal</td>
+<td>Aula 1</td>
+<td>Jueves 14hs</td>
+</tr>
+<tr>
+<td>“La plataforma de aprendizaje Sugar: sumando esfuerzos con la comunidad”</td>
+<td>Pablo Flores  y Alvar Maciel (Uruguay)</td>
+<td>Aula 1</td>
+<td>Jueves 15hs</td>
+</tr>
+<tr>
+<td>“Inclusión digital con software libre: el caso de los indígenas Mokana, Colombia”</td>
+<td>Lina Montoya - Solar y Verónica Xhardez - Solar</td>
+<td>Aula 2</td>
+<td>Viernes 10 hs</td>
+</tr>
+<tr>
+<td>“10 Años de Experiencias 101 Casos de Software Libre”</td>
+<td>Bernardo González - CADESOL</td>
+<td>Aula 2</td>
+<td>Viernes 12 hs</td>
+</tr>
+<tr>
+<td>“La migración a software libre: la parte no comercial”</td>
+<td>Marco Antonio de Hoyos - Ubuntu ar</td>
+<td>Aula 3</td>
+<td>Viernes 11 hs</td>
+</tr>
+<tr>
+<td>“Entorno educativo libre Sugar”</td>
+<td>Héctor Sánchez - SugarLabs Argentina</td>
+<td>Aula 3</td>
+<td>Viernes 12 hs</td>
+</tr>
+<tr>
+<td>“Tacuapi: una red social desde Misiones”</td>
+<td>Josi Guaimas – Misol</td>
+<td>Aula 1</td>
+<td>Viernes 13 hs</td>
+</tr>
+<tr>
+<td>“Licenciamiento de Software”</td>
+<td>Laura Marotias – Solar, Flacso Arg., FFyL y Ariel Vercelli</td>
+<td>Aula 4</td>
+<td>Viernes 14 hs</td>
+</tr>
+</tbody>
+</table>
+El programa completo y más información sobre el evento puede verse en <a href="http://www.cisl.org.ar/" rel="external">www.cisl.org.ar</a> y recordamos el Festival de Instalación que estará a cargo de <a href="http://ubuntu-ar.org/" rel="external">Ubuntu.ar.</a>
+
+</div>
+<p>Imagen | <a title="eDucative Innovéision" href="http://arrukero.com/potachov/blog/?p=312">Profesor Potachov de Moldavia</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Seguramente&#8230;</title>
+	  <link>/2009/08/seguramente/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-08-04T22:18:12+00:00</pubDate>
+	  <guid>/2009/08/seguramente/</guid>
+	  <description><![CDATA[
+	     <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } 		A:link { so-language: zxx } -->
+<p style="margin-bottom: 0.49cm;">Trasnscribo una nota de Jorge Novello, con la que no sólo acuerdo, sino que también comparto:</p>
+<p style="margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">Leyendo el Clarín de unos días atras me encontré con </span><a href="http://www.clarin.com/suplementos/zona/2009/08/02/z-01970051.htm"><span style="color: #0000ff;"><span style="font-family: Times New Roman,serif;"><span style="text-decoration: underline;">esta nota </span></span></span></a><span style="font-family: Times New Roman,serif;">de Pablo Calvo y la verdad es que no me sorprende la capacidad que tienen ciertos periodistas, y en especial los del Grupo Clarín, para escribir notas en contra del gobierno. Esta introducción criticando al tren bala y presentándolo como ejemplo de las promesas incumplidas del Gobierno hubiera dicho exactamente lo mismo si la administración nacional hubiera llevado adelante el proyecto a sabiendas de los problemas que presentaba el primer modelo de laptop, o sin atender a la grave crisis internacional que se desató los últimos dos años, o sino hubiera implementado los distintos regímenes de subsidios a los servicios para ayudar a palear la difícil situación interna del país.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">No queda muy claro cuál ha sido el inconveniente de apoyar </span><a href="http://laptop.org/en/"><span style="color: #0000ff;"><span style="font-family: Times New Roman,serif;"><span style="text-decoration: underline;">una iniciativa</span></span></span></a><span style="font-family: Times New Roman,serif;"> tan interesante como la de Negroponte, ni qué significa “apresurarse” en dar un apoyo. Es bueno para un país posicionarse a favor de buenas causas y de esa manera </span><span style="font-family: Times New Roman,serif;"><em>apoyar</em></span><span style="font-family: Times New Roman,serif;"> la iniciativa, y generar al mismo tiempo otros apoyos de países de la región.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;"><a href="http://farm3.static.flickr.com/2209/2291051008_38de6a8760.jpg"><img class="alignright" style="border: 3px solid black; margin: 3px;" title="OLPC balancing" src="http://farm3.static.flickr.com/2209/2291051008_38de6a8760.jpg" alt="" width="375" height="500" /></a>En realidad </span><a href="http://es.wikipedia.org/wiki/OLPC"><span style="color: #0000ff;"><span style="font-family: Times New Roman,serif;"><span style="text-decoration: underline;">el Proyecto </span></span></span></a><span style="font-family: Times New Roman,serif;">chocó con las grandes compañías fabricantes de PC y de distintos componentes, como Intel, IBM, etc., que rápidamente vieron el negocio que empezaba a florecer –comercializar grandes cantidades con gobiernos nacionales- y comenzaron a desarrollar sus propias versiones de computadoras “tendiendo a un costo cercano a los 100 dólares”.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">Boicoteado por las grandes compañías Negroponte sumó más enemigos que naciones compradoras. Los distintos dispositivos empezaron a aparecer con valores cercanos pero mayores a los 100 dólares, y mostraban mejores rendimientos. La idea de una computadora por ese monto se desvanecía poco a poco, pero había logrado movilizar a los grandes fabricantes a desarrollar un dispositivo mucho más barato y con las exigencias mínimas de navegabilidad y operatividad que los niños necesitan para el aprendizaje.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">Mientras el Poder Ejecutivo, en distintas gestiones –Filmus, Tedesco, Sileoni- durante más de 6 años logra mantener políticas públicas como la continuidad del “Plan Una computadora por niño” devenido en el “Plan Un niño una computadora”, este periodista critica la continuidad de las decisiones a lo largo de las gestiones y también la negación del gobierno de comprar aquellas computadoras que hoy no satisfacen el juicio de los expertos argentinos. Y vale como aclaración que las laptops nunca subieron a 199 dólares, en realidad hasta hoy no se ha podido bajar de los 300 dólares y, al mismo tiempo, mantener las especificidades mínimas requeridas.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">Según la mirada del periodista Pablo Calvo todo lo que hace o anuncia un gobierno en un año electoral sólo se debe a la urgencia de las urnas. Desde esta mirada en nuestro país, donde vamos a las urnas cada dos años, el tiempo de la gestión de gobierno se reduce a los dos años en los que no se eligen representantes. El ministro Tedesco al re-lanzar este año el Plan con el nombre de “Un niño una computadora” lo único que intenta es ajustar el plan original del 2005 anunciado por el ministro Filmus a los costos que el mercado ofrece hoy, y no Negroponte y su Fundación, sino las grandes compañías, en especial Intel con su modelo</span><a href="http://www.classmatepc.com/"><span style="color: #0000ff;"><span style="font-family: Times New Roman,serif;"><span style="text-decoration: underline;"> Classmate</span></span></span></a><span style="font-family: Times New Roman,serif;">.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">La idea de Negroponte tenía un fuerte componente idealista, altruista tal vez, impulsada desde su Fundación, con la clara idea de ayudar al desarrollo de países con gran población (la mayoría bajo la línea de pobreza) como India, China, Brasil… por eso la búsqueda de un dispositivo eficaz pero económico… 100 dólares era el desafío. El precio actual de las laptops (Classmate es el modelo de Intel) ronda los 550 dólares para el público –atención… ahora el público puede acceder a este desarrollo originado en ese ideal de Negroponte pensado en un principio sólo para ser adquirido en forma masiva por los gobiernos-, y alrededor de 350 dólares para las compras masivas de los ministerios de educación de los países.</span></p>
+<p style="margin-top: 0.49cm; margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;">Seguramente…</span></p>
+
+<ul>
+	<li>
+<p style="margin-top: 0.49cm; margin-bottom: 0cm;"><span style="font-family: Times New Roman,serif;"><em>si 	Negroponte hubiera podido alcanzar su ideal, su laptop de 100 	dólares, nuestros alumnos las hubieran tenido al aparecer la gripe 	A. </em></span></p>
+</li>
+	<li>
+<p style="margin-bottom: 0cm;"><span style="font-family: Times New Roman,serif;"><em>si 	las distintas gestiones hubieran trabajado en la capacitación 	docente nuestros docentes habrían estado preparados para trabajar 	con sus alumnos.</em></span></p>
+</li>
+	<li>
+<p style="margin-bottom: 0cm;"><span style="font-family: Times New Roman,serif;"><em>si 	los docentes hubieran hecho propias estas tecnologías habrían 	logrado resultados de mayor calidad.</em></span></p>
+</li>
+	<li>
+<p style="margin-bottom: 0cm;"><span style="font-family: Times New Roman,serif;"><em>si 	las familias hubieran acompañado la incorporación de las TIC en el 	aula habrían colaborado más y mejor.</em></span></p>
+</li>
+	<li>
+<p style="margin-bottom: 0cm;"><span style="font-family: Times New Roman,serif;"><em>si 	los alumnos hubieran tenido sus laptops habrían desarrollado sus 	tareas de modo más sencillo y llevadero.</em></span></p>
+</li>
+	<li>
+<p style="margin-bottom: 0.49cm;"><span style="font-family: Times New Roman,serif;"><em>Si 	los medios hubieran podido acompañar estas políticas públicas de 	manera clara y honesta habrían logrado mayor seguimiento y control 	de las mismas por parte de sus lectores… seguramente.</em></span></p>
+</li>
+</ul>
+<p><span style="font-family: Times New Roman,serif;">Imagen | </span>‘<a href="http://www.flickr.com/photos/80672516@N00/2291051008">OLPC balancing @ NV08</a>’ | <a href="http://flickrcc.bluemountains.net">Flickrcc</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>La escuela en casa</title>
+	  <link>/2009/07/la-escuela-en-casa/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-07-21T12:36:59+00:00</pubDate>
+	  <guid>/2009/07/la-escuela-en-casa/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" src="http://farm1.static.flickr.com/2/1702895_68625b2c57_m.jpg" alt="" width="240" height="180" />Mucho se ha escrito, <a title="dosis de innovación" href="http://www.dosisdeinnovacion.com.ar/?tag=docentes" target="_blank">acá</a>, <a title="Blog de Guillermo Lutzky" href="http://adefinirlo.blogspot.com/search/label/docentes" target="_blank">acá</a> y <a title="Busqueda en google noticias sobre escuela en casa" href="http://news.google.com.ar/news?hl=es&amp;safe=off&amp;num=100&amp;q=escuela%20en%20casa&amp;cr=countryAR&amp;um=1&amp;ie=UTF-8&amp;sa=N&amp;tab=in" target="_blank">acá encuentran más</a> sobre las virtudes y debilidades de los dispositivos que las escuelas armaron para afrontar esta atípica situación que tuvo a las escuelas del país un mes cerradas. En mi opinión personal, en contra de todos los maravillosos discursos pedagógico y educativos del activismo en casa; para mi, que pienso siempre con una mirada de un niño de tercer o cuarto grado: esta era una excelente oportunidad para no hacer NADA. Me pregunto cuánto afectará un mes sin clase a la totalidad de la instrucción a la que son sometidos los niños y los adolescentes; creo que eso no lo sabremos ¿quien se arriesgaría a semejante indagación? sería para quien lo haga, un suicidio profesional. Pero estas son mis chiquilinas ideas que nada tienen que ver con mis profesionales acciones… y de eso se trata lo que sigue:</p>
+
+<p>En la escuela que estoy trabajando, la emergencia se vivió como tal y eso no implicó un desordenado caos de gente alborotada. Si no más bien una urgencia (temporal, teniendo en cuenta que teníamos tres días para preparar todo) y una responsabilidad centrada en responder a las necesidades del momento. Entonces, ante la urgencia de usar tecnología por llegar a las casas, nos reunimos (yo acudí telefónicamente, algo descompuesto en casa) se charló y se decidió armar un dispositivo de mailing para conectarse con las familias. El resultado…. supongo que lo veremos a la vuelta de las vacaciones. Pero esbozo acá no solo mis percepciones, sino unas palabritas para mis compañerxs:</p>
+<blockquote>Compañerxs, colegas, directorxs, y secretarixs: En los últimos 4 o 5 años estuve trabajando en virtud de la inclusión de tecnología en ámbitos educativos. Lo que vivimos en las últimas semanas dota de sentido esta inclusión a la vera de una necesidad real ¿qué pasará después? no lo sé. Pero tampoco me preocupa tanto. En estas semanas me vi envuelto en un grupo de profesionales que PIENSA la tecnología, desde sus conocimientos y desconocimientos, que APRENDE y que me ENSEÑA, y no hablo en este caso de tecnología. Pero también me encuentro con un espacio en el que siento poder desarrollarme con ustedes.</blockquote>
+<p>En resumen. Ni plataformas, ni dispositivos de mailing, ni fotocopias, ni ningún tipo de “competencia” digital o no determinan o condicionan a los docentes. Es ese entramado que se vive dentro de la escuela y que muy pocas veces es captado por técnicos y científicos educativos lo que hace de la docencia, aún hoy, un espacio digno de ser vivido. Entonces… tal vez sea hora de dejar de discurrir palabras y bits sobre cosas que suponemos claras y hemos de meternos en el barro de la escuela, para desde ahí pensar en con otros, construir con otros una práctica y teoría que trabajen con el espíritu de nuestro tiempo.</p>
+
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="445" height="364" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/w96tXDHN-jM&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="445" height="364" src="http://www.youtube.com/v/w96tXDHN-jM&amp;hl=en&amp;fs=1&amp;rel=0&amp;color1=0x006699&amp;color2=0x54abd6&amp;border=1" allowscriptaccess="always" allowfullscreen="true" />&lt;/embed&gt;</object>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Imagen</td>
+      <td><a href="http://flickrcc.bluemountains.net">flickrcc</a></td>
+      <td>‘<a href="http://www.flickr.com/photos/41999914@N00/1702895">Mate “con palo”</a>’</td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Principios y principio de realidad</title>
+	  <link>/2008/04/principios-y-pricipio-de-realidad/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-04-29T13:30:19+00:00</pubDate>
+	  <guid>/2008/04/principios-y-pricipio-de-realidad/</guid>
+	  <description><![CDATA[
+	     <p><a href="http://www.flickr.com/photos/17471033@N06/2381970730/" target="_blank"><img class="alignright" style="border: 2px solid black; margin: 2px; float: right;" src="http://farm3.static.flickr.com/2341/2381970730_03bf4dc431_m.jpg" border="0" alt="" /> </a> Por ahí se dice que para evitar una neurosis o algún que otro problema psíquico, mi estructura psíquica ha de estar en sintonía con La Realidad. Y siguiendo el tenor del post anterior. Caigo en cuenta que el proyecto Aulas en Red ya no existe más, que lo que se espera de mi en las escuelas es que cumpla una función que garantice a los alumnos el contacto con las TIC. Ya no se si importa que los docentes sean quienes vehiculisen (¿se escribe así esa palabra?) ese contacto. Todavía dependo de mi trabajo, así que saco el disfraz de profesor de informática del placard y salgo a las escuelas a satisfacer ese urgente deseo docente: que los chicos tengan computación.</p>
+
+<p>Y mis principios… y mis ideas en torno a las TIC. Se tendrán que desarrollar en otros ámbitos, por lo menos hasta que pueda conseguir otro trabajo que me permita comer a fin de mes.</p>
+
+<p>PD: estoy triste.</p>
+<h2><strong><span style="color: #ff0000;">Actualización</span> </strong></h2>
+<p>Siempre hay alguien que puede traernos de estas regiones oscuras de la voluntad. En este caso Dani, mi compañera, mi pareja, la mujer que me enseña y aun a pesar de mis debilidades me aguanta y elige, me llamó por teléfono y me recordó (una vez más) que no esta perdido quién pelea. Esto para mi quiere decir que no he de dejar mis principios en mi trabajo por un simple cambio de gestión.</p>
+
+<p>pd: estoy más contento, como si es fuera condición de estar con algo o alguien. Es decir, antes estba sintento, ahora estoy contento.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Foto vía</td>
+      <td><small><a title="creative commons" href="http://www.photodropper.com/creative-commons/" target="_blank"><img src="http://www.acercadelaeducacion.com.ar/wp-content/plugins/photo_dropper/images/cc.png" border="0" alt="Creative Commons License" width="16" height="16" align="absmiddle" /> </a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a title="enjoys while could" href="http://www.flickr.com/photos/17471033@N06/2381970730/" target="_blank">enjoys while could</a> </small></td>
+    </tr>
+  </tbody>
+</table>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Incorporación de TIC e insomnio crónico</title>
+	  <link>/2008/04/incorporacion-de-tic-e-insomnio-cronico/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2008-04-24T16:02:40+00:00</pubDate>
+	  <guid>/2008/04/incorporacion-de-tic-e-insomnio-cronico/</guid>
+	  <description><![CDATA[
+	     <p><img class="alignleft" style="float: left; border: 2px solid black; margin: 2px;" src="http://farm3.static.flickr.com/2091/2316603389_e0a5ed4c7f.jpg" alt="Insomnio" width="203" height="267" />No me puedo dormir, a mi lado está Dani felizmente dormida y yo sigo carburando una suerte de discusión que tuve hoy por la mañana con una maestra.</p>
+
+<p>Antes un poco de contexto, mi trabajo en las escuelas esta últimamente algo desfigurado, cambio de gestión mediante, todo el marco teórico y práctico con el que durante tres años trabajé desapareció. Hasta hace cuatro meses el objetivo de mi trabajo en las escuelas era <strong>fomentar la autonomía en el uso pedagógico de las TIC</strong>. Hoy sin un panorama claro, sigo trabajando fiel a una idea, <strong>aportar a la construcción de un profesorado con sentido crítico y autónomo en el uso de las TIC</strong>.</p>
+
+<p>La declaración de principios del párrafo anterior no es una ligereza para mi, renuncié a mi trabajo en Xerox para ser docente, y en el camino descubrí la forma de insertarme en el ámbiente desde lo que me interesa, la tecnología.</p>
+
+<p>En ese camino trabajo en varias provincias y en el Gobierno de la Ciudad de Buenos Aires, en lo que antes era Re. Por. Te (rRed Porteña Telemática) y hoy es INTEC (Coordinación de Incorporación de Tecnologías).</p>
+
+<p>Ahora bien, ¿que significa incorporar tecnología en las escuelas?, es lo mismo que incluir el uso de tecnología en el quehacer docente. ¿Serán los mismos dispositivos los que articulan estos paradigmas?</p>
+
+<p><img class="alignright" style="border: 2px solid black; float: right; margin: 2px;" src="http://farm1.static.flickr.com/22/91703410_b54d56bef8.jpg?v=0" alt="Lideres del mundo" width="229" height="173" />La relación política que un Estado entabla con las tecnologías condiciona el desarrollo que tendrá en relación a las mismas. Y en ese sentido las políticas educativas que se implemente articulan una forma de desarrollo de los ciudadanos en realcion a la tecnología. No estamos en los 70´ en Sillicon Valley, es cierto, estamos en el 2008 en Argentina, ¿eso implica que no tiene que haber una planificación estratégica frente factor tenológico? Creo que no, y es en esta planificación y en las políticas educativas en donde se pueden ver los enfoques del estado frente al paradigma tecnológio actual.</p>
+
+<p>¿Cuál debería ser el rol de los docente frente a las TIC?</p>
+
+<p>Bién, tengo mi posición definida, creo que el cuerpo docente debe aprender a usar las TIC como recurso didáctico, y pienso, cada vez que me reclaman como profesor de informática, que es como si hubiera en las escuelas profesor de pizarrón, o de rotafolio, o profesor de uso de cuaderno.</p>
+
+<p>Algo resuena en mi cada vez que pienso en la inclusión de las TIC en las escuelas como un efecto derivado del clásico profesor de computación. Tal vez por que ese rol en mi esquema mental se acerca más a una incorporación pasiva por parte del los docenes del uso de TIC.</p>
+
+<p>En fín buscando algo de material encontre<a title="Por: Paul Goldenberg, Centro para el Desarrollo de la Educación." href="http://www.eduteka.org/Tema19.php" target="_blank"> este artículo de Eduteka</a> del que dejo algunas frases para aportar a esta reflexión.</p>
+
+<p><strong> PENSANDO (Y HABLANDO) SOBRE TECNOLOGÍA   EN LA CLASE DE MATEMÁTICAS</strong></p>
+<blockquote><span class="negroNormal"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: x-small;">...se debe juzgar si el uso de la tecnología es efectivo y apropiado o no. La necesidad de tomar decisiones en ese nivel de detalle no debe sorprendernos si pensamos en las calculadoras y los computadores de la misma forma en que lo hacemos sobre los lápices. Son los <em>problemas</em> que se plantean, no la tecnología con la que se encaran, lo que hace la diferencia. Con computadores o con lápices, algunos problemas son excelentes y otros son pérdida de tiempo. </span></span>
+
+<span class="negroNormal"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: x-small;">Como siempre, el valor de una herramienta depende del uso que se le dé. Si los manipulables físicos o electrónicos están bien diseñados y se utilizan adecuadamente, pueden incrementar la cantidad de problemas que pueden pensar y resolver los estudiantes. </span></span>
+
+<span class="negroNormal"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: x-small;">La claridad sobre los objetivos y el buen juicio del maestro son componentes necesarios de las decisiones que se tomen sobre la utilización de cualquier método de enseñanza.</span></span>
+
+<span class="negroNormal"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: x-small;">lo importante realmente no es hacer uso de la tecnología sino <em>cómo</em> hacerlo (aunque esto parece obvio para los maestros, no es esta la manera cómo se debate públicamente).</span></span></blockquote>
+<p style="text-align: center;"><img style="border: 2px solid black; vertical-align: middle;" src="http://farm3.static.flickr.com/2024/2283701903_4b0d9c19ba.jpg?v=0" alt="esa tecnología que nos ciega" width="393" height="295" /></p>
+<p style="text-align: center;">Imágenes| <a title="flickr" href="http://flickr.com" target="_blank">Flickr</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Google docs para mortales</title>
+	  <link>/2007/09/google-docs-para-mortales/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-09-27T14:43:58+00:00</pubDate>
+	  <guid>/2007/09/google-docs-para-mortales/</guid>
+	  <description><![CDATA[
+	     <p>Los amigos de <strong><a href="http://www.commoncraft.com/">Common Craft </a></strong>han realizado otro maravilloso video explicando esta vez como funciona <strong><a href="http://docs.google.com">google docs </a></strong>y via <strong><a href="http://www.adelat.org/htsrv/trackback.php?tb_id=742">adelat</a></strong> llega la notica que terminaron de de traducirlo. una vez más, usando <strong><a href="http://dotsub.com/">dotsub</a>. Espacio para la tradicción colaborativa de videos </strong>:)
+Acá les vá el video.</p>
+<iframe src="http://dotsub.com/api/player.php?filmid=1445&amp;filminstance=1447&amp;language=es" frameborder="0" height="392" width="480"></iframe>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Se lanzó la campaña &#8220;Querido Candidato&#8221;</title>
+	  <link>/2009/06/untitled/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2009-06-17T15:52:41+00:00</pubDate>
+	  <guid>/2009/06/untitled/</guid>
+	  <description><![CDATA[
+	     <p><a title="Logo Querido Candidato" href="http://www.queridocandidato.org.ar/"><img src="http://www.queridocandidato.org.ar/static/images/header-ar.png" border="0" alt="Logo Querido Candidato" /></a></p>
+<div><span style="text-decoration: underline;"><span style="font-style: italic;"> </span></span></div>
+<p>Vía <a href="http://www.solar.org.ar/spip.php?article612">Solar </a>me entero que se lanzó la campaña “queridocandidato”</p>
+<div>
+<blockquote cite="Querido Candidato - La campaña Querido Candidato">El objetivo de la campaña Querido Candidato es hacer crecer en los políticos la conciencia de su compromiso activo en la adopción e implementación de Software Libre y en el apoyo a la libertad digital.
+Por eso, pedimos:
+<ul>
+	<li>A los Candidatos que <a href="http://www.queridocandidato.org.ar/candidate/subscribe">adhieran al Acuerdo por el Software Libre</a>.</li>
+	<li>A todos los ciudadanos que se nos sumen, <a href="http://www.queridocandidato.org.ar/wiki/view/support">ayudándonos</a> en la difusión de esta campaña, contactando a los políticos, etc.  Para mayor información, visitar ¿Qué es el Software Libre?.  Más información sobre el software libre utilizado para este sitio: Clic aquí.</li>
+</ul>
+</blockquote>
+<p class="citation"><cite> <a href="http://www.queridocandidato.org.ar/wiki/view/info">Querido Candidato - La campaña Querido Candidato</a></cite></p>
+<p class="citation"><cite> </cite></p>
+
+</div>
+<p>Entonces, Les dejo las formas de ayudar:</p>
+<blockquote cite="Querido Candidato - La campaña Querido Candidato">
+<ul>
+	<li>subiendo un <strong><a href="http://www.queridocandidato.org.ar/wiki/view/banner">banner</a></strong> o un <strong>link</strong> a esta camapaña en tu sitio web o blog, o el de tu organización,</li>
+	<li>comentando en tu <strong>blog</strong> sobre esta campaña,</li>
+	<li>enviando el enlace del sitio a las <strong>listas de correo</strong> en las que participes,</li>
+	<li>enviando información de la campaña a tu <strong>lista de contactos</strong>,</li>
+	<li><strong>comentándoles</strong> a tus amigos, conocidos y vecinos sobre el Software Libre y la campaña Querido Candidato,</li>
+	<li>contactando a los <strong>candidatos</strong> en tu zona y pidièndoles que adhieran al Acuerdo.</li>
+</ul>
+</blockquote>
+<p><img style="margin: 10px 10px 0pt 0pt;" src="http://lh5.ggpht.com/_DUhEVaQ8MyY/Sjk47LX323I/AAAAAAAAAhA/4MhUzYbsIg8/s400/e2095259e550e2becabf598dba4943c2.png" alt="" width="400" height="337" /></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Seminario de Pedagogía</title>
+	  <link>/seminario-de-pedagogia</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2006-11-25T20:53:00+00:00</pubDate>
+	  <guid>/seminario-de-pedagogia</guid>
+	  <description><![CDATA[
+	     <p>El presente trabajo intenta analizar 3 momentos (o 4) de la extensa obra de Paulo Freire y relacionar los conceptos, metodologías y prácticas de la propuesta con la actualidad de la educación en la Jurisdicción de la Ciudad de Buenos Aires.
+Para ello dividí el trabajo en tres etapas:</p>
+<ol>
+	<li>Análisis Bibliográfico y desarrollo práctico de la propuesta</li>
+	<li>Análisis de la situación en la ciudad de Bs. As (centrado en los documentos Curriculares)</li>
+	<li>Conclusión</li>
+</ol>
+<p>El primer texto a analizar es “La educación como práctica de la libertad”. Comienzo con este libro por que aquí comienza la especulación teórica de una práctica llevada a cabo durante los años 60. pretendo de este libro extraer algunos conceptos básicos de esta propuesta; intenciones y propósitos de la misma y analizar su propuesta práctica.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

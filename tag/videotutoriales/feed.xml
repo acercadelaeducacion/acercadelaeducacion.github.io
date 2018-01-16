@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Google docs para mortales</title>
+	  <link>/2007/09/google-docs-para-mortales/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-09-27T14:43:58+00:00</pubDate>
+	  <guid>/2007/09/google-docs-para-mortales/</guid>
+	  <description><![CDATA[
+	     <p>Los amigos de <strong><a href="http://www.commoncraft.com/">Common Craft </a></strong>han realizado otro maravilloso video explicando esta vez como funciona <strong><a href="http://docs.google.com">google docs </a></strong>y via <strong><a href="http://www.adelat.org/htsrv/trackback.php?tb_id=742">adelat</a></strong> llega la notica que terminaron de de traducirlo. una vez más, usando <strong><a href="http://dotsub.com/">dotsub</a>. Espacio para la tradicción colaborativa de videos </strong>:)
+Acá les vá el video.</p>
+<iframe src="http://dotsub.com/api/player.php?filmid=1445&amp;filminstance=1447&amp;language=es" frameborder="0" height="392" width="480"></iframe>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>del.icio.us 2 blog</title>
+	  <link>/2007/09/delicious-2-blog/</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-09-25T19:42:50+00:00</pubDate>
+	  <guid>/2007/09/delicious-2-blog/</guid>
+	  <description><![CDATA[
+	     <p>Segunda entrega de los tutoriales deliciosos.</p>
+
+<p>En este caso  cree el video usando <a href="http://www.screencast-o-matic.com" target="_blank">screencast-o-matic</a>.  Una aplicacion online que graba lo que haces en la pantalla, lo exporté y lo subí a <a href="http://wwww.jumpcut.com" target="_blank">Jumpcut</a>. Que nos permite editarlo online.</p>
+
+<p>Espero que les guste</p>
+<embed src="http://www.jumpcut.com/media/flash/jump.swf?id=B919938C6BB411DCA758000423CEF5B0&amp;asset_type=movie&amp;asset_id=B919938C6BB411DCA758000423CEF5B0&amp;eb=1" type="application/x-shockwave-flash" height="324" width="408" />
+<p>&lt;/embed&gt;
+<a href="http://www.jumpcut.com/view?id=B919938C6BB411DCA758000423CEF5B0">
+</a></p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

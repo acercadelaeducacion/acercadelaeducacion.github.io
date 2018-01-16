@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>/</title>
+   
+   <link>/</link>
+   <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
+   <language>es-es</language>
+   
+   <title>
+   <![CDATA[ Acerca de la Educación ]]>
+   </title>
+   <description>
+   <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
+   </description>
+   <link>/</link>
+   <image>
+   <url>/assets/images/favicon.png</url>
+   <title>Acerca de la Educación</title>
+   <link>/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Otoño en la ciudad</title>
+	  <link>/otono-en-la-ciudad</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2007-03-30T13:15:00+00:00</pubDate>
+	  <guid>/otono-en-la-ciudad</guid>
+	  <description><![CDATA[
+	     <p style="text-align: center"><a href="http://sp6.fotologs.net/photo/38/19/51/solett/1174669261_f.jpg"><img src="http://sp6.fotologs.net/photo/38/19/51/solett/1174669261_f.jpg" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 320px" border="0" /></a>Llegó el otoño con todo por estos pagos...
+entre agua e inundación...
+se lleva la lluvia mis llantos.Gracias <a href="http://www.fotolog.com/solett">solett</a> por las fotos
+</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>

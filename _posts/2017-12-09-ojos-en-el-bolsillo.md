@@ -3,14 +3,15 @@ layout: post
 current: post
 navigation: True
 title: Ojos en el bolsillo
-date:   2017-12-09 10:18:00
+date: 2017-12-09 10:18:00
 disqus: true      
-tags:
-  - Sociedad del Espectáculo
+tags: [Sociedad del Espectáculo]
+class: post-template
 subclass: 'post tag-sociedad-del-espectáculo'
-author: 'Alvar'
-cover: 'assets/images/survillance.jpg'
+author: Alvar
+cover: assets/images/survillance.jpg
 ---
+
 
 Esquema para una charla
 
@@ -85,7 +86,7 @@ Test para conocer la huella digital de nuestro navegador
 
 # Qué hacen con nuestros datos
 
-![](assets/image/cambridgeAnalytica.png)
+![](assets/images/cambridgeAnalytica.png)
 
 
 # Psicometría de los perfiles

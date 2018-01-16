@@ -87,7 +87,7 @@
 
 
 </head>
-<body class="home-template">
+<body class="post-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
@@ -130,8 +130,6 @@ into the {body} of the default.hbs template -->
             
         </div>
         
-            <a class="subscribe-button" href="#subscribe">Subscribe</a>
-        
     </div>
 </nav>
 
@@ -144,7 +142,7 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full post tag-fiction ">
+        <article class="post-full post tag-para-eva-y-sol ">
 
             <header class="post-full-header">
                 <section class="post-full-meta">
@@ -171,47 +169,46 @@ into the {body} of the default.hbs template -->
                     <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Hace mucho que la humanidad esta en una batalla con sigo misma
 Y hay días como el de hoy, que pierdo la fe.
 
-Si la empatia, el cuidado, el simple amor a la vida 
-devienen minorías, exepciones. 
-Qué nos queda más que abrazarnos 
+Si la empatia, el cuidado, el simple amor a la vida
+devienen minorías, exepciones.
+Qué nos queda más que abrazarnos
 esperando el final
 
 Y devenir en la memoria de los dias,
-como pequeñas luces fugaces 
+como pequeñas luces fugaces
 en la oscuridad de la conciencia humana.
 
-Ascuas de pequeñas fogatas 
-para las futuras generaciones de humanos. 
-Devenir las lucecitas de las que hoy, 
+Ascuas de pequeñas fogatas
+para las futuras generaciones de humanos.
+Devenir las lucecitas de las que hoy,
 nos agarramos para iluminarnos.
 </code></pre></div></div>
-
 
                 </div>
             </section>
 
             <!-- Email subscribe form at the bottom of the page -->
             
-                <section class="subscribe-form">
-                    <h3 class="subscribe-form-title">Subscribe to Acerca de la Educación</h3>
-                    <p>Get the latest posts delivered right to your inbox</p>
-                    <form method="post" action="/subscribe/" class="">
-    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
-
-    <div class="form-group">
-        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
-    </div>
-    <button class="" type="submit" disabled><span>Subscribe</span></button>
-    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
-</form>
-
-                </section>
-            
 
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
                 
+                    
+                        <section class="author-card">
+                            
+                                <img class="author-profile-image" src="/assets/images/lain.gif" alt="Alvar" />
+                            
+                            <section class="author-card-content">
+                                <h4 class="author-card-name"><a href="/author/Alvar">Alvar Maciel</a></h4>
+                                
+                                    <p>Docente, busco entender el engranaje tecnológico en el que estamos metides. Trabajo y escribo acerca de la educación.</p>
+                                
+                            </section>
+                        </section>
+                        <div class="post-full-footer-right">
+                            <a class="author-card-button" href="/author/Alvar">Read More</a>
+                        </div>
                     
                 
                     
@@ -1185,7 +1182,7 @@ nos agarramos para iluminarnos.
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             
                 
-    <article class="post-card ">
+    <article class="post-card post-template">
         
             <a class="post-card-image-link" href="/ojos-en-el-bolsillo">
                 <div class="post-card-image" style="background-image: url(/assets/images/survillance.jpg)"></div>
@@ -1384,27 +1381,6 @@ nos agarramos para iluminarnos.
 
     <!-- The big email subscribe modal content -->
     
-        <div id="subscribe" class="subscribe-overlay">
-            <a class="subscribe-overlay-close" href="#"></a>
-            <div class="subscribe-overlay-content">
-                
-                    <img class="subscribe-overlay-logo" src="/assets/images/blog-icon.png" alt="Acerca de la Educación" />
-                
-                <h1 class="subscribe-overlay-title">Subscribe to Acerca de la Educación</h1>
-                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
-                <form method="post" action="/subscribe/" class="">
-    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
-
-    <div class="form-group">
-        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
-    </div>
-    <button class="" type="submit" disabled><span>Subscribe</span></button>
-    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
-</form>
-
-            </div>
-        </div>
-    
 
     <!-- highlight.js -->
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
@@ -1446,6 +1422,71 @@ nos agarramos para iluminarnos.
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
     
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->

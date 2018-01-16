@@ -5,10 +5,9 @@ date: 2017-03-20T08:56:53+00:00
 author: Alvar
 layout: post
 disqus: true
-subclass: 'post'
-cover: false
+class: post-template
+subclass: 'post tag-educación'
 navigation: True
-logo: 'assets/images/lain.gif'
 cover: 'assets/images/cover1.jpg'
 guid: http://www.acercadelaeducacion.com.ar/?p=2716
 dsq_thread_id:

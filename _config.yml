@@ -10,7 +10,7 @@ baseurl: '/'
 # Website info
 title: Acerca de la Educación
 description: Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes  
-cover: assets/images/blog-cover.jpg
+cover: assets/images/cover1.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png

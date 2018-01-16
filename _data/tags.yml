@@ -1,16 +1,16 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+Sociedad del Espectáculo:
+  name: Sociedad del Espectáculo
+  description: Algunos artículos de media crítica.
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+Para Eva y Sol:
+  name: Para Eva y Sol
+  description: A mis hijos
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
+educacion:
+  name: Educación
+  description: Artículos sobre educación.
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+La vida está en otro lado:
+  name: La vida está en otro lado
   description: False
   cover: False

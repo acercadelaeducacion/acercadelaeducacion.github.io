@@ -1,7 +1,7 @@
 ---
 id: 2685
 title: Me retiro de las redes sociales por un tiempo
-date: 2017-12-26T18:23:37+00:00
+date: 2016-12-26T18:23:37+00:00
 author: Alvar
 layout: post
 guid: http://www.acercadelaeducacion.com.ar/?p=2685

@@ -1,17 +1,16 @@
 ---
+layout: post
+current: post
+cover: wp-content/uploads/2016/11/wp-1480109207947.gif
+navigation: True
 title: Me retiro de las redes sociales por un tiempo
 date: 2017-12-26
-author: Alvar
-layout: post
-disqus: true
-subclass: 'post'
-cover: false
-cover: 'assets/images/cover7.jpg'
-navigation: True
-logo: 'assets/images/lain.gif'
-categories:
-  - La vida está en otro lado
+tags: [La vida está en otro lado]
+class: post-template
+subclass: 'post tag-la-vida-esta-en-otro-lado'
+author: Alvar	
 ---
+
 Cada tanto me agarra la fobia a las redes sociales. Ya no lucho contra ella.
 
 Durante un tiempo no voy a estar chequeando el stream de Twitter ni paseandome por facebook.

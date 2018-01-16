@@ -1,3 +1,14 @@
+Alvar:
+  username: Alvar
+  name: Alvar Maciel
+  url_full: https://acercadelaeducacion.com.ar
+  url: acercadelaeducacion.com.ar
+  bio: Docente, busco entender el engranaje tecnológico en el que estamos metides. Trabajo y escribo acerca de la educación.
+  picture: assets/images/lain.gif
+  facebook: alvar.maciel
+  twitter: amaciel
+  cover: assets/images/cover4.jpg
+
 ghost:
   username: ghost
   name: Ghost

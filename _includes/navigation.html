@@ -1,24 +1,6 @@
-<div class="nav">
-    <h3 class="nav-title">Menu</h3>
-    <a href="#" class="nav-close">
-        <span class="hidden">Close</span>
-    </a>
-    <ul>
-        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Inicio</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">Sobre el sitio</a></li>
-        <li class="nav-fables {% if page.url contains 'evasol' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/Para Eva y Sol">Para Eva y Sol</a></li>
-        <li class="nav-speeches {% if page.url contains 'educacion' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/Educación">Educación</a></li>
-        <li class="nav-fiction {% if page.url contains 'vida' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/La vida está en otro lado">La vida está en otro lado</a></li>
-        <li class="nav-fiction {% if page.url contains 'espectaculo' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/Sociedad del Espectáculo">Sociedad del Espectáculo</a></li>
-        <li class="nav-author {% if page.current == 'author' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/Alvar">Autor</a></li>
-        <li><form action="/search.html" method="get" autocomplete="on">
-        		<label for="search_box">Buscar</label>
-        		<input type="text" id="search_box" name="query" size="13">
-        		<input type="submit" value="Buscar">
-        </form></li>
-    </ul>
-    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribirse</a>
-
-
-</div>
-<span class="nav-cover"></span>
+<ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
+    <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about/">About</a></li>
+    <li class="nav-getting-started" role="menuitem"><a href="{{site.baseurl}}tag/getting-started/">Getting Started</a></li>
+    <li class="nav-try-ghost" role="menuitem"><a href="https://ghost.org">Try Ghost</a></li>
+</ul>

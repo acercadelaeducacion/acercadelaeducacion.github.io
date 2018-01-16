@@ -1,0 +1,75 @@
+# Jykell configuration
+#markdown: redcarpet
+#highlighter: pygments
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+language: 'es-es'
+
+# Website info
+name: 'Acerca de la Educación'
+description: "Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes."
+
+# Author's info
+author: 'Alvar Maciel'
+# edit 'categories' in the front matter of every post to match this username
+nickname: Alvar
+bio: 'Docente, busco entender que hacer en el engranaje tecnológico en el que estamos metidxs. Trabajo y escribo acerca de la educación.'
+location: 'Buenos Aires, Argentina'
+url: 'http://acercadelaeducacion.com.ar'
+image: 'assets/images/lain.gif'
+
+short_url: 'acercadelaeducacion.io/'
+google_analytics: UA-6677717-1
+disqus: alvar
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: '/'
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
+
+
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: false
+lsi: false
+username: acercadelaeducacion
+repo: acercadelaeducacion.github.io
+branch: source
+relative_source: ../
+destination: ../jasper-pages/
+production_url: https://acercadelaeducacion.com.ar
+source_url: https://github.com/acercadelaeducacion/acercadelaeducacion.github.io/
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

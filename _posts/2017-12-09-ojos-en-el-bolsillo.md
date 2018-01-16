@@ -10,6 +10,7 @@ class: post-template
 subclass: 'post tag-sociedad-del-espectáculo'
 author: Alvar
 cover: assets/images/survillance.jpg
+disqus: true
 ---
 
 

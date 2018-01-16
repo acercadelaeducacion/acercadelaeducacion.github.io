@@ -8,7 +8,8 @@ date: 2017-12-26
 tags: [La vida está en otro lado]
 class: post-template
 subclass: 'post tag-la-vida-esta-en-otro-lado'
-author: Alvar	
+author: Alvar
+disqus: true
 ---
 
 Cada tanto me agarra la fobia a las redes sociales. Ya no lucho contra ella.

@@ -5,6 +5,7 @@ paginate: 30 # it will paginate after this number
 language: 'es-es'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
+url: 'https://acercadelaeducacion.com.ar'
 baseurl: '/'
 
 # Website info

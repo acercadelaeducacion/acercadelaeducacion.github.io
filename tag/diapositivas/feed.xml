@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Khan Academy en el aula | Diapositivas</title>
-	  <link>/khan-academy-en-el-aula-diapositivas</link>
+	  <link>https://acercadelaeducacion.com.ar/khan-academy-en-el-aula-diapositivas</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-02-24T11:57:38+00:00</pubDate>
-	  <guid>/khan-academy-en-el-aula-diapositivas</guid>
+	  <guid>https://acercadelaeducacion.com.ar/khan-academy-en-el-aula-diapositivas</guid>
 	  <description><![CDATA[
 	     <p><a href="assets/presentaciones/charlaKhanAcademy/charlaKhanAcademy.html">Diapositivas para la charla sobre el uso de Khan Academy en el aula</a></p>
 
@@ -59,7 +59,7 @@
 
 	<item>
 	  <title>Laminas o Power Point ¿son lo mismo?</title>
-	  <link>/laminas-o-power-point-c2-bfson-lo-mismo</link>
+	  <link>https://acercadelaeducacion.com.ar/laminas-o-power-point-c2-bfson-lo-mismo</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -80,7 +80,7 @@
 				
 		
 	  <pubDate>2007-05-25T19:37:00+00:00</pubDate>
-	  <guid>/laminas-o-power-point-c2-bfson-lo-mismo</guid>
+	  <guid>https://acercadelaeducacion.com.ar/laminas-o-power-point-c2-bfson-lo-mismo</guid>
 	  <description><![CDATA[
 	     <p><a href="http://farm1.static.flickr.com/161/373172084_b5517e8012.jpg?v=0"><img src="http://farm1.static.flickr.com/161/373172084_b5517e8012.jpg?v=0" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px" border="0" /></a></p>
 <p style="text-align: left; font-family: verdana"><span style="font-size: 100%">Los contenidos de enseñanza, en la escuela, sufren necesarias modificaciones a medida que transcurre el tiempo, ya que los mismos se modifican o reconfiguran con el desarrollo de la sociedad y del conocimiento. De la misma, manera los procedimientos tradicionales que la escuela valora sufren modificaciones. La búsqueda de información sobre algún tema, como procedimiento a aprehender, no puede ser entendida como hace 20 o 30 años atrás. Otras tecnologías, otros medios, hoy están en juego y se hace necesario comprenderlos para poder enseñarlos, pero más importante aún, es necesario para construir una práctica responsable, tener la capacidad de analizar los recursos, dispositivos y elementos de enseñanza. </span></p>

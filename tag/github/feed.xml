@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Github para docentes | ideas para arrancar #squeakfest2016</title>
-	  <link>/github-para-docentes-ideas-para-arrancar-squeakfest2016</link>
+	  <link>https://acercadelaeducacion.com.ar/github-para-docentes-ideas-para-arrancar-squeakfest2016</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2016-11-04T10:07:46+00:00</pubDate>
-	  <guid>/github-para-docentes-ideas-para-arrancar-squeakfest2016</guid>
+	  <guid>https://acercadelaeducacion.com.ar/github-para-docentes-ideas-para-arrancar-squeakfest2016</guid>
 	  <description><![CDATA[
 	     <p>El <a href="http://fast.org.ar">SqueakFest</a> se acerca y vamos a contar, mostrar como usar <a href="https://github.com">Github</a> para la <a href="http://github.com/alvarmaciel/planificacionesMmasM">planificación y seguimiento de clases</a>. </p>
 
@@ -63,7 +63,7 @@
 
 	<item>
 	  <title>Flujo de trabajo para escribir textos con otrxs en GitHub</title>
-	  <link>/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
+	  <link>https://acercadelaeducacion.com.ar/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -84,7 +84,7 @@
 				
 		
 	  <pubDate>2015-12-22T12:47:33+00:00</pubDate>
-	  <guid>/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
+	  <guid>https://acercadelaeducacion.com.ar/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
 	  <description><![CDATA[
 	     <p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
 
@@ -123,7 +123,7 @@
 
 	<item>
 	  <title>Aula Taller | último eslabón del anillo de recursos para el aula</title>
-	  <link>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
+	  <link>https://acercadelaeducacion.com.ar/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -144,7 +144,7 @@
 				
 		
 	  <pubDate>2014-08-22T10:36:51+00:00</pubDate>
-	  <guid>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
+	  <guid>https://acercadelaeducacion.com.ar/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
 	  <description><![CDATA[
 	     <p>Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
 
@@ -178,7 +178,7 @@
 
 	<item>
 	  <title>Por qué usar github para bloguear | Primer post usando #octopress</title>
-	  <link>/por-que-usar-github-para-bloguear-primer-post-usando-octopress</link>
+	  <link>https://acercadelaeducacion.com.ar/por-que-usar-github-para-bloguear-primer-post-usando-octopress</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -199,7 +199,7 @@
 				
 		
 	  <pubDate>2014-05-07T20:05:13+00:00</pubDate>
-	  <guid>/por-que-usar-github-para-bloguear-primer-post-usando-octopress</guid>
+	  <guid>https://acercadelaeducacion.com.ar/por-que-usar-github-para-bloguear-primer-post-usando-octopress</guid>
 	  <description><![CDATA[
 	     <p>&lt;/a&gt;<a title="Post on github" href="http://acercadelaeducacion.github.io/" target="_blank">Por qué usar github para bloguear | Primer post usando #octopress</a></p>
 

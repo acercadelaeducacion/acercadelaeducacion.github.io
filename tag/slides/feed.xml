@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Slides Mozilla Open Badges | #FLISol2014 |#openbadges</title>
-	  <link>/slides-mozilla-open-badges-flisol2014-openbadges</link>
+	  <link>https://acercadelaeducacion.com.ar/slides-mozilla-open-badges-flisol2014-openbadges</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-04-26T08:25:20+00:00</pubDate>
-	  <guid>/slides-mozilla-open-badges-flisol2014-openbadges</guid>
+	  <guid>https://acercadelaeducacion.com.ar/slides-mozilla-open-badges-flisol2014-openbadges</guid>
 	  <description><![CDATA[
 	     <p>Entre ayer y hoy voy a estar dando <a title="Eventos" href="https://events.webmaker.org/#!/user/amaciel" target="_blank">3 o 4 charlas</a> en el marco del <a href="http://flisol.info" target="_blank">FLISoL</a>.</p>
 

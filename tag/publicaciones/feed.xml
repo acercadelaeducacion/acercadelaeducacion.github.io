@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>La realidad sin chamuyo | Edición #10</title>
-	  <link>/la-realidad-sin-chamuyo-edicion-10</link>
+	  <link>https://acercadelaeducacion.com.ar/la-realidad-sin-chamuyo-edicion-10</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-06-26T19:09:31+00:00</pubDate>
-	  <guid>/la-realidad-sin-chamuyo-edicion-10</guid>
+	  <guid>https://acercadelaeducacion.com.ar/la-realidad-sin-chamuyo-edicion-10</guid>
 	  <description><![CDATA[
 	     <p>Hace unas semanas empecé a trabajar, en el marco de los <strong><a title="CAI" href="http://portal.educacion.gov.ar/primaria/general/centros-de-actividades-infantiles/" target="_blank">Centros de Actividades Infantiles [C. A. I.]</a></strong>, en el <strong><a title="Página del Isauro" href="http://www.centroeducativoisauroarancibia.org" target="_blank">Centro Educativo Isauro Arancibia</a></strong>. Una escuela pública que trabaja con niños, niñas, jóvenes y adultos en situación de calle.</p>
 

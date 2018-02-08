@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>#Arduino | @JarroseLaPlante Proyecto social botánico</title>
-	  <link>/2012/06/arduino-jarroselaplante-proyecto-social-botanico/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/06/arduino-jarroselaplante-proyecto-social-botanico/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-06-12T09:30:30+00:00</pubDate>
-	  <guid>/2012/06/arduino-jarroselaplante-proyecto-social-botanico/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/06/arduino-jarroselaplante-proyecto-social-botanico/</guid>
 	  <description><![CDATA[
 	     <p><span id="result_box" lang="es"><span class="hps">@</span> <span class="hps">JarroseLaPlante</span> <span class="hps">es</span> <span class="hps">una instalación creada por</span> <span class="hps">Félicien</span> <span class="hps">Goguey</span> <span class="hps">y</span> <span class="hps">Meghe</span> <span class="hps">Thomas</span><span>.</span></span></p>
 
@@ -69,7 +69,7 @@
 
 	<item>
 	  <title>Electronic music from Jelly</title>
-	  <link>/2012/04/electronic-music-from-jelly/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/04/electronic-music-from-jelly/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -90,7 +90,7 @@
 				
 		
 	  <pubDate>2012-04-18T09:39:23+00:00</pubDate>
-	  <guid>/2012/04/electronic-music-from-jelly/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/04/electronic-music-from-jelly/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://arduino.cc/blog/2012/04/18/electronic-music-from-jelly/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/logo_blog_arduino.png" alt="" /></a></p>
 
@@ -110,7 +110,7 @@
 
 	<item>
 	  <title>Al fin: Un Arduino en mis manos</title>
-	  <link>/2009/06/al-fin-un-arduino-en-mis-manos/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/06/al-fin-un-arduino-en-mis-manos/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -131,7 +131,7 @@
 				
 		
 	  <pubDate>2009-06-15T18:35:17+00:00</pubDate>
-	  <guid>/2009/06/al-fin-un-arduino-en-mis-manos/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/06/al-fin-un-arduino-en-mis-manos/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px; width: 291px; height: 219px;" title="Seeduino" src="http://lh4.ggpht.com/_DUhEVaQ8MyY/SjaqtJVFmFI/AAAAAAAAAfs/3aeYiZxUwa0/s512/b85ff18b2c890590820449451372a587.JPG" alt="" width="512" height="384" /></p>
 
@@ -146,7 +146,7 @@
 
 	<item>
 	  <title>Arduino en Argentina</title>
-	  <link>/2008/12/arduino-en-argentina/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/12/arduino-en-argentina/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -167,7 +167,7 @@
 				
 		
 	  <pubDate>2008-12-14T17:00:00+00:00</pubDate>
-	  <guid>/2008/12/arduino-en-argentina/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/12/arduino-en-argentina/</guid>
 	  <description><![CDATA[
 	     <p><img class="aligncenter size-full wp-image-260" title="arduino-layoyut" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/12/arduino-layoyut.gif" alt="arduino-layoyut" width="372" height="282" /></p>
 

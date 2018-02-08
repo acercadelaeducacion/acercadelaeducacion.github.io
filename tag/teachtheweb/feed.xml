@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Microrrelatos a lo Burdick | Proyecto corto de escritura creativa y HTML</title>
-	  <link>/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</link>
+	  <link>https://acercadelaeducacion.com.ar/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-12-09T10:55:23+00:00</pubDate>
-	  <guid>/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</guid>
+	  <guid>https://acercadelaeducacion.com.ar/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</guid>
 	  <description><![CDATA[
 	     <p>Dentro del marco de las actividades para recuperar Prácticas del Lenguaje e inglés. Creamos este proyecto corto para escribir y leer en la web.</p>
 
@@ -70,7 +70,7 @@
 
 	<item>
 	  <title>Resumen #mozfest 2013</title>
-	  <link>/2013/11/resumen-mozfest-2013/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/11/resumen-mozfest-2013/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -91,7 +91,7 @@
 				
 		
 	  <pubDate>2013-11-17T15:01:04+00:00</pubDate>
-	  <guid>/2013/11/resumen-mozfest-2013/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/11/resumen-mozfest-2013/</guid>
 	  <description><![CDATA[
 	     <p>Ya pasaron unos cuantos días desde que llegué de Europa y quería hacer un primer y breve recuento de la experiencia que viví en el <strong><a title="Hastag del #mozfest" href="https://twitter.com/search?q=%23mozfest&amp;src=typd" target="_blank">#mozfest</a></strong>.
 El evento de <strong><a title="página de Mozilla" href="http://mozilla.org">Mozilla</a></strong> fue, sin lugar a dudas, el<strong><a title="Página del Festival" href="http://mozillafestival.org/"> evento-congreso</a></strong> más relevante al que he ido, 1400 personas se juntaron en Londres a colaborar, aprender y enseñar en torno a la construcción de una mejor Web y el desarrollo de un instancias de cultura abierta y colaborativa.
@@ -122,7 +122,7 @@ En esta foto se ve el desarrollo de las tareas, lo que había que hacer, lo que 
 
 	<item>
 	  <title>Charla colectiva para organizar Webmakers hispano #hagamoslaweb #teachtheweb</title>
-	  <link>/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -143,7 +143,7 @@ En esta foto se ve el desarrollo de las tareas, lo que había que hacer, lo que 
 				
 		
 	  <pubDate>2013-06-23T15:49:18+00:00</pubDate>
-	  <guid>/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p><img src="http://openmatt.org/wp-content/uploads/2013/01/Webmaker-2013-building-with-makers-and-mentors.001.jpg" width="1277" height="675" class="aligncenter" /></p>
 
@@ -157,7 +157,7 @@ Si estás interesado <em><a href="http://doodle.com/knpyc2kfa79k2xzd" title="Doo
 
 	<item>
 	  <title>Make as Learning | Aprender Creando o Aprender Haciendo #teachtheweb</title>
-	  <link>/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -178,7 +178,7 @@ Si estás interesado <em><a href="http://doodle.com/knpyc2kfa79k2xzd" title="Doo
 				
 		
 	  <pubDate>2013-05-10T16:33:00+00:00</pubDate>
-	  <guid>/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft size-full wp-image-2058" alt="3010557283_67bb64947d" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/05/3010557283_67bb64947d.jpg" width="339" height="230" />No es fácil encontrar la palabra adecuada para cada frase cuando lo que está en juego es una interpretación. Por algún motivo, hay juegos de palabras que me resultan más significativos, o conflictivos, a la hora de traducir un texto: <strong>Make as Learning</strong> es uno de ellos.</p>
 
@@ -217,7 +217,7 @@ Imagen | <a href="http://www.flickr.com/photos/osinaref/3010557283/" target="_bl
 
 	<item>
 	  <title>Curso Abierto Online de Mozilla #teachtheweb | Webmaker y otras yerbas</title>
-	  <link>/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -238,7 +238,7 @@ Imagen | <a href="http://www.flickr.com/photos/osinaref/3010557283/" target="_bl
 				
 		
 	  <pubDate>2013-04-26T10:37:51+00:00</pubDate>
-	  <guid>/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</guid>
 	  <description><![CDATA[
 	     <p>Esta es otra traducción que armamos desde <a href="http://hivenyc.org/teachtheweb/⏎">acá</a></p>
 <h1>Enseñar la Web</h1>
@@ -287,7 +287,7 @@ Imagen | <a href="http://www.flickr.com/photos/osinaref/3010557283/" target="_bl
 
 	<item>
 	  <title>Enseñar la web | Curso Abierto masivo y On-Line #teachtheweb</title>
-	  <link>/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -308,7 +308,7 @@ Imagen | <a href="http://www.flickr.com/photos/osinaref/3010557283/" target="_bl
 				
 		
 	  <pubDate>2013-04-23T20:35:49+00:00</pubDate>
-	  <guid>/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p>Esta otra traducción al vuelo, en este caso el trailer del curso de <strong><a href="http://mozilla.org">Mozilla</a></strong> <a href="http://webmaker.org/teach"><strong>Teach The Web</strong></a>. Los subtítulos los agregé vía dotsub y luego remixé el proyecto con <a href="https://webmaker.org/en-US/tools/#popcorn-maker">popcorn</a>.</p>
 

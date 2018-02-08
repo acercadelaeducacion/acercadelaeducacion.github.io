@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Flujo de trabajo para escribir textos con otrxs en GitHub</title>
-	  <link>/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
+	  <link>https://acercadelaeducacion.com.ar/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-12-22T12:47:33+00:00</pubDate>
-	  <guid>/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
+	  <guid>https://acercadelaeducacion.com.ar/flujo-de-trabajo-para-escribir-textos-con-otrxs-en-github</guid>
 	  <description><![CDATA[
 	     <p>Pensando en cómo escribir con otros en <a href="https://github.com">GitHub</a>, buscando y buscando encontré esta <a href="http://www.madebyloren.com/github-for-writers">fuente de inspiración</a></p>
 
@@ -89,7 +89,7 @@
 
 	<item>
 	  <title>Escenas del Mapatón | Mapeo colectivo Área Reconquista</title>
-	  <link>/escenas-del-mapaton-mapeo-colectivo-area-reconquista</link>
+	  <link>https://acercadelaeducacion.com.ar/escenas-del-mapaton-mapeo-colectivo-area-reconquista</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -110,7 +110,7 @@
 				
 		
 	  <pubDate>2015-11-19T06:58:16+00:00</pubDate>
-	  <guid>/escenas-del-mapaton-mapeo-colectivo-area-reconquista</guid>
+	  <guid>https://acercadelaeducacion.com.ar/escenas-del-mapaton-mapeo-colectivo-area-reconquista</guid>
 	  <description><![CDATA[
 	     <p><a href="http://noticias.unsam.edu.ar/2015/11/17/mapaton-cartografia-colectiva-de-jose-leon-suarez-en-la-escuela-secundaria-tecnica/">Crónica y escenas del mapeo colectivo que se inció el 14/11</a></p>
 
@@ -121,7 +121,7 @@
 
 	<item>
 	  <title>Plantilla Camino del Héroe | Inglés, Prácticas del Lenguaje y HTML</title>
-	  <link>/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
+	  <link>https://acercadelaeducacion.com.ar/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -142,7 +142,7 @@
 				
 		
 	  <pubDate>2015-11-18T15:26:41+00:00</pubDate>
-	  <guid>/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
+	  <guid>https://acercadelaeducacion.com.ar/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
 	  <description><![CDATA[
 	     <p><img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
 
@@ -164,7 +164,7 @@
 
 	<item>
 	  <title>LaTex | Capítulo 1</title>
-	  <link>/latex-capitulo-1</link>
+	  <link>https://acercadelaeducacion.com.ar/latex-capitulo-1</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -185,7 +185,7 @@
 				
 		
 	  <pubDate>2015-09-19T13:33:00+00:00</pubDate>
-	  <guid>/latex-capitulo-1</guid>
+	  <guid>https://acercadelaeducacion.com.ar/latex-capitulo-1</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.latex-project.org/">LaTeX</a> es un programa para la composición de textos. No es un procesador de textos, sino un sistema de armado de documentos. LaTex es Libre y Abierto. Fue escrito originalmente por Leslie Lamport y se basa en el TeX Typesetting engine de Donalc Knuth.</p>
 
@@ -243,7 +243,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 
 	<item>
 	  <title>Charla | Herramintas Distribuidas para planificar</title>
-	  <link>/charla-herramintas-distriibuidas-para-planificar</link>
+	  <link>https://acercadelaeducacion.com.ar/charla-herramintas-distriibuidas-para-planificar</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -264,7 +264,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 				
 		
 	  <pubDate>2014-11-03T10:45:16+00:00</pubDate>
-	  <guid>/charla-herramintas-distriibuidas-para-planificar</guid>
+	  <guid>https://acercadelaeducacion.com.ar/charla-herramintas-distriibuidas-para-planificar</guid>
 	  <description><![CDATA[
 	     <p><a href="https://rawgit.com/acercadelaeducacion/charlas-talleres/master/HerramientasDistribuidas/Presentacion/index.html">Acá están las diapositivas de la Charla dada en el <strong>SqueakFest 2014</strong></a></p>
 
@@ -275,7 +275,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 
 	<item>
 	  <title>Aula Taller | último eslabón del anillo de recursos para el aula</title>
-	  <link>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
+	  <link>https://acercadelaeducacion.com.ar/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -296,7 +296,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 				
 		
 	  <pubDate>2014-08-22T10:36:51+00:00</pubDate>
-	  <guid>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
+	  <guid>https://acercadelaeducacion.com.ar/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
 	  <description><![CDATA[
 	     <p>Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
 
@@ -330,7 +330,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 
 	<item>
 	  <title>Disqus en el blog</title>
-	  <link>/2014/01/disqus-en-el-blog/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/01/disqus-en-el-blog/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -351,7 +351,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 				
 		
 	  <pubDate>2014-01-21T21:44:17+00:00</pubDate>
-	  <guid>/2014/01/disqus-en-el-blog/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/01/disqus-en-el-blog/</guid>
 	  <description><![CDATA[
 	     <p>Estoy probando y habilitando <strong><a title="Página de disqus" href="http://disqus.com" target="_blank">Disqus</a></strong> en el el blog… por ahora no pude integrar bien los comentarios viejos con el nuevo sistema… Seguiré probando en estos días</p>
 
@@ -366,7 +366,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 
 	<item>
 	  <title>Curso Abierto Online de Mozilla #teachtheweb | Webmaker y otras yerbas</title>
-	  <link>/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -387,7 +387,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 				
 		
 	  <pubDate>2013-04-26T10:37:51+00:00</pubDate>
-	  <guid>/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/04/curso-abierto-online-de-mozilla-teachtheweb-webmaker-y-otras-yerbas/</guid>
 	  <description><![CDATA[
 	     <p>Esta es otra traducción que armamos desde <a href="http://hivenyc.org/teachtheweb/⏎">acá</a></p>
 <h1>Enseñar la Web</h1>
@@ -436,7 +436,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 
 	<item>
 	  <title>Localization Models | Workflow with Github and Transifex | #WebLitStd</title>
-	  <link>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -457,7 +457,7 @@ La curva de aprendizaje puede ser elevada ^_^, pero para eso hay libros y un mon
 				
 		
 	  <pubDate>2013-03-23T17:31:00+00:00</pubDate>
-	  <guid>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
 	  <description><![CDATA[
 	     <div class="outline-2" id="outline-container-1">
 <h2>Introducción</h2>
@@ -556,7 +556,7 @@ Los proyectos están en formato HTML y convergen en él información del proyect
 
 	<item>
 	  <title>Recursos para el granjero urbano | Autoriego con sensores libres</title>
-	  <link>/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -577,7 +577,7 @@ Los proyectos están en formato HTML y convergen en él información del proyect
 				
 		
 	  <pubDate>2013-02-09T21:48:42+00:00</pubDate>
-	  <guid>/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/02/recursos-para-el-granjero-urbano-autoriego-con-sensores-libres/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignnone" alt="" src="http://farm4.staticflickr.com/3635/3641480769_cfe7d822a1.jpg" width="500" height="344" /></p>
 <ul>

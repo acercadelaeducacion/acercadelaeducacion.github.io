@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Pajarito callejero</title>
-	  <link>/2013/09/pajarito-callejero/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/09/pajarito-callejero/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-09-20T13:40:59+00:00</pubDate>
-	  <guid>/2013/09/pajarito-callejero/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/09/pajarito-callejero/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/wpid-20130822_124821_20130920132602964.jpg"><img title="20130822_124821_20130920132602964.jpg" class="alignnone size-full" alt="image" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/wpid-20130822_124821_20130920132602964.jpg" /></a></p>
 
@@ -59,7 +59,7 @@
 
 	<item>
 	  <title>Fridom</title>
-	  <link>/2013/09/fridom/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/09/fridom/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -80,7 +80,7 @@
 				
 		
 	  <pubDate>2013-09-20T08:21:05+00:00</pubDate>
-	  <guid>/2013/09/fridom/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/09/fridom/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/wpid-20130822_124902_20130920080417066.jpg"><img title="20130822_124902_20130920080417066.jpg" class="alignnone size-full" alt="image" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/wpid-20130822_124902_20130920080417066.jpg" /></a></p>
 

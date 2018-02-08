@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>by by facebook</title>
-	  <link>/2009/06/by-by-facebook/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/06/by-by-facebook/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2009-06-30T14:07:04+00:00</pubDate>
-	  <guid>/2009/06/by-by-facebook/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/06/by-by-facebook/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" title="f" src="http://farm3.static.flickr.com/2388/2114874155_b660780928_m.jpg" alt="" width="240" height="240" />hace rato que quería hacerlo. Borré mi cuenta de Facebook. Las razones son muchas, pero la de que detonó mi cansancio es la simple. Pierdo mucho tiempo paveando, no aporta gran cosa a mi desarrollo y me mantengo actualizado de mis amigos… viéndolos, me entero de las novedades a través de los feeds. En definitiva fue un lindo divertimento mientras duró.</p>
 
@@ -59,7 +59,7 @@
 
 	<item>
 	  <title>Nuevas publicaciones, nuevas ocupaciones</title>
-	  <link>/2008/12/nuevas-publicaciones-nuevas-ocupaciones/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/12/nuevas-publicaciones-nuevas-ocupaciones/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -80,7 +80,7 @@
 				
 		
 	  <pubDate>2008-12-14T12:33:54+00:00</pubDate>
-	  <guid>/2008/12/nuevas-publicaciones-nuevas-ocupaciones/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/12/nuevas-publicaciones-nuevas-ocupaciones/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft size-full wp-image-256" style="border: 2px solid black; margin: 2px;" title="pantallazo de http://www.dosisdeinnovacion.com.ar" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/12/pantallazo-dosis-de-innovacion-espacio-de-creacion-mozilla-firefox.png" alt="pantallazo de http://www.dosisdeinnovacion.com.ar" width="347" height="206" />De un tiempo a esta parte anduve escribiendo en algunos otros blogs. Esto se debió a que junto con algunos amigos, armamos un sito de escritura compartida.
 Un espacio sobre temas de educación e innovación centrada en las TIC llamado Dosis de Innovación.</p>

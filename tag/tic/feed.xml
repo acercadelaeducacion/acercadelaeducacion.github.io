@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Charla en la II Conferencia Internacional de Software Libre #CISL2011</title>
-	  <link>/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2011-09-08T08:10:51+00:00</pubDate>
-	  <guid>/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</guid>
 	  <description><![CDATA[
 	     <p>Hoy a las 15:00 Hs estaré dando una charla sobre Sugar y su comunidad en la<a href="http://cisl.org.ar"> II Conferencia Internacional de Software Libre</a></p>
 
@@ -164,7 +164,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Seguramente&#8230;</title>
-	  <link>/2009/08/seguramente/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/08/seguramente/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -185,7 +185,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2009-08-04T22:18:12+00:00</pubDate>
-	  <guid>/2009/08/seguramente/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/08/seguramente/</guid>
 	  <description><![CDATA[
 	     <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } 		A:link { so-language: zxx } -->
 <p style="margin-bottom: 0.49cm;">Trasnscribo una nota de Jorge Novello, con la que no sólo acuerdo, sino que también comparto:</p>
@@ -225,7 +225,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>La escuela en casa</title>
-	  <link>/2009/07/la-escuela-en-casa/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/07/la-escuela-en-casa/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -246,7 +246,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2009-07-21T12:36:59+00:00</pubDate>
-	  <guid>/2009/07/la-escuela-en-casa/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/07/la-escuela-en-casa/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" src="http://farm1.static.flickr.com/2/1702895_68625b2c57_m.jpg" alt="" width="240" height="180" />Mucho se ha escrito, <a title="dosis de innovación" href="http://www.dosisdeinnovacion.com.ar/?tag=docentes" target="_blank">acá</a>, <a title="Blog de Guillermo Lutzky" href="http://adefinirlo.blogspot.com/search/label/docentes" target="_blank">acá</a> y <a title="Busqueda en google noticias sobre escuela en casa" href="http://news.google.com.ar/news?hl=es&amp;safe=off&amp;num=100&amp;q=escuela%20en%20casa&amp;cr=countryAR&amp;um=1&amp;ie=UTF-8&amp;sa=N&amp;tab=in" target="_blank">acá encuentran más</a> sobre las virtudes y debilidades de los dispositivos que las escuelas armaron para afrontar esta atípica situación que tuvo a las escuelas del país un mes cerradas. En mi opinión personal, en contra de todos los maravillosos discursos pedagógico y educativos del activismo en casa; para mi, que pienso siempre con una mirada de un niño de tercer o cuarto grado: esta era una excelente oportunidad para no hacer NADA. Me pregunto cuánto afectará un mes sin clase a la totalidad de la instrucción a la que son sometidos los niños y los adolescentes; creo que eso no lo sabremos ¿quien se arriesgaría a semejante indagación? sería para quien lo haga, un suicidio profesional. Pero estas son mis chiquilinas ideas que nada tienen que ver con mis profesionales acciones… y de eso se trata lo que sigue:</p>
 
@@ -271,7 +271,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Principios y principio de realidad</title>
-	  <link>/2008/04/principios-y-pricipio-de-realidad/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/04/principios-y-pricipio-de-realidad/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -292,7 +292,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2008-04-29T13:30:19+00:00</pubDate>
-	  <guid>/2008/04/principios-y-pricipio-de-realidad/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/04/principios-y-pricipio-de-realidad/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.flickr.com/photos/17471033@N06/2381970730/" target="_blank"><img class="alignright" style="border: 2px solid black; margin: 2px; float: right;" src="http://farm3.static.flickr.com/2341/2381970730_03bf4dc431_m.jpg" border="0" alt="" /> </a> Por ahí se dice que para evitar una neurosis o algún que otro problema psíquico, mi estructura psíquica ha de estar en sintonía con La Realidad. Y siguiendo el tenor del post anterior. Caigo en cuenta que el proyecto Aulas en Red ya no existe más, que lo que se espera de mi en las escuelas es que cumpla una función que garantice a los alumnos el contacto con las TIC. Ya no se si importa que los docentes sean quienes vehiculisen (¿se escribe así esa palabra?) ese contacto. Todavía dependo de mi trabajo, así que saco el disfraz de profesor de informática del placard y salgo a las escuelas a satisfacer ese urgente deseo docente: que los chicos tengan computación.</p>
 
@@ -318,7 +318,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Incorporación de TIC e insomnio crónico</title>
-	  <link>/2008/04/incorporacion-de-tic-e-insomnio-cronico/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/04/incorporacion-de-tic-e-insomnio-cronico/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -339,7 +339,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2008-04-24T16:02:40+00:00</pubDate>
-	  <guid>/2008/04/incorporacion-de-tic-e-insomnio-cronico/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/04/incorporacion-de-tic-e-insomnio-cronico/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="float: left; border: 2px solid black; margin: 2px;" src="http://farm3.static.flickr.com/2091/2316603389_e0a5ed4c7f.jpg" alt="Insomnio" width="203" height="267" />No me puedo dormir, a mi lado está Dani felizmente dormida y yo sigo carburando una suerte de discusión que tuve hoy por la mañana con una maestra.</p>
 
@@ -377,7 +377,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Google docs para mortales</title>
-	  <link>/2007/09/google-docs-para-mortales/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/09/google-docs-para-mortales/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -398,7 +398,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2007-09-27T14:43:58+00:00</pubDate>
-	  <guid>/2007/09/google-docs-para-mortales/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/09/google-docs-para-mortales/</guid>
 	  <description><![CDATA[
 	     <p>Los amigos de <strong><a href="http://www.commoncraft.com/">Common Craft </a></strong>han realizado otro maravilloso video explicando esta vez como funciona <strong><a href="http://docs.google.com">google docs </a></strong>y via <strong><a href="http://www.adelat.org/htsrv/trackback.php?tb_id=742">adelat</a></strong> llega la notica que terminaron de de traducirlo. una vez más, usando <strong><a href="http://dotsub.com/">dotsub</a>. Espacio para la tradicción colaborativa de videos </strong>:)
 Acá les vá el video.</p>

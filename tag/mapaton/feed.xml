@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Escenas del Mapatón | Mapeo colectivo Área Reconquista</title>
-	  <link>/escenas-del-mapaton-mapeo-colectivo-area-reconquista</link>
+	  <link>https://acercadelaeducacion.com.ar/escenas-del-mapaton-mapeo-colectivo-area-reconquista</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-11-19T06:58:16+00:00</pubDate>
-	  <guid>/escenas-del-mapaton-mapeo-colectivo-area-reconquista</guid>
+	  <guid>https://acercadelaeducacion.com.ar/escenas-del-mapaton-mapeo-colectivo-area-reconquista</guid>
 	  <description><![CDATA[
 	     <p><a href="http://noticias.unsam.edu.ar/2015/11/17/mapaton-cartografia-colectiva-de-jose-leon-suarez-en-la-escuela-secundaria-tecnica/">Crónica y escenas del mapeo colectivo que se inció el 14/11</a></p>
 
@@ -61,7 +61,7 @@
 
 	<item>
 	  <title>Mapatón: Mapeo digital, social y colectivo del Area Reconquista</title>
-	  <link>/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</link>
+	  <link>https://acercadelaeducacion.com.ar/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -82,7 +82,7 @@
 				
 		
 	  <pubDate>2015-11-11T16:01:58+00:00</pubDate>
-	  <guid>/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</guid>
+	  <guid>https://acercadelaeducacion.com.ar/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</guid>
 	  <description><![CDATA[
 	     <h2>¿Qué es un MAPATON?</h2>
 <p>El mapatón tiene como fin desarrollar una herramienta de mapeo digital para el área reconquista de José León Suárez que pueda articular, visibilizar y potenciar las existentes, generar instancias de articulación de organizaciones que favorezcan el trabajo conjunto en función del territorio y sus habitantes, e implementar una agenda que permita la elaboración de estrategias y acciones a mediano y largo plazo.</p>

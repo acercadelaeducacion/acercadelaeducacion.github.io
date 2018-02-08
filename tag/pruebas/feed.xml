@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Probando probando</title>
-	  <link>/2012/09/probando-probando/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/09/probando-probando/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-09-12T12:45:43+00:00</pubDate>
-	  <guid>/2012/09/probando-probando/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/09/probando-probando/</guid>
 	  <description><![CDATA[
 	     <p>Post de prueba desde el androide</p>
 
@@ -61,7 +61,7 @@
 
 	<item>
 	  <title>podcast y esnips</title>
-	  <link>/2007/10/podcast-y-esnips/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/10/podcast-y-esnips/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -82,7 +82,7 @@
 				
 		
 	  <pubDate>2007-10-25T16:38:08+00:00</pubDate>
-	  <guid>/2007/10/podcast-y-esnips/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/10/podcast-y-esnips/</guid>
 	  <description><![CDATA[
 	     <p>Estoy testeando el <a href="http://www.esnips.com">esnips </a>como repositorio de audio para podcast</p>
 <h3> [display_podcast]</h3>

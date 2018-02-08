@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Participación en el Festival Buenos Aires Creative Commons</title>
-	  <link>/2012/03/participacion-en-el-festival-buenos-aires-creative-commons/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/participacion-en-el-festival-buenos-aires-creative-commons/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-03-01T09:37:13+00:00</pubDate>
-	  <guid>/2012/03/participacion-en-el-festival-buenos-aires-creative-commons/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/participacion-en-el-festival-buenos-aires-creative-commons/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.ccbue.com.ar/"><img class="alignleft" style="border-width: 1px; border-color: black; border-style: solid; margin: 3px;" src="http://www.ccbue.com.ar/wp-content/uploads/2012/02/afiche_VP_021.jpg" alt="" width="288" height="202" /></a></p>
 

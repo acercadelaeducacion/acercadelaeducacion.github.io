@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Enseñar la web | Curso Abierto masivo y On-Line #teachtheweb</title>
-	  <link>/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-04-23T20:35:49+00:00</pubDate>
-	  <guid>/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/04/ensenar-la-web-curso-abierto-masivo-y-on-line-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p>Esta otra traducción al vuelo, en este caso el trailer del curso de <strong><a href="http://mozilla.org">Mozilla</a></strong> <a href="http://webmaker.org/teach"><strong>Teach The Web</strong></a>. Los subtítulos los agregé vía dotsub y luego remixé el proyecto con <a href="https://webmaker.org/en-US/tools/#popcorn-maker">popcorn</a>.</p>
 

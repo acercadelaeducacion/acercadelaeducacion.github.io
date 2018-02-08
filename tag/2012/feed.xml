@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>El software libre en las escuelas | Recursos educ.ar</title>
-	  <link>/2012/06/el-software-libre-en-las-escuelas-recursos-educ-ar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/06/el-software-libre-en-las-escuelas-recursos-educ-ar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-06-19T19:11:07+00:00</pubDate>
-	  <guid>/2012/06/el-software-libre-en-las-escuelas-recursos-educ-ar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/06/el-software-libre-en-las-escuelas-recursos-educ-ar/</guid>
 	  <description><![CDATA[
 	     <p class="descripcion">Hoy publicaron un artículo que escribí en en educ.ar aquí se los dejo.</p>
 <p class="descripcion">¿Cuáles son los objetivos y características del software libre? ¿Cómo puede implementarse en las escuelas? Las experiencias del Programa Conectar Igualdad y el portal <strong>educ.ar</strong>.</p>
@@ -114,7 +114,7 @@ La opción de usar sistemas libres genera más oportunidades para que los valore
 
 	<item>
 	  <title>Charla en el FLISOL 2012| Lugar: San Fernando</title>
-	  <link>/2012/04/charla-en-el-flisol-2012-lugar-san-fernando/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/04/charla-en-el-flisol-2012-lugar-san-fernando/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -135,7 +135,7 @@ La opción de usar sistemas libres genera más oportunidades para que los valore
 				
 		
 	  <pubDate>2012-04-17T18:44:35+00:00</pubDate>
-	  <guid>/2012/04/charla-en-el-flisol-2012-lugar-san-fernando/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/04/charla-en-el-flisol-2012-lugar-san-fernando/</guid>
 	  <description><![CDATA[
 	     <p> </p>
 
@@ -177,7 +177,7 @@ desde las 9:30 am hasta las 18:00 pm</p>
 
 	<item>
 	  <title>Programa #05 [10-04-2012] | Sobre la ecología</title>
-	  <link>/2012/04/programa-05-10-04-2012-sobre-la-ecologia/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/04/programa-05-10-04-2012-sobre-la-ecologia/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -198,7 +198,7 @@ desde las 9:30 am hasta las 18:00 pm</p>
 				
 		
 	  <pubDate>2012-04-17T11:17:43+00:00</pubDate>
-	  <guid>/2012/04/programa-05-10-04-2012-sobre-la-ecologia/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/04/programa-05-10-04-2012-sobre-la-ecologia/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/Selección_004.png"><img class="aligncenter size-medium wp-image-1523" title="Selección_004" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/Selección_004-300x196.png" alt="" width="300" height="196" /></a></p>
 

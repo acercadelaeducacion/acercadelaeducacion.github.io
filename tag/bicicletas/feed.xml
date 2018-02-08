@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Día de las máquinas libres y cumpleaños de la bicicueva</title>
-	  <link>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-13T10:34:32+00:00</pubDate>
-	  <guid>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
 	  <description><![CDATA[
 	     <p><a title="Página Biblio Barracas" href="http://www.bibliobarracas.com.ar" target="_blank">La Biblio Barracas</a> está de fiesta</p>
 
@@ -79,7 +79,7 @@
 
 	<item>
 	  <title>¡Mi primer Hack a la Bici! guardabarros caseros con botellas #bikehack</title>
-	  <link>/2012/03/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -100,7 +100,7 @@
 				
 		
 	  <pubDate>2012-03-23T21:08:38+00:00</pubDate>
-	  <guid>/2012/03/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/</guid>
 	  <description><![CDATA[
 	     <p>A partir de ver esto por la web <a href="http://www.bikehacks.com/bikehacks/2011/03/another-bottle-bike-fender.html">Another Bottle Bike Fender - BikeHacks</a>, me largué a hacer mis primeros hacks a la bci, ahora no me voy a embarrar más :D</p>
 <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/19032012034.jpg"><img class="aligncenter size-medium wp-image-1395" style="border: 2px solid black; margin-top: 2px; margin-bottom: 2px;" title="19032012034" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/19032012034-300x225.jpg" alt="" width="300" height="225" /></a></p>

@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Entrevista a Fabio Quetglas, experto en desarrollo local</title>
-	  <link>/2009/07/entrevista-a-fabio-quetglas-experto-en-desarrollo-local/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/07/entrevista-a-fabio-quetglas-experto-en-desarrollo-local/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2009-07-13T14:17:49+00:00</pubDate>
-	  <guid>/2009/07/entrevista-a-fabio-quetglas-experto-en-desarrollo-local/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/07/entrevista-a-fabio-quetglas-experto-en-desarrollo-local/</guid>
 	  <description><![CDATA[
 	     <p><a title="exclusion" rel="lightbox[pics247]" href="http://sociedadyterritorio.com.ar/wp-content/uploads/2009/07/exclusion.jpg"><img class="attachment wp-att-249 alignleft" style="border: 3px solid black; margin: 3px;" src="http://sociedadyterritorio.com.ar/wp-content/uploads/2009/07/exclusion.thumbnail.jpg" alt="exclusion" width="200" height="134" /></a>Dentro del marco de los<a href="http://www.sociedadyterritorio.com.ar/?tag=episodios-territoriales"> Episodios Territoriales</a> realicé una entrevista (la primera en mi vida) a <a title="Blog de Fabio Quetglas" href="http://sociedadyterritorio.com.ar" target="_blank">Fabio Quetglas</a>, experto en desarrollo local.</p>
 
@@ -71,7 +71,7 @@
 
 	<item>
 	  <title>Entrevista colectiva a mansaradio</title>
-	  <link>/2009/07/entrevista-colectiva-a-mansaradio/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/07/entrevista-colectiva-a-mansaradio/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -92,7 +92,7 @@
 				
 		
 	  <pubDate>2009-07-09T09:33:28+00:00</pubDate>
-	  <guid>/2009/07/entrevista-colectiva-a-mansaradio/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/07/entrevista-colectiva-a-mansaradio/</guid>
 	  <description><![CDATA[
 	     <p>Chateando y twiteando con <a href="http://twitter.com/karpicius">@karpicius</a>, estuve toda la semana pidiéndole que me explique de qué se trata <strong><a href="http://www.mansaradio.com.ar">mansa radio</a></strong>, le propuse entrevistarlo mail mediante, pero mientras me bañaba se me ocurrió que sería mucho más rico si los que escuchamos la mansaradio le hiciéramos las preguntas. Además temo que yo no sea muy creativo para preguntar y entre ustedes nosotros seguro sacamos preguntas más ricas.</p>
 

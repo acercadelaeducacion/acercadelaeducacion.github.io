@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Creador de historietas | Fotonovelas con Sugar</title>
-	  <link>/2011/05/creador-de-historietas-fotonovelas-con-sugar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/05/creador-de-historietas-fotonovelas-con-sugar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2011-05-01T08:19:07+00:00</pubDate>
-	  <guid>/2011/05/creador-de-historietas-fotonovelas-con-sugar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/05/creador-de-historietas-fotonovelas-con-sugar/</guid>
 	  <description><![CDATA[
 	     <p>A modo de ejemplo, y dado que será una semana a pleno <a title="Sugar | ¿Qué es? | ¿Cómo Instalarlo?" href="http://www.acercadelaeducacion.com.ar/2011/04/30/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/" target="_blank">sugar</a> acá en el <a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/" target="_blank">ceibaljam</a>. Subo una idea, un germen de actividad para las aulas. El contenido puede ser de cualquier área ya que la potencia de esta actividad es su capacidad comunicadora, sociales, lengua, naturales o matemáticas pueden hacer uso del recurso historieta para comunicar resultados o procesos.</p>
 
@@ -64,7 +64,7 @@
 
 	<item>
 	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
-	  <link>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -85,7 +85,7 @@
 				
 		
 	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
-	  <guid>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
 	  <description><![CDATA[
 	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
 
@@ -228,7 +228,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos</title>
-	  <link>/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -249,7 +249,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2011-04-30T10:14:51+00:00</pubDate>
-	  <guid>/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</guid>
 	  <description><![CDATA[
 	     <p>Hoy salgo para el <strong><a title="Edujam" href="http://ceibaljam.org/drupal/?q=edujam2011">EduJam 2011</a></strong> estoy un tanto emocionado y porque no decirlo, excitado (sus comentarios soeces estarán debidamente recordados). Durante cuatro días estaré <strong><a title="Conozco Uruguay Tour" href="http://wiki.sugarlabs.org/go/Conozco_Uruguay_Tour">recorriendo escuelas </a></strong>y charlando con docentes y visitando algunos <strong><a title="Página de los RAP" href="http://rapceibal.ning.com/">RAP </a></strong>(Red de Apoyo Plan Ceibal) reunido con gente de todo el mundo con el objetivo de intercambiar y aprender. Para coronar la semana 3 días de congreso-juntada con los exponentes <a title="Página del capítulo local de SugalrLabs" href="http://ar.sugarlabs.org">sugar</a>. Puff estaré que estallo y para no dejar esta experiencia librada a mi azaroso registro. Vía <strong><a title="Mi cuenta de identi.ca" href="http://identi.ca/amaciel">Identi.ca</a></strong> (relplicando en <strong><a href="http://twitter.com/amaciel">twitter</a></strong> y <strong><a title="Cuenta de facebook" href="http://www.facebook.com/senderosilencioso">facebook</a></strong>) intentaré mantener al tanto a quienes quieran saber como viene la experiencia. Para esto, pueden seguir todo lo que se publique  por acá <a title="Grupo !ceibaljam" href="http://identi.ca/group/ceibaljam">!ceibaljam</a> también
 Ademas. Estas semana armé unos scripts para compilar de forma correcta el sugar en Debian y en Tuquito/Ubuntu. En cuanto los encuentre los publico.</p>
@@ -261,7 +261,7 @@ Ademas. Estas semana armé unos scripts para compilar de forma correcta el sugar
 
 	<item>
 	  <title>Generación de recursos &#8220;educativos&#8221;| Recursos y videos para la cultura libre</title>
-	  <link>/2011/04/recursos-cultura-libre/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/recursos-cultura-libre/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -282,7 +282,7 @@ Ademas. Estas semana armé unos scripts para compilar de forma correcta el sugar
 				
 		
 	  <pubDate>2011-04-14T21:39:42+00:00</pubDate>
-	  <guid>/2011/04/recursos-cultura-libre/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/recursos-cultura-libre/</guid>
 	  <description><![CDATA[
 	     <p>Las últimas semanas estuve un poco a full no divulgué por este medio (si por otros) algunos buenos eventos,<a title="Charla en el gato escaldado" href="http://elgatoescaldado.com.ar/2011/04/charla-sobre-cultura-libre-y-copyleft-jueves-14-de-abril-20-hs/" target="_blank"> ni siquiera difundí mi propia charla</a> :D que por lo bajo comento, estuvo muy buena. En fin en medio de todo este caos organizado. Estos buenos recursos recolecté:</p>
 <ul class="diigo-linkroll">
@@ -322,7 +322,7 @@ tags:                      <a href="http://www.diigo.com/user/amaciel/Educación
 
 	<item>
 	  <title>Programación para niñxs | Python</title>
-	  <link>/2011/04/programacion-para-ninxs-python/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/programacion-para-ninxs-python/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -343,7 +343,7 @@ tags:                      <a href="http://www.diigo.com/user/amaciel/Educación
 				
 		
 	  <pubDate>2011-04-09T09:35:27+00:00</pubDate>
-	  <guid>/2011/04/programacion-para-ninxs-python/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/programacion-para-ninxs-python/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/04/4747273039_59ecb1e4f9.jpg"><img class="size-full wp-image-1022 alignleft" style="border: 3px solid black; margin: 3px;" title="Juegos" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/04/4747273039_59ecb1e4f9.jpg" alt="" width="180" height="180" /></a>A pedido de M. un estudiante de la escuela, usuario de scratch. Dejo a su disposición una serie de recursos para la iniciación en el hermoso arte de convertir ideas en programas.</p>
 
@@ -371,7 +371,7 @@ Está dirigido a personas que comienzan a programar videojuegos y quieren lograr
 
 	<item>
 	  <title>eXeLearnig | Editor de contenidos didácticos | Instalarlo en GNU/Linux</title>
-	  <link>/2011/04/exelearnig-editor-de-contenidos-didacticos-instalarlo-en-gnulinux/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/exelearnig-editor-de-contenidos-didacticos-instalarlo-en-gnulinux/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -392,7 +392,7 @@ Está dirigido a personas que comienzan a programar videojuegos y quieren lograr
 				
 		
 	  <pubDate>2011-04-08T13:01:19+00:00</pubDate>
-	  <guid>/2011/04/exelearnig-editor-de-contenidos-didacticos-instalarlo-en-gnulinux/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/exelearnig-editor-de-contenidos-didacticos-instalarlo-en-gnulinux/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" title="eXe" src="http://exelearning.org/chrome/site/your_project_logo.png" alt="" width="94" height="87" />eXeLearning es un programa creado por laAuckland University of Technology y la Tairawhiti Polytechnic.
 El proyecto está financiado por el Tertiary Education Commission de Nueva Zelanda.</p>
@@ -413,7 +413,7 @@ Lo pueden descargar <a title="eXeLearning para ubuntu y tuquitos" href="http://s
 
 	<item>
 	  <title>cultura.rwx una publicación sobre cultura libre</title>
-	  <link>/2011/04/cultura-rwx-una-publicacion-sobre-cultura-libre/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/cultura-rwx-una-publicacion-sobre-cultura-libre/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -434,7 +434,7 @@ Lo pueden descargar <a title="eXeLearning para ubuntu y tuquitos" href="http://s
 				
 		
 	  <pubDate>2011-04-04T21:41:14+00:00</pubDate>
-	  <guid>/2011/04/cultura-rwx-una-publicacion-sobre-cultura-libre/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/cultura-rwx-una-publicacion-sobre-cultura-libre/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" title="Número 1" src="http://culturarwx.net/rwx1/rwx1_2011.jpg" alt="" width="216" height="188" /><a title="Culturawx" href="http://culturarwx.net/">Cultura.rwx</a> es una publicación sobre cultura libre la frecuencia de publicación es bimensual. El título hace referencia a los permisos de los archivos Leer (R) Escribir (W) Ejecutar (X) -rwx- esta nomenclatura indica que pueden hacer del archivo - la cultura-.  Basicamente lo que les plazca.</p>
 
@@ -465,7 +465,7 @@ Lo pueden descargar <a title="eXeLearning para ubuntu y tuquitos" href="http://s
 
 	<item>
 	  <title>Sobre webquest, Proyectos colaborativos, Ivan Illich y animaciones con Software Libre</title>
-	  <link>/2011/03/sobre-webquest-proyectos-colaborativos-ivan-illich-y-animaciones-con-software-libre/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/03/sobre-webquest-proyectos-colaborativos-ivan-illich-y-animaciones-con-software-libre/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -486,7 +486,7 @@ Lo pueden descargar <a title="eXeLearning para ubuntu y tuquitos" href="http://s
 				
 		
 	  <pubDate>2011-03-28T09:41:48+00:00</pubDate>
-	  <guid>/2011/03/sobre-webquest-proyectos-colaborativos-ivan-illich-y-animaciones-con-software-libre/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/03/sobre-webquest-proyectos-colaborativos-ivan-illich-y-animaciones-con-software-libre/</guid>
 	  <description><![CDATA[
 	     <ul class="diigo-linkroll">
 	<li>
@@ -535,7 +535,7 @@ Les presento a…  Synfig.</p>
 
 	<item>
 	  <title>Juego sobre Derechos humanos| Sobre Libre Office| Modelo Big6 para la solución de problemas</title>
-	  <link>/2011/03/juego-sobre-derechos-humanos-sobre-libre-office-modelo-big6-para-la-solucion-de-problemas/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/03/juego-sobre-derechos-humanos-sobre-libre-office-modelo-big6-para-la-solucion-de-problemas/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -556,7 +556,7 @@ Les presento a…  Synfig.</p>
 				
 		
 	  <pubDate>2011-03-21T21:46:30+00:00</pubDate>
-	  <guid>/2011/03/juego-sobre-derechos-humanos-sobre-libre-office-modelo-big6-para-la-solucion-de-problemas/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/03/juego-sobre-derechos-humanos-sobre-libre-office-modelo-big6-para-la-solucion-de-problemas/</guid>
 	  <description><![CDATA[
 	     <ul class="diigo-linkroll"></ul>
 <ul class="diigo-linkroll">
@@ -595,7 +595,7 @@ tags:                      <a href="http://www.diigo.com/user/amaciel/Educación
 
 	<item>
 	  <title>Geogebra para primaria</title>
-	  <link>/2011/03/geogebra-para-primaria-2/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/03/geogebra-para-primaria-2/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -616,7 +616,7 @@ tags:                      <a href="http://www.diigo.com/user/amaciel/Educación
 				
 		
 	  <pubDate>2011-03-19T18:55:13+00:00</pubDate>
-	  <guid>/2011/03/geogebra-para-primaria-2/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/03/geogebra-para-primaria-2/</guid>
 	  <description><![CDATA[
 	     <p>Esta es una prueba del <a title="Geogebra para primaria" href="http://www.acercadelaeducacion.com.ar/2011/03/16/geogebra-para-primaria/">geogebra para primaria</a></p>
 

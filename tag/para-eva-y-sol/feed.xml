@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Recolección</title>
-	  <link>/recoleccion</link>
+	  <link>https://acercadelaeducacion.com.ar/recoleccion</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2007-04-23T14:44:00+00:00</pubDate>
-	  <guid>/recoleccion</guid>
+	  <guid>https://acercadelaeducacion.com.ar/recoleccion</guid>
 	  <description><![CDATA[
 	     <p>Todo empezó <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html#comments">acá</a> y como quien no quiere la cosa empecé a subir este camino… sin preparación, ni sogas, ni nada. Ahora, este post después de casi una semana sin escribir va a ser una recolección de sucesos, sensaciones y más que nada preguntas que espero encaucen hacia alguna respuesta, o sensación de respuesta o bue… algo que tranquilice el alma.<br />¿por donde empezar?<br />bueno… por el principio supongo.  Hace unos post  o días atrás <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html">comentarios mediante</a> propuse lo siguiente: “se me ocurrio preparar un cursillo sobre aramado de cazas como introduccion a las webquest, el aprendizaje mediado por las TIC y aprendizaje colabrativo/cooperativo. lo armo en el moodle de prueba que tengo en casa y voy mandando las consultas adelanto y solicitudes de sugerencias en <a href="http://acercadelaeducacion.blogspot.com/">http://acercadelaeducacion.blogspot.com</a></p>
 

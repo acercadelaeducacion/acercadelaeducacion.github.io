@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Feliz Cumple Karpi</title>
-	  <link>/2008/09/feliz-cumple-karpi/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/09/feliz-cumple-karpi/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-09-20T17:22:18+00:00</pubDate>
-	  <guid>/2008/09/feliz-cumple-karpi/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/09/feliz-cumple-karpi/</guid>
 	  <description><![CDATA[
 	     <p><strong>Karpicius</strong> Amigo Feliz cumple, como ya te dije antes. <br />A la espera de otro cafetero encuentro me quedo….<br /><br />&lt;img style=”max-width: 800px;” src=”http://farm2.static.flickr.com/1363/1463925617_c7b37b9773.jpg” border:=”” 2px=”” solid=”” height=”293” width=”439” /&gt;</p>
 
@@ -59,7 +59,7 @@
 
 	<item>
 	  <title>Recopilaciones de un viaje por la web 2</title>
-	  <link>/2007/09/recopilaciones-de-un-viaje-por-la-web-2/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/09/recopilaciones-de-un-viaje-por-la-web-2/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -80,7 +80,7 @@
 				
 		
 	  <pubDate>2007-09-30T11:33:36+00:00</pubDate>
-	  <guid>/2007/09/recopilaciones-de-un-viaje-por-la-web-2/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/09/recopilaciones-de-un-viaje-por-la-web-2/</guid>
 	  <description><![CDATA[
 	     <p><img src="http://www.educant.org/beta/files/novedades/71_0_medium.jpg" align="right" height="140" width="160" />Las repercusiones de algo que es bueno no se hacen esperar, este blog cuenta con un página, en la que me propuse ir actualizando qué es lo que ocurriría con lo que <a href="http://acercadelaeducacion.wordpress.com/2007/06/19/historia-de-un-viaje-por-la-web-20/trackback/" target="_blank">El viaje en tren </a>desató. A un par de meses de haber llegado a la estación terminal, todavía no pude hacer bien mi trabajo de recopilador. Pero, no quiere decir que sucumbí al extravío. Por lo tanto, en esta entrega, buceo un poco en la nota que el el <a href="http://www.educant.org/beta/home.php" title="Sitio del PENT - FLACSO">sitio del Proyecto Educación y Nuevas Tecnologías de FLACSO Argentina</a> le hizo a  <a href="http://www.moebius.lodigital.com.ar/" title="Moebius de Carlos Neri"><strong>Carlos Neri</strong></a>. Quien nos guió junto con <strong><a href="http://http://www.karpicius.com.ar/" target="_blank">Karpicius</a></strong> por los caminos de la web2. …</p>
 
@@ -91,7 +91,7 @@
 
 	<item>
 	  <title>Hola</title>
-	  <link>/hola</link>
+	  <link>https://acercadelaeducacion.com.ar/hola</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -112,7 +112,7 @@
 				
 		
 	  <pubDate>2007-05-28T12:18:00+00:00</pubDate>
-	  <guid>/hola</guid>
+	  <guid>https://acercadelaeducacion.com.ar/hola</guid>
 	  <description><![CDATA[
 	     <p>Primer post del <a href="http://lodigital.com.ar/moebius/?p=813" title="Un viaje por la web 2.0">viaje por la web</a></p>
 <p style="text-align: center"><img src="http://www.nandeyby.org/images/Areas%20Prot/martin_garcia.jpg" border="2" height="228" width="366" /></p>

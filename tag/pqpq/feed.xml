@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>PQP, opiniones enfrentadas</title>
-	  <link>/2008/03/pqp-opiniones-enfrentadas/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/03/pqp-opiniones-enfrentadas/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-03-01T16:02:25+00:00</pubDate>
-	  <guid>/2008/03/pqp-opiniones-enfrentadas/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/03/pqp-opiniones-enfrentadas/</guid>
 	  <description><![CDATA[
 	     <p><strong><a href="http://pqpq.es/" title="pqp">PQPQ</a></strong> es una excelente idea de <strong><a href="http://ceslava.com/">Cristian Eslava</a></strong>, mediante la modificación de un <strong><a href="http://www.wordpress.org">wordpress</a></strong>, creó un sitio para discutir posturas enfrentadas, lo más rico del sitio, es la disposición de las respuestas, que permite seguir los argumentos (y el diseño es impecable).</p>
 <p style="text-align: center"><img src="http://farm4.static.flickr.com/3241/2301918519_37dd96e59e.jpg" alt="disposición en paralea de argumentos" /></p>

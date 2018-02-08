@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Dí­a de la memoria por la verdad y la justicia #NuncaMas</title>
-	  <link>/2012/03/di%c2%ada-de-la-memoria-por-la-verdad-y-la-justicia/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/di%c2%ada-de-la-memoria-por-la-verdad-y-la-justicia/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-03-24T12:04:23+00:00</pubDate>
-	  <guid>/2012/03/di%c2%ada-de-la-memoria-por-la-verdad-y-la-justicia/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/di%c2%ada-de-la-memoria-por-la-verdad-y-la-justicia/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/lineadetiempo/nuncamas.html"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/nunca_mas8x6.jpg" alt="Informe de la CONADEP" /></a></p>
 <p>Día por la memoria la verdad y la justicia en la escuela <a title="Escuela Aequalis" href="http://aequalis.esc.edu.ar" target="_blank">AEqualis</a>. Este trabajo lo realizaron los chicos de séptimo grado y lo expusieron en la ronda de ayer</p>
@@ -62,7 +62,7 @@
 
 	<item>
 	  <title>Líneas de tiempo libres</title>
-	  <link>/2012/03/lineas-de-tiempo-libres/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/lineas-de-tiempo-libres/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -83,7 +83,7 @@
 				
 		
 	  <pubDate>2012-03-24T10:00:19+00:00</pubDate>
-	  <guid>/2012/03/lineas-de-tiempo-libres/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/lineas-de-tiempo-libres/</guid>
 	  <description><![CDATA[
 	     <p>Vía<a title="Twitter de Nico" href="http://twitter.com/nicopace" target="_blank"> @nicopace</a> nos llega una aplicación web diseñada por <a title="Verite" href="http://timeline.verite.co/" target="_blank">Verite</a> que nos permite hacer lineas de tiempo altamente funcionales, que nos permiten agregar video, sonido e imágenes desde la web.</p>
 

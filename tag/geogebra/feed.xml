@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Geogebra para primaria</title>
-	  <link>/2011/03/geogebra-para-primaria/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/03/geogebra-para-primaria/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2011-03-16T07:27:03+00:00</pubDate>
-	  <guid>/2011/03/geogebra-para-primaria/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/03/geogebra-para-primaria/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" src="https://lh6.googleusercontent.com/-YMue4OIv-cI/TX_9j2RDvyI/AAAAAAAAICI/_3bcW4RQBCM/s200/geogebra_image.png" alt="" width="200" height="51" />GeoGebra es un popular programa libre usado en matemáticas por profesores y estudiantes. En general Geogebra se utiliza en la escuela secundaria o en niveles más avanzados,pero no tiene que limitarse a ese ámbito. A través de las<strong><a title="Blog fuente" href="http://www.freetech4teachers.com" target="_blank"> Freetechy4teacher</a></strong> me enteré acerca de <strong><a title="Geogebra Prim" href="http://www.geogebra.org/en/wiki/index.php/Release_Notes_GeoGebra_4.0#GeoGebraPrim" target="_blank">GeoGebra Prim</a></strong>. GeoGebra Prim está diseñado para el uso de los estudiantes de primaria y secundaria. El conjunto de herramientas de GeoGebra Prim es más pequeño que el de GeoGebra. Las herramientas también están diseñados para que sean más fáciles de usar por los estudiantes de primaria. Pueden leer más sobre <a title="Página de geogebra prim" href="http://www.geogebra.org/en/wiki/index.php/Release_Notes_GeoGebra_4.0" target="_blank">GeoGebra Prim aquí</a> y <a title="Descarga" href="http://www.geogebra.org/webstart/4.0/GeoGebraPrim.jnlp" target="_blank">descargarlo aquí</a>.</p>
 

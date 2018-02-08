@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Notas a la inciativa Webmaker Clubs de Mozilla 1. #TeachTheWeb #Webmaker</title>
-	  <link>/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</link>
+	  <link>https://acercadelaeducacion.com.ar/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-12-23T08:07:00+00:00</pubDate>
-	  <guid>/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</guid>
+	  <guid>https://acercadelaeducacion.com.ar/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker</guid>
 	  <description><![CDATA[
 	     <p>A partir de fines del 2014, <b><a href="https:mozilla.org">Mozilla</a></b> a través de <b><a href="https:webmaker.org">Webmaker</a></b> comienza a repensar la estrategia para encarar los siguientes temas:</p>
 <ul class="org-ul">
@@ -77,7 +77,7 @@
 
 	<item>
 	  <title>Estándares en Alfabetización Web | Introducción | #weblitstd</title>
-	  <link>/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -98,7 +98,7 @@
 				
 		
 	  <pubDate>2013-02-21T08:30:00+00:00</pubDate>
-	  <guid>/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/02/299208539_b2c0d7e521.jpg"><img class="size-full wp-image-1926 aligncenter" style="border: 3px solid black;" alt="299208539_b2c0d7e521" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/02/299208539_b2c0d7e521.jpg" width="500" height="333" /></a></p>
 
@@ -176,7 +176,7 @@ Necesitamos una manera de asegurar que estamos enseñando lo correcto, para cone
 
 	<item>
 	  <title>By By By Facebook | Si&hellip; otra vez</title>
-	  <link>/2012/12/by-by-by-facebook-si-otra-vez/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/12/by-by-by-facebook-si-otra-vez/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -197,7 +197,7 @@ Necesitamos una manera de asegurar que estamos enseñando lo correcto, para cone
 				
 		
 	  <pubDate>2012-12-03T00:00:00+00:00</pubDate>
-	  <guid>/2012/12/by-by-by-facebook-si-otra-vez/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/12/by-by-by-facebook-si-otra-vez/</guid>
 	  <description><![CDATA[
 	     <p>Me siento como cuando dejé de fumar… dejé como 4 o 5 veces, hasta que definitivamente dejé de fumar. En fin, espero que esta sea la última. Hace rato que quería hacerlo. Borré mi cuenta de Facebook. Las razones son muchas, pero la de que detonó mi cansancio es la simple. Pierdo mucho tiempo paveando, no aporta gran cosa a mi desarrollo y me mantengo actualizado de mis amigos… viéndolos, me entero de las novedades a través de los feeds. En definitiva fue un lindo divertimento mientras duró.</p>
 
@@ -206,7 +206,7 @@ Necesitamos una manera de asegurar que estamos enseñando lo correcto, para cone
 
 	<item>
 	  <title>Hace tu cajita pirata y compartí todo en cualquier lado #PirateBox</title>
-	  <link>/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -227,7 +227,7 @@ Necesitamos una manera de asegurar que estamos enseñando lo correcto, para cone
 				
 		
 	  <pubDate>2012-11-29T00:00:00+00:00</pubDate>
-	  <guid>/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-piratebox-logo1.png" alt="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-piratebox-logo1.png" width="226" height="199" /> La <a href="http://wiki.daviddarts.com/PirateBox_DIY">caja pirata</a> es un dispositivo que te permite crear una red wifi por la cual es posible intercambiar archivos y chatear sin que estas actividades sean monitoreadas ni registradas. Según su autor</p>
 <blockquote>Inspirado por la radio pirata y los movimientos de cultura libre, PirateBox es un dispositivo móvil autónomo de colaboración e intercambio de archivos. PirateBox utiliza Software Libre y software de código abierto (FLOSS) para crear redes inalámbricas móviles de intercambio de archivos donde los usuarios pueden compartir anónimamente imágenes, vídeo, audio, documentos y otros contenidos digitales.

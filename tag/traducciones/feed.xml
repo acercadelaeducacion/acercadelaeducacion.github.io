@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Traducción colaborativa: The Little Coder&#8217;s Predicament</title>
-	  <link>/traduccion-colaborativa-the-little-coders-predicament</link>
+	  <link>https://acercadelaeducacion.com.ar/traduccion-colaborativa-the-little-coders-predicament</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-17T08:54:57+00:00</pubDate>
-	  <guid>/traduccion-colaborativa-the-little-coders-predicament</guid>
+	  <guid>https://acercadelaeducacion.com.ar/traduccion-colaborativa-the-little-coders-predicament</guid>
 	  <description><![CDATA[
 	     <blockquote>Why the Lucky Stiff (o _Why para ser mas breves) fue uno de los programadores mas brillantes e inspiradores de estos tiempos. Se volvió famoso mediante una serie de blogs y una cantidad increible de proyectos open-source que mantuvo durante mas de 7 años.
 
@@ -68,7 +68,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 
 	<item>
 	  <title>Versión 1.0 del Estándar de Alfabetización Web #WebLitStd</title>
-	  <link>/2013/10/version-1-0-del-estandar-de-alfabetizacion-web-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/10/version-1-0-del-estandar-de-alfabetizacion-web-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -89,7 +89,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 				
 		
 	  <pubDate>2013-10-13T13:51:34+00:00</pubDate>
-	  <guid>/2013/10/version-1-0-del-estandar-de-alfabetizacion-web-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/10/version-1-0-del-estandar-de-alfabetizacion-web-weblitstd/</guid>
 	  <description><![CDATA[
 	     <p>Les dejo la actualización y versión 1.0 del <strong><a title="Página wiki en castellano del estándar" href="https://wiki.mozilla.org/Learning/WebLiteracyStandard_Es" target="_blank">Estándar de Alfabetización Web</a></strong>.</p>
 <p style="text-align: center;"><a href="https://wiki.mozilla.org/Learning/WebLiteracyStandard_Es"><img class="size-full wp-image-2219 aligncenter" alt="WebLitStd-V1.0_Es" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/10/WebLitStd-V1.0_Es.png" width="726" height="569" /></a></p>
@@ -111,7 +111,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 
 	<item>
 	  <title>Localization Models | Workflow with Github and Transifex | #WebLitStd</title>
-	  <link>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -132,7 +132,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 				
 		
 	  <pubDate>2013-03-23T17:31:00+00:00</pubDate>
-	  <guid>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
 	  <description><![CDATA[
 	     <div class="outline-2" id="outline-container-1">
 <h2>Introducción</h2>

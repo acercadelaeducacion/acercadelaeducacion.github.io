@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Mi vida en 18 palabras</title>
-	  <link>/2008/04/mi-vida-en-18-palabras/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/04/mi-vida-en-18-palabras/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-04-01T18:06:17+00:00</pubDate>
-	  <guid>/2008/04/mi-vida-en-18-palabras/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/04/mi-vida-en-18-palabras/</guid>
 	  <description><![CDATA[
 	     <p><a title="Karpicius" href="http://www.karpicius.com.ar/?p=164" target="_blank">Karpicius</a> me pasa este meme… y lo sigo y distribuyo</p>
 <blockquote>Consiste en responder tres preguntas con seis palabras para cada un de ellas.
@@ -74,7 +74,7 @@ voy a ser papá, ¿Como será….?</p>
 
 	<item>
 	  <title>Premio Blog Solidario</title>
-	  <link>/2007/10/premio-blog-solidario/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/10/premio-blog-solidario/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -95,7 +95,7 @@ voy a ser papá, ¿Como será….?</p>
 				
 		
 	  <pubDate>2007-10-14T18:00:20+00:00</pubDate>
-	  <guid>/2007/10/premio-blog-solidario/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/10/premio-blog-solidario/</guid>
 	  <description><![CDATA[
 	     <p><img src="http://irisfernandez.com.ar/betaweblog/wp-content/uploads/2007/10/blogsolidariobmpni3.thumbnail.jpg" align="left" height="74" width="128" /> Por primera vez este blog es premiado con algo, y la verdad, la sensación es linda. Linda porque quienes hacemos esto de escribir, comentar y por ende crear en este medio, muchas veces lo hacemos (parafraseando al amigo <a href="http://danielkaar.wordpress.com/" title="Daniel kirchman"><strong>Daniel Kirchman</strong></a>) <em>“robandole tiempo a todo lo demás”</em> y entonces, cuando un amigo como <a href="http://www.karpicius.com.ar/?p=98" title="Karpicius"><strong>karpicius </strong></a>menciona el blog y le otorga el premio… pues bien… se siente lindo ydan ganas de seguir.</p>
 

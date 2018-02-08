@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Khan Academy en el aula | Diapositivas</title>
-	  <link>/khan-academy-en-el-aula-diapositivas</link>
+	  <link>https://acercadelaeducacion.com.ar/khan-academy-en-el-aula-diapositivas</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-02-24T11:57:38+00:00</pubDate>
-	  <guid>/khan-academy-en-el-aula-diapositivas</guid>
+	  <guid>https://acercadelaeducacion.com.ar/khan-academy-en-el-aula-diapositivas</guid>
 	  <description><![CDATA[
 	     <p><a href="assets/presentaciones/charlaKhanAcademy/charlaKhanAcademy.html">Diapositivas para la charla sobre el uso de Khan Academy en el aula</a></p>
 
@@ -59,7 +59,7 @@
 
 	<item>
 	  <title>Slides Mozilla Open Badges | #FLISol2014 |#openbadges</title>
-	  <link>/slides-mozilla-open-badges-flisol2014-openbadges</link>
+	  <link>https://acercadelaeducacion.com.ar/slides-mozilla-open-badges-flisol2014-openbadges</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -80,7 +80,7 @@
 				
 		
 	  <pubDate>2014-04-26T08:25:20+00:00</pubDate>
-	  <guid>/slides-mozilla-open-badges-flisol2014-openbadges</guid>
+	  <guid>https://acercadelaeducacion.com.ar/slides-mozilla-open-badges-flisol2014-openbadges</guid>
 	  <description><![CDATA[
 	     <p>Entre ayer y hoy voy a estar dando <a title="Eventos" href="https://events.webmaker.org/#!/user/amaciel" target="_blank">3 o 4 charlas</a> en el marco del <a href="http://flisol.info" target="_blank">FLISoL</a>.</p>
 
@@ -94,7 +94,7 @@
 
 	<item>
 	  <title>Presentación: Pan y Queso, el fútbol que me gusta jugar</title>
-	  <link>/presentacion-pan-y-queso-el-futbol-que-me-gusta-jugar</link>
+	  <link>https://acercadelaeducacion.com.ar/presentacion-pan-y-queso-el-futbol-que-me-gusta-jugar</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -115,7 +115,7 @@
 				
 		
 	  <pubDate>2014-03-16T21:42:01+00:00</pubDate>
-	  <guid>/presentacion-pan-y-queso-el-futbol-que-me-gusta-jugar</guid>
+	  <guid>https://acercadelaeducacion.com.ar/presentacion-pan-y-queso-el-futbol-que-me-gusta-jugar</guid>
 	  <description><![CDATA[
 	     <p>El martes 25 de Marzo a las 22 Hs, en <strong>MedioCampo</strong>, se presenta <strong>Pan y queso, el fútbol que me gusta jugar,</strong> de <strong>Ricardo Maldonado</strong>.
 La invitación es para venir, hablar de fútbol y compartir moscato y fainá.</p>

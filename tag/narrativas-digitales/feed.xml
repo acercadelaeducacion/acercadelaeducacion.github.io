@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Traducción colaborativa: The Little Coder&#8217;s Predicament</title>
-	  <link>/traduccion-colaborativa-the-little-coders-predicament</link>
+	  <link>https://acercadelaeducacion.com.ar/traduccion-colaborativa-the-little-coders-predicament</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-17T08:54:57+00:00</pubDate>
-	  <guid>/traduccion-colaborativa-the-little-coders-predicament</guid>
+	  <guid>https://acercadelaeducacion.com.ar/traduccion-colaborativa-the-little-coders-predicament</guid>
 	  <description><![CDATA[
 	     <blockquote>Why the Lucky Stiff (o _Why para ser mas breves) fue uno de los programadores mas brillantes e inspiradores de estos tiempos. Se volvió famoso mediante una serie de blogs y una cantidad increible de proyectos open-source que mantuvo durante mas de 7 años.
 
@@ -68,7 +68,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 
 	<item>
 	  <title>Narrativas Digitales. Algunos pensamientos más</title>
-	  <link>/narrativas-digitales-algunos-pensamientos-mas</link>
+	  <link>https://acercadelaeducacion.com.ar/narrativas-digitales-algunos-pensamientos-mas</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -89,7 +89,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 				
 		
 	  <pubDate>2014-03-15T11:56:49+00:00</pubDate>
-	  <guid>/narrativas-digitales-algunos-pensamientos-mas</guid>
+	  <guid>https://acercadelaeducacion.com.ar/narrativas-digitales-algunos-pensamientos-mas</guid>
 	  <description><![CDATA[
 	     <p>Sigo dándole vueltas a esto que ya arrancó <a title="Pensamiento en voz alta | Narrativas digitales" href="http://www.acercadelaeducacion.com.ar/2014/03/pensamiento-en-voz-alta-narrativas-digitales/">acá</a>. Y de paso, pruebo <a title="Enlace a medium" href="http://medium.com">Medium</a>. Un servicio de escritura  muy interesante. Os dejo las dos versiones</p>
 

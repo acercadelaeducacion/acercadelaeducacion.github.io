@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Sobre la docencia. Los pensadores y los panelistas.</title>
-	  <link>/sobre-la-docencia-los-pensadores-y-los-panelistas</link>
+	  <link>https://acercadelaeducacion.com.ar/sobre-la-docencia-los-pensadores-y-los-panelistas</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2017-03-20T08:56:53+00:00</pubDate>
-	  <guid>/sobre-la-docencia-los-pensadores-y-los-panelistas</guid>
+	  <guid>https://acercadelaeducacion.com.ar/sobre-la-docencia-los-pensadores-y-los-panelistas</guid>
 	  <description><![CDATA[
 	     <p><img class="size-full aligncenter" src="http://media.giphy.com/media/o2KLYPem407CM/giphy.gif" width="500" height="280" /></p>
 
@@ -79,7 +79,7 @@
 
 	<item>
 	  <title>El espectáculo educativo</title>
-	  <link>/el-espectaculo-educativo</link>
+	  <link>https://acercadelaeducacion.com.ar/el-espectaculo-educativo</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -100,7 +100,7 @@
 				
 		
 	  <pubDate>2016-11-21T19:31:02+00:00</pubDate>
-	  <guid>/el-espectaculo-educativo</guid>
+	  <guid>https://acercadelaeducacion.com.ar/el-espectaculo-educativo</guid>
 	  <description><![CDATA[
 	     <p>La realidad educativa se puede presentar como una representación. Como un espectáculo.</p>
 
@@ -126,7 +126,7 @@
 
 	<item>
 	  <title>Mestizo No Híbrido</title>
-	  <link>/mestizo-no-hibrido</link>
+	  <link>https://acercadelaeducacion.com.ar/mestizo-no-hibrido</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -147,7 +147,7 @@
 				
 		
 	  <pubDate>2016-11-05T09:54:57+00:00</pubDate>
-	  <guid>/mestizo-no-hibrido</guid>
+	  <guid>https://acercadelaeducacion.com.ar/mestizo-no-hibrido</guid>
 	  <description><![CDATA[
 	     <p><img style="float: right; margin:10px;" src="http://66.media.tumblr.com/f2ecc97972039f40a4cbcdf182ba8c32/tumblr_njsjkg4gq01sjurvio1_1280.jpg" alt="" width="283" height="386" />En algún momento me definí como un híbrido entre la educación y la tecnología, alguien me advirtió luego que los híbridos son estériles. No tienen descendencia y dejé a un lado la metáfora híbrida.</p>
 
@@ -166,7 +166,7 @@
 
 	<item>
 	  <title>Vida espectacularizada. Educación espectacular</title>
-	  <link>/vida-espectacularizada-educacion-espectacular</link>
+	  <link>https://acercadelaeducacion.com.ar/vida-espectacularizada-educacion-espectacular</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -187,7 +187,7 @@
 				
 		
 	  <pubDate>2015-12-26T13:16:38+00:00</pubDate>
-	  <guid>/vida-espectacularizada-educacion-espectacular</guid>
+	  <guid>https://acercadelaeducacion.com.ar/vida-espectacularizada-educacion-espectacular</guid>
 	  <description><![CDATA[
 	     <blockquote>
   <ol>
@@ -218,7 +218,7 @@ La especialización de las imágenes del mundo se encuentra, consumada, en el mu
 
 	<item>
 	  <title>Subjetividades y Facebook</title>
-	  <link>/subjetividades-y-facebook</link>
+	  <link>https://acercadelaeducacion.com.ar/subjetividades-y-facebook</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -239,7 +239,7 @@ La especialización de las imágenes del mundo se encuentra, consumada, en el mu
 				
 		
 	  <pubDate>2015-12-24T07:59:43+00:00</pubDate>
-	  <guid>/subjetividades-y-facebook</guid>
+	  <guid>https://acercadelaeducacion.com.ar/subjetividades-y-facebook</guid>
 	  <description><![CDATA[
 	     <p>Tal vez sea la edad, haber llegado tarde al lugar donde hoy todos dicen que hay que estar.
 Pero siento cierta satisfacción al saber, al sentir, que casi todo lo que me pasa es por el cuerpo.
@@ -252,7 +252,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 
 	<item>
 	  <title>La evaluación como fulcro de la enseñanza</title>
-	  <link>/la-evaluacion-como-fulcro-de-la-ensenanza</link>
+	  <link>https://acercadelaeducacion.com.ar/la-evaluacion-como-fulcro-de-la-ensenanza</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -273,7 +273,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 				
 		
 	  <pubDate>2014-07-29T16:29:51+00:00</pubDate>
-	  <guid>/la-evaluacion-como-fulcro-de-la-ensenanza</guid>
+	  <guid>https://acercadelaeducacion.com.ar/la-evaluacion-como-fulcro-de-la-ensenanza</guid>
 	  <description><![CDATA[
 	     <p><a title="Reflexión en mi otro lado" href="http://acercadelaeducacion.github.io/blog/2014/07/29/reflexiones-en-torno-a-la-evaluacion/">La evaluación como fulcro de la enseñanza</a></p>
 
@@ -282,7 +282,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 
 	<item>
 	  <title>Lo que los docentes tienen que hacer…</title>
-	  <link>/lo-que-los-docentes-tienen-que-hacer</link>
+	  <link>https://acercadelaeducacion.com.ar/lo-que-los-docentes-tienen-que-hacer</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -303,7 +303,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 				
 		
 	  <pubDate>2014-04-30T09:31:28+00:00</pubDate>
-	  <guid>/lo-que-los-docentes-tienen-que-hacer</guid>
+	  <guid>https://acercadelaeducacion.com.ar/lo-que-los-docentes-tienen-que-hacer</guid>
 	  <description><![CDATA[
 	     <p>Re formulación de un arrebato de ira en una lista de mail</p>
 
@@ -315,7 +315,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 
 	<item>
 	  <title>Competencias I</title>
-	  <link>/competencias-i</link>
+	  <link>https://acercadelaeducacion.com.ar/competencias-i</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -336,7 +336,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 				
 		
 	  <pubDate>2014-04-03T09:47:32+00:00</pubDate>
-	  <guid>/competencias-i</guid>
+	  <guid>https://acercadelaeducacion.com.ar/competencias-i</guid>
 	  <description><![CDATA[
 	     <p>¡Qué es lo que nos hace creer, a los educadores, que estamos al margen de la matriz competitiva que gobierna el mundo?</p>
 <p style="text-align: center;"></p>
@@ -346,7 +346,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 
 	<item>
 	  <title>Reflexión al vuelo sobre los nerds, los cancheros y el hacktivismo</title>
-	  <link>/2013/06/reflexion-al-vuelo-sobre-los-nerds-los-cancheros-y-el-hacktivismo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/06/reflexion-al-vuelo-sobre-los-nerds-los-cancheros-y-el-hacktivismo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -367,7 +367,7 @@ Me encuentro con que las cosas que son importantes las sigo viviendo através de
 				
 		
 	  <pubDate>2013-06-22T20:12:27+00:00</pubDate>
-	  <guid>/2013/06/reflexion-al-vuelo-sobre-los-nerds-los-cancheros-y-el-hacktivismo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/06/reflexion-al-vuelo-sobre-los-nerds-los-cancheros-y-el-hacktivismo/</guid>
 	  <description><![CDATA[
 	     <p>Creo que el nerdismo, hacktivismo, la cultura hacker con sus excentricidades es una de las vías hacia la liberación.</p>
 

@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Wake Up</title>
-	  <link>/2008/08/wake-up/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/08/wake-up/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-08-15T13:40:22+00:00</pubDate>
-	  <guid>/2008/08/wake-up/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/08/wake-up/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 2px solid black; margin: 2px;" title="despertate" src="http://farm1.static.flickr.com/93/370023716_a8848719bf_m.jpg" alt="" width="240" height="180" />En el blog y en mi vida, más que se vienen, vinieron y todavía están acá. En pricipio, habrá que ponerle a esto una dosis de sistematización. Enpiezo por ahí.</p>
 

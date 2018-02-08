@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Tuquito 4.1 LXDE funcionando en classmate touch</title>
-	  <link>/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2010-10-24T13:03:25+00:00</pubDate>
-	  <guid>/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</guid>
 	  <description><![CDATA[
 	     <p>Este fin de semana salió <a href="http://blog.tuquito.org.ar/2010/10/22/tuquito-4-1-wichi-lxde-alpha-liberado/" target="_self">la nueva versión ALPHA</a> de <strong><a href="http://www.tuquito.org.ar">Tuquito</a></strong>. La instalé y probé en una classmate touch. Funciona de maravillas.</p>
 
@@ -118,7 +118,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 
 	<item>
 	  <title>Apuntes para una charla | Epuel &#8211; actualización</title>
-	  <link>/2010/09/apuntes-para-una-charla-epuel-actualizacion/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/09/apuntes-para-una-charla-epuel-actualizacion/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -139,7 +139,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 				
 		
 	  <pubDate>2010-09-08T01:12:04+00:00</pubDate>
-	  <guid>/2010/09/apuntes-para-una-charla-epuel-actualizacion/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/09/apuntes-para-una-charla-epuel-actualizacion/</guid>
 	  <description><![CDATA[
 	     <p><span style="text-decoration: line-through;"> Es sido invitado</span>Me invitaron a dar una charla en<a title="Link al sitio de Epuel" href="http://2010.epuel.org.ar/" target="_blank"> Epuel 2010</a>.<br />&lt;blockquote&gt; EPUEL  es el Encuentro Por Una Educación Libre….Es un evento que reúne  educadores de diferentes niveles, comunidad de software y cultura libre,  actores oficiales, autoridades educativas, estudiantes y público en  general para debatir y construir juntos la posibilidad de aprovechar al  máximo la cultura, ética y filosofía del software libre en las aulas. <br /> <br /> El evento es libre y gratuito, no es necesario registrarse previamente para participar.&lt;/blockquote&gt;<br />Disertaré sobre “Tuquito en las Classmate” de 16:40 a 17:20. Punteo un borrador de temas que pienso abordar:<br />&lt;ul&gt; <br /> &lt;li&gt;  Elementos de una decisión. &lt;/li&gt; <br /> &lt;li&gt;  ¿Software educativo? &lt;/li&gt; <br /> &lt;li&gt;  Comunidad de práctica. &lt;/li&gt; <br />&lt;/ul&gt;<br />Se aceptan sugerencias para agregar al punteo<br /><br />Actualización<br />lamentablemente no puedo llegar al evento. Complicaciones laborales me obligan a atender una serie de reuniones que imposibilitan mi presencia  en el evento.</p>
 
@@ -148,7 +148,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 
 	<item>
 	  <title>Streaming del Simposio de Software Libre y Educación</title>
-	  <link>/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -169,7 +169,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 				
 		
 	  <pubDate>2010-05-08T01:54:44+00:00</pubDate>
-	  <guid>/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="aligncenter size-medium wp-image-527" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="" width="300" height="115" /></a></p>
 
@@ -256,7 +256,7 @@ construcción y difusión de los contenidos educativos.</p>
 
 	<item>
 	  <title>Simposio sobre Software Libre y Educación en Buenos Aires</title>
-	  <link>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -277,7 +277,7 @@ construcción y difusión de los contenidos educativos.</p>
 				
 		
 	  <pubDate>2010-05-06T00:00:28+00:00</pubDate>
-	  <guid>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="alignleft size-medium wp-image-527" style="border: 3px solid black; margin: 3px;" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="Banner del simposio" width="300" height="115" /></a>Participaré junto a<a href="http://ramiropol.com.ar"> Ramiro Pol</a> en el<a href="http://www.slye.org.ar/2010/">Tercer Simposio sobre Software Libre y Educación</a> (SLyE), organizado por la comunidad educativa libre de <a href="http://www.gleducar.org.ar/">Gleducar</a>. Disertaremos sobre Tuquito en las Classmate. EL simposio se realizará el próximo <strong>8 de Mayo</strong> en la <a href="http://www.filo.uba.ar/">Facultad de Filosofía y Letras de la Universidad de Buenos Aires</a> (UBA).</p>
 
@@ -302,7 +302,7 @@ construcción y difusión de los contenidos educativos.</p>
 
 	<item>
 	  <title>Las OLPC, las Classmate y la mar en coche</title>
-	  <link>/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -323,7 +323,7 @@ construcción y difusión de los contenidos educativos.</p>
 				
 		
 	  <pubDate>2010-03-19T21:20:28+00:00</pubDate>
-	  <guid>/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" title="Obsoleto" src="http://farm1.static.flickr.com/40/84051198_ae7ee5cbd5.jpg" alt="" width="287" height="300" />La fiebre 1 a 1 invadió las oficinas públicas y de pronto hoy todos salimos corriendo a comprar netbooks, o notbooks o algo similar aunque no sepamos bien cual es la diferencia. El caso <a title="Plan Ceibal" href="http://www.ceibal.edu.uy/">Uruguayo</a> despertó en la clase dirigente una ventana más para buscar el tan ansiado balcón (presidencial, provincial o municipal) y de buenas a primeras el dinero fluye de las cajas a la inversión en equipos, software, capacitaciones y profesionales. No es un panorama criticable, a menos que seas un <a title="Quemarse a lo bonzo en wikipedia" href="http://es.wikipedia.org/wiki/Quemarse_a_lo_bonzo">bonzo</a>. No es mi caso. Pero no dejo de sentir una cierta incomodidad en todo este asunto: que llenó mi casilla de mails, mis feeds de artículos, pero que no despejó ninguna de mis dudas.</p>
 
@@ -357,7 +357,7 @@ construcción y difusión de los contenidos educativos.</p>
 
 	<item>
 	  <title>Seguramente&#8230;</title>
-	  <link>/2009/08/seguramente/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/08/seguramente/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -378,7 +378,7 @@ construcción y difusión de los contenidos educativos.</p>
 				
 		
 	  <pubDate>2009-08-04T22:18:12+00:00</pubDate>
-	  <guid>/2009/08/seguramente/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/08/seguramente/</guid>
 	  <description><![CDATA[
 	     <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } 		A:link { so-language: zxx } -->
 <p style="margin-bottom: 0.49cm;">Trasnscribo una nota de Jorge Novello, con la que no sólo acuerdo, sino que también comparto:</p>

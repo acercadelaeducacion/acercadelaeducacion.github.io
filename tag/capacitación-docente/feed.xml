@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Diario de un viaje educativo</title>
-	  <link>/2008/05/diario-de-un-viaje-educativo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/05/diario-de-un-viaje-educativo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-05-14T20:17:39+00:00</pubDate>
-	  <guid>/2008/05/diario-de-un-viaje-educativo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/05/diario-de-un-viaje-educativo/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 2px solid black; margin: 2px; float: left;" src="http://farm4.static.flickr.com/3109/2493585758_a8ff0943a6_m.jpg" alt="el sur también existe" width="240" height="179" /> Escribí esto mientras me encontraba en<a href="es.wikipedia.org/wiki/Pico_Truncado"> <strong>Pico Truncado</strong> </a> ciudad al norte de Rió Gallegos en la <strong><a title="página oficial" href="http://www.santacruz.gov.ar/">Provincia de Santa Cruz</a> </strong> .
 Comenzando con una serie de cursos sobre usos pedagógicos de las TIC, son 4 encuentros en cuatro meses con un seguimiento y acciones a través del <strong><a title="campus de chicos.net" href="http://campus.chicos.net.ar">campus de chicos.net</a> </strong> .

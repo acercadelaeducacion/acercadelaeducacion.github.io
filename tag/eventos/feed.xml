@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Día de las máquinas libres y cumpleaños de la bicicueva</title>
-	  <link>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-13T10:34:32+00:00</pubDate>
-	  <guid>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
 	  <description><![CDATA[
 	     <p><a title="Página Biblio Barracas" href="http://www.bibliobarracas.com.ar" target="_blank">La Biblio Barracas</a> está de fiesta</p>
 
@@ -79,7 +79,7 @@
 
 	<item>
 	  <title>Día del Hardware Libre | Hardware Fredom Day</title>
-	  <link>/2014/03/dia-del-hardware-libre-hardware-fredom-day/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/03/dia-del-hardware-libre-hardware-fredom-day/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -100,7 +100,7 @@
 				
 		
 	  <pubDate>2014-03-10T19:31:20+00:00</pubDate>
-	  <guid>/2014/03/dia-del-hardware-libre-hardware-fredom-day/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/03/dia-del-hardware-libre-hardware-fredom-day/</guid>
 	  <description><![CDATA[
 	     <p>Sábado 15 de Marzo</p>
 
@@ -126,7 +126,7 @@
 
 	<item>
 	  <title>III Evento de Software libre y economia social 2012 | gcoop &#8211; Cooperativa de Software Libre</title>
-	  <link>/2012/06/iii-evento-de-software-libre-y-economia-social-2012-gcoop-cooperativa-de-software-libre/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/06/iii-evento-de-software-libre-y-economia-social-2012-gcoop-cooperativa-de-software-libre/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -147,7 +147,7 @@
 				
 		
 	  <pubDate>2012-06-07T14:38:41+00:00</pubDate>
-	  <guid>/2012/06/iii-evento-de-software-libre-y-economia-social-2012-gcoop-cooperativa-de-software-libre/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/06/iii-evento-de-software-libre-y-economia-social-2012-gcoop-cooperativa-de-software-libre/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/05/gcoop-slyes2012_banner702x135.png"><img class="aligncenter size-medium wp-image-1624" title="gcoop-slyes2012_banner702x135" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/05/gcoop-slyes2012_banner702x135-300x57.png" alt="" width="300" height="57" /></a></p>
 
@@ -195,7 +195,7 @@
 
 	<item>
 	  <title>Colaborá! Quedan pocos días… « Laboratorio de Juguete</title>
-	  <link>/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -216,7 +216,7 @@
 				
 		
 	  <pubDate>2012-03-25T19:47:05+00:00</pubDate>
-	  <guid>/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</guid>
 	  <description><![CDATA[
 	     <p>Necesitamos más de estos eventos en Argentina. vía <a href="http://toylab.wordpress.com/2012/03/25/colabora-quedan-pocos-dias/">Colaborá! Quedan pocos días… « Laboratorio de Juguete</a>.</p>
 
@@ -238,7 +238,7 @@ Recordá también que si tenés algun circuito diseñado que quieras compartir, 
 
 	<item>
 	  <title>Evento| Tuquito Urbano|Software Libre | Ethical Hacking</title>
-	  <link>/2009/12/evento-tuquito-urbanosoftwar-libre-ethical-hacking/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/12/evento-tuquito-urbanosoftwar-libre-ethical-hacking/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -259,7 +259,7 @@ Recordá también que si tenés algun circuito diseñado que quieras compartir, 
 				
 		
 	  <pubDate>2009-12-15T20:43:23+00:00</pubDate>
-	  <guid>/2009/12/evento-tuquito-urbanosoftwar-libre-ethical-hacking/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/12/evento-tuquito-urbanosoftwar-libre-ethical-hacking/</guid>
 	  <description><![CDATA[
 	     <div>
 

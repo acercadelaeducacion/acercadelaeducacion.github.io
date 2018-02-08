@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>#Processing, el arte de programar o programar arte</title>
-	  <link>/2012/05/processing-el-arte-de-programar-o-programar-arte/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/05/processing-el-arte-de-programar-o-programar-arte/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-05-20T16:49:30+00:00</pubDate>
-	  <guid>/2012/05/processing-el-arte-de-programar-o-programar-arte/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/05/processing-el-arte-de-programar-o-programar-arte/</guid>
 	  <description><![CDATA[
 	     <p>Empecé un <a title="Datos del curso" href="http://educacion.centroculturalsanmartin.com/?page_id=55" target="_blank">curso</a> de <strong><a title="Página de Open Processing" href="http://www.openprocessing.org/">Processing</a></strong> en el Centro Cultural General San Martín, ya había publicado algo de <a title="Listado de cursos y talleres" href="http://www.acercadelaeducacion.com.ar/2012/04/04/centro-cultural-general-san-martin-cursos-y-talleres-en-el-ccgsm/">esto hace algunas semana</a>. El curso dura seis meses y me sirve tanto para aprender a programar, como a conectar mi lado mas <strong>nerdo</strong> con mi lado más artístico.</p>
 

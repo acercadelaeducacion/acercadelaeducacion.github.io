@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Make as Learning | Aprender Creando o Aprender Haciendo #teachtheweb</title>
-	  <link>/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-05-10T16:33:00+00:00</pubDate>
-	  <guid>/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/05/make-as-learning-aprender-creando-o-aprender-haciendo-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft size-full wp-image-2058" alt="3010557283_67bb64947d" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/05/3010557283_67bb64947d.jpg" width="339" height="230" />No es fácil encontrar la palabra adecuada para cada frase cuando lo que está en juego es una interpretación. Por algún motivo, hay juegos de palabras que me resultan más significativos, o conflictivos, a la hora de traducir un texto: <strong>Make as Learning</strong> es uno de ellos.</p>
 

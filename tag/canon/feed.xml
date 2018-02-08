@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Comunicado de la reunión con Filmus sobre el Canon</title>
-	  <link>/2009/03/comunicado-de-la-reunion-con-filmus-sobre-el-canono/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/03/comunicado-de-la-reunion-con-filmus-sobre-el-canono/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2009-03-15T13:03:54+00:00</pubDate>
-	  <guid>/2009/03/comunicado-de-la-reunion-con-filmus-sobre-el-canono/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/03/comunicado-de-la-reunion-con-filmus-sobre-el-canono/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.vialibre.org.ar/2009/03/14/no-voy-a-presentar-nada-que-no-tenga-consenso/trackback/" target="_blank">Replico entero</a> el comunicado de Vía Libre sobre la reunión que mantuvieron una delegación de organizaciones con el senador Daniel Filmus. El asunto en cuestión: El canon.</p>
 

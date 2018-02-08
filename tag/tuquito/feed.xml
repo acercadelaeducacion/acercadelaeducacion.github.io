@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
-	  <link>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
-	  <guid>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
 	  <description><![CDATA[
 	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
 
@@ -193,7 +193,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Geogebra para primaria</title>
-	  <link>/2011/03/geogebra-para-primaria-2/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/03/geogebra-para-primaria-2/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -214,7 +214,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2011-03-19T18:55:13+00:00</pubDate>
-	  <guid>/2011/03/geogebra-para-primaria-2/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/03/geogebra-para-primaria-2/</guid>
 	  <description><![CDATA[
 	     <p>Esta es una prueba del <a title="Geogebra para primaria" href="http://www.acercadelaeducacion.com.ar/2011/03/16/geogebra-para-primaria/">geogebra para primaria</a></p>
 
@@ -225,7 +225,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Ardesia y Zotero: Anotaciones y grabaciones en pantalla | Recolección y administración de fuentes</title>
-	  <link>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -246,7 +246,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2010-12-10T18:17:49+00:00</pubDate>
-	  <guid>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba.png"><img class="size-medium wp-image-830 alignleft" style="border: 2px solid black; margin: 3px;" title="ardesia_prueba" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba-300x168.png" alt="" width="300" height="168" /></a></p>
 
@@ -278,7 +278,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Charla en Conurbania</title>
-	  <link>/2010/11/charla-en-conurbania/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/11/charla-en-conurbania/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -299,7 +299,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2010-11-14T15:58:00+00:00</pubDate>
-	  <guid>/2010/11/charla-en-conurbania/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/11/charla-en-conurbania/</guid>
 	  <description><![CDATA[
 	     <p>Ayer di la charla <strong>Tuquito y Classmate</strong> (La máquina, una excusa para encontrarnos). Quería agradecer a la gente de <a title="Página de conurbania" href="http://conurbania.org.ar" target="_blank">Conurbania</a> por la invitación y la calidad en la organización del evento. Fue una buena oportunidad para reencontrarme con gente a la que sólo conocía desde la virtualidad.</p>
 
@@ -322,7 +322,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Tuquito 4.1 LXDE funcionando en classmate touch</title>
-	  <link>/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -343,7 +343,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2010-10-24T13:03:25+00:00</pubDate>
-	  <guid>/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/10/tuquito-4-1-lxde-funcionando-en-classmate-touch/</guid>
 	  <description><![CDATA[
 	     <p>Este fin de semana salió <a href="http://blog.tuquito.org.ar/2010/10/22/tuquito-4-1-wichi-lxde-alpha-liberado/" target="_self">la nueva versión ALPHA</a> de <strong><a href="http://www.tuquito.org.ar">Tuquito</a></strong>. La instalé y probé en una classmate touch. Funciona de maravillas.</p>
 
@@ -411,7 +411,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 
 	<item>
 	  <title>Apuntes para una charla | Epuel &#8211; actualización</title>
-	  <link>/2010/09/apuntes-para-una-charla-epuel-actualizacion/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/09/apuntes-para-una-charla-epuel-actualizacion/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -432,7 +432,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 				
 		
 	  <pubDate>2010-09-08T01:12:04+00:00</pubDate>
-	  <guid>/2010/09/apuntes-para-una-charla-epuel-actualizacion/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/09/apuntes-para-una-charla-epuel-actualizacion/</guid>
 	  <description><![CDATA[
 	     <p><span style="text-decoration: line-through;"> Es sido invitado</span>Me invitaron a dar una charla en<a title="Link al sitio de Epuel" href="http://2010.epuel.org.ar/" target="_blank"> Epuel 2010</a>.<br />&lt;blockquote&gt; EPUEL  es el Encuentro Por Una Educación Libre….Es un evento que reúne  educadores de diferentes niveles, comunidad de software y cultura libre,  actores oficiales, autoridades educativas, estudiantes y público en  general para debatir y construir juntos la posibilidad de aprovechar al  máximo la cultura, ética y filosofía del software libre en las aulas. <br /> <br /> El evento es libre y gratuito, no es necesario registrarse previamente para participar.&lt;/blockquote&gt;<br />Disertaré sobre “Tuquito en las Classmate” de 16:40 a 17:20. Punteo un borrador de temas que pienso abordar:<br />&lt;ul&gt; <br /> &lt;li&gt;  Elementos de una decisión. &lt;/li&gt; <br /> &lt;li&gt;  ¿Software educativo? &lt;/li&gt; <br /> &lt;li&gt;  Comunidad de práctica. &lt;/li&gt; <br />&lt;/ul&gt;<br />Se aceptan sugerencias para agregar al punteo<br /><br />Actualización<br />lamentablemente no puedo llegar al evento. Complicaciones laborales me obligan a atender una serie de reuniones que imposibilitan mi presencia  en el evento.</p>
 
@@ -441,7 +441,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 
 	<item>
 	  <title>Streaming del Simposio de Software Libre y Educación</title>
-	  <link>/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -462,7 +462,7 @@ Se mejoró el consumo de CPU y RAM de aplicaciones al inicio del sistema</li>
 				
 		
 	  <pubDate>2010-05-08T01:54:44+00:00</pubDate>
-	  <guid>/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/05/streaming-del-simposio-de-software-libre-y-educacion/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="aligncenter size-medium wp-image-527" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="" width="300" height="115" /></a></p>
 
@@ -549,7 +549,7 @@ construcción y difusión de los contenidos educativos.</p>
 
 	<item>
 	  <title>Simposio sobre Software Libre y Educación en Buenos Aires</title>
-	  <link>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -570,7 +570,7 @@ construcción y difusión de los contenidos educativos.</p>
 				
 		
 	  <pubDate>2010-05-06T00:00:28+00:00</pubDate>
-	  <guid>/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/05/simposio-sobre-software-libre-y-educacion-en-buenos-aires/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE.png"><img class="alignleft size-medium wp-image-527" style="border: 3px solid black; margin: 3px;" title="SLyE" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/05/SLyE-300x115.png" alt="Banner del simposio" width="300" height="115" /></a>Participaré junto a<a href="http://ramiropol.com.ar"> Ramiro Pol</a> en el<a href="http://www.slye.org.ar/2010/">Tercer Simposio sobre Software Libre y Educación</a> (SLyE), organizado por la comunidad educativa libre de <a href="http://www.gleducar.org.ar/">Gleducar</a>. Disertaremos sobre Tuquito en las Classmate. EL simposio se realizará el próximo <strong>8 de Mayo</strong> en la <a href="http://www.filo.uba.ar/">Facultad de Filosofía y Letras de la Universidad de Buenos Aires</a> (UBA).</p>
 
@@ -595,7 +595,7 @@ construcción y difusión de los contenidos educativos.</p>
 
 	<item>
 	  <title>Tuquito-Sugar</title>
-	  <link>/2010/02/tuquito-sugar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/02/tuquito-sugar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -616,7 +616,7 @@ construcción y difusión de los contenidos educativos.</p>
 				
 		
 	  <pubDate>2010-02-03T10:37:38+00:00</pubDate>
-	  <guid>/2010/02/tuquito-sugar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/02/tuquito-sugar/</guid>
 	  <description><![CDATA[
 	     <p>Este es el video de las primeras pruebas de <a title="página de sugar" href="http://www.sugarlabs.org/">Sugar</a> sobre <a title="página de tuquito" href="http://tuquito.org.ar">Tuquito</a>. En estas pruebas usamos una classamate tercera generación (touchscreen) y mi Toshiba.</p>
 
@@ -627,7 +627,7 @@ construcción y difusión de los contenidos educativos.</p>
 
 	<item>
 	  <title>Mirá:Tuquito Urbano en vivo</title>
-	  <link>/2009/12/miratuquito-urbano-en-vivo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/12/miratuquito-urbano-en-vivo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -648,7 +648,7 @@ construcción y difusión de los contenidos educativos.</p>
 				
 		
 	  <pubDate>2009-12-19T00:54:41+00:00</pubDate>
-	  <guid>/2009/12/miratuquito-urbano-en-vivo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/12/miratuquito-urbano-en-vivo/</guid>
 	  <description><![CDATA[
 	     <object id="utv496475" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="320" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="autoplay=false&amp;brand=embed&amp;cid=2321347" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.ustream.tv/flash/live/1/2321347" /><param name="name" value="utv_n_410792" /><embed id="utv496475" type="application/x-shockwave-flash" width="400" height="320" src="http://www.ustream.tv/flash/live/1/2321347" name="utv_n_410792" allowscriptaccess="always" allowfullscreen="true" flashvars="autoplay=false&amp;brand=embed&amp;cid=2321347" />&lt;/embed&gt;</object>
 <p><a style="padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" href="http://www.ustream.tv/" target="_blank">Free video chat by Ustream</a></p>

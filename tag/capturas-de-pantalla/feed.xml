@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Ardesia y Zotero: Anotaciones y grabaciones en pantalla | Recolección y administración de fuentes</title>
-	  <link>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2010-12-10T18:17:49+00:00</pubDate>
-	  <guid>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba.png"><img class="size-medium wp-image-830 alignleft" style="border: 2px solid black; margin: 3px;" title="ardesia_prueba" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba-300x168.png" alt="" width="300" height="168" /></a></p>
 

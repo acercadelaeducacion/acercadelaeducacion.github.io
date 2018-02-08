@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>El gAto Lee… Mañana no estarán</title>
-	  <link>/2013/03/el-gato-lee-manana-no-estaran/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/03/el-gato-lee-manana-no-estaran/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-03-06T21:45:28+00:00</pubDate>
-	  <guid>/2013/03/el-gato-lee-manana-no-estaran/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/03/el-gato-lee-manana-no-estaran/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://elgatoescaldado.com.ar/wp-content/uploads/2013/03/mañana-no-estarán-TAPA-001.jpg" rel="lightbox[2423]"><img class="alignright size-large wp-image-2428" style="border: 3px solid black; margin: 3px;" title="mañana no estarán TAPA 001" alt="" src="http://elgatoescaldado.com.ar/wp-content/uploads/2013/03/mañana-no-estarán-TAPA-001-652x1024.jpg" width="274" height="430" /></a></p>
 <h2 style="text-align: center;"><em><strong>Mañana no estarán</strong></em></h2>
@@ -80,7 +80,7 @@ Precio: $ 115,00</p>
 
 	<item>
 	  <title>El gAto Lee… La Desplaza</title>
-	  <link>/2011/07/el-gato-lee-la-desplaza/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/07/el-gato-lee-la-desplaza/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -101,7 +101,7 @@ Precio: $ 115,00</p>
 				
 		
 	  <pubDate>2011-07-02T17:08:47+00:00</pubDate>
-	  <guid>/2011/07/el-gato-lee-la-desplaza/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/07/el-gato-lee-la-desplaza/</guid>
 	  <description><![CDATA[
 	     <h2 style="text-align: center;"><em><strong>La Desplaza</strong></em></h2>
 <h3 style="text-align: center;">Biogeografía del Parque Rivadavia</h3>

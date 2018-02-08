@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Hackspace Montevideo| OLPC &#8211; Sugar | Redes de apoyo Plan Ceibal | Informe Plan ceibal | OLPC &#8211; La Rioja</title>
-	  <link>/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2011-05-03T09:34:37+00:00</pubDate>
-	  <guid>/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</guid>
 	  <description><![CDATA[
 	     <p>Colección de links, recursos, y cositas que fui marcando en estos días</p>
 
@@ -95,7 +95,7 @@
 
 	<item>
 	  <title>Las OLPC, las Classmate y la mar en coche</title>
-	  <link>/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -116,7 +116,7 @@
 				
 		
 	  <pubDate>2010-03-19T21:20:28+00:00</pubDate>
-	  <guid>/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/03/las-olpc-las-classmate-y-la-mar-en-coche/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" style="border: 3px solid black; margin: 3px;" title="Obsoleto" src="http://farm1.static.flickr.com/40/84051198_ae7ee5cbd5.jpg" alt="" width="287" height="300" />La fiebre 1 a 1 invadió las oficinas públicas y de pronto hoy todos salimos corriendo a comprar netbooks, o notbooks o algo similar aunque no sepamos bien cual es la diferencia. El caso <a title="Plan Ceibal" href="http://www.ceibal.edu.uy/">Uruguayo</a> despertó en la clase dirigente una ventana más para buscar el tan ansiado balcón (presidencial, provincial o municipal) y de buenas a primeras el dinero fluye de las cajas a la inversión en equipos, software, capacitaciones y profesionales. No es un panorama criticable, a menos que seas un <a title="Quemarse a lo bonzo en wikipedia" href="http://es.wikipedia.org/wiki/Quemarse_a_lo_bonzo">bonzo</a>. No es mi caso. Pero no dejo de sentir una cierta incomodidad en todo este asunto: que llenó mi casilla de mails, mis feeds de artículos, pero que no despejó ninguna de mis dudas.</p>
 
@@ -150,7 +150,7 @@
 
 	<item>
 	  <title>Seguramente&#8230;</title>
-	  <link>/2009/08/seguramente/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/08/seguramente/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -171,7 +171,7 @@
 				
 		
 	  <pubDate>2009-08-04T22:18:12+00:00</pubDate>
-	  <guid>/2009/08/seguramente/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/08/seguramente/</guid>
 	  <description><![CDATA[
 	     <!-- 		@page { margin: 2cm } 		P { margin-bottom: 0.21cm } 		A:link { so-language: zxx } -->
 <p style="margin-bottom: 0.49cm;">Trasnscribo una nota de Jorge Novello, con la que no sólo acuerdo, sino que también comparto:</p>

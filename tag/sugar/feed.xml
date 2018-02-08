@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Turtle Confusion en castellano, para que los pibes aprendan a programar</title>
-	  <link>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-10-27T14:59:29+00:00</pubDate>
-	  <guid>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
 	  <description><![CDATA[
 	     <p> </p>
 <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/2012/10/27/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/turtlebookcoversskewed/" rel="attachment wp-att-1766"><img class="aligncenter size-full wp-image-1766" title="turtlebookcoversskewed" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/turtlebookcoversskewed.png" alt="" width="290" height="207" /></a></p>
@@ -69,7 +69,7 @@
 
 	<item>
 	  <title>Charla en la II Conferencia Internacional de Software Libre #CISL2011</title>
-	  <link>/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -90,7 +90,7 @@
 				
 		
 	  <pubDate>2011-09-08T08:10:51+00:00</pubDate>
-	  <guid>/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/09/charla-en-la-ii-conferencia-internacional-de-software-libre-cisl/</guid>
 	  <description><![CDATA[
 	     <p>Hoy a las 15:00 Hs estaré dando una charla sobre Sugar y su comunidad en la<a href="http://cisl.org.ar"> II Conferencia Internacional de Software Libre</a></p>
 
@@ -204,7 +204,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Hackspace Montevideo| OLPC &#8211; Sugar | Redes de apoyo Plan Ceibal | Informe Plan ceibal | OLPC &#8211; La Rioja</title>
-	  <link>/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -225,7 +225,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2011-05-03T09:34:37+00:00</pubDate>
-	  <guid>/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/05/hackspace-montevideo-olpc-sugar-redes-de-apoyo-plan-ceibal-informe-plan-ceibal-olpc-la-rioja/</guid>
 	  <description><![CDATA[
 	     <p>Colección de links, recursos, y cositas que fui marcando en estos días</p>
 
@@ -270,7 +270,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Efecto Sugar en lxs niñxs</title>
-	  <link>/2011/05/efecto-sugar-en-lxs-ninxs/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/05/efecto-sugar-en-lxs-ninxs/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -291,7 +291,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2011-05-01T08:24:01+00:00</pubDate>
-	  <guid>/2011/05/efecto-sugar-en-lxs-ninxs/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/05/efecto-sugar-en-lxs-ninxs/</guid>
 	  <description><![CDATA[
 	     <p>Y para dejar un registro. Esto es lo que hace SUGAR en lxs niñxs
 [youtube http://www.youtube.com/watch?v=CjRl__izcF8]</p>
@@ -301,7 +301,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Creador de historietas | Fotonovelas con Sugar</title>
-	  <link>/2011/05/creador-de-historietas-fotonovelas-con-sugar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/05/creador-de-historietas-fotonovelas-con-sugar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -322,7 +322,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2011-05-01T08:19:07+00:00</pubDate>
-	  <guid>/2011/05/creador-de-historietas-fotonovelas-con-sugar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/05/creador-de-historietas-fotonovelas-con-sugar/</guid>
 	  <description><![CDATA[
 	     <p>A modo de ejemplo, y dado que será una semana a pleno <a title="Sugar | ¿Qué es? | ¿Cómo Instalarlo?" href="http://www.acercadelaeducacion.com.ar/2011/04/30/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/" target="_blank">sugar</a> acá en el <a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/" target="_blank">ceibaljam</a>. Subo una idea, un germen de actividad para las aulas. El contenido puede ser de cualquier área ya que la potencia de esta actividad es su capacidad comunicadora, sociales, lengua, naturales o matemáticas pueden hacer uso del recurso historieta para comunicar resultados o procesos.</p>
 
@@ -336,7 +336,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 
 	<item>
 	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
-	  <link>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -357,7 +357,7 @@ El programa completo y más información sobre el evento puede verse en <a href=
 				
 		
 	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
-	  <guid>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
 	  <description><![CDATA[
 	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
 
@@ -500,7 +500,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos</title>
-	  <link>/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -521,7 +521,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2011-04-30T10:14:51+00:00</pubDate>
-	  <guid>/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/</guid>
 	  <description><![CDATA[
 	     <p>Hoy salgo para el <strong><a title="Edujam" href="http://ceibaljam.org/drupal/?q=edujam2011">EduJam 2011</a></strong> estoy un tanto emocionado y porque no decirlo, excitado (sus comentarios soeces estarán debidamente recordados). Durante cuatro días estaré <strong><a title="Conozco Uruguay Tour" href="http://wiki.sugarlabs.org/go/Conozco_Uruguay_Tour">recorriendo escuelas </a></strong>y charlando con docentes y visitando algunos <strong><a title="Página de los RAP" href="http://rapceibal.ning.com/">RAP </a></strong>(Red de Apoyo Plan Ceibal) reunido con gente de todo el mundo con el objetivo de intercambiar y aprender. Para coronar la semana 3 días de congreso-juntada con los exponentes <a title="Página del capítulo local de SugalrLabs" href="http://ar.sugarlabs.org">sugar</a>. Puff estaré que estallo y para no dejar esta experiencia librada a mi azaroso registro. Vía <strong><a title="Mi cuenta de identi.ca" href="http://identi.ca/amaciel">Identi.ca</a></strong> (relplicando en <strong><a href="http://twitter.com/amaciel">twitter</a></strong> y <strong><a title="Cuenta de facebook" href="http://www.facebook.com/senderosilencioso">facebook</a></strong>) intentaré mantener al tanto a quienes quieran saber como viene la experiencia. Para esto, pueden seguir todo lo que se publique  por acá <a title="Grupo !ceibaljam" href="http://identi.ca/group/ceibaljam">!ceibaljam</a> también
 Ademas. Estas semana armé unos scripts para compilar de forma correcta el sugar en Debian y en Tuquito/Ubuntu. En cuanto los encuentre los publico.</p>
@@ -533,7 +533,7 @@ Ademas. Estas semana armé unos scripts para compilar de forma correcta el sugar
 
 	<item>
 	  <title>Tuquito-Sugar</title>
-	  <link>/2010/02/tuquito-sugar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/02/tuquito-sugar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -554,7 +554,7 @@ Ademas. Estas semana armé unos scripts para compilar de forma correcta el sugar
 				
 		
 	  <pubDate>2010-02-03T10:37:38+00:00</pubDate>
-	  <guid>/2010/02/tuquito-sugar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/02/tuquito-sugar/</guid>
 	  <description><![CDATA[
 	     <p>Este es el video de las primeras pruebas de <a title="página de sugar" href="http://www.sugarlabs.org/">Sugar</a> sobre <a title="página de tuquito" href="http://tuquito.org.ar">Tuquito</a>. En estas pruebas usamos una classamate tercera generación (touchscreen) y mi Toshiba.</p>
 

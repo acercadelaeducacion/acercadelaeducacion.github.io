@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Ricardo Vilca</title>
-	  <link>/2007/06/ricardo-vilca-2/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/06/ricardo-vilca-2/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2007-06-26T20:06:00+00:00</pubDate>
-	  <guid>/2007/06/ricardo-vilca-2/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/06/ricardo-vilca-2/</guid>
 	  <description><![CDATA[
 	     <p>A veces alguien aparece en mi vida solo por un momento o unos días y deja marcas que me acompañan cada día. Una de estas personas es <strong><a href="http://www.ricardovilca.com/">Ricardo Vilca</a></strong>. No solo por la simpleza con la que me habló, sino por el calor que en su casa me transmitió, en una etapa fría  y complicada de mi vida.
 Reviven esas brasas en mi cada vez que te escucho.

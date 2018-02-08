@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Github para docentes | ideas para arrancar #squeakfest2016</title>
-	  <link>/github-para-docentes-ideas-para-arrancar-squeakfest2016</link>
+	  <link>https://acercadelaeducacion.com.ar/github-para-docentes-ideas-para-arrancar-squeakfest2016</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2016-11-04T10:07:46+00:00</pubDate>
-	  <guid>/github-para-docentes-ideas-para-arrancar-squeakfest2016</guid>
+	  <guid>https://acercadelaeducacion.com.ar/github-para-docentes-ideas-para-arrancar-squeakfest2016</guid>
 	  <description><![CDATA[
 	     <p>El <a href="http://fast.org.ar">SqueakFest</a> se acerca y vamos a contar, mostrar como usar <a href="https://github.com">Github</a> para la <a href="http://github.com/alvarmaciel/planificacionesMmasM">planificación y seguimiento de clases</a>. </p>
 
@@ -63,7 +63,7 @@
 
 	<item>
 	  <title>Aula Taller | último eslabón del anillo de recursos para el aula</title>
-	  <link>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
+	  <link>https://acercadelaeducacion.com.ar/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -84,7 +84,7 @@
 				
 		
 	  <pubDate>2014-08-22T10:36:51+00:00</pubDate>
-	  <guid>/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
+	  <guid>https://acercadelaeducacion.com.ar/aula-taller-ultimo-eslabon-del-anillo-de-recursos-para-el-aula</guid>
 	  <description><![CDATA[
 	     <p>Se va conformando el anillo de recursos para gestionar mi grado. Por un lado las planificaciones en una <a href="https://github.com/acercadelaeducacion/planificaciones/wiki">wiki</a> dentro de <a href="http://github.com">Github</a>. Uso la wiki con la esperanza de algún día planificar con alguien más en ella ñ_ñ .</p>
 
@@ -118,7 +118,7 @@
 
 	<item>
 	  <title>Semana 7 De Julio | Asamblea del grado #1</title>
-	  <link>/semana-7-de-julio-asamblea-del-grado-1</link>
+	  <link>https://acercadelaeducacion.com.ar/semana-7-de-julio-asamblea-del-grado-1</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -139,7 +139,7 @@
 				
 		
 	  <pubDate>2014-07-13T14:21:37+00:00</pubDate>
-	  <guid>/semana-7-de-julio-asamblea-del-grado-1</guid>
+	  <guid>https://acercadelaeducacion.com.ar/semana-7-de-julio-asamblea-del-grado-1</guid>
 	  <description><![CDATA[
 	     <p><a title="Diario de ruta: semana 7 de Julio" href="http://acercadelaeducacion.github.io/blog/2014/07/13/semana-7-de-julio-asamblea-number-1/" target="_blank">Semana 7 De Julio | Asamblea del grado #1</a></p>
 
@@ -148,7 +148,7 @@
 
 	<item>
 	  <title>Del blog a la wiki cambios para planificar</title>
-	  <link>/del-blog-a-la-wiki-cambios-para-planificar</link>
+	  <link>https://acercadelaeducacion.com.ar/del-blog-a-la-wiki-cambios-para-planificar</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -169,7 +169,7 @@
 				
 		
 	  <pubDate>2014-07-09T16:18:48+00:00</pubDate>
-	  <guid>/del-blog-a-la-wiki-cambios-para-planificar</guid>
+	  <guid>https://acercadelaeducacion.com.ar/del-blog-a-la-wiki-cambios-para-planificar</guid>
 	  <description><![CDATA[
 	     <p><a href="http://acercadelaeducacion.github.io/blog/2014/07/09/del-blog-a-la-wiki-para-planificar/" target="_blank"> Del blog a la Wiki cambios para planificar</a></p>
 
@@ -178,7 +178,7 @@
 
 	<item>
 	  <title>Planificación semana 30 de Junio 2014</title>
-	  <link>/planificacion-semana-30-de-junio-2014</link>
+	  <link>https://acercadelaeducacion.com.ar/planificacion-semana-30-de-junio-2014</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -199,7 +199,7 @@
 				
 		
 	  <pubDate>2014-06-30T22:04:23+00:00</pubDate>
-	  <guid>/planificacion-semana-30-de-junio-2014</guid>
+	  <guid>https://acercadelaeducacion.com.ar/planificacion-semana-30-de-junio-2014</guid>
 	  <description><![CDATA[
 	     <p><a title="Al blog en github" href="http://acercadelaeducacion.github.io/blog/2014/06/30/semana-30-de-junio-2014/" target="_blank">Planificación Semana 30 de Junio</a></p>
 
@@ -208,7 +208,7 @@
 
 	<item>
 	  <title>Planificaciones educativas: Recalculando&#8230;</title>
-	  <link>/planificaciones-educativas-recalculando</link>
+	  <link>https://acercadelaeducacion.com.ar/planificaciones-educativas-recalculando</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -229,7 +229,7 @@
 				
 		
 	  <pubDate>2014-06-25T11:54:52+00:00</pubDate>
-	  <guid>/planificaciones-educativas-recalculando</guid>
+	  <guid>https://acercadelaeducacion.com.ar/planificaciones-educativas-recalculando</guid>
 	  <description><![CDATA[
 	     <p>El problema con los planes y las planificaciones es que la realidad tiene la caprichosa costumbre de no adaptarse a los que planea sobre ella.</p>
 
@@ -267,7 +267,7 @@
 
 	<item>
 	  <title>Planificación semana 23 de Junio 2014</title>
-	  <link>/planificacion-semana-23-de-junio-2014</link>
+	  <link>https://acercadelaeducacion.com.ar/planificacion-semana-23-de-junio-2014</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -288,7 +288,7 @@
 				
 		
 	  <pubDate>2014-06-22T18:49:08+00:00</pubDate>
-	  <guid>/planificacion-semana-23-de-junio-2014</guid>
+	  <guid>https://acercadelaeducacion.com.ar/planificacion-semana-23-de-junio-2014</guid>
 	  <description><![CDATA[
 	     <p><a title="Planificación" href="http://acercadelaeducacion.github.io/blog/2014/06/22/cronograma-semana-23-de-junio/" target="_blank">Planificación semana 23 de Junio 2014</a></p>
 

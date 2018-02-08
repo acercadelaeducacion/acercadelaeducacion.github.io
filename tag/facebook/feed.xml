@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>By By By Facebook | Si&hellip; otra vez</title>
-	  <link>/2012/12/by-by-by-facebook-si-otra-vez/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/12/by-by-by-facebook-si-otra-vez/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-12-03T00:00:00+00:00</pubDate>
-	  <guid>/2012/12/by-by-by-facebook-si-otra-vez/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/12/by-by-by-facebook-si-otra-vez/</guid>
 	  <description><![CDATA[
 	     <p>Me siento como cuando dejé de fumar… dejé como 4 o 5 veces, hasta que definitivamente dejé de fumar. En fin, espero que esta sea la última. Hace rato que quería hacerlo. Borré mi cuenta de Facebook. Las razones son muchas, pero la de que detonó mi cansancio es la simple. Pierdo mucho tiempo paveando, no aporta gran cosa a mi desarrollo y me mantengo actualizado de mis amigos… viéndolos, me entero de las novedades a través de los feeds. En definitiva fue un lindo divertimento mientras duró.</p>
 
@@ -59,7 +59,7 @@
 
 	<item>
 	  <title>Recursos Indianos</title>
-	  <link>/2010/05/recursos-indianos/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/05/recursos-indianos/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -80,7 +80,7 @@
 				
 		
 	  <pubDate>2010-05-02T13:17:16+00:00</pubDate>
-	  <guid>/2010/05/recursos-indianos/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/05/recursos-indianos/</guid>
 	  <description><![CDATA[
 	     <p><strong><a title="Blog de David de Ugarte" href="http://deugarte.com/">David de Ugarte</a></strong> y sus colegas <a title="Página de Las Indias Electrónicas" href="http://lasindias.net">Indianos</a> suelen transportar a la red <a title="Indianopedia" href="http://lasindias.net/indianopedia">materiales muy interesantes</a>, desde aspectos teóricos hasta recursos prácticos. Innegable es el efecto <strong><a title="¿Qué es feevy?" href="http://lasindias.net/indianopedia/Feevy">feevy</a></strong> que circulo por la red hace un par de años.</p>
 
@@ -109,7 +109,7 @@
 
 	<item>
 	  <title>by by facebook</title>
-	  <link>/2009/06/by-by-facebook/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/06/by-by-facebook/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -130,7 +130,7 @@
 				
 		
 	  <pubDate>2009-06-30T14:07:04+00:00</pubDate>
-	  <guid>/2009/06/by-by-facebook/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/06/by-by-facebook/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" title="f" src="http://farm3.static.flickr.com/2388/2114874155_b660780928_m.jpg" alt="" width="240" height="240" />hace rato que quería hacerlo. Borré mi cuenta de Facebook. Las razones son muchas, pero la de que detonó mi cansancio es la simple. Pierdo mucho tiempo paveando, no aporta gran cosa a mi desarrollo y me mantengo actualizado de mis amigos… viéndolos, me entero de las novedades a través de los feeds. En definitiva fue un lindo divertimento mientras duró.</p>
 

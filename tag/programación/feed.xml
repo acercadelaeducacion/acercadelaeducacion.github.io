@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Traducción colaborativa: The Little Coder&#8217;s Predicament</title>
-	  <link>/traduccion-colaborativa-the-little-coders-predicament</link>
+	  <link>https://acercadelaeducacion.com.ar/traduccion-colaborativa-the-little-coders-predicament</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-17T08:54:57+00:00</pubDate>
-	  <guid>/traduccion-colaborativa-the-little-coders-predicament</guid>
+	  <guid>https://acercadelaeducacion.com.ar/traduccion-colaborativa-the-little-coders-predicament</guid>
 	  <description><![CDATA[
 	     <blockquote>Why the Lucky Stiff (o _Why para ser mas breves) fue uno de los programadores mas brillantes e inspiradores de estos tiempos. Se volvió famoso mediante una serie de blogs y una cantidad increible de proyectos open-source que mantuvo durante mas de 7 años.
 
@@ -68,7 +68,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 
 	<item>
 	  <title>Narrativas Digitales. Algunos pensamientos más</title>
-	  <link>/narrativas-digitales-algunos-pensamientos-mas</link>
+	  <link>https://acercadelaeducacion.com.ar/narrativas-digitales-algunos-pensamientos-mas</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -89,7 +89,7 @@ La popularidad de _Why creció junto con la popopularidad del lenguaje de progra
 				
 		
 	  <pubDate>2014-03-15T11:56:49+00:00</pubDate>
-	  <guid>/narrativas-digitales-algunos-pensamientos-mas</guid>
+	  <guid>https://acercadelaeducacion.com.ar/narrativas-digitales-algunos-pensamientos-mas</guid>
 	  <description><![CDATA[
 	     <p>Sigo dándole vueltas a esto que ya arrancó <a title="Pensamiento en voz alta | Narrativas digitales" href="http://www.acercadelaeducacion.com.ar/2014/03/pensamiento-en-voz-alta-narrativas-digitales/">acá</a>. Y de paso, pruebo <a title="Enlace a medium" href="http://medium.com">Medium</a>. Un servicio de escritura  muy interesante. Os dejo las dos versiones</p>
 
@@ -129,7 +129,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 
 	<item>
 	  <title>Turtle Confusion en castellano, para que los pibes aprendan a programar</title>
-	  <link>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -150,7 +150,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 				
 		
 	  <pubDate>2012-10-27T14:59:29+00:00</pubDate>
-	  <guid>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
 	  <description><![CDATA[
 	     <p> </p>
 <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/2012/10/27/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/turtlebookcoversskewed/" rel="attachment wp-att-1766"><img class="aligncenter size-full wp-image-1766" title="turtlebookcoversskewed" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/turtlebookcoversskewed.png" alt="" width="290" height="207" /></a></p>
@@ -169,7 +169,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 
 	<item>
 	  <title>#Processing, el arte de programar o programar arte</title>
-	  <link>/2012/05/processing-el-arte-de-programar-o-programar-arte/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/05/processing-el-arte-de-programar-o-programar-arte/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -190,7 +190,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 				
 		
 	  <pubDate>2012-05-20T16:49:30+00:00</pubDate>
-	  <guid>/2012/05/processing-el-arte-de-programar-o-programar-arte/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/05/processing-el-arte-de-programar-o-programar-arte/</guid>
 	  <description><![CDATA[
 	     <p>Empecé un <a title="Datos del curso" href="http://educacion.centroculturalsanmartin.com/?page_id=55" target="_blank">curso</a> de <strong><a title="Página de Open Processing" href="http://www.openprocessing.org/">Processing</a></strong> en el Centro Cultural General San Martín, ya había publicado algo de <a title="Listado de cursos y talleres" href="http://www.acercadelaeducacion.com.ar/2012/04/04/centro-cultural-general-san-martin-cursos-y-talleres-en-el-ccgsm/">esto hace algunas semana</a>. El curso dura seis meses y me sirve tanto para aprender a programar, como a conectar mi lado mas <strong>nerdo</strong> con mi lado más artístico.</p>
 
@@ -206,7 +206,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 
 	<item>
 	  <title>Curso abierto de programación (python) del MIT</title>
-	  <link>/2012/03/curso-abierto-de-programacion-python-del-mit/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/curso-abierto-de-programacion-python-del-mit/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -227,7 +227,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 				
 		
 	  <pubDate>2012-03-22T07:01:10+00:00</pubDate>
-	  <guid>/2012/03/curso-abierto-de-programacion-python-del-mit/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/curso-abierto-de-programacion-python-del-mit/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://bit.ly/GFax9P"> http://bit.ly/GFax9P</a></p>
 
@@ -238,7 +238,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 
 	<item>
 	  <title>Programación para niñxs | Python</title>
-	  <link>/2011/04/programacion-para-ninxs-python/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/programacion-para-ninxs-python/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -259,7 +259,7 @@ Elevar en su categoría a las historias, relatos, narraciones orales y disparate
 				
 		
 	  <pubDate>2011-04-09T09:35:27+00:00</pubDate>
-	  <guid>/2011/04/programacion-para-ninxs-python/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/programacion-para-ninxs-python/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/04/4747273039_59ecb1e4f9.jpg"><img class="size-full wp-image-1022 alignleft" style="border: 3px solid black; margin: 3px;" title="Juegos" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2011/04/4747273039_59ecb1e4f9.jpg" alt="" width="180" height="180" /></a>A pedido de M. un estudiante de la escuela, usuario de scratch. Dejo a su disposición una serie de recursos para la iniciación en el hermoso arte de convertir ideas en programas.</p>
 

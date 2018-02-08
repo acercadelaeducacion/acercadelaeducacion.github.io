@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>#mozfest 2013 | Arribo de tutoriales en Thimble | #teachtheweb</title>
-	  <link>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-11-23T18:09:41+00:00</pubDate>
-	  <guid>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"><img class=" wp-image-2249 aligncenter" alt="horadeaventuras" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/11/horadeaventuras.gif" width="297" height="167" /></p>
 <p> </p>

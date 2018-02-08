@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Debian a la moda. O como dejar un debian bien bonito</title>
-	  <link>/2012/02/debian-a-la-moda-o-como-dejar-un-debian-bien-bonito/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/02/debian-a-la-moda-o-como-dejar-un-debian-bien-bonito/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-02-03T13:23:47+00:00</pubDate>
-	  <guid>/2012/02/debian-a-la-moda-o-como-dejar-un-debian-bien-bonito/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/02/debian-a-la-moda-o-como-dejar-un-debian-bien-bonito/</guid>
 	  <description><![CDATA[
 	     <p>Después del <a title="Script de post instalación para Fedora 16" href="http://www.acercadelaeducacion.com.ar/2012/01/24/script-de-post-instalacion-para-fedora-16/">post anterior</a> sobre <strong><a title="Mapas mentales con Dokeos|Sobre spins con Fedora" href="http://fedoraproject.org/es/">Fedora</a></strong>, y para equiparar fuerzas, acá va un pequeño tutorial que de no ser por <a href="http://twitter.com/xaiki">@xaiki</a> no hubiese podido llevar a cabo. La idea es tener, al final del tuto, un <strong><a href="http://debian.org">Debian</a></strong> con <strong><a href="http://www.gnome.org/gnome-3/">Gnome 3</a></strong> y estable. De hecho es desde lo que estoy armando este post.</p>
 
@@ -88,7 +88,7 @@ deb-src http://emacs.naquadah.org/ unstable/
 
 	<item>
 	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
-	  <link>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -109,7 +109,7 @@ deb-src http://emacs.naquadah.org/ unstable/
 				
 		
 	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
-	  <guid>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
 	  <description><![CDATA[
 	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
 

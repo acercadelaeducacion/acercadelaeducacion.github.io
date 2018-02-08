@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Invitación al bandalismo</title>
-	  <link>/2008/08/invitacion-al-bandalismo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/08/invitacion-al-bandalismo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-08-15T20:02:54+00:00</pubDate>
-	  <guid>/2008/08/invitacion-al-bandalismo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/08/invitacion-al-bandalismo/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/08/imagen131.jpg"><img class="aligncenter size-thumbnail wp-image-219" title="publicidad" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/08/imagen131.jpg" alt="publicidad en asientos del bondi" width="272" height="204" /></a>… Es lo que genera esta forma de hacer publicidad que no solo me sorprendió sino que me invadio durante la hora y cuarto que duró mi viaje. Acosado por la mirada de este señor con guitarra (que no se quien es) los instintos vandalicos me asaltaron, tuve que contentarme con la esperanza de que adolecentes con fibrones endulcen la estadía en el tradicional bondi porteño. Yo por mi parte, a falta de fibrón hago lo que puedo…</p>
 

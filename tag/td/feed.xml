@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Historia de &#8220;Un viaje por la Web 2.0&#8221;</title>
-	  <link>/2007/06/historia-de-un-viaje-por-la-web-20-2/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/06/historia-de-un-viaje-por-la-web-20-2/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2007-06-19T14:46:00+00:00</pubDate>
-	  <guid>/2007/06/historia-de-un-viaje-por-la-web-20-2/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/06/historia-de-un-viaje-por-la-web-20-2/</guid>
 	  <description><![CDATA[
 	     <p>Un buen rato me tomó empezar a contar lo que  <strong>“Un viaje por la Web 2.0” </strong>me está aportando. Así que empiezo por el comienzo…
 <a href="http://tangotrio.blogspot.com/"><img src="http://bp2.blogger.com/__nXGIkfFhOQ/RfwyJM_0U7I/AAAAAAAAABg/_mRangGz3mQ/s1600/IMG_32361.jpg" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 113px; height: 150px" border="0" /></a></p>
@@ -71,7 +71,7 @@ Bien ya no se donde me va a llevar este tren. Acá, osea allá, detrás de la pa
 
 	<item>
 	  <title>La Brecha Digital en Clave Colifata</title>
-	  <link>/2007/06/la-brecha-digital-en-clave-colifata/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/06/la-brecha-digital-en-clave-colifata/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -92,7 +92,7 @@ Bien ya no se donde me va a llevar este tren. Acá, osea allá, detrás de la pa
 				
 		
 	  <pubDate>2007-06-11T14:37:00+00:00</pubDate>
-	  <guid>/2007/06/la-brecha-digital-en-clave-colifata/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/06/la-brecha-digital-en-clave-colifata/</guid>
 	  <description><![CDATA[
 	     <p>Buscando videos sobre la brecha digital Maxi (que no es blogger aún… pero ya está con ganas de serlo) encontró este video Muy Bueno, En dos sentidos… dos.</p>
 <ol>
@@ -109,7 +109,7 @@ Bien ya no se donde me va a llevar este tren. Acá, osea allá, detrás de la pa
 
 	<item>
 	  <title>Get Ubuntu II</title>
-	  <link>/get-ubuntu-ii</link>
+	  <link>https://acercadelaeducacion.com.ar/get-ubuntu-ii</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -130,7 +130,7 @@ Bien ya no se donde me va a llevar este tren. Acá, osea allá, detrás de la pa
 				
 		
 	  <pubDate>2007-05-31T18:37:00+00:00</pubDate>
-	  <guid>/get-ubuntu-ii</guid>
+	  <guid>https://acercadelaeducacion.com.ar/get-ubuntu-ii</guid>
 	  <description><![CDATA[
 	     <p>Festejando La Semana Ubuntu, seguimos con la serie ilustrativa, que provee la <a href="http://www.hachemuda.com/">HacheMuda</a>, sobre las ventajas de <a href="http://www.ubuntu.com/">Ubuntu</a></p>
 
@@ -144,7 +144,7 @@ Bien ya no se donde me va a llevar este tren. Acá, osea allá, detrás de la pa
 
 	<item>
 	  <title>Get Ubuntu</title>
-	  <link>/get-ubuntu</link>
+	  <link>https://acercadelaeducacion.com.ar/get-ubuntu</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -165,7 +165,7 @@ Bien ya no se donde me va a llevar este tren. Acá, osea allá, detrás de la pa
 				
 		
 	  <pubDate>2007-05-30T13:56:00+00:00</pubDate>
-	  <guid>/get-ubuntu</guid>
+	  <guid>https://acercadelaeducacion.com.ar/get-ubuntu</guid>
 	  <description><![CDATA[
 	     <p>vía <a href="http://ubuntulife.wordpress.com/2007/05/29/primer-video-de-la-serie-get-ubuntu/trackback/">Ubuntu Life</a> me enteré de lo siguiente y lo quería compartir acá:</p>
 <blockquote>Una fantastica idea de <a href="http://www.hachemuda.com/2007/05/28/primer-video-de-la-serie-get-ubuntu-examen/" target="_blank">Hache Muda</a>
@@ -184,7 +184,7 @@ Aqui os dejo el primero de sus videos. No tiene desperdicio. Por completo sigue 
 
 	<item>
 	  <title>¿Que es un blog?</title>
-	  <link>/c2-bfque-es-un-blog</link>
+	  <link>https://acercadelaeducacion.com.ar/c2-bfque-es-un-blog</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -205,7 +205,7 @@ Aqui os dejo el primero de sus videos. No tiene desperdicio. Por completo sigue 
 				
 		
 	  <pubDate>2007-05-30T13:37:00+00:00</pubDate>
-	  <guid>/c2-bfque-es-un-blog</guid>
+	  <guid>https://acercadelaeducacion.com.ar/c2-bfque-es-un-blog</guid>
 	  <description><![CDATA[
 	     <p>Gracias a <a href="http://ramiropol.com.ar/">Ramo</a> llego a esta muy buena pagina de <a href="http://joanplanas.com/">Joan Planas</a>, un videobloger que sale a la calle a hacer una pregunta. En este caso
 ¿Qué es un blog?
@@ -220,7 +220,7 @@ les dejo el video de youtube, pero está desfasado, <a href="http://joanplanas.c
 
 	<item>
 	  <title>Laminas o Power Point ¿son lo mismo?</title>
-	  <link>/laminas-o-power-point-c2-bfson-lo-mismo</link>
+	  <link>https://acercadelaeducacion.com.ar/laminas-o-power-point-c2-bfson-lo-mismo</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -241,7 +241,7 @@ les dejo el video de youtube, pero está desfasado, <a href="http://joanplanas.c
 				
 		
 	  <pubDate>2007-05-25T19:37:00+00:00</pubDate>
-	  <guid>/laminas-o-power-point-c2-bfson-lo-mismo</guid>
+	  <guid>https://acercadelaeducacion.com.ar/laminas-o-power-point-c2-bfson-lo-mismo</guid>
 	  <description><![CDATA[
 	     <p><a href="http://farm1.static.flickr.com/161/373172084_b5517e8012.jpg?v=0"><img src="http://farm1.static.flickr.com/161/373172084_b5517e8012.jpg?v=0" style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px" border="0" /></a></p>
 <p style="text-align: left; font-family: verdana"><span style="font-size: 100%">Los contenidos de enseñanza, en la escuela, sufren necesarias modificaciones a medida que transcurre el tiempo, ya que los mismos se modifican o reconfiguran con el desarrollo de la sociedad y del conocimiento. De la misma, manera los procedimientos tradicionales que la escuela valora sufren modificaciones. La búsqueda de información sobre algún tema, como procedimiento a aprehender, no puede ser entendida como hace 20 o 30 años atrás. Otras tecnologías, otros medios, hoy están en juego y se hace necesario comprenderlos para poder enseñarlos, pero más importante aún, es necesario para construir una práctica responsable, tener la capacidad de analizar los recursos, dispositivos y elementos de enseñanza. </span></p>
@@ -276,7 +276,7 @@ les dejo el video de youtube, pero está desfasado, <a href="http://joanplanas.c
 
 	<item>
 	  <title>Uso educativo de las TIC</title>
-	  <link>/uso-educativo-de-las-tic</link>
+	  <link>https://acercadelaeducacion.com.ar/uso-educativo-de-las-tic</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -297,7 +297,7 @@ les dejo el video de youtube, pero está desfasado, <a href="http://joanplanas.c
 				
 		
 	  <pubDate>2007-05-24T16:37:00+00:00</pubDate>
-	  <guid>/uso-educativo-de-las-tic</guid>
+	  <guid>https://acercadelaeducacion.com.ar/uso-educativo-de-las-tic</guid>
 	  <description><![CDATA[
 	     <p><a href="http://web.educastur.princast.es/proyectos/cuate/blog/wp-images/innoveision.gif"><img src="http://web.educastur.princast.es/proyectos/cuate/blog/wp-images/innoveision.gif" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 400px" border="0" /></a></p>
 <p style="text-align: left">Ya ni se como llegue hasta<a href="http://web.educastur.princast.es/proyectos/cuate/blog/?p=226"> aquí</a>, pero encontre este blog que supongo que para muchos será conocido (ya que es excelente). En fín no puedo parar de leerlo, se los recomiendo, pero advierto que es algo adictivo.</p>
@@ -309,7 +309,7 @@ Pa quienes no lo conozcan<a href="http://web.educastur.princast.es/proyectos/cua
 
 	<item>
 	  <title>¿qué es RSS? para gente normal</title>
-	  <link>/c2-bfque-es-rss-para-gente-normal</link>
+	  <link>https://acercadelaeducacion.com.ar/c2-bfque-es-rss-para-gente-normal</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -330,7 +330,7 @@ Pa quienes no lo conozcan<a href="http://web.educastur.princast.es/proyectos/cua
 				
 		
 	  <pubDate>2007-05-23T01:44:00+00:00</pubDate>
-	  <guid>/c2-bfque-es-rss-para-gente-normal</guid>
+	  <guid>https://acercadelaeducacion.com.ar/c2-bfque-es-rss-para-gente-normal</guid>
 	  <description><![CDATA[
 	     <p>Coincidiendo con <a href="http://domingomendez.blogspot.com/">Domingo Méndez</a>, maestro de matemática y Naturaleza que descubrí hoy blogeando, tampoco puedo resistirme a subir <a href="http://domingomendez.blogspot.com/2007/05/qu-es-el-rss.html">este video</a>  acerca de  ¿que es RSS? está muy bien hecho y es muy didáctico.
 Pero además me llevé una grata sorpresa por el medio en el que está publicado. Es una plataforma que no conocía, <a href="http://dotsub.com/">dotsub.com</a>, y que me parece interesante ya que los videos que tiene los podes seleccionar con subtítulos en distintos idiomas. Habrá que investigarla un poco más</p>
@@ -341,7 +341,7 @@ Pero además me llevé una grata sorpresa por el medio en el que está publicado
 
 	<item>
 	  <title>Plumiferos</title>
-	  <link>/plumiferos</link>
+	  <link>https://acercadelaeducacion.com.ar/plumiferos</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -362,7 +362,7 @@ Pero además me llevé una grata sorpresa por el medio en el que está publicado
 				
 		
 	  <pubDate>2007-05-16T13:59:00+00:00</pubDate>
-	  <guid>/plumiferos</guid>
+	  <guid>https://acercadelaeducacion.com.ar/plumiferos</guid>
 	  <description><![CDATA[
 	     <p>Esta mañana en la escuela estaba charlando con Anibal, profesor de video; charlando charlando le mostré <a href="http://www.elephantsdream.org/">Elephant Dreams</a> a partir de un post de <a href="http://karpicius.freeflux.net/blog/archive/2007/04/25/elephants-dream-comunicacion-o-la-falta-de-esta.html">Karpicius</a> y de allí nos fuimos a <a href="http://www.blender.org/">Blender</a>.<br />Buena sorpresa nos llevamos cuando vimos el trailer de <a href="http://www.plumiferos.com/index-es.php">“Plumiferos”</a> Animación Argentina hecha con software libre<br />Les dejo el avance<br /><span style="font-size:78%;">pd: estoy usando Splashcat para subir el video, como vern estoy aprendiendo así que disculpen los errores que pueden surgir</span><br /></p>
 
@@ -371,7 +371,7 @@ Pero además me llevé una grata sorpresa por el medio en el que está publicado
 
 	<item>
 	  <title>codelinux</title>
-	  <link>/codelinux</link>
+	  <link>https://acercadelaeducacion.com.ar/codelinux</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -392,7 +392,7 @@ Pero además me llevé una grata sorpresa por el medio en el que está publicado
 				
 		
 	  <pubDate>2007-05-15T23:28:00+00:00</pubDate>
-	  <guid>/codelinux</guid>
+	  <guid>https://acercadelaeducacion.com.ar/codelinux</guid>
 	  <description><![CDATA[
 	     <p>Vía <a href="http://etsiit.blogspot.com/">Kirkob</a> les dejo a los amiguitos  un documental algo antiguo pero siempre bueno sobre la historia de GNU Linux<span class="down" style="display:block;"></span><br /><br /></p>
 

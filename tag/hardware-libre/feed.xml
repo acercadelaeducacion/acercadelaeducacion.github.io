@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Día de las máquinas libres y cumpleaños de la bicicueva</title>
-	  <link>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-13T10:34:32+00:00</pubDate>
-	  <guid>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
 	  <description><![CDATA[
 	     <p><a title="Página Biblio Barracas" href="http://www.bibliobarracas.com.ar" target="_blank">La Biblio Barracas</a> está de fiesta</p>
 
@@ -79,7 +79,7 @@
 
 	<item>
 	  <title>Día del Hardware Libre | Hardware Fredom Day</title>
-	  <link>/2014/03/dia-del-hardware-libre-hardware-fredom-day/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/03/dia-del-hardware-libre-hardware-fredom-day/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -100,7 +100,7 @@
 				
 		
 	  <pubDate>2014-03-10T19:31:20+00:00</pubDate>
-	  <guid>/2014/03/dia-del-hardware-libre-hardware-fredom-day/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/03/dia-del-hardware-libre-hardware-fredom-day/</guid>
 	  <description><![CDATA[
 	     <p>Sábado 15 de Marzo</p>
 

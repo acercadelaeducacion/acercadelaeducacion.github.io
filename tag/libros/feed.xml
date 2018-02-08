@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>El futuro del libro | Toma 1: Una experiencia nueva</title>
-	  <link>/2013/03/el-futuro-del-libro-toma-1-una-experiencia-nueva/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/03/el-futuro-del-libro-toma-1-una-experiencia-nueva/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-03-09T11:11:00+00:00</pubDate>
-	  <guid>/2013/03/el-futuro-del-libro-toma-1-una-experiencia-nueva/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/03/el-futuro-del-libro-toma-1-una-experiencia-nueva/</guid>
 	  <description><![CDATA[
 	     <p>El futuro no llega, nos lo venden día a día y nosotros compramos pedazos de pasado en virtud de estar un poco más adelantados. Jugando a ser los primeros en hablar o tener cosas que dejen atrás a quienes tenemos a nuestro lado.Así se configura la competencia, para nada silenciosa, que anclada en modernos discursos, hace de lo que viene una fantasía de bondades absolutas… para quien las compra.</p>
 
@@ -65,7 +65,7 @@
 
 	<item>
 	  <title>Turtle Confusion en castellano, para que los pibes aprendan a programar</title>
-	  <link>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -86,7 +86,7 @@
 				
 		
 	  <pubDate>2012-10-27T14:59:29+00:00</pubDate>
-	  <guid>/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/10/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/</guid>
 	  <description><![CDATA[
 	     <p> </p>
 <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/2012/10/27/turtle-confusion-en-castellano-para-que-los-pibes-aprendan-a-programar/turtlebookcoversskewed/" rel="attachment wp-att-1766"><img class="aligncenter size-full wp-image-1766" title="turtlebookcoversskewed" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/10/turtlebookcoversskewed.png" alt="" width="290" height="207" /></a></p>

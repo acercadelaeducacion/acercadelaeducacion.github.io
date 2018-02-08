@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Feliz Cumple Karpi</title>
-	  <link>/2008/09/feliz-cumple-karpi/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/09/feliz-cumple-karpi/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-09-20T17:22:18+00:00</pubDate>
-	  <guid>/2008/09/feliz-cumple-karpi/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/09/feliz-cumple-karpi/</guid>
 	  <description><![CDATA[
 	     <p><strong>Karpicius</strong> Amigo Feliz cumple, como ya te dije antes. <br />A la espera de otro cafetero encuentro me quedo….<br /><br />&lt;img style=”max-width: 800px;” src=”http://farm2.static.flickr.com/1363/1463925617_c7b37b9773.jpg” border:=”” 2px=”” solid=”” height=”293” width=”439” /&gt;</p>
 

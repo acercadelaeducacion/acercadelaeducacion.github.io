@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Mapas conceptuales | Secuencia para empezar</title>
-	  <link>/2012/03/mapas-conceptuales-secuencia-para-empezar/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/mapas-conceptuales-secuencia-para-empezar/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-03-26T21:00:43+00:00</pubDate>
-	  <guid>/2012/03/mapas-conceptuales-secuencia-para-empezar/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/mapas-conceptuales-secuencia-para-empezar/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/Souto.jpg"><img class="alignleft size-medium wp-image-1482" style="border: 3px solid black; margin: 3px;" title="Souto" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/03/Souto-300x200.jpg" alt="" width="300" height="200" /></a>Hace años que vengo trabajando con mapas conceptuales, haciendo mapas para aprender y enseñando a hacerlos para estudiar. Una muy buena fuente de recursos para empezar a meterse en en el campo del aprendizaje visual es el módulo de Eduteka:</p>
 

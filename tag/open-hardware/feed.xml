@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Electronic music from Jelly</title>
-	  <link>/2012/04/electronic-music-from-jelly/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/04/electronic-music-from-jelly/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-04-18T09:39:23+00:00</pubDate>
-	  <guid>/2012/04/electronic-music-from-jelly/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/04/electronic-music-from-jelly/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://arduino.cc/blog/2012/04/18/electronic-music-from-jelly/"><img src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/04/logo_blog_arduino.png" alt="" /></a></p>
 
@@ -70,7 +70,7 @@
 
 	<item>
 	  <title>Guardabarros caseros con botellas Version 2 #bikehack</title>
-	  <link>/2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -91,7 +91,7 @@
 				
 		
 	  <pubDate>2012-03-25T22:39:46+00:00</pubDate>
-	  <guid>/2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/guardabarros-caseros-con-botellas-version-2-bikehack/</guid>
 	  <description><![CDATA[
 	     <p>Después de la versión 1 de los<a title="Primera versión" href="http://www.acercadelaeducacion.com.ar/2012/03/23/mi-primer-hack-a-la-bici-guardabarros-caseros-con-botellas-bikehack/"> guardabarros caseros</a>, acá tengo la versión 2. Una modificación de estilo para la bici.</p>
 
@@ -104,7 +104,7 @@
 
 	<item>
 	  <title>Colaborá! Quedan pocos días… « Laboratorio de Juguete</title>
-	  <link>/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -125,7 +125,7 @@
 				
 		
 	  <pubDate>2012-03-25T19:47:05+00:00</pubDate>
-	  <guid>/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/03/colabora-quedan-pocos-dias-laboratorio-de-juguete/</guid>
 	  <description><![CDATA[
 	     <p>Necesitamos más de estos eventos en Argentina. vía <a href="http://toylab.wordpress.com/2012/03/25/colabora-quedan-pocos-dias/">Colaborá! Quedan pocos días… « Laboratorio de Juguete</a>.</p>
 

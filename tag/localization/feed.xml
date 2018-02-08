@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Localization process using #Github &#038; #Transifex</title>
-	  <link>/2013/10/localization-process-using-github-transifex/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/10/localization-process-using-github-transifex/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-10-16T10:34:38+00:00</pubDate>
-	  <guid>/2013/10/localization-process-using-github-transifex/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/10/localization-process-using-github-transifex/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"> <img class="size-full wp-image-2202 aligncenter" alt="github2transifex" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/github2transifex1.png" width="540" height="134" /></p>
 <p>Hi to all
@@ -86,7 +86,7 @@ I have been refining the process to upload resources to <a title="Web page GitHu
 
 	<item>
 	  <title>Localization Models | Workflow with Github and Transifex | #WebLitStd</title>
-	  <link>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -107,7 +107,7 @@ I have been refining the process to upload resources to <a title="Web page GitHu
 				
 		
 	  <pubDate>2013-03-23T17:31:00+00:00</pubDate>
-	  <guid>/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/03/localization-models-workflow-with-github-and-transifex-weblitstd/</guid>
 	  <description><![CDATA[
 	     <div class="outline-2" id="outline-container-1">
 <h2>Introducción</h2>

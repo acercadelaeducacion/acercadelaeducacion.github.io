@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Hermano poeta</title>
-	  <link>/hermano-poeta</link>
+	  <link>https://acercadelaeducacion.com.ar/hermano-poeta</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2007-05-28T15:23:00+00:00</pubDate>
-	  <guid>/hermano-poeta</guid>
+	  <guid>https://acercadelaeducacion.com.ar/hermano-poeta</guid>
 	  <description><![CDATA[
 	     <blockquote>Esta es la vera de sílice
 por donde un torrente transita
@@ -68,7 +68,7 @@ Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de m
 
 	<item>
 	  <title>Periodismo ciudadano&#8230; de estos pagos</title>
-	  <link>/periodismo-ciudadano-de-estos-pagos</link>
+	  <link>https://acercadelaeducacion.com.ar/periodismo-ciudadano-de-estos-pagos</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -89,7 +89,7 @@ Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de m
 				
 		
 	  <pubDate>2007-05-21T20:22:00+00:00</pubDate>
-	  <guid>/periodismo-ciudadano-de-estos-pagos</guid>
+	  <guid>https://acercadelaeducacion.com.ar/periodismo-ciudadano-de-estos-pagos</guid>
 	  <description><![CDATA[
 	     <p><a href="http://gritoargentino.com/themes/internet_services/images/gritoargentinod.jpg"><img style="display:block;text-align:center;cursor:pointer;width:320px;margin:0 auto 10px;" src="http://gritoargentino.com/themes/internet_services/images/gritoargentinod.jpg" alt="" border="0" /></a>&lt;div style="text-align:center;color:rgb(0, 102, 0);"&gt;&lt;blockquote&gt;<span style="font-family:Courier New;"><span style="font-size:85%;"> “antes te contaban las noticias,<br />ahora las vas a escribir vos…”</span></span>&lt;/blockquote&gt;&lt;/div&gt;<br />A través del blog de <a href="http://www.pablomancini.com.ar/nuevo-periodico-ciudadano-en-la-argentina/trackback/">Pablo Mancini</a> me entero que se está armando “un multiblog que será nuestro propio periódico ciudadano” llamado <a href="http://gritoargentino.com/">Grito Argentino</a>.<br />Apoyo la moción y espero ansioso su entrada en circulación que será el 25 de mayo. Así podremos celebrar la “Revolución de Mayo” (proceso revolucionario complejo que devino en “independencia” por estos pagos) y ese mismo día celebrar la apertura de un espacio más en esta “revolución” del periodismo, que aún no sabemos en que devendrá, ni si tendrá éxito, pero a la que adhiero.<br />Ya que considero necesario para vivir en libertad que tengamos libertad (ya se es redundante) no solo de expresión sino se selección de fuentes de información, que estas sean construidas partipativamente y estas propuestas de periodismo participativo desplazan el poder de los editores hacia los lectores.<br />Ahora será cuestión de ver como los lectores y escritores construyen este espacio</p>
 
@@ -98,7 +98,7 @@ Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de m
 
 	<item>
 	  <title>Recolección</title>
-	  <link>/recoleccion</link>
+	  <link>https://acercadelaeducacion.com.ar/recoleccion</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -119,7 +119,7 @@ Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de m
 				
 		
 	  <pubDate>2007-04-23T14:44:00+00:00</pubDate>
-	  <guid>/recoleccion</guid>
+	  <guid>https://acercadelaeducacion.com.ar/recoleccion</guid>
 	  <description><![CDATA[
 	     <p>Todo empezó <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html#comments">acá</a> y como quien no quiere la cosa empecé a subir este camino… sin preparación, ni sogas, ni nada. Ahora, este post después de casi una semana sin escribir va a ser una recolección de sucesos, sensaciones y más que nada preguntas que espero encaucen hacia alguna respuesta, o sensación de respuesta o bue… algo que tranquilice el alma.<br />¿por donde empezar?<br />bueno… por el principio supongo.  Hace unos post  o días atrás <a href="http://karpicius.freeflux.net/blog/archive/2007/04/10/curso-web-2-0-para-docentes-en-abril.html">comentarios mediante</a> propuse lo siguiente: “se me ocurrio preparar un cursillo sobre aramado de cazas como introduccion a las webquest, el aprendizaje mediado por las TIC y aprendizaje colabrativo/cooperativo. lo armo en el moodle de prueba que tengo en casa y voy mandando las consultas adelanto y solicitudes de sugerencias en <a href="http://acercadelaeducacion.blogspot.com/">http://acercadelaeducacion.blogspot.com</a></p>
 
@@ -143,7 +143,7 @@ Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de m
 
 	<item>
 	  <title>Big Brother</title>
-	  <link>/big-brother</link>
+	  <link>https://acercadelaeducacion.com.ar/big-brother</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -164,7 +164,7 @@ Les presento a <a href="http://hermanopoeta.wordpress.com/">Lautaro</a> uno de m
 				
 		
 	  <pubDate>2007-03-30T15:55:00+00:00</pubDate>
-	  <guid>/big-brother</guid>
+	  <guid>https://acercadelaeducacion.com.ar/big-brother</guid>
 	  <description><![CDATA[
 	     <p>Vía <a href="http://www.monuz.com.ar/?p=658"> Monuz </a>llegan estas reflexiones que me parecen interesantes en torno al uso y manejo de la información</p>
 
@@ -181,7 +181,7 @@ no se convierta en una total realidad. Más aún con la inmensa cantidad de info
 
 	<item>
 	  <title>Otoño en la ciudad</title>
-	  <link>/otono-en-la-ciudad</link>
+	  <link>https://acercadelaeducacion.com.ar/otono-en-la-ciudad</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -202,7 +202,7 @@ no se convierta en una total realidad. Más aún con la inmensa cantidad de info
 				
 		
 	  <pubDate>2007-03-30T13:15:00+00:00</pubDate>
-	  <guid>/otono-en-la-ciudad</guid>
+	  <guid>https://acercadelaeducacion.com.ar/otono-en-la-ciudad</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center"><a href="http://sp6.fotologs.net/photo/38/19/51/solett/1174669261_f.jpg"><img src="http://sp6.fotologs.net/photo/38/19/51/solett/1174669261_f.jpg" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 320px" border="0" /></a>Llegó el otoño con todo por estos pagos...
 entre agua e inundación...

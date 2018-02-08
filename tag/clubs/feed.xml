@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Notas a Webmaker Club 2</title>
-	  <link>/notas-a-webmaker-club-2</link>
+	  <link>https://acercadelaeducacion.com.ar/notas-a-webmaker-club-2</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-01-26T16:13:00+00:00</pubDate>
-	  <guid>/notas-a-webmaker-club-2</guid>
+	  <guid>https://acercadelaeducacion.com.ar/notas-a-webmaker-club-2</guid>
 	  <description><![CDATA[
 	     <p>Siguiendo con lo que <a href="http://www.acercadelaeducacion.com.ar/2014/12/notas-a-la-inciativa-webmaker-clubs-de-mozilla-1-teachtheweb-webmaker/">empecé acá</a>, continuo hoy con la traducción del documento  borrador base del los <a href="https://wiki.mozilla.org/Webmaker/2015/Mentors/Clubs">Webmakers Clubs</a>.</p>
 

@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Estrategias Didácticas y Tecnología</title>
-	  <link>/2009/05/estrategias-didacticas-y-tecnologia/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/05/estrategias-didacticas-y-tecnologia/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2009-05-08T12:08:46+00:00</pubDate>
-	  <guid>/2009/05/estrategias-didacticas-y-tecnologia/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/05/estrategias-didacticas-y-tecnologia/</guid>
 	  <description><![CDATA[
 	     <p>En el día de ayer, en el marco del Proyecto de Mejora de la ENS Nº 1 “Pte. Roque Saénz Peña” Implementado por el <a style="cursor: pointer;" href="http://centroderecursosnormal1.blogspot.com/">Centro de Recursos del Normal 1</a>(ya habíamos hablado de este centro <a style="cursor: pointer;" href="http://www.dosisdeinnovacion.com.ar/?tag=normal-1">acá</a>) dictamos un taller sobre Tecnología, Educación y Estrategias Didácticas.</p>
 
@@ -64,7 +64,7 @@
 
 	<item>
 	  <title>Blogs y/o wikis</title>
-	  <link>/2008/04/blogs-yo-wikis/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/04/blogs-yo-wikis/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -85,7 +85,7 @@
 				
 		
 	  <pubDate>2008-04-14T19:15:16+00:00</pubDate>
-	  <guid>/2008/04/blogs-yo-wikis/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/04/blogs-yo-wikis/</guid>
 	  <description><![CDATA[
 	     <p>Sigueindo con la la línea ilustrativa, paso a distribuir un material que publicó <strong><a href="http://www.tiscar.com/2008/04/06/blogs-y-wikis-diferencias-significativas/trackback/">Tiscar</a></strong>, y que considero absolutamente acertado y en tiempo (ya que estamos por armar una wiki y un blog en uno de las escurlas donde trabajo)</p>
 <blockquote>Hay actividades, proyectos y contenidos que tienen más sentido en un wiki que en un blog. Y viceversa. Cuándo utilizar un blog y cuándo un wiki dentro de un proceso de enseñanza-aprendizaje tiene que ver con los objetivos de la práctica educativa que se programe y con cómo ésta se adapte a la naturaleza propia de cada medio. Para ello es importante conocer sus similitudes, pero sobre todo, sus diferencias, de modo que se aprovechen en toda su potencialidad. Comparto aquí unos breves apuntes que he utilizado en mis clases para ayudar a comprender esas fronteras.</blockquote>

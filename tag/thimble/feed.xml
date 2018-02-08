@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Microrrelatos a lo Burdick | Proyecto corto de escritura creativa y HTML</title>
-	  <link>/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</link>
+	  <link>https://acercadelaeducacion.com.ar/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-12-09T10:55:23+00:00</pubDate>
-	  <guid>/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</guid>
+	  <guid>https://acercadelaeducacion.com.ar/microrrelatos-a-lo-burdick-proyecto-corto-de-escritura-creativa-y-html</guid>
 	  <description><![CDATA[
 	     <p>Dentro del marco de las actividades para recuperar Prácticas del Lenguaje e inglés. Creamos este proyecto corto para escribir y leer en la web.</p>
 
@@ -70,7 +70,7 @@
 
 	<item>
 	  <title>Plantilla Camino del Héroe | Inglés, Prácticas del Lenguaje y HTML</title>
-	  <link>/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
+	  <link>https://acercadelaeducacion.com.ar/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -91,7 +91,7 @@
 				
 		
 	  <pubDate>2015-11-18T15:26:41+00:00</pubDate>
-	  <guid>/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
+	  <guid>https://acercadelaeducacion.com.ar/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
 	  <description><![CDATA[
 	     <p><img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
 
@@ -113,7 +113,7 @@
 
 	<item>
 	  <title>Plantilla para chequear fuentes web | proyecto Código Kraken</title>
-	  <link>/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</link>
+	  <link>https://acercadelaeducacion.com.ar/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -134,7 +134,7 @@
 				
 		
 	  <pubDate>2015-11-10T10:44:32+00:00</pubDate>
-	  <guid>/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</guid>
+	  <guid>https://acercadelaeducacion.com.ar/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</guid>
 	  <description><![CDATA[
 	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
 
@@ -145,7 +145,7 @@
 
 	<item>
 	  <title>#mozfest 2013 | Arribo de tutoriales en Thimble | #teachtheweb</title>
-	  <link>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -166,7 +166,7 @@
 				
 		
 	  <pubDate>2013-11-23T18:09:41+00:00</pubDate>
-	  <guid>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"><img class=" wp-image-2249 aligncenter" alt="horadeaventuras" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/11/horadeaventuras.gif" width="297" height="167" /></p>
 <p> </p>
@@ -204,7 +204,7 @@
 
 	<item>
 	  <title>Cómo traducir proyectos en #Thimble #Webmaker [para hacer y deshacer la web]</title>
-	  <link>/2012/11/como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/11/como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -225,7 +225,7 @@
 				
 		
 	  <pubDate>2012-11-19T20:04:19+00:00</pubDate>
-	  <guid>/2012/11/como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/11/como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web/</guid>
 	  <description><![CDATA[
 	     <p>Esto es una copia exacta de alguien que explica mucho mejor aquello en lo que yo <a href="http://www.acercadelaeducacion.com.ar/2012/11/19/como-traducir-proyectos-en-thimble-webmaker-para-hacer-y-deshacer-la-web/projectpeoples/" rel="attachment wp-att-1804"><img class="alignleft size-full wp-image-1804" style="border: 3px solid black; margin-top: 3px; margin-bottom: 3px;" title="projectpeoples" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/projectpeoples.png" alt="" width="364" height="263" /></a>me enredo [<a title="Tuiter de Deimidis" href="http://twitter/deimidis" target="_blank">@deimidis</a>]</p>
 

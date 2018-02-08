@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Masa Crítica. Buenos Aires</title>
-	  <link>/2010/07/masa-critica-buenos-aires/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/07/masa-critica-buenos-aires/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2010-07-04T14:18:46+00:00</pubDate>
-	  <guid>/2010/07/masa-critica-buenos-aires/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/07/masa-critica-buenos-aires/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://4.bp.blogspot.com/_jnbDQVNASgc/TCz9tLpRffI/AAAAAAAADN8/Vi7hKFYtW3c/s1600/juntos-.jpg"><img class="alignleft" title="En bici es mejor" src="http://4.bp.blogspot.com/_jnbDQVNASgc/TCz9tLpRffI/AAAAAAAADN8/Vi7hKFYtW3c/s1600/juntos-.jpg" alt="" width="424" height="600" /></a>Para ir siguiendo… en bici obvio:</p>
 
@@ -69,7 +69,7 @@ A menudo los participantes disfrutan mucho este paseo y deciden  encontrarse nue
 
 	<item>
 	  <title>Lecturas de media noche</title>
-	  <link>/2008/02/lecturas-de-media-noche/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/02/lecturas-de-media-noche/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -90,7 +90,7 @@ A menudo los participantes disfrutan mucho este paseo y deciden  encontrarse nue
 				
 		
 	  <pubDate>2008-02-26T00:48:16+00:00</pubDate>
-	  <guid>/2008/02/lecturas-de-media-noche/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/02/lecturas-de-media-noche/</guid>
 	  <description><![CDATA[
 	     <blockquote>
 <p align="center"><strong> Las Ciudades y la Memoria. 2</strong></p>

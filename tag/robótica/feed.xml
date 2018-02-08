@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Arduino en Argentina</title>
-	  <link>/2008/12/arduino-en-argentina/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/12/arduino-en-argentina/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-12-14T17:00:00+00:00</pubDate>
-	  <guid>/2008/12/arduino-en-argentina/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/12/arduino-en-argentina/</guid>
 	  <description><![CDATA[
 	     <p><img class="aligncenter size-full wp-image-260" title="arduino-layoyut" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2008/12/arduino-layoyut.gif" alt="arduino-layoyut" width="372" height="282" /></p>
 

@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Nestor Kirchner: Una historia de vida</title>
-	  <link>/2010/10/una-historia-de-vida/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/10/una-historia-de-vida/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2010-10-30T10:08:48+00:00</pubDate>
-	  <guid>/2010/10/una-historia-de-vida/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/10/una-historia-de-vida/</guid>
 	  <description><![CDATA[
 	     <p>Porque el silencio es lo que algunos esperan… una poesía, una línea. Una esperanza en la continuidad de un sueño político</p>
 
@@ -66,7 +66,7 @@
 
 	<item>
 	  <title>Murió Roberto Fontanrrosa. Lo escuche por la radi&#8230;</title>
-	  <link>/2007/07/murio-roberto-fontanrrosa-lo-escuche-por-la-radi/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/07/murio-roberto-fontanrrosa-lo-escuche-por-la-radi/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -87,7 +87,7 @@
 				
 		
 	  <pubDate>2007-07-19T20:49:00+00:00</pubDate>
-	  <guid>/2007/07/murio-roberto-fontanrrosa-lo-escuche-por-la-radi/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/07/murio-roberto-fontanrrosa-lo-escuche-por-la-radi/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.cardoncosasnuestras.com.ar/objetos/revistalarge/rg2-creador-paisano-0.jpg"><img src="http://www.cardoncosasnuestras.com.ar/objetos/revistalarge/rg2-creador-paisano-0.jpg" style="margin: 0pt auto 10px; display: block; text-align: center; cursor: pointer; width: 320px" border="0" /></a>
 <a href="http://www.clarin.com/diario/2007/07/19/um/m-01460691.htm">Murió</a> Roberto Fontanrrosa.
@@ -100,7 +100,7 @@ Es de esas personas que estos pagos van a extrañar</p>
 
 	<item>
 	  <title>Ricardo Vilca</title>
-	  <link>/2007/06/ricardo-vilca-2/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/06/ricardo-vilca-2/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -121,7 +121,7 @@ Es de esas personas que estos pagos van a extrañar</p>
 				
 		
 	  <pubDate>2007-06-26T20:06:00+00:00</pubDate>
-	  <guid>/2007/06/ricardo-vilca-2/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/06/ricardo-vilca-2/</guid>
 	  <description><![CDATA[
 	     <p>A veces alguien aparece en mi vida solo por un momento o unos días y deja marcas que me acompañan cada día. Una de estas personas es <strong><a href="http://www.ricardovilca.com/">Ricardo Vilca</a></strong>. No solo por la simpleza con la que me habló, sino por el calor que en su casa me transmitió, en una etapa fría  y complicada de mi vida.
 Reviven esas brasas en mi cada vez que te escucho.

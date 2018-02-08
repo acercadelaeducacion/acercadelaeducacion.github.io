@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Proyectos colaborativos | Una aproximación metodológica.</title>
-	  <link>/2012/04/proyectos-colaborativos-una-aproximacion-metodologica/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/04/proyectos-colaborativos-una-aproximacion-metodologica/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2012-04-19T15:26:52+00:00</pubDate>
-	  <guid>/2012/04/proyectos-colaborativos-una-aproximacion-metodologica/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/04/proyectos-colaborativos-una-aproximacion-metodologica/</guid>
 	  <description><![CDATA[
 	     <p>El presente articulo pretende mostrar una metodología de organización de los proyectos educativos, sustentado en estrategias de aprendizaje colaborativo. Este es el resultado de varias experiencias que demostraron, en la práctica, que la organización de las secuencias de trabajo son tan importantes como las intervenciones en la práctica misma.</p>
 <blockquote>
@@ -70,7 +70,7 @@ Al retornar a los grupos originales, cada uno de los grupos tendrá tanto materi
 
 	<item>
 	  <title>Una aproximación al aprendizaje colaborativo</title>
-	  <link>/una-aproximacion-al-aprendizaje-colaborativo</link>
+	  <link>https://acercadelaeducacion.com.ar/una-aproximacion-al-aprendizaje-colaborativo</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -91,7 +91,7 @@ Al retornar a los grupos originales, cada uno de los grupos tendrá tanto materi
 				
 		
 	  <pubDate>2007-03-29T01:05:00+00:00</pubDate>
-	  <guid>/una-aproximacion-al-aprendizaje-colaborativo</guid>
+	  <guid>https://acercadelaeducacion.com.ar/una-aproximacion-al-aprendizaje-colaborativo</guid>
 	  <description><![CDATA[
 	     <p><em>Este es un articulo que se publicó en la <a href="http://internormales.com.ar/archivos/elhecho3.pdf">revista</a> que hacen los <a href="http://internormales.com.ar/normal1.htm">alumnos del Profesorado de Enseñanza Primaria Normal Nro 1 de la Ciudad de Buenos Aires</a> . Si bien está dirigido a ese público y el ejemplo es el de maestros recrien recibidos, creo que su contenido es útil para cualquier caso.</em></p>
 

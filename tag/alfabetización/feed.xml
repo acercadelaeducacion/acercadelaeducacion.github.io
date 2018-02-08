@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Estándares de Alfabetización Web de Mozilla: versión candidata del proyecto #WebLitStd</title>
-	  <link>/2013/04/estandares-de-alfabetizacion-web-de-mozilla-version-candidata-del-proyecto-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/04/estandares-de-alfabetizacion-web-de-mozilla-version-candidata-del-proyecto-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-04-20T15:19:38+00:00</pubDate>
-	  <guid>/2013/04/estandares-de-alfabetizacion-web-de-mozilla-version-candidata-del-proyecto-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/04/estandares-de-alfabetizacion-web-de-mozilla-version-candidata-del-proyecto-weblitstd/</guid>
 	  <description><![CDATA[
 	     <p>Esta es una traducción, casi al vuelo del, <a href="http://dougbelshaw.com/blog/2013/04/19/mozilla-web-literacy-standard-draft-release-candidate/">artículo</a> de <a href="https://twitter.com/dajbelshaw">Doug Belshaw</a> publicado ayer.</p>
 
@@ -107,7 +107,7 @@
 
 	<item>
 	  <title>Grilla de habilidades y competencias del proyecto de estándares de alfabetización web de mozilla #weblitstd</title>
-	  <link>/2013/03/grilla-de-habilidades-y-competencias-del-proyecto-de-estandares-de-alfabetizacion-web-de-mozilla-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/03/grilla-de-habilidades-y-competencias-del-proyecto-de-estandares-de-alfabetizacion-web-de-mozilla-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -128,7 +128,7 @@
 				
 		
 	  <pubDate>2013-03-07T07:15:29+00:00</pubDate>
-	  <guid>/2013/03/grilla-de-habilidades-y-competencias-del-proyecto-de-estandares-de-alfabetizacion-web-de-mozilla-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/03/grilla-de-habilidades-y-competencias-del-proyecto-de-estandares-de-alfabetizacion-web-de-mozilla-weblitstd/</guid>
 	  <description><![CDATA[
 	     <p>Traducción del documento <a title="Página de aprendizajes/AlfabetizaciónWeb" href="https://wiki.mozilla.org/Learning/WebLiteracies" target="_blank" rel="nofollow">Learning/webLiteracies</a>
 &lt;/hr&gt;
@@ -231,7 +231,7 @@
 
 	<item>
 	  <title>Estándares en Alfabetización Web | Introducción | #weblitstd</title>
-	  <link>/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -252,7 +252,7 @@
 				
 		
 	  <pubDate>2013-02-21T08:30:00+00:00</pubDate>
-	  <guid>/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/02/estandares-en-alfabetizacion-web-introduccion-weblitstd/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/02/299208539_b2c0d7e521.jpg"><img class="size-full wp-image-1926 aligncenter" style="border: 3px solid black;" alt="299208539_b2c0d7e521" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/02/299208539_b2c0d7e521.jpg" width="500" height="333" /></a></p>
 

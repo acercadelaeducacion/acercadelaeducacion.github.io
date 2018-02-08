@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Educación Sexual&#8230;.</title>
-	  <link>/2009/08/educacion-sexual/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/08/educacion-sexual/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2009-08-05T21:41:40+00:00</pubDate>
-	  <guid>/2009/08/educacion-sexual/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/08/educacion-sexual/</guid>
 	  <description><![CDATA[
 	     <p>Hace unos días la noticia sobre las declaraciones de <a title="Noticias sobre el tema" href="http://news.google.com.ar/news?pz=1&amp;ned=es_ar&amp;hl=es&amp;q=H%C3%A9ctor+Aguer">Héctor Aguer</a> sacudió a la opinión pública e instaló una vez más, este tema en los medios. No voy a escribir más palabras sobre los dichos del Arzobispo de La Plata.</p>
 

@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Sugar | ¿Qué es? | ¿Cómo Instalarlo?</title>
-	  <link>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
+	  <link>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2011-04-30T12:21:29+00:00</pubDate>
-	  <guid>/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2011/04/sugar-%c2%bfque-es-%c2%bfcomo-instalarlo/</guid>
 	  <description><![CDATA[
 	     <p><a title="EduJam 2011 | Evento sobre sugar en Uruguay. Allá Vamos" href="http://www.acercadelaeducacion.com.ar/2011/04/30/edujam-2011-evento-sobre-sugar-en-uruguay-alla-vamos/">Estuve hablando y contando sobre sugar en el post pasado</a>. Pero no aclaré que es lo que era. Este documento resume qué es y aclara para qué se usa.</p>
 
@@ -193,7 +193,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Ardesia y Zotero: Anotaciones y grabaciones en pantalla | Recolección y administración de fuentes</title>
-	  <link>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
+	  <link>https://acercadelaeducacion.com.ar/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -214,7 +214,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2010-12-10T18:17:49+00:00</pubDate>
-	  <guid>/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2010/12/ardesia-y-zotero-anotaciones-y-grabaciones-en-pantalla-recoleccion-y-admistracion-de-fuentes/</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba.png"><img class="size-medium wp-image-830 alignleft" style="border: 2px solid black; margin: 3px;" title="ardesia_prueba" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2010/12/ardesia_prueba-300x168.png" alt="" width="300" height="168" /></a></p>
 
@@ -246,7 +246,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Get Ubuntu II</title>
-	  <link>/get-ubuntu-ii</link>
+	  <link>https://acercadelaeducacion.com.ar/get-ubuntu-ii</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -267,7 +267,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2007-05-31T18:37:00+00:00</pubDate>
-	  <guid>/get-ubuntu-ii</guid>
+	  <guid>https://acercadelaeducacion.com.ar/get-ubuntu-ii</guid>
 	  <description><![CDATA[
 	     <p>Festejando La Semana Ubuntu, seguimos con la serie ilustrativa, que provee la <a href="http://www.hachemuda.com/">HacheMuda</a>, sobre las ventajas de <a href="http://www.ubuntu.com/">Ubuntu</a></p>
 
@@ -281,7 +281,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 
 	<item>
 	  <title>Get Ubuntu</title>
-	  <link>/get-ubuntu</link>
+	  <link>https://acercadelaeducacion.com.ar/get-ubuntu</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -302,7 +302,7 @@ echo "Sugar instalado, para correrlo tipea en una terminal sugar-session"</pre>
 				
 		
 	  <pubDate>2007-05-30T13:56:00+00:00</pubDate>
-	  <guid>/get-ubuntu</guid>
+	  <guid>https://acercadelaeducacion.com.ar/get-ubuntu</guid>
 	  <description><![CDATA[
 	     <p>vía <a href="http://ubuntulife.wordpress.com/2007/05/29/primer-video-de-la-serie-get-ubuntu/trackback/">Ubuntu Life</a> me enteré de lo siguiente y lo quería compartir acá:</p>
 <blockquote>Una fantastica idea de <a href="http://www.hachemuda.com/2007/05/28/primer-video-de-la-serie-get-ubuntu-examen/" target="_blank">Hache Muda</a>

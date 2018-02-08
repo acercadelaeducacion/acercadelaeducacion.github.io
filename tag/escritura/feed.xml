@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Vandalismo Va con V corta</title>
-	  <link>/2008/08/vandalismo-va-con-v-corta/</link>
+	  <link>https://acercadelaeducacion.com.ar/2008/08/vandalismo-va-con-v-corta/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2008-08-16T11:28:28+00:00</pubDate>
-	  <guid>/2008/08/vandalismo-va-con-v-corta/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2008/08/vandalismo-va-con-v-corta/</guid>
 	  <description><![CDATA[
 	     <p>Es el pensamiento que me asaltó a las 6:30 de la mañana, entonces, retomo lel compromiso que alguna vez escribí. “La ortografía es una actitud… la escritura también”</p>
 
@@ -67,7 +67,7 @@ Entonces como "aquellos de los que se puede aprender mucho" muchas veces tiene "
 
 	<item>
 	  <title>La ortografía es una actitud&#8230; la escritura también</title>
-	  <link>/la-ortografia-es-una-actitud-la-escritura-tambien</link>
+	  <link>https://acercadelaeducacion.com.ar/la-ortografia-es-una-actitud-la-escritura-tambien</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -88,7 +88,7 @@ Entonces como "aquellos de los que se puede aprender mucho" muchas veces tiene "
 				
 		
 	  <pubDate>2007-05-31T15:34:00+00:00</pubDate>
-	  <guid>/la-ortografia-es-una-actitud-la-escritura-tambien</guid>
+	  <guid>https://acercadelaeducacion.com.ar/la-ortografia-es-una-actitud-la-escritura-tambien</guid>
 	  <description><![CDATA[
 	     <p><a href="http://farm1.static.flickr.com/169/440616682_e35166c922.jpg?v=0"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 200px;" src="http://farm1.static.flickr.com/169/440616682_e35166c922.jpg?v=0" border="0" alt="" /></a>
 Lo apasionante de la escritura es la transformación constante…. de todo.</p>

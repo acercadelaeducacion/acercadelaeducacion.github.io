@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Día de las máquinas libres y cumpleaños de la bicicueva</title>
-	  <link>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
+	  <link>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2014-03-13T10:34:32+00:00</pubDate>
-	  <guid>/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2014/03/dia-de-las-maquinas-libres-y-cumpleanos-de-la-bicicueva/</guid>
 	  <description><![CDATA[
 	     <p><a title="Página Biblio Barracas" href="http://www.bibliobarracas.com.ar" target="_blank">La Biblio Barracas</a> está de fiesta</p>
 
@@ -79,7 +79,7 @@
 
 	<item>
 	  <title>Software libre para Bibliotecas #Meran | Cómo extraer páginas de PDF | Más Inkscape</title>
-	  <link>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -100,7 +100,7 @@
 				
 		
 	  <pubDate>2012-10-31T09:00:25+00:00</pubDate>
-	  <guid>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</guid>
 	  <description><![CDATA[
 	     <h2>Software Libre para Bibliotecas | Meran</h2>
 <p>Meran es el sucesor de Koha-UNLP y ya es un sistema que trabaja bajo la filosofía de software libre.</p>

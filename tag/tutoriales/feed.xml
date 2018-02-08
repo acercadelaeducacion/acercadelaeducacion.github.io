@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>#mozfest 2013 | Arribo de tutoriales en Thimble | #teachtheweb</title>
-	  <link>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2013-11-23T18:09:41+00:00</pubDate>
-	  <guid>/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/11/mozfest-2013-arribo-de-tutoriales-en-thimble-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"><img class=" wp-image-2249 aligncenter" alt="horadeaventuras" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/11/horadeaventuras.gif" width="297" height="167" /></p>
 <p> </p>
@@ -88,7 +88,7 @@
 
 	<item>
 	  <title>Localization process using #Github &#038; #Transifex</title>
-	  <link>/2013/10/localization-process-using-github-transifex/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/10/localization-process-using-github-transifex/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -109,7 +109,7 @@
 				
 		
 	  <pubDate>2013-10-16T10:34:38+00:00</pubDate>
-	  <guid>/2013/10/localization-process-using-github-transifex/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/10/localization-process-using-github-transifex/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"> <img class="size-full wp-image-2202 aligncenter" alt="github2transifex" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/github2transifex1.png" width="540" height="134" /></p>
 <p>Hi to all
@@ -145,7 +145,7 @@ I have been refining the process to upload resources to <a title="Web page GitHu
 
 	<item>
 	  <title>Software libre para Bibliotecas #Meran | Cómo extraer páginas de PDF | Más Inkscape</title>
-	  <link>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -166,7 +166,7 @@ I have been refining the process to upload resources to <a title="Web page GitHu
 				
 		
 	  <pubDate>2012-10-31T09:00:25+00:00</pubDate>
-	  <guid>/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/10/software-libre-para-bibliotecas-meran-como-extraer-paginas-de-pdf-mas-inkscape/</guid>
 	  <description><![CDATA[
 	     <h2>Software Libre para Bibliotecas | Meran</h2>
 <p>Meran es el sucesor de Koha-UNLP y ya es un sistema que trabaja bajo la filosofía de software libre.</p>
@@ -205,7 +205,7 @@ Koha.org, Meran es un desarrollo nuevo, pensado y creado íntegramente en el ám
 
 	<item>
 	  <title>Tutorial de catapulta en Phun</title>
-	  <link>/2009/12/tutorial-de-catapulta-en-phun/</link>
+	  <link>https://acercadelaeducacion.com.ar/2009/12/tutorial-de-catapulta-en-phun/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -226,7 +226,7 @@ Koha.org, Meran es un desarrollo nuevo, pensado y creado íntegramente en el ám
 				
 		
 	  <pubDate>2009-12-18T12:56:15+00:00</pubDate>
-	  <guid>/2009/12/tutorial-de-catapulta-en-phun/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2009/12/tutorial-de-catapulta-en-phun/</guid>
 	  <description><![CDATA[
 	     <p>A pedido de mis alumn@s, que debo decir, son un@s  gros@s. Publico el famoso (al menos en el colegio) tutorial para hacer una catapulta usando <a title="Página de phun" href="http://phunland.com" target="_blank">Phun</a> (también dejo el tutorial para hacer el muro… pero esto ya lo saben hacer). Este tutorial en realidad es una traducción libre (y seguro que llena de errores) del tutorial de la <a title="wiki de phun, sección tutoriales" href="http://www.phunland.com/wiki/Tutorials" target="_blank">wiki</a> de phun. Al respecto, cabe recordar que si bien esta no es una aplicación libre y que a partir de su versión 5.28 es pago. No de ja de ser un excelente soft.</p>
 
@@ -256,7 +256,7 @@ Koha.org, Meran es un desarrollo nuevo, pensado y creado íntegramente en el ám
 
 	<item>
 	  <title>Google docs para mortales</title>
-	  <link>/2007/09/google-docs-para-mortales/</link>
+	  <link>https://acercadelaeducacion.com.ar/2007/09/google-docs-para-mortales/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -277,7 +277,7 @@ Koha.org, Meran es un desarrollo nuevo, pensado y creado íntegramente en el ám
 				
 		
 	  <pubDate>2007-09-27T14:43:58+00:00</pubDate>
-	  <guid>/2007/09/google-docs-para-mortales/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2007/09/google-docs-para-mortales/</guid>
 	  <description><![CDATA[
 	     <p>Los amigos de <strong><a href="http://www.commoncraft.com/">Common Craft </a></strong>han realizado otro maravilloso video explicando esta vez como funciona <strong><a href="http://docs.google.com">google docs </a></strong>y via <strong><a href="http://www.adelat.org/htsrv/trackback.php?tb_id=742">adelat</a></strong> llega la notica que terminaron de de traducirlo. una vez más, usando <strong><a href="http://dotsub.com/">dotsub</a>. Espacio para la tradicción colaborativa de videos </strong>:)
 Acá les vá el video.</p>

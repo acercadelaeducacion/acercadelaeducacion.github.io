@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>/</title>
+      <title>https://acercadelaeducacion.com.ar/</title>
    
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <description>Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes</description>
    <language>es-es</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ Escribir no tiene nada que ver con significar, sino con deslindar, cartografiar, incluso futuros paisajes ]]>
    </description>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    <image>
-   <url>/assets/images/favicon.png</url>
+   <url>https://acercadelaeducacion.com.ar/assets/images/favicon.png</url>
    <title>Acerca de la Educación</title>
-   <link>/</link>
+   <link>https://acercadelaeducacion.com.ar/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="https://acercadelaeducacion.com.ar/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>Mapatón: Mapeo digital, social y colectivo del Area Reconquista</title>
-	  <link>/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</link>
+	  <link>https://acercadelaeducacion.com.ar/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,7 @@
 				
 		
 	  <pubDate>2015-11-11T16:01:58+00:00</pubDate>
-	  <guid>/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</guid>
+	  <guid>https://acercadelaeducacion.com.ar/mapaton-mapeo-digital-social-y-colectivo-del-area-reconquista</guid>
 	  <description><![CDATA[
 	     <h2>¿Qué es un MAPATON?</h2>
 <p>El mapatón tiene como fin desarrollar una herramienta de mapeo digital para el área reconquista de José León Suárez que pueda articular, visibilizar y potenciar las existentes, generar instancias de articulación de organizaciones que favorezcan el trabajo conjunto en función del territorio y sus habitantes, e implementar una agenda que permita la elaboración de estrategias y acciones a mediano y largo plazo.</p>
@@ -83,7 +83,7 @@
 
 	<item>
 	  <title>Nueva sección: Planificaciones</title>
-	  <link>/nueva-seccion-planificaciones</link>
+	  <link>https://acercadelaeducacion.com.ar/nueva-seccion-planificaciones</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -104,7 +104,7 @@
 				
 		
 	  <pubDate>2014-06-20T14:03:10+00:00</pubDate>
-	  <guid>/nueva-seccion-planificaciones</guid>
+	  <guid>https://acercadelaeducacion.com.ar/nueva-seccion-planificaciones</guid>
 	  <description><![CDATA[
 	     <p>Abro una nueva sección en el blog, más que sección es un deposito de ideas y prácticas y frustraciones desde aula.</p>
 
@@ -123,7 +123,7 @@
 
 	<item>
 	  <title>Por qué usar github para bloguear | Primer post usando #octopress</title>
-	  <link>/por-que-usar-github-para-bloguear-primer-post-usando-octopress</link>
+	  <link>https://acercadelaeducacion.com.ar/por-que-usar-github-para-bloguear-primer-post-usando-octopress</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -144,7 +144,7 @@
 				
 		
 	  <pubDate>2014-05-07T20:05:13+00:00</pubDate>
-	  <guid>/por-que-usar-github-para-bloguear-primer-post-usando-octopress</guid>
+	  <guid>https://acercadelaeducacion.com.ar/por-que-usar-github-para-bloguear-primer-post-usando-octopress</guid>
 	  <description><![CDATA[
 	     <p>&lt;/a&gt;<a title="Post on github" href="http://acercadelaeducacion.github.io/" target="_blank">Por qué usar github para bloguear | Primer post usando #octopress</a></p>
 
@@ -153,7 +153,7 @@
 
 	<item>
 	  <title>Localization process using #Github &#038; #Transifex</title>
-	  <link>/2013/10/localization-process-using-github-transifex/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/10/localization-process-using-github-transifex/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -174,7 +174,7 @@
 				
 		
 	  <pubDate>2013-10-16T10:34:38+00:00</pubDate>
-	  <guid>/2013/10/localization-process-using-github-transifex/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/10/localization-process-using-github-transifex/</guid>
 	  <description><![CDATA[
 	     <p style="text-align: center;"> <img class="size-full wp-image-2202 aligncenter" alt="github2transifex" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2013/09/github2transifex1.png" width="540" height="134" /></p>
 <p>Hi to all
@@ -210,7 +210,7 @@ I have been refining the process to upload resources to <a title="Web page GitHu
 
 	<item>
 	  <title>Charla colectiva para organizar Webmakers hispano #hagamoslaweb #teachtheweb</title>
-	  <link>/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</link>
+	  <link>https://acercadelaeducacion.com.ar/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -231,7 +231,7 @@ I have been refining the process to upload resources to <a title="Web page GitHu
 				
 		
 	  <pubDate>2013-06-23T15:49:18+00:00</pubDate>
-	  <guid>/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2013/06/charla-colectiva-para-organizar-webmakers-hispano-hagamoslaweb-teachtheweb/</guid>
 	  <description><![CDATA[
 	     <p><img src="http://openmatt.org/wp-content/uploads/2013/01/Webmaker-2013-building-with-makers-and-mentors.001.jpg" width="1277" height="675" class="aligncenter" /></p>
 
@@ -245,7 +245,7 @@ Si estás interesado <em><a href="http://doodle.com/knpyc2kfa79k2xzd" title="Doo
 
 	<item>
 	  <title>Hace tu cajita pirata y compartí todo en cualquier lado #PirateBox</title>
-	  <link>/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</link>
+	  <link>https://acercadelaeducacion.com.ar/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -266,7 +266,7 @@ Si estás interesado <em><a href="http://doodle.com/knpyc2kfa79k2xzd" title="Doo
 				
 		
 	  <pubDate>2012-11-29T00:00:00+00:00</pubDate>
-	  <guid>/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</guid>
+	  <guid>https://acercadelaeducacion.com.ar/2012/11/hace-tu-cajita-pirata-y-comparti-todo-en-cualquier-lado-piratebox/</guid>
 	  <description><![CDATA[
 	     <p><img class="alignleft" src="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-piratebox-logo1.png" alt="http://www.acercadelaeducacion.com.ar/wp-content/uploads/2012/11/wpid-piratebox-logo1.png" width="226" height="199" /> La <a href="http://wiki.daviddarts.com/PirateBox_DIY">caja pirata</a> es un dispositivo que te permite crear una red wifi por la cual es posible intercambiar archivos y chatear sin que estas actividades sean monitoreadas ni registradas. Según su autor</p>
 <blockquote>Inspirado por la radio pirata y los movimientos de cultura libre, PirateBox es un dispositivo móvil autónomo de colaboración e intercambio de archivos. PirateBox utiliza Software Libre y software de código abierto (FLOSS) para crear redes inalámbricas móviles de intercambio de archivos donde los usuarios pueden compartir anónimamente imágenes, vídeo, audio, documentos y otros contenidos digitales.
@@ -388,7 +388,7 @@ Así se ve la página a la cual te conectás.
 
 	<item>
 	  <title>codelinux</title>
-	  <link>/codelinux</link>
+	  <link>https://acercadelaeducacion.com.ar/codelinux</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -409,7 +409,7 @@ Así se ve la página a la cual te conectás.
 				
 		
 	  <pubDate>2007-05-15T23:28:00+00:00</pubDate>
-	  <guid>/codelinux</guid>
+	  <guid>https://acercadelaeducacion.com.ar/codelinux</guid>
 	  <description><![CDATA[
 	     <p>Vía <a href="http://etsiit.blogspot.com/">Kirkob</a> les dejo a los amiguitos  un documental algo antiguo pero siempre bueno sobre la historia de GNU Linux<span class="down" style="display:block;"></span><br /><br /></p>
 
@@ -418,7 +418,7 @@ Así se ve la página a la cual te conectás.
 
 	<item>
 	  <title>Lo prometido es deuda</title>
-	  <link>/lo-prometido-es-deuda</link>
+	  <link>https://acercadelaeducacion.com.ar/lo-prometido-es-deuda</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -439,7 +439,7 @@ Así se ve la página a la cual te conectás.
 				
 		
 	  <pubDate>2007-05-15T14:17:00+00:00</pubDate>
-	  <guid>/lo-prometido-es-deuda</guid>
+	  <guid>https://acercadelaeducacion.com.ar/lo-prometido-es-deuda</guid>
 	  <description><![CDATA[
 	     <p><a href="http://www.libertaddigital.com/fotos/noticias/wloprometido140507.jpg"><img style="display:block;text-align:center;cursor:pointer;width:200px;margin:0 auto 10px;" src="http://www.libertaddigital.com/fotos/noticias/wloprometido140507.jpg" alt="" border="0" /></a><br /><br /><a href="http://libertaddigital.es/noticias/noticia_1276305496.html"></a>&lt;blockquote&gt;&lt;div style="text-align:center;"&gt;LO PROMETIDO ES DEUDA<br />&lt;/div&gt;<a href="http://libertaddigital.es/noticias/noticia_1276305496.html">Crean un wiki para recordar a todos los políticos que lo que prometen “puede ser utilizado en su contra” - Libertad Digital</a>:<br /><br />Con motivo de las elecciones municipales y autonómicas del 27 de mayo, un grupo de internautas ha puesto en marcha un wiki, (sitio web cuyo contenido puede ser editado o modificado por varios usuarios) que recoge los compromisos electorales de los diferentes partidos y candidatos. Según se explica en la web, los creadores de ‘<a href="http://loprometidoesdeuda.com/Portada">Lo prometido es deuda</a>’ quieren recordar ‘a todos los políticos que todo lo que prometan puede ser utilizado en su contra. Que tenemos en cuenta sus palabras y que queremos poder recordarles cómo, dónde y cuándo prometieron algo por si habían pensado en incumplirlo’.”&lt;/blockquote&gt;<br />Esta es una buena idea y una forma más de participar.<br />Estaría bueno hacer algo así  algo así para la Argentina<br />pd:<br />Gracias a <a href="http://www.deugarte.com/">David Ugarte</a> por traer <a href="http://es.corank.com/">corank</a>   de donde saque esta noticia que viene de <a href="http://libertaddigital.es/noticias/noticia_1276305496.html">libertad digital</a>  <span class="on down" style="display:block;"></span></p>
 

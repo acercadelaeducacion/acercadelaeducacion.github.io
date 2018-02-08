@@ -10,6 +10,7 @@ class: post-template
 subclass: 'post tag-la-vida-esta-en-otro-lado'
 author: Alvar
 disqus: true
+comments: true
 ---
 
 Cada tanto me agarra la fobia a las redes sociales. Ya no lucho contra ella.

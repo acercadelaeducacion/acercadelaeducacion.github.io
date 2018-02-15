@@ -21,7 +21,7 @@ El grupo estába compuesto por chicos de 4to grado, con uno o dos años de sobre
 
 
 <a href="{{site.url}}{{site.baseurl}}assets/images/balgard/balgard1.jpg" data-lightbox="Juego de Rol" title="Balgard en accióna">
-<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}assets/images/balgard/balgard1.jpg&w=300&h=300&output=jpg&q=50&t=square"></a>
+<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{site.baseurl}}assets/images/balgard/balgard1.jpg&w=300&h=300&output=jpg&q=50&t=square"></a>
 
 
 Llegamos a hacer dos sesiones de juego, la primera fuimos 4 aventureros y yo como guía de juego. Les comenté que era un juego de rol y aprovechamos para, sin tener personajes creados, ponernos en situación a través de la creación de una “profecía” (dentro del juego hay una tabla que determina una profecía con tres tiradas de dados) con esa profecía los devenidos aventureros se lanzaron al “viaje” (otra tirada ayuda en eso). Llegaron a una cueva y enfrentaron sus primeras decisiones ahí tuvimos que terminar la sesión. Dejando un clima de suspenso alto y una idea general del sistema de juego.
@@ -30,7 +30,7 @@ La segunda sesión fue la más rica, aunque eramos 2 jugadores y yo como  guía 
 La lectura de la hoja de personajes y el armado de los personajes fueron construyendo mucho de la ambientación y poniendo a los jugadores en sus personajes.
 
 <a href="{{site.url}}{{site.baseurl}}assets/images/balgard/balgard2.jpg" data-lightbox="Juego de Rol" title="Balgard en accióna">
-<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}assets/images/balgard/balgard2.jpg&w=300&h=300&output=jpg&q=50&t=square"></a>
+<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{site.baseurl}}assets/images/balgard/balgard2.jpg&w=300&h=300&output=jpg&q=50&t=square"></a>
 
 Uno de los objetivos principales que tiene este grupo es que escriban, y que sus escritos tenga sentido para ellos, es decir, que escribir no devenga una práctica que sólo tiene sentido en el marco de una tarea que se le entrega a un docente. Buscamos que la práctica de la escritura sirva para algo más que hacer una tarea, y en este marco el armado de los personajes los involucró significativamente con la escritura. Escribieron para construir un personaje, para darle su trasfondo, para moverse en el juego con él, para guardar memoria de cómo es y qué motiva a su personaje y para guardar memoria de las cosas que le van pasando.
 
@@ -43,4 +43,4 @@ No obstante, la experiencia fue muy enriquecedora, los chicos piden volver al ju
 Diría que a pesar de no terminar la aventura...La experiencia fue un éxito. Gracias **Benjamín** por tu invalorable ayuda!
 
 <a href="{{site.url}}{{site.baseurl}}assets/images/balgard/balgardreco.jpg" data-lightbox="Juego de Rol" title="Balgard en accióna">
-<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}assets/images/balgard/balgardreco.jpg&w=300&h=300&output=jpg&q=50&t=square"></a>
+<img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }{{site.baseurl}}assets/images/balgard/balgardreco.jpg&w=300&h=300&output=jpg&q=50&t=square"></a>

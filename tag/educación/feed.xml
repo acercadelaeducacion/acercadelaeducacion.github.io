@@ -28,65 +28,6 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Cómo planifiqué el año pasado. Cambios y permanencias</title>
-	  <link>https://acercadelaeducacion.com.ar/como-planifique-el-anio-pasado</link>
-		
-				
-						<author>Alvar Maciel</author>
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-	  <pubDate>2018-02-08T00:00:00+00:00</pubDate>
-	  <guid>https://acercadelaeducacion.com.ar/como-planifique-el-anio-pasado</guid>
-	  <description><![CDATA[
-	     <p>Se terminan las vacaciones y voy pensando en como encarar las planificaciones de este año.
-El año pasado usé <a href="https://alvarmaciel.github.io/quintogrado/">este sistema</a> con el cual planificar y publicar eran una misma cosa. Usé:</p>
-
-<ul>
-  <li><a href="github.com">Github</a> como plataforma de publicación</li>
-  <li><a href="https://jekyllrb.com/">Jekyll</a> como motor del sitio</li>
-</ul>
-
-<p>Esta fue la estructura del sitio:</p>
-
-<ul>
-  <li>Plan Anual
-    <ul>
-      <li>Planificación anual con las 4 áreas](https://alvarmaciel.github.io/quintogrado/planificacion-anual/)</li>
-      <li><a href="https://alvarmaciel.github.io/quintogrado/Pausas-Evaluativas/">Algunas pausas evaluativas</a> y algunas <a href="https://alvarmaciel.github.io/quintogrado/rubricas-de-evaluacion/">rúbricas</a></li>
-      <li>Algunos <a href="https://alvarmaciel.github.io/quintogrado/diagramas/">diagramas generales</a></li>
-      <li>Una recolección de los contenidos de <a href="https://alvarmaciel.github.io/quintogrado/reflexion-sobre-el-lenguaje/">reflexión sobre el lenguaje del Diseño curricular</a></li>
-    </ul>
-  </li>
-  <li><a href="https://alvarmaciel.github.io/quintogrado/cronogramas/">Cronográmas</a> En un artículo semama a semana como fue evolucionando el plan anual</li>
-  <li><a href="https://alvarmaciel.github.io/quintogrado/projects/proyectos/">proyectos</a> una espacio para desarrollar cada uno de los proyectos</li>
-</ul>
-
-<p>Quedé satisfecho con lo el trabajo realizado. Este año quiero pulir la estructura del sitio seguir usando Github y tratar de generar el contenido de forma que pueda pasarse rápidamente a <a href="https://www.gitbook.com/">Gitbook</a> de forma que al final del año cuente con la planificación en formato libro.</p>
-
-<p>Creo que ahora me tengo que poner a leer un poco para definirlo en los próximos días</p>
-
-<p>Se aceptan sugerencias…</p>
-
-<p><a href="https://www.facebook.com/alejandroburdisio">Imagen de Burda</a></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
 	  <title>Chtcheglov, por otro urbanismo | Apuntes | The Beach Beneath the Street</title>
 	  <link>https://acercadelaeducacion.com.ar/chtcheglov-por-otro-urbanismo</link>
 		
@@ -496,6 +437,38 @@ La especialización de las imágenes del mundo se encuentra, consumada, en el mu
 	<li>15:00hs. Presentación del trabajo de cada comisión.</li>
 	<li>16:00 hs. Cierre general del Mapatón. Propuestas de continuidad para llegar a la app o herramienta que la gente del barrio pueda usar. Posible fecha para su realización.</li>
 </ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Plantilla para chequear fuentes web | proyecto Código Kraken</title>
+	  <link>https://acercadelaeducacion.com.ar/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2015-11-10T10:44:32+00:00</pubDate>
+	  <guid>https://acercadelaeducacion.com.ar/plantilla-para-chequear-fuentes-web-proyecto-codigo-kraken</guid>
+	  <description><![CDATA[
+	     <p>Como parte de la actividad de verificacion de fuentes web del proyecto Código kraken, se propone utilizar una planilla a modo de legitómetro de paginas. Esta planilla puede ser en papel o una pagian web editable en HTML. Usar esta última permite empezar a aprender HTML.</p>
+
+<p><a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/">https://d157rqmxrxj6ey.cloudfront.net/amaciel/10587/</a></p>
 
 	  ]]></description>
 	</item>

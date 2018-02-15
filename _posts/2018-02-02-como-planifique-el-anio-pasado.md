@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/trenes.jpg'
 navigation: True
 title: Cómo planifiqué el año pasado. Cambios y permanencias
-date: 2018-02-08
+date: 018-02-14T13:05:38-03:00
 tags: [Educación]
 class: post-template
 subclass: 'post tag-educacion'

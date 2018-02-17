@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/balgard/balgard.jpg'
 navigation: True
 title: Juegos de rol en la escuela primaria
-date: 2018-02-15
+date: 2018-02-15T19:00:00-03:00
 tags: [Educación]
 class: post-template
 subclass: 'post tag-educacion'

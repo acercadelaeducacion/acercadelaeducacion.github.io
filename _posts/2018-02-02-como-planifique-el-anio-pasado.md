@@ -13,7 +13,7 @@ disqus: true
 published: true
 ---
 Se terminan las vacaciones y voy pensando en como encarar las planificaciones de este año.
-El año pasado usé [este sistema](https://alvarmaciel.github.io/quintogrado/) con el cual planificar y publicar eran una misma cosa. Usé:
+El año pasado usé [este sistema](https://alvarmaciel.github.io/quintogrado/) con el cual planificar y publicar eran una misma cosa. Como herramientas de publicación opté por:
 
 * [Github](github.com) como plataforma de publicación
 * [Jekyll](https://jekyllrb.com/) como motor del sitio
@@ -26,7 +26,7 @@ Esta fue la estructura del sitio:
   * [Algunas pausas evaluativas](https://alvarmaciel.github.io/quintogrado/Pausas-Evaluativas/) y algunas [rúbricas](https://alvarmaciel.github.io/quintogrado/rubricas-de-evaluacion/)
   * Algunos [diagramas generales](https://alvarmaciel.github.io/quintogrado/diagramas/)
   * Una recolección de los contenidos de [reflexión sobre el lenguaje del Diseño curricular](https://alvarmaciel.github.io/quintogrado/reflexion-sobre-el-lenguaje/)
-* [Cronográmas](https://alvarmaciel.github.io/quintogrado/cronogramas/) En un artículo semama a semana como fue evolucionando el plan anual
+* [Cronogramas](https://alvarmaciel.github.io/quintogrado/cronogramas/) En un artículo semama a semana como fue evolucionando el plan anual
 * [proyectos](https://alvarmaciel.github.io/quintogrado/projects/proyectos/) una espacio para desarrollar cada uno de los proyectos
 
 Quedé satisfecho con lo el trabajo realizado. Este año quiero pulir la estructura del sitio seguir usando Github y tratar de generar el contenido de forma que pueda pasarse rápidamente a [Gitbook](https://www.gitbook.com/) de forma que al final del año cuente con la planificación en formato libro.

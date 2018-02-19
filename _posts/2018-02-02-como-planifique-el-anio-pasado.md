@@ -22,7 +22,7 @@ Esta fue la estructura del sitio:
 
 
 * Plan Anual
-  * Planificación anual con las 4 áreas](https://alvarmaciel.github.io/quintogrado/planificacion-anual/)
+  * [Planificación anual con las 4 áreas](https://alvarmaciel.github.io/quintogrado/planificacion-anual/)
   * [Algunas pausas evaluativas](https://alvarmaciel.github.io/quintogrado/Pausas-Evaluativas/) y algunas [rúbricas](https://alvarmaciel.github.io/quintogrado/rubricas-de-evaluacion/)
   * Algunos [diagramas generales](https://alvarmaciel.github.io/quintogrado/diagramas/)
   * Una recolección de los contenidos de [reflexión sobre el lenguaje del Diseño curricular](https://alvarmaciel.github.io/quintogrado/reflexion-sobre-el-lenguaje/)

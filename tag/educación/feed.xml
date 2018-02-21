@@ -28,8 +28,8 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Planificaciones para armar</title>
-	  <link>https://acercadelaeducacion.com.ar/planificaciones-para-armar</link>
+	  <title>¿Por qué planificar en la web?</title>
+	  <link>https://acercadelaeducacion.com.ar/porque-planificar-en-la-web</link>
 		
 				
 						<author>Alvar Maciel</author>
@@ -50,7 +50,41 @@
 				
 		
 	  <pubDate>2018-02-21T00:00:00+00:00</pubDate>
-	  <guid>https://acercadelaeducacion.com.ar/planificaciones-para-armar</guid>
+	  <guid>https://acercadelaeducacion.com.ar/porque-planificar-en-la-web</guid>
+	  <description><![CDATA[
+	     <h2 id="por-qué-planificaciones-para-armar">¿Por qué planificaciones para armar?</h2>
+
+<p>Las planificaciones o planes de enseñanza pueden ser papeles rutinarios o espacios de producción de ideas, como los bocetos de los artistas o los croquis de los arquitectos, estos planes plasman en palabras e imágenes la mirada y la intención del docente. Sabemos por múltiples expriencias que la construcción de conocimiento no es una tarea solitaria, e inspirados en la idea de que más miradas pueden contribuir a mejores ideas, creamos este espacio para publicar, distribuir y construir juntos conocimiento sobre las prácticas educativas que llevamos adelante.</p>
+
+<p>La propuesta es compartir planificaciones o planes de enseñanza. Como elementos que pueden ser ramificados, remixados y mejorados. Aprender en el proceso de construcción herramientas para la gestión de páginas y de documentación abiertas y distribuidas. Y participar, desarrollando, una comunidad de práctica que posibilite construirnos como profesionales de la educación capaces de construir reflexiones y teorías sobre la práctica cotidiana. Les proponemos tomar este espacio como un modelo tentativo a partir del cual podamos elaborar particulares formas de producir y publicar.</p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Planificaciones para armar</title>
+	  <link>https://acercadelaeducacion.com.ar/planificaciones-para-armar-1</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-02-21T00:00:00+00:00</pubDate>
+	  <guid>https://acercadelaeducacion.com.ar/planificaciones-para-armar-1</guid>
 	  <description><![CDATA[
 	     <p>Planificaciones para armar es una herramienta simple y abierta para ayudarles a crear su planificación o planes de clase y que se mantengan online en la web.</p>
 
@@ -133,65 +167,6 @@ La lectura de la hoja de personajes y el armado de los personajes fueron constru
 
 <p><a href="https://acercadelaeducacion.com.ar/assets/images/balgard/balgardreco.jpg" data-lightbox="Juego de Rol" title="Balgard en acción">
 <img src="//images.weserv.nl/?url=acercadelaeducacion.com.ar/assets/images/balgard/balgardreco.jpg&amp;w=300&amp;h=300&amp;output=jpg&amp;q=50&amp;t=square" /></a></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Cómo planifiqué el año pasado. Cambios y permanencias</title>
-	  <link>https://acercadelaeducacion.com.ar/como-planifique-el-anio-pasado</link>
-		
-				
-						<author>Alvar Maciel</author>
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-	  <pubDate>2018-02-14T16:05:38+00:00</pubDate>
-	  <guid>https://acercadelaeducacion.com.ar/como-planifique-el-anio-pasado</guid>
-	  <description><![CDATA[
-	     <p>Se terminan las vacaciones y voy pensando en como encarar las planificaciones de este año.
-El año pasado usé <a href="https://alvarmaciel.github.io/quintogrado/">este sistema</a> con el cual planificar y publicar eran una misma cosa. Como herramientas de publicación opté por:</p>
-
-<ul>
-  <li><a href="github.com">Github</a> como plataforma de publicación</li>
-  <li><a href="https://jekyllrb.com/">Jekyll</a> como motor del sitio</li>
-</ul>
-
-<p>Esta fue la estructura del sitio:</p>
-
-<ul>
-  <li>Plan Anual
-    <ul>
-      <li><a href="https://alvarmaciel.github.io/quintogrado/planificacion-anual/">Planificación anual con las 4 áreas</a></li>
-      <li><a href="https://alvarmaciel.github.io/quintogrado/Pausas-Evaluativas/">Algunas pausas evaluativas</a> y algunas <a href="https://alvarmaciel.github.io/quintogrado/rubricas-de-evaluacion/">rúbricas</a></li>
-      <li>Algunos <a href="https://alvarmaciel.github.io/quintogrado/diagramas/">diagramas generales</a></li>
-      <li>Una recolección de los contenidos de <a href="https://alvarmaciel.github.io/quintogrado/reflexion-sobre-el-lenguaje/">reflexión sobre el lenguaje del Diseño curricular</a></li>
-    </ul>
-  </li>
-  <li><a href="https://alvarmaciel.github.io/quintogrado/cronogramas/">Cronogramas</a> En un artículo semama a semana como fue evolucionando el plan anual</li>
-  <li><a href="https://alvarmaciel.github.io/quintogrado/projects/proyectos/">proyectos</a> una espacio para desarrollar cada uno de los proyectos</li>
-</ul>
-
-<p>Quedé satisfecho con lo el trabajo realizado. Este año quiero pulir la estructura del sitio seguir usando Github y tratar de generar el contenido de forma que pueda pasarse rápidamente a <a href="https://www.gitbook.com/">Gitbook</a> de forma que al final del año cuente con la planificación en formato libro.</p>
-
-<p>Creo que ahora me tengo que poner a leer un poco para definirlo en los próximos días</p>
-
-<p>Se aceptan sugerencias…</p>
-
-<p><a href="https://www.facebook.com/alejandroburdisio">Imagen de Burda</a></p>
 
 	  ]]></description>
 	</item>

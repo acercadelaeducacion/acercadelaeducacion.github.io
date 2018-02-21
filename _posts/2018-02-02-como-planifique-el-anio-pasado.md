@@ -10,7 +10,7 @@ class: post-template
 subclass: 'post tag-educacion'
 author: Alvar
 disqus: true
-published: true
+published: false
 ---
 Se terminan las vacaciones y voy pensando en como encarar las planificaciones de este año.
 El año pasado usé [este sistema](https://alvarmaciel.github.io/quintogrado/) con el cual planificar y publicar eran una misma cosa. Como herramientas de publicación opté por:

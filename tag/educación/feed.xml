@@ -28,6 +28,59 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Planificaciones para armar</title>
+	  <link>https://acercadelaeducacion.com.ar/planificaciones-para-armar</link>
+		
+				
+						<author>Alvar Maciel</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2018-02-21T00:00:00+00:00</pubDate>
+	  <guid>https://acercadelaeducacion.com.ar/planificaciones-para-armar</guid>
+	  <description><![CDATA[
+	     <p>Planificaciones para armar es una herramienta simple y abierta para ayudarles a crear su planificación o planes de clase y que se mantengan online en la web.</p>
+
+<p><a href="https://ppa.acercadelaeducacion.com.ar">Planificaciones Para Armar</a> está diseñada para minimizar el tiempo usado en lidiar con la tecnología, permitiendo enfocarnos en publicar los recursos, secuencias, actividades y proyectos que quieran compartir con el mundo.</p>
+
+<p>Por defecto, sus planes y proyectos van a estar hospedados en <a href="https://github.com">Github</a>, una plataforma de desarrollo muy popular que les permite tener borradores colaborativos, control de versiones y una sencilla distribución del contenido. Lo mejor de todo, hospedar el sitio en Github es ¡<strong>gratis</strong>!</p>
+
+<p>Este proyecto está orientado a educadores/as e instituciones educativas de cualquier tipo o nivel. Sus objetivos son:</p>
+
+<ul>
+  <li>Distribuir y compartir planes de enseñanza, planificaciones y proyectos educativos.</li>
+  <li>Brindar una plataforma que permita diseñar dichos planes desde cero, o a partir de otros los planes y proyectos compartidos.</li>
+  <li>Reflejar en la Web parte del currículo educativo.</li>
+  <li>Evidenciar las reflexiones y modificaciones de los planes a partir de la práctica educativa.</li>
+  <li>Construir y participar de comunidad de profesionales de la educación.</li>
+</ul>
+
+<h2 id="propuesta">Propuesta</h2>
+
+<p>La idea es que cada educador, o institución educativa, cuente con un dispositivo autónomo para la publicación de sus planes de enseñanza y que el dispositivo mismo sea una plataforma que permita aprender algunas cuestiones técnicas en el proceso de hacer y compartir planes, experiencias y reflexiones.
+Este dispositivo es, tanto una plataforma para escribir los planes de enseñanza, como un curso para aprender a usar herramientas para el desarrollo de páginas livianas y de producción colaborativa.</p>
+
+<p>Si les interesa…. No lo duden más y vayan a <a href="https://ppa.acercadelaeducacion.com.ar">Planificaciones Para Armar</a></p>
+
+<p>Imagen <a href="https://creativecommons.org/licenses/by-nd/2.0/">CC-BY-ND 2.0</a> de <a href="https://www.flickr.com/photos/lens-cap/15853661887">Jim Bauer</a> en <a href="https://flickr.com">Flickr</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Juegos de rol en la escuela primaria</title>
 	  <link>https://acercadelaeducacion.com.ar/juego-de-rol-en-la-escuela-primaria</link>
 		
@@ -456,49 +509,6 @@ La especialización de las imágenes del mundo se encuentra, consumada, en el mu
 <p> </p>
 
 <p>Imagen: <a class="source-link" href="http://peteneems.tumblr.com/post/105562853655" target="_blank" rel="nofollow">90s90s90s.com</a></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Plantilla Camino del Héroe | Inglés, Prácticas del Lenguaje y HTML</title>
-	  <link>https://acercadelaeducacion.com.ar/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</link>
-		
-				
-						<author>Alvar Maciel</author>
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-				
-		
-	  <pubDate>2015-11-18T15:26:41+00:00</pubDate>
-	  <guid>https://acercadelaeducacion.com.ar/plantilla-camino-del-heroe-ingles-practicas-del-lenguaje-y-html</guid>
-	  <description><![CDATA[
-	     <p><img class="wp-image-2610 alignleft" src="wp-content/uploads/2015/11/d157rqmxrxj6ey.cloudfront.net-amaciel-14577-_001.png" alt="camino del héroe" width="496" height="728" /></p>
-
-<p>Plantilla del proyecto Camino del Héroe.</p>
-
-<h2 id="pasos-a-seguir">PASOS A SEGUIR</h2>
-
-<ol>
-  <li>Ir a la <a href="https://d157rqmxrxj6ey.cloudfront.net/amaciel/14577/">plantilla de edición del comic</a></li>
-  <li>Hacer click en el botón remix</li>
-  <li>Loguearse</li>
-  <li>Cambiar titulo y agregar sus nombres</li>
-  <li>Guardar</li>
-  <li>Comenzar a editar en la linea:110</li>
-</ol>
 
 	  ]]></description>
 	</item>

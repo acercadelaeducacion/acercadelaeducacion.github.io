@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/inicioStorm.jpg'
 navigation: True
 title: Planificaciones para armar
-date: 2018-02-20
+date: 2018-02-21
 tags: [Educación]
 class: post-template
 subclass: 'post tag-educacion'
@@ -12,9 +12,9 @@ author: Alvar
 disqus: true
 published: true
 ---
-Planificaciones para armar es una herramienta simple y abierta para ayudarles a crear su planiificación o planes de clase y que se mantengan online en la web.
+Planificaciones para armar es una herramienta simple y abierta para ayudarles a crear su planificación o planes de clase y que se mantengan online en la web.
 
-Está diseñada para minimizar el tiempo usado en lidiar con la tecnología, permitiendo enfocarnos en publicar los recursos, secuencias, actividades y proyectos que quieran compartir con el mundo.
+[Planificaciones Para Armar](https://ppa.acercadelaeducacion.com.ar) está diseñada para minimizar el tiempo usado en lidiar con la tecnología, permitiendo enfocarnos en publicar los recursos, secuencias, actividades y proyectos que quieran compartir con el mundo.
 
 Por defecto, sus planes y proyectos van a estar hospedados en [Github](https://github.com), una plataforma de desarrollo muy popular que les permite tener borradores colaborativos, control de versiones y una sencilla distribución del contenido. Lo mejor de todo, hospedar el sitio en Github es ¡**gratis**!
 
@@ -34,6 +34,7 @@ Este dispositivo es, tanto una plataforma para escribir los planes de enseñanza
 
 
 Si les interesa.... No lo duden más y vayan a [Planificaciones Para Armar](https://ppa.acercadelaeducacion.com.ar)
+
 
 
 Imagen [CC-BY-ND 2.0](https://creativecommons.org/licenses/by-nd/2.0/) de [Jim Bauer](https://www.flickr.com/photos/lens-cap/15853661887) en [Flickr](https://flickr.com)

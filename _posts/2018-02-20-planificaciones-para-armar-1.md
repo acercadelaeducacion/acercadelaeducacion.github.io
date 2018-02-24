@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/inicioStorm.jpg'
 navigation: True
-title: Planificaciones para armar
+title: Planificaciones para armar 1
 date: 2018-02-21
 tags: [Educación]
 class: post-template
